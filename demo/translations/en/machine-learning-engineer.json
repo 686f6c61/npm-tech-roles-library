@@ -1,0 +1,200 @@
+{
+  "MLE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of ML algorithms",
+      "Elementary understanding of data pipelines",
+      "Ability to train simple models",
+      "Basic knowledge of feature engineering",
+      "Ability to use standard ML frameworks",
+      "Understanding of evaluation metrics",
+      "Experiment documentation",
+      "Elementary knowledge of deployment"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with cloud platforms",
+      "Basic knowledge of Docker",
+      "Understanding of model versioning"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Implements simple pipelines",
+      "Is learning MLOps fundamentals"
+    ]
+  },
+  "MLE-L2": {
+    "coreCompetencies": [
+      "Ability to build end-to-end pipelines",
+      "Implementation of basic feature stores",
+      "Practical knowledge of model serving",
+      "Ability for A/B testing of models",
+      "Understanding of distributed training",
+      "Ability for model monitoring",
+      "Knowledge of data drift detection",
+      "Ability for inference optimization"
+    ],
+    "complementaryCompetencies": [
+      "Development of APIs for models",
+      "Knowledge of orchestration tools",
+      "Understanding of edge deployment"
+    ],
+    "indicators": [
+      "Deploys models to production",
+      "Maintains existing ML pipelines",
+      "Optimizes model performance"
+    ]
+  },
+  "MLE-L3": {
+    "coreCompetencies": [
+      "Design of scalable ML architectures",
+      "Implementation of complete MLOps platforms",
+      "Mastery of automated retraining",
+      "Ability for real-time inference systems",
+      "Ability for distributed computing",
+      "Deep knowledge of model governance",
+      "Implementation of explainability tools",
+      "Design of experimentation frameworks"
+    ],
+    "complementaryCompetencies": [
+      "Implementation of federated learning",
+      "Knowledge of model compression",
+      "Ability for multi-model serving"
+    ],
+    "indicators": [
+      "Architects complex ML systems",
+      "Leads MLOps initiatives",
+      "Mentors junior ML engineers"
+    ]
+  },
+  "MLE-L4": {
+    "coreCompetencies": [
+      "Architecture of enterprise ML platforms",
+      "Design of ML infrastructure at scale",
+      "Implementation of continuous integration for ML",
+      "Mastery of cost optimization for ML",
+      "Ability for leading ML platform teams",
+      "Deep knowledge of ML compliance",
+      "Ability for ML system design",
+      "Leadership in ML standardization"
+    ],
+    "complementaryCompetencies": [
+      "Experience in AutoML platforms",
+      "Knowledge of quantum ML infrastructure",
+      "Implementation of privacy-preserving ML"
+    ],
+    "indicators": [
+      "Defines ML platform strategy",
+      "Leads ML infrastructure teams",
+      "Is principal ML systems architect"
+    ]
+  },
+  "MLE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in ML engineering",
+      "Design of ML platform strategies",
+      "Management of ML engineering teams",
+      "Definition of ML engineering roadmaps",
+      "Ability for ML platform productization",
+      "Implementation of ML democratization",
+      "Mastery of ML reliability engineering",
+      "Evangelization of ML best practices"
+    ],
+    "complementaryCompetencies": [
+      "Experience in ML transformation",
+      "Knowledge of industry ML standards",
+      "Management of ML vendor ecosystem"
+    ],
+    "indicators": [
+      "Manages multiple ML teams",
+      "Defines ML engineering vision",
+      "Represents ML platform to executives"
+    ]
+  },
+  "MLE-L6": {
+    "coreCompetencies": [
+      "Direction of organizational ML engineering",
+      "Corporate ML platform strategy",
+      "Management of million-dollar ML investments",
+      "Definition of ML as a service",
+      "Leadership in ML transformation",
+      "Implementation of next-gen ML capabilities",
+      "Innovation in ML delivery models",
+      "Management of ML partnerships"
+    ],
+    "complementaryCompetencies": [
+      "ML strategy in M&A",
+      "Experience in ML consulting",
+      "Knowledge of ML regulations"
+    ],
+    "indicators": [
+      "Directs ML department (20+ people)",
+      "Participates in AI strategy board",
+      "Defines ML investments"
+    ]
+  },
+  "MLE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in ML engineering",
+      "Design of global ML strategies",
+      "Transformation via ML platforms",
+      "Management of ML at Fortune 500 scale",
+      "Creation of competitive advantages via ML",
+      "Definition of the future of ML engineering",
+      "ML evangelization at board level",
+      "Influence on ML standards"
+    ],
+    "complementaryCompetencies": [
+      "Management of ML innovation labs",
+      "Experience in ML unicorns",
+      "Leadership in ML consortiums"
+    ],
+    "indicators": [
+      "Reports to CTO/CDO",
+      "Manages ML organizations (50+ people)",
+      "Defines corporate ML strategy"
+    ]
+  },
+  "MLE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of ML-driven enterprise",
+      "Leadership in industrial ML revolution",
+      "Creation of autonomous ML paradigms",
+      "Management of global ML platforms",
+      "Disruptive innovation in ML systems",
+      "Definition of self-evolving ML",
+      "Evangelization of ML automation",
+      "Influence on ML governance"
+    ],
+    "complementaryCompetencies": [
+      "Experience as VP ML in tech giants",
+      "Advisory in ML startups",
+      "Thought leadership in ML engineering"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines global ML strategy",
+      "Is world leader in ML engineering"
+    ]
+  },
+  "MLE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in the future of ML",
+      "Transformation of industries through ML platforms",
+      "Creation of self-learning ecosystems",
+      "Definition of ML singularity",
+      "Innovation in conscious ML systems",
+      "Evangelization of ML transcendence",
+      "Architect of planetary ML systems",
+      "Influence on machine intelligence evolution"
+    ],
+    "complementaryCompetencies": [
+      "Creator of revolutionary ML paradigms",
+      "Recognition as ML engineering pioneer",
+      "Influence on the future of automation"
+    ],
+    "indicators": [
+      "Is Chief ML Officer",
+      "Defines the future of machine learning",
+      "Is supreme authority in ML engineering"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "EDGE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of edge AI",
+      "Elementary understanding of fundamentals",
+      "Ability to handle simple tasks",
+      "Basic knowledge of tools",
+      "Capacity to work with supervision",
+      "Understanding of core concepts",
+      "Basic documentation",
+      "Elementary knowledge of best practices"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with basic frameworks",
+      "Knowledge of standard tools",
+      "Elementary understanding of cloud"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Executes basic tasks with guidance",
+      "Is learning edge AI"
+    ]
+  },
+  "EDGE-L2": {
+    "coreCompetencies": [
+      "Ability to implement basic edge AI solutions",
+      "Implementation of standard techniques",
+      "Practical knowledge of frameworks",
+      "Ability to solve typical problems",
+      "Understanding of pipelines",
+      "Ability to handle basic deployment",
+      "Knowledge of testing",
+      "Ability for documentation"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of emerging technologies",
+      "Ability for integration",
+      "Understanding of automation"
+    ],
+    "indicators": [
+      "Develops edge AI solutions with supervision",
+      "Implements complete features",
+      "Optimizes basic processes"
+    ]
+  },
+  "EDGE-L3": {
+    "coreCompetencies": [
+      "Design of end-to-end edge AI solutions",
+      "Implementation of complex systems",
+      "Mastery of technology stack",
+      "Ability for advanced optimization",
+      "Ability for architecture",
+      "Deep knowledge of best practices",
+      "Implementation of monitoring",
+      "Ability for mentoring"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of advanced techniques",
+      "Ability for innovation",
+      "Understanding of research"
+    ],
+    "indicators": [
+      "Leads edge AI projects",
+      "Designs complete architectures",
+      "Mentors junior engineers"
+    ]
+  },
+  "EDGE-L4": {
+    "coreCompetencies": [
+      "Architecture of scalable edge AI platforms",
+      "Design of technical strategies",
+      "Implementation of enterprise systems",
+      "Mastery of optimization at scale",
+      "Ability for technical leadership",
+      "Deep knowledge of advanced patterns",
+      "Ability for strategic planning",
+      "Leadership in transformation"
+    ],
+    "complementaryCompetencies": [
+      "Experience with distributed systems",
+      "Knowledge of cutting-edge technology",
+      "Implementation of innovation"
+    ],
+    "indicators": [
+      "Defines edge AI strategy",
+      "Leads technical teams",
+      "Is a reference in edge AI"
+    ]
+  },
+  "EDGE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in edge AI",
+      "Design of product strategy",
+      "Team management",
+      "Definition of standards",
+      "Ability for ROI analysis",
+      "Implementation of governance",
+      "Mastery of emerging technology",
+      "Evangelization of culture"
+    ],
+    "complementaryCompetencies": [
+      "Experience in consulting",
+      "Knowledge of business models",
+      "Budget management"
+    ],
+    "indicators": [
+      "Manages edge AI teams",
+      "Defines product vision",
+      "Represents edge AI to stakeholders"
+    ]
+  },
+  "EDGE-L6": {
+    "coreCompetencies": [
+      "Direction of corporate edge AI strategy",
+      "Management of platforms at scale",
+      "Definition of enterprise architecture",
+      "Leadership in transformation",
+      "Management of strategic partnerships",
+      "Implementation of responsible practices",
+      "Innovation in solutions",
+      "Management of compliance"
+    ],
+    "complementaryCompetencies": [
+      "Experience in M&A",
+      "Knowledge of investment",
+      "Leadership in industry community"
+    ],
+    "indicators": [
+      "Leads edge AI department",
+      "Participates in executive strategy",
+      "Defines investments in edge AI"
+    ]
+  },
+  "EDGE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in edge AI",
+      "Design of global strategies",
+      "Organizational transformation",
+      "Management at Fortune 500 scale",
+      "Creation of organizational culture",
+      "Definition of strategic roadmap",
+      "Evangelization at board level",
+      "Influence in industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of multi-million dollar budgets",
+      "Experience in unicorns",
+      "Leadership in standards"
+    ],
+    "indicators": [
+      "Reports to CTO/CEO",
+      "Manages organization (50+ people)",
+      "Defines corporate edge AI strategy"
+    ]
+  },
+  "EDGE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of enterprise edge AI",
+      "Leadership in transformation",
+      "Creation of competitive advantage",
+      "Management of global ecosystems",
+      "Disruptive innovation",
+      "Definition of future direction",
+      "Evangelization of paradigm shift",
+      "Influence on policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as executive in tech giants",
+      "Advisory in startups",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines future of edge AI",
+      "Is recognized leader in edge AI"
+    ]
+  },
+  "EDGE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in edge AI",
+      "Transformation of industries",
+      "Creation of paradigms",
+      "Definition of edge AI as core business",
+      "Innovation in breakthrough applications",
+      "Evangelization of culture",
+      "Architect of global ecosystems",
+      "Influence on regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming industries with edge AI",
+      "Recognition as pioneer",
+      "Influence on future"
+    ],
+    "indicators": [
+      "Is Chief Edge AI Officer",
+      "Defines the future of the edge AI industry",
+      "Is a world authority in edge AI"
+    ]
+  }
+}

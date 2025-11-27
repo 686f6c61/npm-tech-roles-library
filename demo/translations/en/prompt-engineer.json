@@ -1,0 +1,200 @@
+{
+  "PE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of LLMs and language models",
+      "Elementary understanding of prompt engineering",
+      "Ability to create simple prompts",
+      "Basic knowledge of ChatGPT/Claude/GPT-4",
+      "Capability to test prompts",
+      "Basic understanding of few-shot learning",
+      "Documentation of effective prompts",
+      "Elementary knowledge of LLMs limitations"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with OpenAI APIs",
+      "Basic knowledge of embeddings",
+      "Elementary understanding of tokenization"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Creates effective basic prompts",
+      "Learning prompt engineering"
+    ]
+  },
+  "PE-L2": {
+    "coreCompetencies": [
+      "Ability to design complex prompts",
+      "Implementation of chain-of-thought prompting",
+      "Practical knowledge of prompt optimization",
+      "Ability in few-shot and zero-shot learning",
+      "Understanding of temperature and sampling",
+      "Capability to automate prompt testing",
+      "Knowledge of RAG (Retrieval Augmented Generation)",
+      "Ability to evaluate outputs"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of LangChain",
+      "Ability with vector databases",
+      "Understanding of semantic search"
+    ],
+    "indicators": [
+      "Designs effective prompts with supervision",
+      "Optimizes LLM performance",
+      "Evaluates output quality"
+    ]
+  },
+  "PE-L3": {
+    "coreCompetencies": [
+      "Design of complex prompt systems",
+      "Implementation of multi-agent systems",
+      "Mastery of prompt chaining",
+      "Ability to provide fine-tuning guidance",
+      "Ability to prevent prompt injection",
+      "Deep knowledge of model limitations",
+      "Implementation of evaluation frameworks",
+      "Capability to version prompts"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of custom model training",
+      "Ability to optimize embeddings",
+      "Understanding of cost optimization"
+    ],
+    "indicators": [
+      "Leads LLM projects",
+      "Designs prompt architectures",
+      "Mentors in prompt engineering"
+    ]
+  },
+  "PE-L4": {
+    "coreCompetencies": [
+      "Architecture of enterprise LLM systems",
+      "Design of prompt strategies at scale",
+      "Implementation of LLM orchestration",
+      "Mastery of advanced prompting techniques",
+      "Ability to select appropriate models",
+      "Deep knowledge of bias mitigation",
+      "Ability in safety and alignment",
+      "Leadership in LLM governance"
+    ],
+    "complementaryCompetencies": [
+      "Experience in custom model development",
+      "Knowledge of distributed LLM systems",
+      "Implementation of monitoring"
+    ],
+    "indicators": [
+      "Defines LLM strategy",
+      "Leads prompt engineering teams",
+      "Is a reference in LLMs"
+    ]
+  },
+  "PE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in LLM platforms",
+      "Design of LLM ecosystems",
+      "Management of prompt engineering teams",
+      "Definition of LLM standards",
+      "Ability to optimize LLM ROI",
+      "Implementation of LLM governance",
+      "Mastery of multi-model strategies",
+      "Evangelization of responsible AI"
+    ],
+    "complementaryCompetencies": [
+      "Experience in LLM productization",
+      "Knowledge of LLM economics",
+      "Management of model providers"
+    ],
+    "indicators": [
+      "Manages LLM teams",
+      "Defines generative AI vision",
+      "Represents LLMs to stakeholders"
+    ]
+  },
+  "PE-L6": {
+    "coreCompetencies": [
+      "Direction of corporate LLM strategy",
+      "Management of AI platforms at scale",
+      "Definition of generative AI strategy",
+      "Leadership in AI transformation",
+      "Management of LLM partnerships",
+      "Implementation of AI governance",
+      "Innovation in LLM applications",
+      "Management of AI compliance"
+    ],
+    "complementaryCompetencies": [
+      "Experience in AI M&A",
+      "Knowledge of AI regulations",
+      "Leadership in AI ethics"
+    ],
+    "indicators": [
+      "Directs LLM/AI department",
+      "Participates in digital strategy",
+      "Defines AI investments"
+    ]
+  },
+  "PE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in generative AI",
+      "Design of global AI strategies",
+      "Organizational transformation via GenAI",
+      "Management of AI at enterprise scale",
+      "Creation of AI-first culture",
+      "Definition of AI roadmap",
+      "Evangelization of AI at board level",
+      "Influence in AI standards"
+    ],
+    "complementaryCompetencies": [
+      "Management of multi-million dollar AI budgets",
+      "Experience in AI unicorns",
+      "Leadership in AI consortiums"
+    ],
+    "indicators": [
+      "Reports to CTO/Chief AI Officer",
+      "Manages AI organization (30+ people)",
+      "Defines GenAI strategy"
+    ]
+  },
+  "PE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of generative AI",
+      "Leadership in the GenAI revolution",
+      "Creation of competitive advantage via AI",
+      "Management of AI ecosystems",
+      "Disruptive innovation in LLMs",
+      "Definition of AGI readiness",
+      "Evangelization of responsible AI",
+      "Influence in AI policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as Chief AI Officer in scale-ups",
+      "Advisory in AI startups",
+      "Thought leadership in GenAI"
+    ],
+    "indicators": [
+      "Part of executive committee",
+      "Defines AI strategy",
+      "Is a recognized leader in GenAI"
+    ]
+  },
+  "PE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in artificial intelligence",
+      "Transformation of enterprises via AI",
+      "Creation of AI paradigms",
+      "Definition of AI-native organizations",
+      "Innovation in AI governance",
+      "Evangelization of AI consciousness",
+      "Architect of AI ecosystems",
+      "Influence in AI regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming Fortune 500 companies with AI",
+      "Recognition as AI pioneer",
+      "Influence in AI policy"
+    ],
+    "indicators": [
+      "Is Chief AI Officer",
+      "Defines the future of AI in the industry",
+      "Is a global authority in AI"
+    ]
+  }
+}

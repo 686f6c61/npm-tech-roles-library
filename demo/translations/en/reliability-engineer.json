@@ -1,0 +1,200 @@
+{
+  "RE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of reliability engineering",
+      "Elementary understanding of MTBF/MTTR",
+      "Ability for basic monitoring",
+      "Basic knowledge of incident response",
+      "Ability to document failures",
+      "Understanding of availability basics",
+      "Documentation of simple runbooks",
+      "Elementary knowledge of redundancy"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with alerting tools",
+      "Knowledge of backup basics",
+      "Understanding of simple failover"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Monitors basic systems",
+      "Learning reliability practices"
+    ]
+  },
+  "RE-L2": {
+    "coreCompetencies": [
+      "Ability to implement complete monitoring",
+      "Implementation of alerting strategies",
+      "Practical knowledge of incident management",
+      "Ability for root cause analysis",
+      "Understanding of disaster recovery",
+      "Ability for basic capacity planning",
+      "Knowledge of basic chaos engineering",
+      "Ability for runbook automation"
+    ],
+    "complementaryCompetencies": [
+      "Management of on-call rotations",
+      "Basic knowledge of SLI/SLO",
+      "Understanding of error budgets"
+    ],
+    "indicators": [
+      "Implements reliability with supervision",
+      "Improves system observability",
+      "Responds to incidents"
+    ]
+  },
+  "RE-L3": {
+    "coreCompetencies": [
+      "Design of highly available systems",
+      "Implementation of chaos engineering",
+      "Mastery of observability platforms",
+      "Ability for reliability testing",
+      "Ability for failure mode analysis",
+      "Deep knowledge of resilience patterns",
+      "Implementation of self-healing systems",
+      "Design of disaster recovery strategies"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of distributed tracing",
+      "Ability for advanced load testing",
+      "Understanding of circuit breakers"
+    ],
+    "indicators": [
+      "Leads reliability initiatives",
+      "Designs resilient systems",
+      "Mentors in reliability practices"
+    ]
+  },
+  "RE-L4": {
+    "coreCompetencies": [
+      "Architecture of mission-critical systems",
+      "Design of global reliability strategies",
+      "Implementation of advanced fault tolerance",
+      "Mastery of reliability mathematics",
+      "Ability for predictive failure analysis",
+      "Deep knowledge of redundancy design",
+      "Ability for reliability modeling",
+      "Leadership in reliability standards"
+    ],
+    "complementaryCompetencies": [
+      "Experience in five-nines availability",
+      "Knowledge of formal methods",
+      "Implementation of reliability AI"
+    ],
+    "indicators": [
+      "Defines reliability architecture",
+      "Leads reliability teams",
+      "Reference in resilient systems"
+    ]
+  },
+  "RE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in reliability engineering",
+      "Design of enterprise reliability programs",
+      "Management of reliability teams",
+      "Definition of reliability strategy",
+      "Ability for reliability economics",
+      "Implementation of reliability culture",
+      "Mastery of risk management",
+      "Evangelization of reliability-first"
+    ],
+    "complementaryCompetencies": [
+      "Experience in reliability transformation",
+      "Knowledge of safety-critical systems",
+      "Management of vendor reliability"
+    ],
+    "indicators": [
+      "Manages reliability teams",
+      "Defines enterprise resilience vision",
+      "Represents reliability to executives"
+    ]
+  },
+  "RE-L6": {
+    "coreCompetencies": [
+      "Direction of organizational reliability",
+      "Enterprise resilience strategy",
+      "Management of reliability investments",
+      "Definition of continuity strategy",
+      "Leadership in reliability transformation",
+      "Implementation of antifragile systems",
+      "Innovation in reliability paradigms",
+      "Management of global reliability"
+    ],
+    "complementaryCompetencies": [
+      "Experience in critical infrastructure",
+      "Knowledge of regulatory reliability",
+      "Leadership in reliability communities"
+    ],
+    "indicators": [
+      "Leads reliability department (20+ people)",
+      "Participates in risk management",
+      "Defines resilience investments"
+    ]
+  },
+  "RE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in reliability engineering",
+      "Design of global resilience strategies",
+      "Organizational reliability transformation",
+      "Management of reliability at Fortune 500 scale",
+      "Creation of new reliability paradigms",
+      "Definition of future of systems reliability",
+      "Evangelization of reliability at board level",
+      "Influence in reliability industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of reliability in national critical systems",
+      "Experience in global infrastructure reliability",
+      "Leadership in reliability standards"
+    ],
+    "indicators": [
+      "Reports to CTO/COO",
+      "Manages reliability organization (50+ people)",
+      "Defines corporate resilience strategy"
+    ]
+  },
+  "RE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of perfect reliability",
+      "Leadership in resilience revolution",
+      "Creation of universal self-healing paradigms",
+      "Management of planetary reliability",
+      "Disruptive innovation in antifragility",
+      "Definition of perpetual systems",
+      "Evangelization of immortal infrastructure",
+      "Influence in global reliability policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as Chief Reliability in giants",
+      "Advisory in reliability funds",
+      "Thought leadership in resilience"
+    ],
+    "indicators": [
+      "Part of executive committee",
+      "Defines future of reliability",
+      "World leader in systems resilience"
+    ]
+  },
+  "RE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in future of eternal systems",
+      "Universal reliability transformation",
+      "Creation of indestructibility paradigms",
+      "Definition of systems that never fail",
+      "Innovation in biological reliability",
+      "Evangelization of conscious reliability",
+      "Architect of infallible universe",
+      "Influence in evolution of permanence"
+    ],
+    "complementaryCompetencies": [
+      "Creator of revolutions in reliability",
+      "Recognition as father of modern resilience",
+      "Influence in future of continuity"
+    ],
+    "indicators": [
+      "Legendary Chief Reliability Officer",
+      "Defines future of eternal systems",
+      "World authority in reliability"
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "AutoML Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "AMLE-L1": {
+      "level": "L1 - AutoML Engineer Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of AutoML",
+        "Elementary understanding of fundamentals",
+        "Ability to perform simple tasks",
+        "Basic knowledge of tools",
+        "Ability to work under supervision",
+        "Understanding of core concepts",
+        "Basic documentation",
+        "Elementary knowledge of best practices"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with basic frameworks",
+        "Knowledge of standard tools",
+        "Elementary understanding of cloud"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Executes basic tasks with guidance",
+        "Is learning AutoML"
+      ]
+    },
+    "AMLE-L2": {
+      "level": "L2 - Junior AutoML Engineer",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement basic solutions in AutoML",
+        "Implementation of standard techniques",
+        "Practical knowledge of frameworks",
+        "Ability to solve typical problems",
+        "Understanding of pipelines",
+        "Basic deployment capability",
+        "Knowledge of testing",
+        "Ability to write documentation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of emerging technologies",
+        "Ability for integration",
+        "Understanding of automation"
+      ],
+      "indicators": [
+        "Develops AutoML solutions with supervision",
+        "Implements complete features",
+        "Optimizes basic processes"
+      ]
+    },
+    "AMLE-L3": {
+      "level": "L3 - AutoML Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of AutoML end-to-end solutions",
+        "Implementation of complex systems",
+        "Mastery of technology stack",
+        "Advanced optimization capability",
+        "Ability for architecture design",
+        "Deep knowledge of best practices",
+        "Implementation of monitoring",
+        "Mentoring capability"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of advanced techniques",
+        "Ability for innovation",
+        "Understanding of research"
+      ],
+      "indicators": [
+        "Leads AutoML projects",
+        "Designs complete architectures",
+        "Mentors junior engineers"
+      ]
+    },
+    "AMLE-L4": {
+      "level": "L4 - Senior AutoML Engineer",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of scalable AutoML platforms",
+        "Design of technical strategies",
+        "Implementation of enterprise systems",
+        "Mastery of optimization at scale",
+        "Technical leadership capability",
+        "Deep knowledge of advanced patterns",
+        "Ability for strategic planning",
+        "Leadership in transformation"
+      ],
+      "complementaryCompetencies": [
+        "Experience in distributed systems",
+        "Knowledge of cutting-edge tech",
+        "Implementation of innovation"
+      ],
+      "indicators": [
+        "Defines AutoML strategy",
+        "Leads technical teams",
+        "Is a reference in AutoML"
+      ]
+    },
+    "AMLE-L5": {
+      "level": "L5 - Lead AutoML Engineer",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in AutoML",
+        "Product strategy design",
+        "Team management",
+        "Standards definition",
+        "ROI analysis capability",
+        "Implementation of governance",
+        "Mastery of emerging tech",
+        "Culture evangelization"
+      ],
+      "complementaryCompetencies": [
+        "Experience in consulting",
+        "Knowledge of business models",
+        "Budget management"
+      ],
+      "indicators": [
+        "Manages AutoML teams",
+        "Defines product vision",
+        "Represents AutoML to stakeholders"
+      ]
+    },
+    "AMLE-L6": {
+      "level": "L6 - Principal AutoML Engineer",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of corporate AutoML strategy",
+        "Management of platforms at scale",
+        "Definition of enterprise architecture",
+        "Leadership in transformation",
+        "Management of strategic partnerships",
+        "Implementation of responsible practices",
+        "Innovation in solutions",
+        "Compliance management"
+      ],
+      "complementaryCompetencies": [
+        "Experience in M&A",
+        "Knowledge of investment",
+        "Leadership in industry community"
+      ],
+      "indicators": [
+        "Directs AutoML department",
+        "Participates in executive strategy",
+        "Defines AutoML investments"
+      ]
+    },
+    "AMLE-L7": {
+      "level": "L7 - Director AutoML Engineer",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in AutoML",
+        "Design of global strategies",
+        "Organizational transformation",
+        "Management at Fortune 500 scale",
+        "Creation of organizational culture",
+        "Definition of strategic roadmap",
+        "Board-level evangelization",
+        "Industry influence"
+      ],
+      "complementaryCompetencies": [
+        "Management of multi-million dollar budgets",
+        "Experience in unicorns",
+        "Leadership in standards"
+      ],
+      "indicators": [
+        "Reports to CTO/CEO",
+        "Manages organization (50+ people)",
+        "Defines corporate AutoML strategy"
+      ]
+    },
+    "AMLE-L8": {
+      "level": "L8 - VP AutoML Engineer",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic business vision for AutoML",
+        "Leadership in transformation",
+        "Creation of competitive advantage",
+        "Management of global ecosystems",
+        "Disruptive innovation",
+        "Definition of future direction",
+        "Evangelization of paradigm shift",
+        "Influence on policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as executive in tech giants",
+        "Advisory in startups",
+        "Thought leadership"
+      ],
+      "indicators": [
+        "Is part of executive committee",
+        "Defines future of AutoML",
+        "Is recognized leader in AutoML"
+      ]
+    },
+    "AMLE-L9": {
+      "level": "L9 - Chief AutoML Engineer Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in AutoML",
+        "Industry transformation",
+        "Creation of paradigms",
+        "Definition of AutoML as core business",
+        "Innovation in breakthrough applications",
+        "Culture evangelization",
+        "Architect of global ecosystems",
+        "Influence on regulation"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming industries with AutoML",
+        "Recognition as pioneer",
+        "Influence on future"
+      ],
+      "indicators": [
+        "Is Chief AutoML Engineer Officer",
+        "Defines the future of the AutoML industry",
+        "Is world authority in AutoML"
+      ]
+    }
+  }
+}

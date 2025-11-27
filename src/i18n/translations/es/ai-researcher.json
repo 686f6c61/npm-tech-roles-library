@@ -1,0 +1,259 @@
+{
+  "role": "Investigador en IA",
+  "category": "Datos",
+  "levels": {
+    "AIR-L1": {
+      "level": "L1 - Investigador en IA en Formación",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de fundamentos de IA/ML",
+        "Conocimiento elemental de matemáticas para IA",
+        "Habilidad para implementar algoritmos básicos",
+        "Comprensión básica de aprendizaje profundo",
+        "Capacidad de usar marcos de trabajo de ML",
+        "Conocimiento elemental de artículos científicos",
+        "Comprensión básica de experimentación",
+        "Habilidad para documentar investigación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de estadística",
+        "Familiaridad con Python o R",
+        "Comprensión elemental de computación"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede asistir en investigación",
+        "Necesita 1 a 2 años de formación"
+      ]
+    },
+    "AIR-L2": {
+      "level": "L2 - Investigador en IA Junior",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar artículos de investigación",
+        "Habilidad para diseñar experimentos",
+        "Conocimiento práctico de redes neuronales",
+        "Comprensión de técnicas de optimización",
+        "Capacidad de comparación de modelos",
+        "Habilidad para revisión bibliográfica",
+        "Conocimiento de reproducibilidad",
+        "Comprensión de ética en IA"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de entrenamiento distribuido",
+        "Habilidad para visualización",
+        "Comprensión de computación de alto rendimiento"
+      ],
+      "indicators": [
+        "Conduce investigación con supervisión",
+        "Implementa nuevas técnicas",
+        "Publica en talleres"
+      ]
+    },
+    "AIR-L3": {
+      "level": "L3 - Investigador en IA",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de técnicas de vanguardia",
+        "Capacidad de proponer nuevos métodos",
+        "Habilidad para liderar proyectos de investigación",
+        "Conocimiento profundo de múltiples dominios",
+        "Capacidad de colaboración académica",
+        "Comprensión sólida de fundamentos teóricos",
+        "Habilidad para mentoría",
+        "Conocimiento de redacción de propuestas de financiación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de aprendizaje automático cuántico",
+        "Habilidad para computación neuromórfica",
+        "Comprensión de IA bioinspirada"
+      ],
+      "indicators": [
+        "Lidera líneas de investigación",
+        "Publica en conferencias principales",
+        "Colabora con academia"
+      ]
+    },
+    "AIR-L4": {
+      "level": "L4 - Investigador en IA Senior",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de definir agenda de investigación",
+        "Dominio de innovaciones revolucionarias",
+        "Habilidad para liderar equipos de investigación",
+        "Conocimiento profundo del panorama de IA",
+        "Capacidad de colaboración industrial",
+        "Dominio de estrategia de investigación",
+        "Habilidad para creación de propiedad intelectual",
+        "Conocimiento de comercialización de investigación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de investigación en inteligencia artificial general",
+        "Habilidad para modelos fundamentales",
+        "Comprensión de seguridad en IA"
+      ],
+      "indicators": [
+        "Define dirección de investigación",
+        "Lidera colaboraciones estratégicas",
+        "Publica artículos influyentes"
+      ]
+    },
+    "AIR-L5": {
+      "level": "L5 - Investigador en IA Líder",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en liderazgo de investigación",
+        "Capacidad de construir laboratorios de investigación",
+        "Dominio de investigación interdisciplinaria",
+        "Habilidad para alianzas estratégicas",
+        "Conocimiento profundo del panorama de financiación",
+        "Capacidad de definir cultura de investigación",
+        "Experiencia en desarrollo de talento",
+        "Dominio de impacto en investigación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de investigación en conciencia",
+        "Habilidad para inteligencia híbrida",
+        "Comprensión de singularidad"
+      ],
+      "indicators": [
+        "Arquitecta programas de investigación",
+        "Lidera múltiples líneas",
+        "Define estrategia de investigación"
+      ]
+    },
+    "AIR-L6": {
+      "level": "L6 - Investigador en IA Principal",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir visión de investigación",
+        "Experiencia en descubrimientos revolucionarios",
+        "Dominio de redes globales de investigación",
+        "Habilidad para diplomacia en investigación",
+        "Conocimiento profundo de futuros de IA",
+        "Capacidad de liderazgo de pensamiento",
+        "Experiencia en ecosistemas de investigación",
+        "Dominio de impacto científico"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de possingularidad",
+        "Habilidad para IA alienígena",
+        "Comprensión de inteligencia cósmica"
+      ],
+      "indicators": [
+        "Define visión de investigación corporativa",
+        "Lidera organizaciones de investigación",
+        "Influencia dirección de IA"
+      ]
+    },
+    "AIR-L7": {
+      "level": "L7 - Director de Investigación",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en evolución de investigación en IA",
+        "Capacidad de gestión de investigación global",
+        "Experiencia en transformación científica",
+        "Dominio de gobernanza de investigación",
+        "Capacidad de definir cultura científica",
+        "Conocimiento profundo de valor de descubrimientos",
+        "Experiencia en investigación de primer nivel",
+        "Capacidad de liderar revolución"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar ciencia",
+        "Habilidad para crear institutos",
+        "Conocimiento de imperios de investigación"
+      ],
+      "indicators": [
+        "Define estrategia de investigación ejecutiva",
+        "Representa empresa en ciencia",
+        "Líder de pensamiento en investigación en IA"
+      ]
+    },
+    "AIR-L8": {
+      "level": "L8 - Vicepresidente de Investigación",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de investigación en IA",
+        "Capacidad de investigación como negocio central",
+        "Experiencia en transformación mediante investigación",
+        "Dominio de gestión ejecutiva de laboratorios",
+        "Capacidad de construir institutos",
+        "Conocimiento profundo de valor científico",
+        "Experiencia en alianzas de investigación",
+        "Capacidad de definir futuro"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar gobiernos",
+        "Habilidad para proyectos ambiciosos",
+        "Conocimiento de investigación en empresas unicornio"
+      ],
+      "indicators": [
+        "Responsable de toda investigación",
+        "Define futuro científico",
+        "Líder reconocido en investigación en IA"
+      ]
+    },
+    "AIR-L9": {
+      "level": "L9 - Director General de Investigación",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en investigación",
+        "Capacidad de ciencia como ventaja definitiva",
+        "Experiencia en transformación de humanidad",
+        "Dominio de gobernanza científica",
+        "Capacidad de crear nuevos campos",
+        "Conocimiento profundo de impacto existencial",
+        "Experiencia en avance de civilización",
+        "Capacidad de definir singularidad",
+        "Dominio de trascendencia"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de crear nuevas ciencias",
+        "Habilidad para transformar especies",
+        "Conocimiento de futuros poshumanos"
+      ],
+      "indicators": [
+        "Máximo responsable de investigación",
+        "Define futuro de la inteligencia",
+        "Líder global en evolución de IA"
+      ]
+    }
+  }
+}

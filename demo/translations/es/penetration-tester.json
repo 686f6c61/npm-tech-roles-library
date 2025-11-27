@@ -1,0 +1,200 @@
+{
+  "PT-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de hacking ético",
+      "Comprensión elemental de vulnerabilidades",
+      "Habilidad para usar herramientas básicas",
+      "Conocimiento básico de reconnaissance",
+      "Capacidad de explotar vulnerabilidades simples con guía",
+      "Comprensión de reporting",
+      "Documentación de findings",
+      "Conocimiento elemental de remediation"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con Kali Linux",
+      "Conocimiento básico de Metasploit",
+      "Comprensión elemental de scripting"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Ejecuta pruebas básicas",
+      "Está aprendiendo pentesting"
+    ]
+  },
+  "PT-L2": {
+    "coreCompetencies": [
+      "Capacidad de ejecutar pentests completos",
+      "Implementación de reconnaissance avanzado",
+      "Conocimiento práctico de exploitation",
+      "Habilidad para privilege escalation",
+      "Comprensión de post-exploitation",
+      "Capacidad de reportar hallazgos",
+      "Conocimiento de OWASP testing",
+      "Habilidad para network pentesting"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de frameworks (PTES, OSSTMM)",
+      "Habilidad para scripting",
+      "Comprensión de wireless security"
+    ],
+    "indicators": [
+      "Ejecuta pentests con supervisión",
+      "Identifica vulnerabilidades críticas",
+      "Escribe reports técnicos"
+    ]
+  },
+  "PT-L3": {
+    "coreCompetencies": [
+      "Diseño de metodologías de pentesting",
+      "Implementación de advanced exploitation",
+      "Dominio de red team operations",
+      "Capacidad de adversary simulation",
+      "Habilidad para custom exploit development",
+      "Conocimiento profundo de evasion techniques",
+      "Implementación de social engineering",
+      "Capacidad de executive reporting"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de malware analysis",
+      "Habilidad para tool development",
+      "Comprensión de threat intelligence"
+    ],
+    "indicators": [
+      "Lidera pentests complejos",
+      "Desarrolla exploits custom",
+      "Mentoriza pentesters junior"
+    ]
+  },
+  "PT-L4": {
+    "coreCompetencies": [
+      "Arquitectura de programas de pentesting",
+      "Diseño de red team strategy",
+      "Implementación de purple teaming",
+      "Dominio de advanced persistent threats",
+      "Capacidad de full scope pentesting",
+      "Conocimiento profundo de CVE research",
+      "Habilidad para zero-day exploitation",
+      "Liderazgo en security assessments"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en bug bounties",
+      "Conocimiento de vulnerability research",
+      "Implementación de automation"
+    ],
+    "indicators": [
+      "Define estrategia de pentesting",
+      "Lidera red team",
+      "Es referente en ethical hacking"
+    ]
+  },
+  "PT-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en offensive security",
+      "Diseño de red team operations",
+      "Gestión de pentest teams",
+      "Definición de testing methodologies",
+      "Capacidad de campaign planning",
+      "Implementación de purple team exercises",
+      "Dominio de threat emulation",
+      "Evangelización de security awareness"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en APT simulation",
+      "Conocimiento de threat actors",
+      "Gestión de tools budget"
+    ],
+    "indicators": [
+      "Gestiona equipo red team",
+      "Define visión offensive security",
+      "Representa pentesting ante ejecutivos"
+    ]
+  },
+  "PT-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia offensive security",
+      "Gestión de red team operations a escala",
+      "Definición de adversary emulation programs",
+      "Liderazgo en security validation",
+      "Gestión de bug bounty programs",
+      "Implementación de continuous pentesting",
+      "Innovación en attack techniques",
+      "Gestión de security research"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en APT attribution",
+      "Conocimiento de security R&D",
+      "Liderazgo en security community"
+    ],
+    "indicators": [
+      "Dirige departamento offensive security",
+      "Participa en estrategia",
+      "Define inversiones en pentesting"
+    ]
+  },
+  "PT-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en offensive security",
+      "Diseño de estrategias de red team globales",
+      "Transformación de security validation",
+      "Gestión a escala Fortune 500",
+      "Creación de adversary-focused culture",
+      "Definición de offensive roadmap",
+      "Evangelización a nivel board",
+      "Influencia en security testing"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de offensive budgets",
+      "Experiencia en security unicorns",
+      "Liderazgo en hacking community"
+    ],
+    "indicators": [
+      "Reporta a CISO",
+      "Gestiona organización red team (15+ personas)",
+      "Define estrategia offensive"
+    ]
+  },
+  "PT-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de offensive security",
+      "Liderazgo en security validation",
+      "Creación de threat-informed defense",
+      "Gestión de offensive ecosystems",
+      "Innovación en attack techniques",
+      "Definición de next-gen red teaming",
+      "Evangelización de assume breach",
+      "Influencia en security policies"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en security giants",
+      "Advisory en offensive startups",
+      "Thought leadership en pentesting"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia offensive",
+      "Es líder reconocido"
+    ]
+  },
+  "PT-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en offensive security",
+      "Transformación de security testing",
+      "Creación de paradigmas de red teaming",
+      "Definición de adversary-centric security",
+      "Innovación en exploitation",
+      "Evangelización de continuous validation",
+      "Arquitecto de offensive programs",
+      "Influencia en security standards"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando security validation",
+      "Reconocimiento como offensive leader",
+      "Influencia en hacking culture"
+    ],
+    "indicators": [
+      "Es Chief Offensive Security Officer",
+      "Define futuro del pentesting",
+      "Es autoridad mundial"
+    ]
+  }
+}

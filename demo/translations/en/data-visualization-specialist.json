@@ -1,0 +1,201 @@
+{
+  "DVS-L1": {
+    "coreCompetencies": [
+      "Basic understanding of visualization principles",
+      "Elementary knowledge of visualization tools",
+      "Ability to create basic charts",
+      "Basic understanding of color theory",
+      "Capacity to use templates",
+      "Elementary knowledge of visual storytelling",
+      "Basic understanding of dashboards",
+      "Ability to document visualizations"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of design",
+      "Familiarity with data",
+      "Elementary understanding of UX"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Can create simple visualizations",
+      "Needs 6-12 months of mentoring"
+    ]
+  },
+  "DVS-L2": {
+    "coreCompetencies": [
+      "Ability to create interactive dashboards",
+      "Skill for choosing appropriate charts",
+      "Practical knowledge of professional tools",
+      "Understanding of best practices",
+      "Capacity for data preparation for visualization",
+      "Ability for responsive design",
+      "Knowledge of accessibility",
+      "Understanding of performance optimization"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of D3.js",
+      "Skill for infographics",
+      "Understanding of motion graphics"
+    ],
+    "indicators": [
+      "Creates visualizations with supervision",
+      "Maintains corporate dashboards",
+      "Applies best practices"
+    ]
+  },
+  "DVS-L3": {
+    "coreCompetencies": [
+      "Mastery of multiple visualization tools",
+      "Ability for complex visualizations",
+      "Skill for custom visualizations",
+      "Deep knowledge of visual perception",
+      "Ability for real-time visualizations",
+      "Solid understanding of data art",
+      "Skill for geospatial visualization",
+      "Knowledge of AR/VR visualization"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of creative coding",
+      "Skill for data journalism",
+      "Understanding of scientific visualization"
+    ],
+    "indicators": [
+      "Designs visualization systems",
+      "Leads visualization projects",
+      "Innovates in visual representation"
+    ]
+  },
+  "DVS-L4": {
+    "coreCompetencies": [
+      "Ability to define visualization strategy",
+      "Mastery of enterprise visualization",
+      "Skill for visualization platforms",
+      "Deep knowledge of cognitive load",
+      "Ability to lead visualization teams",
+      "Mastery of visualization governance",
+      "Skill for visualization consulting",
+      "Knowledge of visualization economics"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of AI-powered visualization",
+      "Skill for immersive visualization",
+      "Understanding of haptic visualization"
+    ],
+    "indicators": [
+      "Defines visualization standards",
+      "Leads visual transformation",
+      "Mentors visualization specialists"
+    ]
+  },
+  "DVS-L5": {
+    "coreCompetencies": [
+      "Expertise in enterprise visualization platforms",
+      "Ability for visual democratization",
+      "Mastery of self-service visualization",
+      "Skill for visualization innovation labs",
+      "Deep knowledge of human-data interaction",
+      "Ability to define visual culture",
+      "Expertise in visualization partnerships",
+      "Mastery of visualization research"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of brain-computer visualization",
+      "Skill for holographic visualization",
+      "Understanding of quantum visualization"
+    ],
+    "indicators": [
+      "Architects visualization ecosystems",
+      "Leads visualization organizations",
+      "Defines visual roadmap"
+    ]
+  },
+  "DVS-L6": {
+    "coreCompetencies": [
+      "Ability to define visualization vision",
+      "Expertise in visualization innovation",
+      "Mastery of global visualization strategy",
+      "Skill for visualization ecosystem building",
+      "Deep knowledge of visualization futures",
+      "Ability for thought leadership",
+      "Expertise in visualization value creation",
+      "Mastery of visualization impact"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of neural visualization",
+      "Skill for telepathic visualization",
+      "Understanding of dimensional visualization"
+    ],
+    "indicators": [
+      "Defines corporate visualization vision",
+      "Leads global visual transformation",
+      "Influences visualization industry"
+    ]
+  },
+  "DVS-L7": {
+    "coreCompetencies": [
+      "Leadership in visualization evolution",
+      "Ability for global visualization management",
+      "Expertise in visualization transformation",
+      "Mastery of visualization governance",
+      "Ability to define data-visual culture",
+      "Deep knowledge of competitive visualization",
+      "Expertise in strategic visualization",
+      "Ability to lead visualization innovation"
+    ],
+    "complementaryCompetencies": [
+      "Ability to influence perception",
+      "Skill for visualization ventures",
+      "Knowledge of visualization investments"
+    ],
+    "indicators": [
+      "Defines executive visualization strategy",
+      "Represents company in visualization",
+      "Thought leader in visualization"
+    ]
+  },
+  "DVS-L8": {
+    "coreCompetencies": [
+      "Strategic vision for enterprise visualization",
+      "Ability to use visualization as differentiator",
+      "Expertise in transformation through visualization",
+      "Mastery of executive management",
+      "Ability to build organizations",
+      "Deep knowledge of perception value",
+      "Expertise in visualization alliances",
+      "Ability to define culture"
+    ],
+    "complementaryCompetencies": [
+      "Ability to influence industry",
+      "Skill for visualization M&A",
+      "Knowledge of visualization platforms"
+    ],
+    "indicators": [
+      "Responsible for all visualization",
+      "Defines enterprise visual future",
+      "Recognized leader in visualization"
+    ]
+  },
+  "DVS-L9": {
+    "coreCompetencies": [
+      "Executive leadership in visualization",
+      "Ability to use visualization as competitive advantage",
+      "Expertise in perceptual transformation",
+      "Mastery of visual governance",
+      "Ability to create new paradigms",
+      "Deep knowledge of human cognition",
+      "Expertise in reality augmentation",
+      "Ability to define perception",
+      "Mastery of consciousness interface"
+    ],
+    "complementaryCompetencies": [
+      "Ability to create new realities",
+      "Skill to transform perception",
+      "Knowledge of post-visual futures"
+    ],
+    "indicators": [
+      "Maximum responsibility for visualization",
+      "Defines future of data perception",
+      "Global leader in data visualization"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "GE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of computer graphics",
+      "Elementary understanding of rendering pipeline",
+      "Ability for simple shaders",
+      "Basic knowledge of linear algebra for graphics",
+      "Capacity to use basic graphics APIs",
+      "Understanding of 3D transformations",
+      "Documentation of graphics assets",
+      "Elementary knowledge of lighting"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with basic OpenGL/DirectX",
+      "Knowledge of textures and materials",
+      "Understanding of geometric primitives"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Implements simple visual effects",
+      "Learning graphics programming"
+    ]
+  },
+  "GE-L2": {
+    "coreCompetencies": [
+      "Ability to implement complete renderers",
+      "Implementation of lighting techniques",
+      "Practical knowledge of post-processing",
+      "Ability for shader optimization",
+      "Understanding of culling and LOD",
+      "Capacity for particle systems",
+      "Knowledge of animation systems",
+      "Ability for graphics profiling"
+    ],
+    "complementaryCompetencies": [
+      "Development of visual effects",
+      "Basic knowledge of PBR",
+      "Understanding of deferred rendering"
+    ],
+    "indicators": [
+      "Develops graphics features with supervision",
+      "Implements rendering techniques",
+      "Optimizes visual performance"
+    ]
+  },
+  "GE-L3": {
+    "coreCompetencies": [
+      "Design of complete graphics engines",
+      "Implementation of advanced rendering techniques",
+      "Mastery of ray tracing",
+      "Capacity for global illumination",
+      "Ability for physically-based rendering",
+      "Deep knowledge of GPU programming",
+      "Implementation of compute shaders",
+      "Design of effects systems"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of Vulkan/Metal",
+      "Ability for procedural generation",
+      "Understanding of volumetric rendering"
+    ],
+    "indicators": [
+      "Leads graphics development",
+      "Designs rendering pipelines",
+      "Mentors graphics programmers"
+    ]
+  },
+  "GE-L4": {
+    "coreCompetencies": [
+      "Architecture of rendering engines",
+      "Design of scalable graphics pipelines",
+      "Implementation of real-time ray tracing",
+      "Mastery of GPU optimization",
+      "Capacity for multi-GPU rendering",
+      "Deep knowledge of graphics hardware",
+      "Ability for graphics R&D",
+      "Leadership in graphics innovation"
+    ],
+    "complementaryCompetencies": [
+      "Experience in path tracing",
+      "Knowledge of neural rendering",
+      "Implementation of VR/AR rendering"
+    ],
+    "indicators": [
+      "Defines graphics architecture",
+      "Leads rendering teams",
+      "Reference for computer graphics"
+    ]
+  },
+  "GE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in graphics technology",
+      "Design of graphics platforms",
+      "Management of graphics development teams",
+      "Definition of rendering strategy",
+      "Capacity for next-gen graphics",
+      "Implementation of photorealistic rendering",
+      "Mastery of technical art pipeline",
+      "Evangelization of visual excellence"
+    ],
+    "complementaryCompetencies": [
+      "Experience in film-quality rendering",
+      "Knowledge of simulation graphics",
+      "Management of graphics middleware"
+    ],
+    "indicators": [
+      "Manages graphics teams",
+      "Defines visual vision of product",
+      "Represents graphics to stakeholders"
+    ]
+  },
+  "GE-L6": {
+    "coreCompetencies": [
+      "Direction of organizational graphics technology",
+      "Strategy of visual computing",
+      "Management of graphics R&D investments",
+      "Definition of visual fidelity standards",
+      "Leadership in graphics transformation",
+      "Implementation of AI-enhanced graphics",
+      "Innovation in rendering paradigms",
+      "Management of graphics ecosystems"
+    ],
+    "complementaryCompetencies": [
+      "Experience in graphics hardware design",
+      "Knowledge of metaverse graphics",
+      "Leadership in graphics standards"
+    ],
+    "indicators": [
+      "Directs graphics department (20+ people)",
+      "Participates in product vision",
+      "Defines investments in visual technology"
+    ]
+  },
+  "GE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in visual computing",
+      "Design of global graphics strategies",
+      "Transformation of industries via graphics",
+      "Management of graphics at AAA scale",
+      "Creation of new visual paradigms",
+      "Definition of future of computer graphics",
+      "Evangelization of graphics at board level",
+      "Influence in visual industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of graphics in blockbusters",
+      "Experience in graphics unicorns",
+      "Leadership in graphics consortiums"
+    ],
+    "indicators": [
+      "Reports to CTO",
+      "Manages graphics organization (50+ people)",
+      "Defines corporate visual strategy"
+    ]
+  },
+  "GE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of visual future",
+      "Leadership in global graphics revolution",
+      "Creation of absolute photorealism paradigms",
+      "Management of graphics at planetary scale",
+      "Disruptive innovation in neural graphics",
+      "Definition of synthetic reality",
+      "Evangelization of visual consciousness",
+      "Influence in perception evolution"
+    ],
+    "complementaryCompetencies": [
+      "Experience as graphics architect in giants",
+      "Advisory in graphics startups",
+      "Thought leadership in rendering"
+    ],
+    "indicators": [
+      "Part of technical committee",
+      "Defines future of graphics",
+      "World leader in computer graphics"
+    ]
+  },
+  "GE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in future of visual reality",
+      "Transformation of perception via graphics",
+      "Creation of indistinguishable synthetic reality paradigms",
+      "Definition of graphics consciousness",
+      "Innovation in quantum rendering",
+      "Evangelization of visual singularity",
+      "Architect of visual universes",
+      "Influence in evolution of visual experience"
+    ],
+    "complementaryCompetencies": [
+      "Creator of graphics revolutions",
+      "Recognition as pioneer of computer graphics",
+      "Influence in future of visual reality"
+    ],
+    "indicators": [
+      "Legendary Chief Graphics Officer",
+      "Defines future of visualization",
+      "World authority in computer graphics"
+    ]
+  }
+}

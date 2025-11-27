@@ -1,0 +1,200 @@
+{
+  "TAE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of manual testing",
+      "Understanding of testing lifecycle",
+      "Ability to write simple test cases",
+      "Elementary knowledge of automation tools",
+      "Capacity to execute existing test suites",
+      "Basic understanding of test debugging",
+      "Basic defect documentation",
+      "Fundamental knowledge of testing types"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with version control",
+      "Basic knowledge of CI/CD",
+      "Elementary understanding of REST APIs"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Executes predefined test plans",
+      "Is learning automation fundamentals"
+    ]
+  },
+  "TAE-L2": {
+    "coreCompetencies": [
+      "Ability to create basic automation scripts",
+      "Implementation of test cases for simple functionality",
+      "Practical knowledge of testing frameworks",
+      "Ability to maintain existing test suites",
+      "Understanding of data-driven testing",
+      "Capacity to integrate tests into CI/CD pipelines",
+      "Knowledge of page object models",
+      "Ability for basic API testing"
+    ],
+    "complementaryCompetencies": [
+      "Testing of responsive web interfaces",
+      "Knowledge of database testing",
+      "Understanding of basic performance testing"
+    ],
+    "indicators": [
+      "Automates test cases with supervision",
+      "Maintains existing testing suites",
+      "Effectively identifies and reports bugs"
+    ]
+  },
+  "TAE-L3": {
+    "coreCompetencies": [
+      "Design of robust automation frameworks",
+      "Implementation of complex end-to-end testing",
+      "Capacity to create custom test harnesses",
+      "Mastery of BDD and TDD methodologies",
+      "Ability for microservices testing",
+      "Deep knowledge of mocking and stubbing",
+      "Capacity for advanced performance testing",
+      "Implementation of visual regression testing"
+    ],
+    "complementaryCompetencies": [
+      "Testing of native mobile applications",
+      "Knowledge of security testing",
+      "Ability for chaos testing"
+    ],
+    "indicators": [
+      "Designs complete automation strategies",
+      "Leads quality initiatives",
+      "Mentors junior testers"
+    ]
+  },
+  "TAE-L4": {
+    "coreCompetencies": [
+      "Architecture of enterprise testing platforms",
+      "Design of multi-layer testing strategies",
+      "Implementation of continuous testing",
+      "Capacity for testing in distributed architectures",
+      "Mastery of contract testing",
+      "Ability for synthetic monitoring",
+      "Deep knowledge of test optimization",
+      "Leadership in shift-left testing"
+    ],
+    "complementaryCompetencies": [
+      "Implementation of AI in testing",
+      "Knowledge of advanced accessibility testing",
+      "Experience in compliance testing"
+    ],
+    "indicators": [
+      "Defines organizational testing strategies",
+      "Leads automation teams",
+      "Is a quality evangelist"
+    ]
+  },
+  "TAE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in quality engineering",
+      "Design of quality strategies at scale",
+      "Management of automation teams",
+      "Definition of quality metrics and KPIs",
+      "Implementation of enterprise quality gates",
+      "Capacity for test strategy in digital transformations",
+      "Mastery of risk-based testing",
+      "Evangelization of quality culture"
+    ],
+    "complementaryCompetencies": [
+      "Experience in IoT and edge computing testing",
+      "Knowledge of testing for ML/AI systems",
+      "Management of outsourced testing"
+    ],
+    "indicators": [
+      "Manages multiple QA teams",
+      "Defines enterprise quality roadmap",
+      "Represents quality to executives"
+    ]
+  },
+  "TAE-L6": {
+    "coreCompetencies": [
+      "Direction of quality at organizational level",
+      "Testing strategy for complex products",
+      "Management of significant quality budgets",
+      "Definition of corporate quality policies",
+      "Leadership in QA to QE transformation",
+      "Implementation of predictive quality models",
+      "Management of testing vendor relationships",
+      "Innovation in quality methodologies"
+    ],
+    "complementaryCompetencies": [
+      "Testing in regulated contexts (FDA; ISO)",
+      "Experience in quality audits",
+      "Knowledge of testing maturity models"
+    ],
+    "indicators": [
+      "Directs quality department (20+ people)",
+      "Participates in strategic product decisions",
+      "Defines investments in tools and technology"
+    ]
+  },
+  "TAE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in software quality",
+      "Design of global quality strategies",
+      "Organizational transformation towards continuous quality",
+      "Quality management in multi-product contexts",
+      "Definition of industry standards",
+      "Alignment of quality with business objectives",
+      "Creation of testing centers of excellence",
+      "Influence on product roadmap from quality perspective"
+    ],
+    "complementaryCompetencies": [
+      "Management of quality in technology M&A",
+      "Experience in quality due diligence",
+      "Leadership in testing communities"
+    ],
+    "indicators": [
+      "Reports to VP Engineering/CTO",
+      "Manages quality organizations (50+ people)",
+      "Defines enterprise quality vision"
+    ]
+  },
+  "TAE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of quality as differentiator",
+      "Leadership in quality for Fortune 500 companies",
+      "Disruptive innovation in testing methodologies",
+      "Quality management at global scale",
+      "Creation of commercializable testing products",
+      "Definition of the future of quality engineering",
+      "Executive evangelization of quality",
+      "Influence on international standards"
+    ],
+    "complementaryCompetencies": [
+      "Participation in standards committees (ISO; IEEE)",
+      "Experience as advisor in testing startups",
+      "Publication of quality research"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines corporate quality strategy",
+      "Is recognized thought leader in testing"
+    ]
+  },
+  "TAE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in software quality",
+      "Definition of the future of testing and QA",
+      "Transformation of quality into competitive advantage",
+      "Creation of quality ecosystems",
+      "Revolutionary innovation in quality engineering",
+      "Global influence on testing practices",
+      "Evangelization of quality at board level",
+      "Redefinition of quality paradigms"
+    ],
+    "complementaryCompetencies": [
+      "Experience as CQO/CTO in multiple companies",
+      "Global recognition in quality engineering",
+      "Participation in tech company boards"
+    ],
+    "indicators": [
+      "Is Chief Quality Officer or equivalent",
+      "Defines organizational quality philosophy",
+      "Is global authority in testing and quality"
+    ]
+  }
+}

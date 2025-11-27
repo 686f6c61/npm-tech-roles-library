@@ -1,0 +1,201 @@
+{
+  "CE-L1": {
+    "coreCompetencies": [
+      "Basic understanding of cloud concepts (IaaS, PaaS, SaaS)",
+      "Elementary knowledge of virtualization and containers",
+      "Ability to use basic cloud consoles",
+      "Basic understanding of cloud networking",
+      "Ability to deploy simple applications",
+      "Elementary knowledge of cloud storage",
+      "Basic understanding of cloud security",
+      "Ability for basic cloud monitoring"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of scripting",
+      "Familiarity with CLI tools",
+      "Elementary understanding of billing"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Can execute predefined cloud tasks",
+      "Needs 6-12 months of cloud mentoring"
+    ]
+  },
+  "CE-L2": {
+    "coreCompetencies": [
+      "Ability to manage basic cloud resources",
+      "Ability to configure cloud networks and security",
+      "Practical knowledge of auto-scaling and load balancing",
+      "Understanding of cloud backup and disaster recovery",
+      "Ability to implement CI/CD in cloud",
+      "Ability for basic cost optimization",
+      "Knowledge of basic cloud compliance",
+      "Understanding of multi-tier architectures"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of basic serverless",
+      "Ability for migration planning",
+      "Understanding of hybrid cloud"
+    ],
+    "indicators": [
+      "Manages cloud infrastructure with supervision",
+      "Optimizes basic costs",
+      "Resolves common cloud issues"
+    ]
+  },
+  "CE-L3": {
+    "coreCompetencies": [
+      "Mastery of multiple cloud providers",
+      "Ability to design resilient cloud architectures",
+      "Ability to implement complete Infrastructure as Code",
+      "Deep knowledge of cloud-native services",
+      "Ability to implement security best practices",
+      "Solid understanding of advanced cloud networking",
+      "Ability for containerization and orchestration",
+      "Knowledge of complete cloud automation"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of edge computing",
+      "Ability for IoT cloud",
+      "Understanding of AI/ML services"
+    ],
+    "indicators": [
+      "Designs end-to-end cloud solutions",
+      "Leads medium cloud migrations",
+      "Optimizes existing architectures"
+    ]
+  },
+  "CE-L4": {
+    "coreCompetencies": [
+      "Ability to architect multi-cloud solutions",
+      "Mastery of cloud security and compliance",
+      "Ability to design global disaster recovery",
+      "Deep knowledge of cloud economics",
+      "Ability to implement landing zones",
+      "Mastery of service mesh and microservices",
+      "Ability for cloud governance",
+      "Knowledge of Well-Architected frameworks"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of quantum cloud services",
+      "Ability for blockchain cloud",
+      "Understanding of sustainability cloud"
+    ],
+    "indicators": [
+      "Defines cloud strategy for products",
+      "Leads cloud transformations",
+      "Mentors cloud engineers"
+    ]
+  },
+  "CE-L5": {
+    "coreCompetencies": [
+      "Expertise in enterprise cloud architectures",
+      "Ability to design cloud platforms",
+      "Mastery of cloud-native transformation",
+      "Ability for cloud center of excellence",
+      "Deep knowledge of advanced FinOps",
+      "Ability to implement cloud operating models",
+      "Expertise in global regulatory compliance",
+      "Mastery of technical cloud partnerships"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of sovereign clouds",
+      "Ability for industry clouds",
+      "Understanding of cloud marketplaces"
+    ],
+    "indicators": [
+      "Architects cloud for portfolios",
+      "Leads corporate cloud initiatives",
+      "Defines organizational cloud standards"
+    ]
+  },
+  "CE-L6": {
+    "coreCompetencies": [
+      "Ability to define enterprise cloud strategy",
+      "Expertise in cloud-first digital transformation",
+      "Mastery of strategic cloud economics",
+      "Ability for cloud innovation labs",
+      "Deep knowledge of cloud ecosystems",
+      "Ability to lead massive cloud migrations",
+      "Expertise in cloud vendor management",
+      "Mastery of cloud risk management"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of space cloud",
+      "Ability for cloud R&D",
+      "Understanding of cloud ventures"
+    ],
+    "indicators": [
+      "Defines multi-year cloud roadmap",
+      "Leads cloud organizations",
+      "Influences cloud industry"
+    ]
+  },
+  "CE-L7": {
+    "coreCompetencies": [
+      "Leadership in global cloud innovation",
+      "Ability to create cloud competitive advantages",
+      "Expertise in cloud business models",
+      "Mastery of cloud platform engineering",
+      "Ability to define corporate cloud governance",
+      "Deep knowledge of cloud geopolitics",
+      "Expertise in strategic cloud alliances",
+      "Ability to lead cloud thought leadership"
+    ],
+    "complementaryCompetencies": [
+      "Ability to patent cloud innovations",
+      "Ability for cloud advisory",
+      "Knowledge of cloud investments"
+    ],
+    "indicators": [
+      "Defines corporate cloud philosophy",
+      "Keynote speaker at cloud conferences",
+      "Advisor for cloud transformation"
+    ]
+  },
+  "CE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of the cloud future",
+      "Ability to transform industries through cloud",
+      "Expertise in executive cloud strategy",
+      "Mastery of corporate cloud economics",
+      "Ability to define cloud operating excellence",
+      "Deep knowledge of cloud sovereignty",
+      "Expertise in cloud ecosystem building",
+      "Ability to lead cloud standards"
+    ],
+    "complementaryCompetencies": [
+      "Ability to influence cloud regulations",
+      "Ability for cloud ventures",
+      "Knowledge of cloud M&A"
+    ],
+    "indicators": [
+      "Defines Fortune 500 cloud strategy",
+      "Influences cloud providers",
+      "Global cloud thought leader"
+    ]
+  },
+  "CE-L9": {
+    "coreCompetencies": [
+      "Executive leadership in cloud strategy",
+      "Ability for cloud as competitive differentiator",
+      "Expertise in total cloud transformation",
+      "Mastery of strategic cloud budgets",
+      "Ability to build cloud organizations",
+      "Deep knowledge of cloud board reporting",
+      "Expertise in executive cloud partnerships",
+      "Ability to define cloud culture",
+      "Mastery of cloud value creation"
+    ],
+    "complementaryCompetencies": [
+      "Ability for cloud policy influence",
+      "Ability for cloud ecosystem creation",
+      "Knowledge of cloud IPO readiness"
+    ],
+    "indicators": [
+      "Defines and executes enterprise cloud vision",
+      "Responsible for entire cloud strategy",
+      "Recognized leader in global cloud computing"
+    ]
+  }
+}

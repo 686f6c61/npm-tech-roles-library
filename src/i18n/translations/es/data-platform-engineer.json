@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Plataforma de Datos",
+  "category": "Datos",
+  "levels": {
+    "DPE-L1": {
+      "level": "L1 - Aprendiz de Plataforma de Datos",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de infraestructura de datos",
+        "Comprensión elemental de pipelines de datos",
+        "Habilidad para ETL básico",
+        "Conocimiento básico de almacenamiento de datos",
+        "Capacidad de usar herramientas de datos básicas",
+        "Comprensión de modelado de datos simple",
+        "Documentación de flujos de datos",
+        "Conocimiento elemental de gobernanza de datos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con SQL y NoSQL",
+        "Conocimiento básico de almacenamiento en la nube",
+        "Comprensión de procesamiento por lotes"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Implementa pipelines de datos simples",
+        "Está aprendiendo ingeniería de datos"
+      ]
+    },
+    "DPE-L2": {
+      "level": "L2 - Ingeniero Junior de Plataforma de Datos",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de construir pipelines de datos robustos",
+        "Implementación de lagos de datos",
+        "Conocimiento práctico de transmisión de datos",
+        "Habilidad para marcos de calidad de datos",
+        "Comprensión de catálogo de datos",
+        "Capacidad en herramientas de orquestación",
+        "Conocimiento de seguridad de datos",
+        "Habilidad para ajuste de rendimiento"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo de pipelines en tiempo real",
+        "Conocimiento básico de malla de datos",
+        "Comprensión de linaje de datos"
+      ],
+      "indicators": [
+        "Desarrolla infraestructura de datos con supervisión",
+        "Implementa procesos ETL y ELT",
+        "Mantiene plataformas de datos"
+      ]
+    },
+    "DPE-L3": {
+      "level": "L3 - Ingeniero de Plataforma de Datos",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas de datos empresariales",
+        "Implementación de pila de datos moderna",
+        "Dominio de procesamiento distribuido de datos",
+        "Capacidad de plataformas de datos multinube",
+        "Habilidad para virtualización de datos",
+        "Conocimiento profundo de gobernanza de datos",
+        "Implementación de datos de autoservicio",
+        "Diseño de democratización de datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de tejido de datos",
+        "Habilidad para operaciones de datos",
+        "Comprensión de productos de datos"
+      ],
+      "indicators": [
+        "Lidera proyectos de plataforma de datos",
+        "Diseña ecosistemas de datos",
+        "Mentoriza a ingenieros de datos"
+      ]
+    },
+    "DPE-L4": {
+      "level": "L4 - Ingeniero Senior de Plataforma de Datos",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de datos globales",
+        "Diseño de estrategias de datos empresariales",
+        "Implementación de arquitecturas de almacén de lagos",
+        "Dominio de principios de malla de datos",
+        "Capacidad de plataformas de datos federadas",
+        "Conocimiento profundo de economía de datos",
+        "Habilidad para gobernanza de plataforma de datos",
+        "Liderazgo en innovación de datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en plataformas a escala de petabytes",
+        "Conocimiento de procesamiento de datos cuántico",
+        "Implementación de plataformas de datos autónomas"
+      ],
+      "indicators": [
+        "Define estrategia de plataforma de datos",
+        "Lidera equipos de infraestructura de datos",
+        "Es referente en arquitectura de datos"
+      ]
+    },
+    "DPE-L5": {
+      "level": "L5 - Líder de Ingeniería de Plataforma de Datos",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en plataformas de datos",
+        "Diseño de programas de transformación de datos",
+        "Gestión de equipos de ingeniería de datos",
+        "Definición de estrategia de plataforma de datos",
+        "Capacidad de monetización de plataforma de datos",
+        "Implementación de mercados de datos",
+        "Dominio de construcción de ecosistemas de datos",
+        "Evangelización de cultura de datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en consultoría de plataforma de datos",
+        "Conocimiento de estándares de datos industriales",
+        "Gestión de proveedores de plataforma de datos"
+      ],
+      "indicators": [
+        "Gestiona organización de plataforma de datos",
+        "Define visión de infraestructura de datos",
+        "Representa plataforma de datos ante ejecutivos"
+      ]
+    },
+    "DPE-L6": {
+      "level": "L6 - Arquitecto Principal de Plataforma de Datos",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de plataforma de datos organizacional",
+        "Estrategia de datos empresarial",
+        "Gestión de inversiones en infraestructura de datos",
+        "Definición de estrategia de datos corporativa",
+        "Liderazgo en transformación de datos",
+        "Implementación de plataformas de datos inteligentes",
+        "Innovación en paradigmas de datos",
+        "Gestión de arquitectura de datos global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en soberanía de datos",
+        "Conocimiento de regulaciones de datos globales",
+        "Liderazgo en alianzas de datos"
+      ],
+      "indicators": [
+        "Dirige departamento de plataforma de datos (20+ personas)",
+        "Participa en estrategia digital",
+        "Define inversiones en datos"
+      ]
+    },
+    "DPE-L7": {
+      "level": "L7 - Director de Plataforma de Datos",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en infraestructura de datos",
+        "Diseño de estrategias de datos globales",
+        "Transformación empresarial mediante plataformas de datos",
+        "Gestión de datos a escala de grandes corporaciones",
+        "Creación de nuevos paradigmas de datos",
+        "Definición del futuro de infraestructura de datos",
+        "Evangelización de datos a nivel de junta directiva",
+        "Influencia en economía de datos"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de plataformas de datos globales",
+        "Experiencia en empresas emergentes de datos unicornio",
+        "Liderazgo en organismos de estándares de datos"
+      ],
+      "indicators": [
+        "Reporta al director de datos o tecnología",
+        "Gestiona organización de datos (50+ personas)",
+        "Define estrategia de datos corporativa"
+      ]
+    },
+    "DPE-L8": {
+      "level": "L8 - Vicepresidente de Plataformas de Datos",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de omnipresencia de datos",
+        "Liderazgo en revolución de datos",
+        "Creación de paradigmas de datos infinitos",
+        "Gestión de datos planetaria",
+        "Innovación disruptiva en consciencia de datos",
+        "Definición de plataformas de datos conscientes",
+        "Evangelización de singularidad de datos",
+        "Influencia en economía de datos global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de plataforma de datos en gigantes tecnológicos",
+        "Asesoría en fondos de infraestructura de datos",
+        "Liderazgo de pensamiento en plataformas de datos"
+      ],
+      "indicators": [
+        "Es parte del liderazgo de datos",
+        "Define futuro de infraestructura de datos",
+        "Es líder mundial en plataformas de datos"
+      ]
+    },
+    "DPE-L9": {
+      "level": "L9 - Director de Plataforma de Datos",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de datos universales",
+        "Transformación de realidad mediante datos",
+        "Creación de paradigmas de datos omniscientes",
+        "Definición de consciencia de datos",
+        "Innovación en sistemas de datos biológicos",
+        "Evangelización de omnipotencia de datos",
+        "Arquitecto de realidad basada en datos",
+        "Influencia en evolución de información universal"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones en plataformas de datos",
+        "Reconocimiento como arquitecto de datos legendario",
+        "Influencia en futuro de información"
+      ],
+      "indicators": [
+        "Es director legendario de plataforma de datos",
+        "Define futuro de infraestructura de datos",
+        "Es autoridad mundial en plataformas de datos"
+      ]
+    }
+  }
+}

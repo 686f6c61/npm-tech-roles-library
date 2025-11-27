@@ -1,0 +1,200 @@
+{
+  "CVE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of image processing",
+      "Elementary understanding of computer vision",
+      "Ability to use basic CV libraries",
+      "Basic knowledge of filters and transformations",
+      "Ability for simple object detection",
+      "Understanding of basic segmentation",
+      "Documentation of vision pipelines",
+      "Elementary knowledge of image datasets"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with basic OpenCV",
+      "Knowledge of image annotation",
+      "Understanding of CV evaluation metrics"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Implements simple CV algorithms",
+      "Learning computer vision fundamentals"
+    ]
+  },
+  "CVE-L2": {
+    "coreCompetencies": [
+      "Ability to implement CNNs for classification",
+      "Implementation of object detection models",
+      "Practical knowledge of augmentation techniques",
+      "Ability for transfer learning",
+      "Understanding of semantic segmentation",
+      "Ability for basic face recognition",
+      "Knowledge of video processing",
+      "Ability for OCR implementation"
+    ],
+    "complementaryCompetencies": [
+      "Development of pose estimation",
+      "Knowledge of basic 3D vision",
+      "Understanding of image generation"
+    ],
+    "indicators": [
+      "Develops CV solutions with supervision",
+      "Implements pre-trained models",
+      "Optimizes vision pipelines"
+    ]
+  },
+  "CVE-L3": {
+    "coreCompetencies": [
+      "Design of complex vision architectures",
+      "Implementation of instance segmentation",
+      "Mastery of multi-object tracking",
+      "Ability for 3D reconstruction",
+      "Ability for basic SLAM",
+      "Deep knowledge of neural architectures",
+      "Implementation of real-time vision",
+      "Design of edge vision systems"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of NeRF and 3D learning",
+      "Ability for medical imaging",
+      "Understanding of autonomous vision"
+    ],
+    "indicators": [
+      "Leads computer vision projects",
+      "Designs end-to-end vision systems",
+      "Mentors CV engineers"
+    ]
+  },
+  "CVE-L4": {
+    "coreCompetencies": [
+      "Architecture of vision platforms",
+      "Design of scalable vision systems",
+      "Implementation of multimodal learning",
+      "Mastery of 3D deep learning",
+      "Ability for vision-language models",
+      "Deep knowledge of geometric CV",
+      "Ability for synthetic data generation",
+      "Leadership in vision research"
+    ],
+    "complementaryCompetencies": [
+      "Experience in robotic vision",
+      "Knowledge of computational photography",
+      "Implementation of neural rendering"
+    ],
+    "indicators": [
+      "Defines computer vision strategy",
+      "Leads vision teams",
+      "Reference in CV research"
+    ]
+  },
+  "CVE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in computer vision",
+      "Design of enterprise vision programs",
+      "Management of CV engineering teams",
+      "Definition of vision strategy",
+      "Ability for CV productization",
+      "Implementation of vision platforms",
+      "Mastery of ethical CV",
+      "Evangelization of visual AI"
+    ],
+    "complementaryCompetencies": [
+      "Experience in AR/VR vision",
+      "Knowledge of satellite imagery",
+      "Management of massive vision datasets"
+    ],
+    "indicators": [
+      "Manages computer vision teams",
+      "Defines enterprise visual AI vision",
+      "Represents CV to stakeholders"
+    ]
+  },
+  "CVE-L6": {
+    "coreCompetencies": [
+      "Direction of organizational computer vision",
+      "Strategy for visual intelligence",
+      "Management of vision R&D investments",
+      "Definition of perception strategy",
+      "Leadership in vision transformation",
+      "Implementation of autonomous perception",
+      "Innovation in vision paradigms",
+      "Management of global vision initiatives"
+    ],
+    "complementaryCompetencies": [
+      "Experience in defense/security vision",
+      "Knowledge of regulatory CV",
+      "Leadership in vision standards"
+    ],
+    "indicators": [
+      "Leads CV department (20+ people)",
+      "Participates in AI strategy",
+      "Defines visual AI investments"
+    ]
+  },
+  "CVE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in visual intelligence",
+      "Design of global vision strategies",
+      "Transformation via computer vision",
+      "Management of CV at Fortune 500 scale",
+      "Creation of new visual paradigms",
+      "Definition of future of machine perception",
+      "Evangelization of vision at board level",
+      "Influence in visual AI industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of vision in autonomous vehicles",
+      "Experience in vision unicorns",
+      "Leadership in CV consortiums"
+    ],
+    "indicators": [
+      "Reports to CTO/Head of AI",
+      "Manages vision organization (50+ people)",
+      "Defines corporate perception strategy"
+    ]
+  },
+  "CVE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of omnisensing",
+      "Leadership in artificial vision revolution",
+      "Creation of perfect perception paradigms",
+      "Management of global vision",
+      "Disruptive innovation in conscious vision",
+      "Definition of universal seeing",
+      "Evangelization of visual singularity",
+      "Influence on future of perception"
+    ],
+    "complementaryCompetencies": [
+      "Experience as Head of Vision in tech giants",
+      "Advisory in CV startups",
+      "Thought leadership in visual AI"
+    ],
+    "indicators": [
+      "Part of AI leadership",
+      "Defines future of computer vision",
+      "Global leader in visual intelligence"
+    ]
+  },
+  "CVE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in future of artificial perception",
+      "Transformation of reality via vision",
+      "Creation of omnivision paradigms",
+      "Definition of conscious perception",
+      "Innovation in biological vision",
+      "Evangelization of universal sight",
+      "Architect of total visual reality",
+      "Influence on evolution of seeing and understanding"
+    ],
+    "complementaryCompetencies": [
+      "Creator of computer vision revolutions",
+      "Recognition as visual AI pioneer",
+      "Influence on future of perception"
+    ],
+    "indicators": [
+      "Legendary Chief Vision Officer",
+      "Defines future of artificial vision",
+      "World authority in computer vision"
+    ]
+  }
+}

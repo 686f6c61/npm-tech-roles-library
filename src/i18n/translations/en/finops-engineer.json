@@ -1,0 +1,258 @@
+{
+  "role": "FinOps Engineer",
+  "category": "Infrastructure",
+  "levels": {
+    "FOE-L1": {
+      "level": "L1 - FinOps Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of cloud costs",
+        "Elementary understanding of billing",
+        "Ability to perform basic reporting",
+        "Basic knowledge of cost allocation",
+        "Ability to identify waste",
+        "Understanding of pricing models",
+        "Documentation of savings",
+        "Elementary knowledge of budgets"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with cloud consoles",
+        "Knowledge of basic tagging",
+        "Elementary understanding of showback"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Generates basic reports",
+        "Learning FinOps"
+      ]
+    },
+    "FOE-L2": {
+      "level": "L2 - Junior FinOps Engineer",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to perform cost analysis",
+        "Implementation of cost allocation",
+        "Practical knowledge of optimization",
+        "Ability to perform rightsizing",
+        "Understanding of reserved instances",
+        "Basic forecasting ability",
+        "Knowledge of chargeback",
+        "Ability to make recommendations"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of CloudHealth/Cloudability",
+        "Ability to script",
+        "Understanding of cost anomaly detection"
+      ],
+      "indicators": [
+        "Optimizes costs with supervision",
+        "Implements savings plans",
+        "Generates cost insights"
+      ]
+    },
+    "FOE-L3": {
+      "level": "L3 - FinOps Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of cost optimization strategies",
+        "Implementation of automated optimization",
+        "Mastery of cloud economics",
+        "Ability to perform cost modeling",
+        "Ability to implement showback/chargeback",
+        "Deep knowledge of pricing",
+        "Implementation of governance",
+        "Ability for stakeholder management"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of commitment-based discounts",
+        "Ability to use FinOps tools",
+        "Understanding of multi-cloud costs"
+      ],
+      "indicators": [
+        "Leads optimization projects",
+        "Designs cost frameworks",
+        "Mentors in FinOps"
+      ]
+    },
+    "FOE-L4": {
+      "level": "L4 - Senior FinOps Engineer",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of FinOps programs",
+        "Design of enterprise cost strategy",
+        "Implementation of FinOps at scale",
+        "Mastery of unit economics",
+        "Ability to handle complex cost allocation",
+        "Deep knowledge of cloud contracts",
+        "Ability to perform ROI analysis",
+        "Leadership in cost culture"
+      ],
+      "complementaryCompetencies": [
+        "Experience in multi-cloud FinOps",
+        "Knowledge of vendor negotiations",
+        "Implementation of FinOps automation"
+      ],
+      "indicators": [
+        "Defines FinOps strategy",
+        "Leads cost optimization",
+        "Is a reference in cloud economics"
+      ]
+    },
+    "FOE-L5": {
+      "level": "L5 - Lead FinOps Engineer",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in FinOps",
+        "Design of cost ecosystems",
+        "Management of FinOps teams",
+        "Definition of FinOps standards",
+        "Ability for financial governance",
+        "Implementation of cost intelligence",
+        "Mastery of optimization at scale",
+        "Evangelization of cost consciousness"
+      ],
+      "complementaryCompetencies": [
+        "Experience in cloud financial management",
+        "Knowledge of FinOps Foundation",
+        "Management of optimization budget"
+      ],
+      "indicators": [
+        "Manages FinOps team",
+        "Defines cost optimization vision",
+        "Represents FinOps to CFO"
+      ]
+    },
+    "FOE-L6": {
+      "level": "L6 - Principal FinOps Architect",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of FinOps strategy",
+        "Management of cloud financial operations",
+        "Definition of FinOps architecture",
+        "Leadership in cost transformation",
+        "Management of commitment strategies",
+        "Implementation of global FinOps",
+        "Innovation in cost optimization",
+        "Management of vendor relationships"
+      ],
+      "complementaryCompetencies": [
+        "Experience in FinOps maturity",
+        "Knowledge of cloud economics",
+        "Leadership in FinOps community"
+      ],
+      "indicators": [
+        "Directs FinOps department",
+        "Participates in financial strategy",
+        "Defines cloud spend"
+      ]
+    },
+    "FOE-L7": {
+      "level": "L7 - Director FinOps",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in FinOps",
+        "Design of global cost strategies",
+        "Transformation of cloud economics",
+        "Management of spend at scale",
+        "Creation of cost-aware culture",
+        "Definition of FinOps roadmap",
+        "Evangelization at board level",
+        "Influence in procurement"
+      ],
+      "complementaryCompetencies": [
+        "Management of multi-million cloud budgets",
+        "Experience in FinOps certification",
+        "Leadership in cost optimization"
+      ],
+      "indicators": [
+        "Reports to CTO/CFO",
+        "Manages FinOps organization (15+ people)",
+        "Defines spend strategy"
+      ]
+    },
+    "FOE-L8": {
+      "level": "L8 - VP FinOps",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of cloud economics",
+        "Leadership in FinOps transformation",
+        "Creation of cost advantage",
+        "Management of financial ecosystems",
+        "Innovation in cost optimization",
+        "Definition of autonomous FinOps",
+        "Evangelization of unit economics",
+        "Influence in cloud strategy"
+      ],
+      "complementaryCompetencies": [
+        "Experience in cloud financial leadership",
+        "Advisory in FinOps",
+        "Thought leadership"
+      ],
+      "indicators": [
+        "Part of executive committee",
+        "Defines FinOps strategy",
+        "Recognized leader"
+      ]
+    },
+    "FOE-L9": {
+      "level": "L9 - Chief FinOps Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in cloud economics",
+        "Transformation of financial operations",
+        "Creation of FinOps paradigms",
+        "Definition of cost-optimized organizations",
+        "Innovation in cloud finance",
+        "Evangelization of economic consciousness",
+        "Architect of FinOps ecosystems",
+        "Influence in procurement"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming cloud spend",
+        "Recognition as FinOps pioneer",
+        "Influence in economics"
+      ],
+      "indicators": [
+        "Is Chief FinOps Officer",
+        "Defines future of cloud economics",
+        "World authority"
+      ]
+    }
+  }
+}

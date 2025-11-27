@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Rendimiento",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "PE-L1": {
+      "level": "L1 - Aprendiz de Rendimiento",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de pruebas de rendimiento",
+        "Comprensión elemental de métricas de rendimiento",
+        "Habilidad para evaluación comparativa simple",
+        "Conocimiento básico de herramientas de perfilado",
+        "Capacidad de identificar cuellos de botella obvios",
+        "Comprensión de latencia y capacidad de procesamiento",
+        "Documentación de resultados de pruebas",
+        "Conocimiento elemental de pruebas de carga"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con JMeter/Gatling básico",
+        "Conocimiento de herramientas de desarrollo del navegador",
+        "Comprensión de almacenamiento en caché básico"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta pruebas de rendimiento simples",
+        "Está aprendiendo ingeniería de rendimiento"
+      ]
+    },
+    "PE-L2": {
+      "level": "L2 - Ingeniero Junior de Rendimiento",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar escenarios de prueba",
+        "Implementación de pruebas de carga completas",
+        "Conocimiento práctico de perfilado avanzado",
+        "Habilidad para pruebas de estrés",
+        "Comprensión de optimización de memoria",
+        "Capacidad de ajuste básico de bases de datos",
+        "Conocimiento de herramientas de monitorización de aplicaciones",
+        "Habilidad para monitorización de rendimiento"
+      ],
+      "complementaryCompetencies": [
+        "Análisis de gráficos de llama",
+        "Conocimiento de pruebas de capacidad",
+        "Comprensión de presupuestos de rendimiento"
+      ],
+      "indicators": [
+        "Ejecuta pruebas de rendimiento con supervisión",
+        "Identifica optimizaciones",
+        "Genera informes de rendimiento"
+      ]
+    },
+    "PE-L3": {
+      "level": "L3 - Ingeniero de Rendimiento",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de estrategias de pruebas de rendimiento",
+        "Implementación de pruebas continuas de rendimiento",
+        "Dominio de técnicas de optimización",
+        "Capacidad de pruebas de escalabilidad",
+        "Habilidad para micro-evaluación comparativa",
+        "Conocimiento profundo de componentes internos del sistema",
+        "Implementación de detección de regresiones de rendimiento",
+        "Diseño de líneas base de rendimiento"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de ajuste del núcleo",
+        "Habilidad para rastreo distribuido",
+        "Comprensión de optimización de hardware"
+      ],
+      "indicators": [
+        "Lidera iniciativas de rendimiento",
+        "Diseña estrategias de optimización",
+        "Mentoriza en prácticas de rendimiento"
+      ]
+    },
+    "PE-L4": {
+      "level": "L4 - Ingeniero Senior de Rendimiento",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de pruebas de rendimiento",
+        "Diseño de programas de ingeniería de rendimiento",
+        "Implementación de rendimiento predictivo",
+        "Dominio de optimización de bajo nivel",
+        "Capacidad de modelado de rendimiento",
+        "Conocimiento profundo de optimizaciones del compilador",
+        "Habilidad para análisis forense de rendimiento",
+        "Liderazgo en cultura de rendimiento"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en optimización de computación de alto rendimiento",
+        "Conocimiento de vectorización SIMD",
+        "Implementación de inteligencia artificial en rendimiento"
+      ],
+      "indicators": [
+        "Define estrategia de rendimiento",
+        "Lidera equipos de rendimiento",
+        "Es referente en optimización"
+      ]
+    },
+    "PE-L5": {
+      "level": "L5 - Líder de Ingeniería de Rendimiento",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en ingeniería de rendimiento",
+        "Diseño de programas de excelencia en rendimiento",
+        "Gestión de equipos de rendimiento",
+        "Definición de estrategia de rendimiento",
+        "Capacidad de economía del rendimiento",
+        "Implementación de gobernanza de rendimiento",
+        "Dominio de planificación avanzada de capacidad",
+        "Evangelización de cultura de rendimiento"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación de rendimiento",
+        "Conocimiento de computación ecológica",
+        "Gestión de proveedores de rendimiento"
+      ],
+      "indicators": [
+        "Gestiona equipos de rendimiento",
+        "Define visión de optimización empresarial",
+        "Representa rendimiento ante ejecutivos"
+      ]
+    },
+    "PE-L6": {
+      "level": "L6 - Ingeniero Principal de Rendimiento",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de ingeniería de rendimiento organizacional",
+        "Estrategia de optimización empresarial",
+        "Gestión de inversiones en rendimiento",
+        "Definición de estrategia de eficiencia",
+        "Liderazgo en transformación de rendimiento",
+        "Implementación de sistemas auto-optimizantes",
+        "Innovación en paradigmas de optimización",
+        "Gestión de rendimiento global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en optimización a hiperescala",
+        "Conocimiento de rendimiento cuántico",
+        "Liderazgo en estándares de rendimiento"
+      ],
+      "indicators": [
+        "Dirige departamento de rendimiento (20+ personas)",
+        "Participa en estrategia tecnológica",
+        "Define inversiones en optimización"
+      ]
+    },
+    "PE-L7": {
+      "level": "L7 - Director de Rendimiento",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en excelencia de rendimiento",
+        "Diseño de estrategias de optimización globales",
+        "Transformación de eficiencia organizacional",
+        "Gestión de rendimiento a escala de grandes corporaciones",
+        "Creación de nuevos paradigmas de optimización",
+        "Definición del futuro de la ingeniería de rendimiento",
+        "Evangelización de rendimiento a nivel de junta directiva",
+        "Influencia en industria de optimización"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de rendimiento en sistemas globales",
+        "Experiencia en optimización de infraestructura crítica",
+        "Liderazgo en consorcios de rendimiento"
+      ],
+      "indicators": [
+        "Reporta al director de tecnología",
+        "Gestiona organización de rendimiento (50+ personas)",
+        "Define estrategia de eficiencia corporativa"
+      ]
+    },
+    "PE-L8": {
+      "level": "L8 - Vicepresidente de Rendimiento",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de rendimiento perfecto",
+        "Liderazgo en revolución de optimización",
+        "Creación de paradigmas de latencia cero",
+        "Gestión de rendimiento planetario",
+        "Innovación disruptiva en optimización cuántica",
+        "Definición de computación instantánea",
+        "Evangelización de rendimiento infinito",
+        "Influencia en políticas de eficiencia global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de rendimiento en gigantes tecnológicos",
+        "Asesoramiento en fondos de rendimiento",
+        "Liderazgo de pensamiento en optimización"
+      ],
+      "indicators": [
+        "Es parte del comité técnico",
+        "Define futuro de rendimiento",
+        "Es líder mundial en optimización"
+      ]
+    },
+    "PE-L9": {
+      "level": "L9 - Director General de Rendimiento",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de computación instantánea",
+        "Transformación de límites de rendimiento",
+        "Creación de paradigmas de velocidad infinita",
+        "Definición de computación de tiempo cero",
+        "Innovación en optimización biológica",
+        "Evangelización de consciencia de rendimiento",
+        "Arquitecto de universo sin latencia",
+        "Influencia en evolución de velocidad computacional"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones en rendimiento",
+        "Reconocimiento como maestro de optimización",
+        "Influencia en futuro de eficiencia"
+      ],
+      "indicators": [
+        "Es director general de rendimiento legendario",
+        "Define futuro de velocidad computacional",
+        "Es autoridad mundial en rendimiento"
+      ]
+    }
+  }
+}

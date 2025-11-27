@@ -1,0 +1,201 @@
+{
+  "PE-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de platform engineering concepts",
+      "Conocimiento elemental de developer experience",
+      "Habilidad para usar platform tools básicas",
+      "Comprensión básica de self-service platforms",
+      "Capacidad de documentar platform features",
+      "Conocimiento elemental de API design",
+      "Comprensión básica de platform automation",
+      "Habilidad para soporte platform básico"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de DevOps",
+      "Familiaridad con cloud platforms",
+      "Comprensión elemental de containers"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Puede mantener platform components",
+      "Necesita 6-12 meses de mentoría"
+    ]
+  },
+  "PE-L2": {
+    "coreCompetencies": [
+      "Capacidad de desarrollar platform services básicos",
+      "Habilidad para implementar self-service features",
+      "Conocimiento práctico de platform APIs",
+      "Comprensión de internal developer platforms",
+      "Capacidad de implementar automation básica",
+      "Habilidad para platform monitoring",
+      "Conocimiento de platform documentation",
+      "Comprensión de platform security básica"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de GitOps",
+      "Habilidad para backstage/portals",
+      "Comprensión de platform metrics"
+    ],
+    "indicators": [
+      "Desarrolla platform features con supervisión",
+      "Mejora developer experience básica",
+      "Soporta platform users efectivamente"
+    ]
+  },
+  "PE-L3": {
+    "coreCompetencies": [
+      "Dominio de platform architecture patterns",
+      "Capacidad de diseñar developer workflows",
+      "Habilidad para implementar platform orchestration",
+      "Conocimiento profundo de service catalogs",
+      "Capacidad de implementar platform observability",
+      "Comprensión sólida de golden paths",
+      "Habilidad para platform testing",
+      "Conocimiento de platform governance"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de platform economics",
+      "Habilidad para platform migration",
+      "Comprensión de platform compliance"
+    ],
+    "indicators": [
+      "Diseña platform services completos",
+      "Lidera platform initiatives pequeñas",
+      "Define platform standards básicos"
+    ]
+  },
+  "PE-L4": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar internal platforms",
+      "Dominio de platform as a product",
+      "Habilidad para implementar platform ecosystems",
+      "Conocimiento profundo de developer productivity",
+      "Capacidad de implementar platform automation",
+      "Dominio de platform reliability",
+      "Habilidad para platform adoption strategies",
+      "Conocimiento de platform economics"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de platform AI/ML",
+      "Habilidad para platform analytics",
+      "Comprensión de platform sustainability"
+    ],
+    "indicators": [
+      "Define platform strategy para equipos",
+      "Lidera platform transformation",
+      "Mentora platform engineers"
+    ]
+  },
+  "PE-L5": {
+    "coreCompetencies": [
+      "Expertise en enterprise platform engineering",
+      "Capacidad de diseñar platform operating models",
+      "Dominio de platform value streams",
+      "Habilidad para platform governance frameworks",
+      "Conocimiento profundo de platform maturity models",
+      "Capacidad de implementar platform marketplaces",
+      "Expertise en platform standardization",
+      "Dominio de platform innovation"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de platform ventures",
+      "Habilidad para platform consulting",
+      "Comprensión de platform M&A"
+    ],
+    "indicators": [
+      "Arquitecta platforms empresariales",
+      "Lidera platform communities",
+      "Define platform roadmap corporativo"
+    ]
+  },
+  "PE-L6": {
+    "coreCompetencies": [
+      "Capacidad de definir platform strategy empresarial",
+      "Expertise en platform transformation",
+      "Dominio de platform business models",
+      "Habilidad para platform ecosystem building",
+      "Conocimiento profundo de platform economics",
+      "Capacidad de liderar platform organizations",
+      "Expertise en platform partnerships",
+      "Dominio de platform risk management"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de platform regulations",
+      "Habilidad para platform innovation labs",
+      "Comprensión de platform investments"
+    ],
+    "indicators": [
+      "Define platform vision multi-año",
+      "Lidera platform organizations grandes",
+      "Influencia platform industry"
+    ]
+  },
+  "PE-L7": {
+    "coreCompetencies": [
+      "Liderazgo en platform innovation global",
+      "Capacidad de platform competitive advantages",
+      "Expertise en platform scaling strategies",
+      "Dominio de platform democratization",
+      "Capacidad de definir platform philosophy",
+      "Conocimiento profundo de platform futures",
+      "Expertise en platform thought leadership",
+      "Capacidad de liderar platform research"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de patentar platform innovations",
+      "Habilidad para platform evangelism",
+      "Conocimiento de platform ventures"
+    ],
+    "indicators": [
+      "Define platform philosophy corporativa",
+      "Speaker keynote platform conferences",
+      "Thought leader platform engineering"
+    ]
+  },
+  "PE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica del futuro de platforms",
+      "Capacidad de transformar empresas mediante platforms",
+      "Expertise en platform strategy ejecutiva",
+      "Dominio de platform economics corporativo",
+      "Capacidad de definir platform excellence",
+      "Conocimiento profundo de platform governance",
+      "Expertise en platform ecosystem strategies",
+      "Capacidad de liderar platform standards globales"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar platform industry",
+      "Habilidad para platform ventures",
+      "Conocimiento de platform IPOs"
+    ],
+    "indicators": [
+      "Define estrategia platform Fortune 500",
+      "Influye en platform engineering global",
+      "Asesor platform ejecutivo"
+    ]
+  },
+  "PE-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en platform strategy",
+      "Capacidad de platforms como core business",
+      "Expertise en platform transformation total",
+      "Dominio de platform investment strategies",
+      "Capacidad de construir platform empires",
+      "Conocimiento profundo de platform value creation",
+      "Expertise en platform partnerships globales",
+      "Capacidad de definir platform culture",
+      "Dominio de platform business models"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de platform policy influence",
+      "Habilidad para platform ecosystem dominance",
+      "Conocimiento de platform monopolies"
+    ],
+    "indicators": [
+      "Define y ejecuta visión platform empresarial",
+      "Responsable de toda la estrategia platform",
+      "Líder reconocido en platform economy global"
+    ]
+  }
+}

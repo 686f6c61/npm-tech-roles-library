@@ -1,0 +1,259 @@
+{
+  "role": "Data Architect",
+  "category": "Data",
+  "levels": {
+    "DAR-L1": {
+      "level": "L1 - Data Architect Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of data modeling",
+        "Elementary knowledge of data architectures",
+        "Ability to create basic diagrams",
+        "Basic understanding of integration",
+        "Ability to document models",
+        "Elementary knowledge of governance",
+        "Basic understanding of metadata",
+        "Ability to analyze requirements"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of tools",
+        "Familiarity with standards",
+        "Elementary understanding of processes"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can assist in design",
+        "Needs 1-2 years experience"
+      ]
+    },
+    "DAR-L2": {
+      "level": "L2 - Junior Data Architect",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to design data models",
+        "Ability for basic integration",
+        "Practical knowledge of MDM",
+        "Understanding of data quality",
+        "Ability to define schemas",
+        "Ability for basic lineage",
+        "Knowledge of security",
+        "Understanding of compliance"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of cloud architectures",
+        "Ability for APIs",
+        "Understanding of microservices"
+      ],
+      "indicators": [
+        "Designs with supervision",
+        "Implements basic models",
+        "Maintains documentation"
+      ]
+    },
+    "DAR-L3": {
+      "level": "L3 - Data Architect",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of enterprise architectures",
+        "Ability to design ecosystems",
+        "Ability for modernization",
+        "Deep knowledge of patterns",
+        "Ability for governance frameworks",
+        "Solid understanding of regulations",
+        "Ability for data mesh",
+        "Knowledge of economics"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AI/ML architectures",
+        "Ability for real-time",
+        "Understanding of IoT"
+      ],
+      "indicators": [
+        "Designs complex architectures",
+        "Leads architecture projects",
+        "Defines standards"
+      ]
+    },
+    "DAR-L4": {
+      "level": "L4 - Senior Data Architect",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability for architecture strategy",
+        "Mastery of transformation",
+        "Ability for global architectures",
+        "Deep knowledge of emerging tech",
+        "Ability to lead teams",
+        "Mastery of innovation",
+        "Ability for partnerships",
+        "Knowledge of value creation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of quantum architectures",
+        "Ability for blockchain",
+        "Understanding of edge"
+      ],
+      "indicators": [
+        "Defines architectural strategy",
+        "Leads transformations",
+        "Mentors architects"
+      ]
+    },
+    "DAR-L5": {
+      "level": "L5 - Lead Data Architect",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in global architectures",
+        "Ability for platform thinking",
+        "Mastery of democratization",
+        "Ability for centers of excellence",
+        "Deep knowledge of business value",
+        "Ability to define culture",
+        "Expertise in alliances",
+        "Mastery of thought leadership"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of future architectures",
+        "Ability for disruption",
+        "Understanding of paradigm shifts"
+      ],
+      "indicators": [
+        "Architects enterprise platforms",
+        "Leads organizations",
+        "Defines architectural roadmap"
+      ]
+    },
+    "DAR-L6": {
+      "level": "L6 - Principal Data Architect",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define architectural vision",
+        "Expertise in innovation",
+        "Mastery of global strategy",
+        "Ability for ecosystem design",
+        "Deep knowledge of trends",
+        "Ability for industry influence",
+        "Expertise in value chains",
+        "Mastery of impact"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of civilization-scale",
+        "Ability for cosmic architectures",
+        "Understanding of quantum reality"
+      ],
+      "indicators": [
+        "Defines corporate vision",
+        "Leads global transformation",
+        "Influences industry"
+      ]
+    },
+    "DAR-L7": {
+      "level": "L7 - Director Architecture",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in architectural evolution",
+        "Ability for global management",
+        "Expertise in transformation",
+        "Mastery of governance",
+        "Ability to define philosophy",
+        "Deep knowledge of competitive edge",
+        "Expertise in strategic architecture",
+        "Ability to lead revolution"
+      ],
+      "complementaryCompetencies": [
+        "Ability to create standards",
+        "Ability for architecture ventures",
+        "Knowledge of investments"
+      ],
+      "indicators": [
+        "Defines executive strategy",
+        "Represents company",
+        "Global thought leader"
+      ]
+    },
+    "DAR-L8": {
+      "level": "L8 - VP Data Architecture",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of architecture",
+        "Ability for architecture as core",
+        "Expertise in total transformation",
+        "Mastery of C-level management",
+        "Ability for empire building",
+        "Deep knowledge of architectural value",
+        "Expertise in global alliances",
+        "Ability for industry shaping"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence governments",
+        "Ability for architectural M&A",
+        "Knowledge of dominance"
+      ],
+      "indicators": [
+        "Responsible for all data architecture",
+        "Defines architectural future",
+        "Recognized leader"
+      ]
+    },
+    "DAR-L9": {
+      "level": "L9 - Chief Architecture Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in architecture",
+        "Ability for architecture as definitive advantage",
+        "Expertise in industry transformation",
+        "Mastery of architectural governance",
+        "Ability to create new paradigms",
+        "Deep knowledge of civilizational impact",
+        "Expertise in reality architecture",
+        "Ability to define digital existence",
+        "Mastery of transcendence"
+      ],
+      "complementaryCompetencies": [
+        "Ability to architect realities",
+        "Ability for dimensional design",
+        "Knowledge of post-singularity architecture"
+      ],
+      "indicators": [
+        "Maximum architectural responsibility",
+        "Defines future of data architecture",
+        "Global leader in data architecture"
+      ]
+    }
+  }
+}

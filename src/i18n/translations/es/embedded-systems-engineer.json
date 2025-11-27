@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Sistemas Embebidos",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "ESE-L1": {
+      "level": "L1 - Aprendiz de Sistemas Embebidos",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de microcontroladores",
+        "Comprensión elemental de arquitecturas de hardware",
+        "Habilidad para programación en C básica",
+        "Conocimiento básico de interfaces de hardware",
+        "Capacidad de depuración con JTAG básico",
+        "Comprensión de interrupciones y temporizadores",
+        "Documentación de especificaciones de hardware",
+        "Conocimiento elemental de sistemas operativos en tiempo real"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con esquemáticos básicos",
+        "Conocimiento de protocolos seriales",
+        "Comprensión de memoria y buses"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Programa firmware simple",
+        "Está aprendiendo sistemas embebidos"
+      ]
+    },
+    "ESE-L2": {
+      "level": "L2 - Ingeniero Junior de Sistemas Embebidos",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de desarrollar controladores de dispositivos",
+        "Implementación de cargadores de arranque",
+        "Conocimiento práctico de sistemas operativos en tiempo real",
+        "Habilidad para optimización de memoria",
+        "Comprensión de acceso directo a memoria y periféricos",
+        "Capacidad de depuración de bajo nivel",
+        "Conocimiento de optimización de energía",
+        "Habilidad para capas de abstracción de hardware"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo de paquete de soporte de placa básico",
+        "Conocimiento de protocolos automotrices",
+        "Comprensión de estándares de seguridad"
+      ],
+      "indicators": [
+        "Desarrolla firmware con supervisión",
+        "Implementa controladores de hardware",
+        "Optimiza código embebido"
+      ]
+    },
+    "ESE-L3": {
+      "level": "L3 - Ingeniero de Sistemas Embebidos",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas embebidas complejas",
+        "Implementación de sistemas de tiempo real críticos",
+        "Dominio de optimización de rendimiento",
+        "Capacidad de codiseño hardware-software",
+        "Habilidad para sistemas multinúcleo",
+        "Conocimiento profundo de gestión de memoria",
+        "Implementación de arranque seguro",
+        "Diseño de sistemas tolerantes a fallos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de AUTOSAR",
+        "Habilidad para programación de procesadores de señal digital",
+        "Comprensión de seguridad funcional"
+      ],
+      "indicators": [
+        "Lidera desarrollo embebido",
+        "Diseña sistemas críticos",
+        "Mentoriza ingenieros embebidos"
+      ]
+    },
+    "ESE-L4": {
+      "level": "L4 - Ingeniero Senior de Sistemas Embebidos",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas embebidas",
+        "Diseño de integración de sistema en chip",
+        "Implementación de hipervisores embebidos",
+        "Dominio de sistemas de criticidad mixta",
+        "Capacidad de aceleración por hardware",
+        "Conocimiento profundo de diseño crítico para la seguridad",
+        "Habilidad para métodos formales",
+        "Liderazgo en estándares embebidos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en sistemas aeroespaciales",
+        "Conocimiento de estándares de dispositivos médicos",
+        "Implementación de IA en el borde"
+      ],
+      "indicators": [
+        "Define arquitectura embebida empresarial",
+        "Lidera equipos de firmware",
+        "Es referente en sistemas embebidos"
+      ]
+    },
+    "ESE-L5": {
+      "level": "L5 - Ingeniero Líder de Sistemas Embebidos",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en plataformas embebidas",
+        "Diseño de líneas de productos embebidos",
+        "Gestión de equipos de desarrollo embebido",
+        "Definición de estrategia embebida",
+        "Capacidad de economía de plataformas",
+        "Implementación de DevOps embebido",
+        "Dominio de procesos de certificación",
+        "Evangelización de inteligencia en el borde"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en plataformas automotrices",
+        "Conocimiento de DO-178C/ISO26262",
+        "Gestión de proveedores de silicio"
+      ],
+      "indicators": [
+        "Gestiona múltiples equipos embebidos",
+        "Define visión de plataformas embebidas",
+        "Representa sistemas embebidos ante ejecutivos"
+      ]
+    },
+    "ESE-L6": {
+      "level": "L6 - Ingeniero Principal de Sistemas Embebidos",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de sistemas embebidos organizacional",
+        "Estrategia de productos embebidos",
+        "Gestión de inversiones en hardware y software",
+        "Definición de estrategia de computación en el borde",
+        "Liderazgo en transformación embebida",
+        "Implementación de sistemas autónomos",
+        "Innovación en consumo ultrabajo de energía",
+        "Gestión de ecosistemas de hardware"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en electrónica de consumo",
+        "Conocimiento de cadena de suministro de hardware",
+        "Liderazgo en consorcios embebidos"
+      ],
+      "indicators": [
+        "Dirige departamento embebido (20+ personas)",
+        "Participa en estrategia de producto",
+        "Define inversiones en hardware"
+      ]
+    },
+    "ESE-L7": {
+      "level": "L7 - Director de Sistemas Embebidos",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en tecnología embebida",
+        "Diseño de estrategias embebidas globales",
+        "Transformación de industrias mediante sistemas embebidos",
+        "Gestión de sistemas embebidos a escala Fortune 500",
+        "Creación de nuevos paradigmas de computación en el borde",
+        "Definición de futuro de sistemas embebidos",
+        "Evangelización de sistemas embebidos a nivel de junta directiva",
+        "Influencia en industria de semiconductores"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de alianzas con fundiciones",
+        "Experiencia en unicornios embebidos",
+        "Liderazgo en organismos de estándares"
+      ],
+      "indicators": [
+        "Reporta a CTO",
+        "Gestiona organización embebida (50+ personas)",
+        "Define estrategia de hardware y software"
+      ]
+    },
+    "ESE-L8": {
+      "level": "L8 - Vicepresidente de Sistemas Embebidos",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de computación ubicua",
+        "Liderazgo en revolución embebida global",
+        "Creación de paradigmas de computación invisible",
+        "Gestión de miles de millones de dispositivos",
+        "Innovación disruptiva en nanosistemas",
+        "Definición de sistemas embebidos omnipresentes",
+        "Evangelización de materia inteligente",
+        "Influencia en políticas de semiconductores"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como vicepresidente de ingeniería en gigantes de hardware",
+        "Asesoría en fondos embebidos",
+        "Liderazgo de pensamiento en computación en el borde"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia embebida global",
+        "Es líder mundial en sistemas embebidos"
+      ]
+    },
+    "ESE-L9": {
+      "level": "L9 - Arquitecto Jefe de Sistemas Embebidos",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de computación física",
+        "Transformación de materia mediante inteligencia embebida",
+        "Creación de paradigmas de todo inteligente",
+        "Definición de computación molecular",
+        "Innovación en computación biológica",
+        "Evangelización de computación de la realidad",
+        "Arquitecto de universo programable",
+        "Influencia en evolución de hardware inteligente"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones en sistemas embebidos",
+        "Reconocimiento como pionero de computación en el borde",
+        "Influencia en futuro de computación"
+      ],
+      "indicators": [
+        "Es Director de Sistemas Embebidos legendario",
+        "Define futuro de sistemas embebidos",
+        "Es autoridad mundial en inteligencia en el borde"
+      ]
+    }
+  }
+}

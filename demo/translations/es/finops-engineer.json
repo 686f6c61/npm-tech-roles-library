@@ -1,0 +1,200 @@
+{
+  "FOE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de cloud costs",
+      "Comprensión elemental de billing",
+      "Habilidad para reporting básico",
+      "Conocimiento básico de cost allocation",
+      "Capacidad de identificar waste",
+      "Comprensión de pricing models",
+      "Documentación de savings",
+      "Conocimiento elemental de budgets"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con cloud consoles",
+      "Conocimiento de tagging básico",
+      "Comprensión elemental de showback"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Genera reports básicos",
+      "Está aprendiendo FinOps"
+    ]
+  },
+  "FOE-L2": {
+    "coreCompetencies": [
+      "Capacidad de análisis de costos",
+      "Implementación de cost allocation",
+      "Conocimiento práctico de optimization",
+      "Habilidad para rightsizing",
+      "Comprensión de reserved instances",
+      "Capacidad de forecasting básico",
+      "Conocimiento de chargeback",
+      "Habilidad para recommendations"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de CloudHealth/Cloudability",
+      "Habilidad para scripting",
+      "Comprensión de cost anomaly detection"
+    ],
+    "indicators": [
+      "Optimiza costos con supervisión",
+      "Implementa savings plans",
+      "Genera cost insights"
+    ]
+  },
+  "FOE-L3": {
+    "coreCompetencies": [
+      "Diseño de cost optimization strategies",
+      "Implementación de automated optimization",
+      "Dominio de cloud economics",
+      "Capacidad de cost modeling",
+      "Habilidad para showback/chargeback",
+      "Conocimiento profundo de pricing",
+      "Implementación de governance",
+      "Capacidad de stakeholder management"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de commitment-based discounts",
+      "Habilidad para FinOps tools",
+      "Comprensión de multi-cloud costs"
+    ],
+    "indicators": [
+      "Lidera optimization projects",
+      "Diseña cost frameworks",
+      "Mentoriza en FinOps"
+    ]
+  },
+  "FOE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de FinOps programs",
+      "Diseño de enterprise cost strategy",
+      "Implementación de FinOps at scale",
+      "Dominio de unit economics",
+      "Capacidad de cost allocation complex",
+      "Conocimiento profundo de cloud contracts",
+      "Habilidad para ROI analysis",
+      "Liderazgo en cost culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en multi-cloud FinOps",
+      "Conocimiento de vendor negotiations",
+      "Implementación de FinOps automation"
+    ],
+    "indicators": [
+      "Define estrategia FinOps",
+      "Lidera cost optimization",
+      "Es referente en cloud economics"
+    ]
+  },
+  "FOE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en FinOps",
+      "Diseño de cost ecosystems",
+      "Gestión de FinOps teams",
+      "Definición de FinOps standards",
+      "Capacidad de financial governance",
+      "Implementación de cost intelligence",
+      "Dominio de optimization at scale",
+      "Evangelización de cost consciousness"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en cloud financial management",
+      "Conocimiento de FinOps Foundation",
+      "Gestión de optimization budget"
+    ],
+    "indicators": [
+      "Gestiona equipo FinOps",
+      "Define visión cost optimization",
+      "Representa FinOps ante CFO"
+    ]
+  },
+  "FOE-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia FinOps",
+      "Gestión de cloud financial operations",
+      "Definición de FinOps architecture",
+      "Liderazgo en cost transformation",
+      "Gestión de commitment strategies",
+      "Implementación de global FinOps",
+      "Innovación en cost optimization",
+      "Gestión de vendor relationships"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en FinOps maturity",
+      "Conocimiento de cloud economics",
+      "Liderazgo en FinOps community"
+    ],
+    "indicators": [
+      "Dirige departamento FinOps",
+      "Participa en estrategia financiera",
+      "Define cloud spend"
+    ]
+  },
+  "FOE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en FinOps",
+      "Diseño de estrategias de cost globales",
+      "Transformación de cloud economics",
+      "Gestión de spend a escala",
+      "Creación de cost-aware culture",
+      "Definición de FinOps roadmap",
+      "Evangelización a nivel board",
+      "Influencia en procurement"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de cloud budgets multi-millonarios",
+      "Experiencia en FinOps certification",
+      "Liderazgo en cost optimization"
+    ],
+    "indicators": [
+      "Reporta a CTO/CFO",
+      "Gestiona organización FinOps (15+ personas)",
+      "Define estrategia spend"
+    ]
+  },
+  "FOE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de cloud economics",
+      "Liderazgo en FinOps transformation",
+      "Creación de cost advantage",
+      "Gestión de financial ecosystems",
+      "Innovación en cost optimization",
+      "Definición de autonomous FinOps",
+      "Evangelización de unit economics",
+      "Influencia en cloud strategy"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en cloud financial leadership",
+      "Advisory en FinOps",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia FinOps",
+      "Es líder reconocido"
+    ]
+  },
+  "FOE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en cloud economics",
+      "Transformación de financial operations",
+      "Creación de paradigmas FinOps",
+      "Definición de cost-optimized organizations",
+      "Innovación en cloud finance",
+      "Evangelización de economic consciousness",
+      "Arquitecto de FinOps ecosystems",
+      "Influencia en procurement"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando cloud spend",
+      "Reconocimiento como FinOps pioneer",
+      "Influencia en economics"
+    ],
+    "indicators": [
+      "Es Chief FinOps Officer",
+      "Define futuro cloud economics",
+      "Es autoridad mundial"
+    ]
+  }
+}

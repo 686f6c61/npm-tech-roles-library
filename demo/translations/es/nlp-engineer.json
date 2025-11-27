@@ -1,0 +1,201 @@
+{
+  "NLP-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de procesamiento de lenguaje",
+      "Conocimiento elemental de lingüística computacional",
+      "Habilidad para tokenización básica",
+      "Comprensión básica de embeddings",
+      "Capacidad de usar librerías NLP",
+      "Conocimiento elemental de sentiment analysis",
+      "Comprensión básica de chatbots",
+      "Habilidad para preprocessing texto"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de regex",
+      "Familiaridad con corpus",
+      "Comprensión elemental de idiomas"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Puede implementar NLP básico",
+      "Necesita 6-12 meses de mentoría"
+    ]
+  },
+  "NLP-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar modelos NLP",
+      "Habilidad para fine-tuning",
+      "Conocimiento práctico de transformers",
+      "Comprensión de NER y POS",
+      "Capacidad de text classification",
+      "Habilidad para topic modeling",
+      "Conocimiento de translation básica",
+      "Comprensión de speech-to-text"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de BERT/GPT",
+      "Habilidad para multilingual",
+      "Comprensión de dialogue systems"
+    ],
+    "indicators": [
+      "Desarrolla soluciones NLP con supervisión",
+      "Implementa modelos estándar",
+      "Optimiza pipelines básicos"
+    ]
+  },
+  "NLP-L3": {
+    "coreCompetencies": [
+      "Dominio de arquitecturas transformer",
+      "Capacidad de custom models",
+      "Habilidad para large language models",
+      "Conocimiento profundo de attention mechanisms",
+      "Capacidad de multimodal NLP",
+      "Comprensión sólida de generation",
+      "Habilidad para knowledge graphs",
+      "Conocimiento de ethical NLP"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de neural machine translation",
+      "Habilidad para voice synthesis",
+      "Comprensión de emotion AI"
+    ],
+    "indicators": [
+      "Diseña sistemas NLP complejos",
+      "Lidera proyectos de lenguaje",
+      "Innova en procesamiento de texto"
+    ]
+  },
+  "NLP-L4": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar plataformas NLP",
+      "Dominio de scale systems",
+      "Habilidad para production LLMs",
+      "Conocimiento profundo de efficiency",
+      "Capacidad de liderar equipos",
+      "Dominio de multilingual systems",
+      "Habilidad para conversational AI",
+      "Conocimiento de NLP strategy"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de AGI language",
+      "Habilidad para consciousness modeling",
+      "Comprensión de semantic reality"
+    ],
+    "indicators": [
+      "Define estrategia NLP",
+      "Lidera transformación de lenguaje",
+      "Mentora ingenieros NLP"
+    ]
+  },
+  "NLP-L5": {
+    "coreCompetencies": [
+      "Expertise en plataformas empresariales",
+      "Capacidad de democratización NLP",
+      "Dominio de self-service NLP",
+      "Habilidad para innovation labs",
+      "Conocimiento profundo de language understanding",
+      "Capacidad de definir cultura",
+      "Expertise en partnerships",
+      "Dominio de research"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de telepathic interfaces",
+      "Habilidad para universal translation",
+      "Comprensión de thought encoding"
+    ],
+    "indicators": [
+      "Arquitecta ecosistemas NLP",
+      "Lidera organizaciones de lenguaje",
+      "Define roadmap NLP"
+    ]
+  },
+  "NLP-L6": {
+    "coreCompetencies": [
+      "Capacidad de definir visión NLP",
+      "Expertise en language innovation",
+      "Dominio de global strategy",
+      "Habilidad para ecosystem building",
+      "Conocimiento profundo de language futures",
+      "Capacidad de thought leadership",
+      "Expertise en communication revolution",
+      "Dominio de impact"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de alien languages",
+      "Habilidad para dimensional communication",
+      "Comprensión de cosmic language"
+    ],
+    "indicators": [
+      "Define visión NLP corporativa",
+      "Lidera transformación lingüística",
+      "Influencia industria"
+    ]
+  },
+  "NLP-L7": {
+    "coreCompetencies": [
+      "Liderazgo en evolución del lenguaje",
+      "Capacidad de gestión global",
+      "Expertise en transformation",
+      "Dominio de governance",
+      "Capacidad de definir filosofía",
+      "Conocimiento profundo de competitive advantage",
+      "Expertise en strategic NLP",
+      "Capacidad de liderar revolución"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de crear lenguajes",
+      "Habilidad para NLP ventures",
+      "Conocimiento de language economies"
+    ],
+    "indicators": [
+      "Define estrategia ejecutiva",
+      "Representa empresa en NLP",
+      "Thought leader en lenguaje"
+    ]
+  },
+  "NLP-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de NLP",
+      "Capacidad de lenguaje como core",
+      "Expertise en transformación mediante lenguaje",
+      "Dominio de gestión ejecutiva",
+      "Capacidad de construir imperios",
+      "Conocimiento profundo de language value",
+      "Expertise en global communication",
+      "Capacidad de definir cultura"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar comunicación global",
+      "Habilidad para language M&A",
+      "Conocimiento de babel resolution"
+    ],
+    "indicators": [
+      "Responsable de toda estrategia NLP",
+      "Define futuro del lenguaje",
+      "Líder reconocido"
+    ]
+  },
+  "NLP-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en lenguaje",
+      "Capacidad de comunicación como ventaja definitiva",
+      "Expertise en transformación de humanidad",
+      "Dominio de language governance",
+      "Capacidad de crear nuevos modos de pensamiento",
+      "Conocimiento profundo de consciousness interface",
+      "Expertise en reality description",
+      "Capacidad de definir existencia lingüística",
+      "Dominio de logos"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de crear realidades mediante lenguaje",
+      "Habilidad para omnilingual communion",
+      "Conocimiento de post-verbal futures"
+    ],
+    "indicators": [
+      "Máximo responsable de lenguaje",
+      "Define futuro de comunicación humana",
+      "Líder global en NLP"
+    ]
+  }
+}

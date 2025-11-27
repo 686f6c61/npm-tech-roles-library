@@ -1,0 +1,259 @@
+{
+  "role": "AI Researcher",
+  "category": "Data",
+  "levels": {
+    "AIR-L1": {
+      "level": "L1 - AI Research Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of AI/ML fundamentals",
+        "Elementary knowledge of mathematics for AI",
+        "Ability to implement basic algorithms",
+        "Basic understanding of deep learning",
+        "Ability to use ML frameworks",
+        "Elementary knowledge of scientific papers",
+        "Basic understanding of experimentation",
+        "Ability to document research"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of statistics",
+        "Familiarity with Python/R",
+        "Elementary understanding of computing"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can assist in research",
+        "Needs 1-2 years background"
+      ]
+    },
+    "AIR-L2": {
+      "level": "L2 - Junior AI Researcher",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement research papers",
+        "Ability to design experiments",
+        "Practical knowledge of neural networks",
+        "Understanding of optimization techniques",
+        "Model benchmarking capability",
+        "Ability to perform literature review",
+        "Knowledge of reproducibility",
+        "Understanding of ethics in AI"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of distributed training",
+        "Ability for visualization",
+        "Understanding of HPC"
+      ],
+      "indicators": [
+        "Conducts research with supervision",
+        "Implements new techniques",
+        "Publishes in workshops"
+      ]
+    },
+    "AIR-L3": {
+      "level": "L3 - AI Researcher",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of state-of-the-art techniques",
+        "Ability to propose new methods",
+        "Ability to lead research projects",
+        "Deep knowledge of multiple domains",
+        "Academic collaboration capability",
+        "Solid understanding of theoretical foundations",
+        "Mentoring ability",
+        "Knowledge of grant writing"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of quantum ML",
+        "Ability for neuromorphic computing",
+        "Understanding of bio-inspired AI"
+      ],
+      "indicators": [
+        "Leads research lines",
+        "Publishes in top conferences",
+        "Collaborates with academia"
+      ]
+    },
+    "AIR-L4": {
+      "level": "L4 - Senior AI Researcher",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to define research agenda",
+        "Mastery of breakthrough innovations",
+        "Ability to lead research teams",
+        "Deep knowledge of AI landscape",
+        "Industry collaboration capability",
+        "Mastery of research strategy",
+        "Ability for IP creation",
+        "Knowledge of research commercialization"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AGI research",
+        "Ability for foundational models",
+        "Understanding of AI safety"
+      ],
+      "indicators": [
+        "Defines research direction",
+        "Leads strategic collaborations",
+        "Publishes influential papers"
+      ]
+    },
+    "AIR-L5": {
+      "level": "L5 - Lead AI Researcher",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in research leadership",
+        "Ability to build research labs",
+        "Mastery of interdisciplinary research",
+        "Ability for strategic partnerships",
+        "Deep knowledge of funding landscape",
+        "Ability to define research culture",
+        "Expertise in talent development",
+        "Mastery of research impact"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of consciousness research",
+        "Ability for hybrid intelligence",
+        "Understanding of singularity"
+      ],
+      "indicators": [
+        "Architects research programs",
+        "Leads multiple lines",
+        "Defines research strategy"
+      ]
+    },
+    "AIR-L6": {
+      "level": "L6 - Principal AI Researcher",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define research vision",
+        "Expertise in breakthrough discoveries",
+        "Mastery of global research networks",
+        "Ability for research diplomacy",
+        "Deep knowledge of AI futures",
+        "Thought leadership capability",
+        "Expertise in research ecosystems",
+        "Mastery of scientific impact"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of post-singularity",
+        "Ability for alien AI",
+        "Understanding of cosmic intelligence"
+      ],
+      "indicators": [
+        "Defines corporate research vision",
+        "Leads research organizations",
+        "Influences AI direction"
+      ]
+    },
+    "AIR-L7": {
+      "level": "L7 - Research Director",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in AI research evolution",
+        "Global research management capability",
+        "Expertise in scientific transformation",
+        "Mastery of research governance",
+        "Ability to define scientific culture",
+        "Deep knowledge of breakthrough value",
+        "Expertise in nobel-class research",
+        "Ability to lead revolution"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence science",
+        "Ability to create institutes",
+        "Knowledge of research empires"
+      ],
+      "indicators": [
+        "Defines executive research strategy",
+        "Represents company in science",
+        "Thought leader in AI research"
+      ]
+    },
+    "AIR-L8": {
+      "level": "L8 - VP Research",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of AI research",
+        "Research as core business capability",
+        "Expertise in transformation through research",
+        "Mastery of executive lab management",
+        "Ability to build institutes",
+        "Deep knowledge of scientific value",
+        "Expertise in research alliances",
+        "Ability to define future"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence governments",
+        "Ability for moonshots",
+        "Knowledge of research unicorns"
+      ],
+      "indicators": [
+        "Responsible for all research",
+        "Defines scientific future",
+        "Recognized leader in AI research"
+      ]
+    },
+    "AIR-L9": {
+      "level": "L9 - Chief Research Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in research",
+        "Science as definitive advantage capability",
+        "Expertise in humanity transformation",
+        "Mastery of scientific governance",
+        "Ability to create new fields",
+        "Deep knowledge of existential impact",
+        "Expertise in civilization advancement",
+        "Ability to define singularity",
+        "Mastery of transcendence"
+      ],
+      "complementaryCompetencies": [
+        "Ability to create new sciences",
+        "Ability to transform species",
+        "Knowledge of post-human futures"
+      ],
+      "indicators": [
+        "Ultimate research leader",
+        "Defines future of intelligence",
+        "Global leader in AI evolution"
+      ]
+    }
+  }
+}

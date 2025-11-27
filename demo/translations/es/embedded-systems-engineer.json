@@ -1,0 +1,200 @@
+{
+  "ESE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de microcontroladores",
+      "Comprensión elemental de arquitecturas de hardware",
+      "Habilidad para programación en C básica",
+      "Conocimiento básico de interfaces de hardware",
+      "Capacidad de debugging con JTAG básico",
+      "Comprensión de interrupciones y timers",
+      "Documentación de especificaciones de hardware",
+      "Conocimiento elemental de RTOS"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con esquemáticos básicos",
+      "Conocimiento de protocolos seriales",
+      "Comprensión de memoria y buses"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Programa firmware simple",
+      "Está aprendiendo embedded systems"
+    ]
+  },
+  "ESE-L2": {
+    "coreCompetencies": [
+      "Capacidad de desarrollar drivers de dispositivos",
+      "Implementación de bootloaders",
+      "Conocimiento práctico de RTOS",
+      "Habilidad para optimización de memoria",
+      "Comprensión de DMA y periféricos",
+      "Capacidad de low-level debugging",
+      "Conocimiento de power optimization",
+      "Habilidad para hardware abstraction layers"
+    ],
+    "complementaryCompetencies": [
+      "Desarrollo de BSP básico",
+      "Conocimiento de protocolos automotrices",
+      "Comprensión de safety standards"
+    ],
+    "indicators": [
+      "Desarrolla firmware con supervisión",
+      "Implementa drivers de hardware",
+      "Optimiza código embebido"
+    ]
+  },
+  "ESE-L3": {
+    "coreCompetencies": [
+      "Diseño de arquitecturas embebidas complejas",
+      "Implementación de sistemas real-time críticos",
+      "Dominio de optimización de performance",
+      "Capacidad de hardware-software co-design",
+      "Habilidad para sistemas multicore",
+      "Conocimiento profundo de memory management",
+      "Implementación de secure boot",
+      "Diseño de sistemas fault-tolerant"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de AUTOSAR",
+      "Habilidad para DSP programming",
+      "Comprensión de functional safety"
+    ],
+    "indicators": [
+      "Lidera desarrollo embebido",
+      "Diseña sistemas críticos",
+      "Mentoriza embedded engineers"
+    ]
+  },
+  "ESE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de plataformas embebidas",
+      "Diseño de SoC integration",
+      "Implementación de hypervisors embebidos",
+      "Dominio de mixed-criticality systems",
+      "Capacidad de hardware acceleration",
+      "Conocimiento profundo de safety-critical design",
+      "Habilidad para formal methods",
+      "Liderazgo en embedded standards"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en aerospace systems",
+      "Conocimiento de medical device standards",
+      "Implementación de AI en edge"
+    ],
+    "indicators": [
+      "Define arquitectura embebida empresarial",
+      "Lidera equipos de firmware",
+      "Es referente en sistemas embebidos"
+    ]
+  },
+  "ESE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en embedded platforms",
+      "Diseño de product lines embebidas",
+      "Gestión de equipos de embedded development",
+      "Definición de embedded strategy",
+      "Capacidad de platform economics",
+      "Implementación de embedded DevOps",
+      "Dominio de certification processes",
+      "Evangelización de edge intelligence"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en automotive platforms",
+      "Conocimiento de DO-178C/ISO26262",
+      "Gestión de silicon vendors"
+    ],
+    "indicators": [
+      "Gestiona múltiples equipos embedded",
+      "Define visión de plataformas embebidas",
+      "Representa embedded ante ejecutivos"
+    ]
+  },
+  "ESE-L6": {
+    "coreCompetencies": [
+      "Dirección de embedded systems organizacional",
+      "Estrategia de productos embebidos",
+      "Gestión de inversiones en hardware/software",
+      "Definición de edge computing strategy",
+      "Liderazgo en transformación embebida",
+      "Implementación de autonomous systems",
+      "Innovación en ultra-low power",
+      "Gestión de ecosistemas de hardware"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en consumer electronics",
+      "Conocimiento de supply chain hardware",
+      "Liderazgo en embedded consortiums"
+    ],
+    "indicators": [
+      "Dirige departamento embedded (20+ personas)",
+      "Participa en estrategia de producto",
+      "Define inversiones en hardware"
+    ]
+  },
+  "ESE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en embedded technology",
+      "Diseño de estrategias embedded globales",
+      "Transformación de industrias via embedded",
+      "Gestión de embedded a escala Fortune 500",
+      "Creación de nuevos paradigmas de edge",
+      "Definición de futuro de sistemas embebidos",
+      "Evangelización embedded a nivel board",
+      "Influencia en industria de semiconductores"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de partnerships con fabs",
+      "Experiencia en embedded unicorns",
+      "Liderazgo en standards bodies"
+    ],
+    "indicators": [
+      "Reporta a CTO",
+      "Gestiona organización embedded (50+ personas)",
+      "Define estrategia de hardware/software"
+    ]
+  },
+  "ESE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de ubiquitous computing",
+      "Liderazgo en revolución embedded global",
+      "Creación de paradigmas de invisible computing",
+      "Gestión de billones de dispositivos",
+      "Innovación disruptiva en nano-systems",
+      "Definición de embedded everywhere",
+      "Evangelización de smart matter",
+      "Influencia en políticas de semiconductores"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como VP Engineering en hardware giants",
+      "Advisory en embedded funds",
+      "Thought leadership en edge computing"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia embedded global",
+      "Es líder mundial en sistemas embebidos"
+    ]
+  },
+  "ESE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de computación física",
+      "Transformación de materia via embedded intelligence",
+      "Creación de paradigmas de smart everything",
+      "Definición de computación molecular",
+      "Innovación en biological computing",
+      "Evangelización de reality computing",
+      "Arquitecto de universo programable",
+      "Influencia en evolución de hardware inteligente"
+    ],
+    "complementaryCompetencies": [
+      "Creador de revoluciones en embedded",
+      "Reconocimiento como pionero de edge computing",
+      "Influencia en futuro de computación"
+    ],
+    "indicators": [
+      "Es Chief Embedded Officer legendario",
+      "Define futuro de sistemas embebidos",
+      "Es autoridad mundial en edge intelligence"
+    ]
+  }
+}

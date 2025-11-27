@@ -1,0 +1,258 @@
+{
+  "role": "Test Automation Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "TAE-L1": {
+      "level": "L1 - Test Auto Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de pruebas manuales",
+        "Comprensión del ciclo de vida de las pruebas",
+        "Habilidad para escribir casos de prueba simples",
+        "Conocimiento elemental de herramientas de automatización",
+        "Capacidad de ejecutar conjuntos de pruebas existentes",
+        "Comprensión básica de depuración de pruebas",
+        "Documentación básica de defectos",
+        "Conocimientos fundamentales de tipos de pruebas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con control de versiones",
+        "Conocimiento básico de integración y despliegue continuo",
+        "Comprensión elemental de APIs REST"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta planes de prueba predefinidos",
+        "Está aprendiendo fundamentos de automatización"
+      ]
+    },
+    "TAE-L2": {
+      "level": "L2 - Junior Test Auto",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de crear scripts de automatización básicos",
+        "Implementación de casos de prueba para funcionalidad simple",
+        "Conocimiento práctico de marcos de pruebas",
+        "Habilidad para mantener conjuntos de pruebas existentes",
+        "Comprensión de pruebas guiadas por datos",
+        "Capacidad de integrar pruebas en flujos de integración continua",
+        "Conocimiento de modelos de objetos de página",
+        "Habilidad para pruebas de APIs básicas"
+      ],
+      "complementaryCompetencies": [
+        "Pruebas de interfaces web adaptativas",
+        "Conocimiento de pruebas de bases de datos",
+        "Comprensión de pruebas de rendimiento básicas"
+      ],
+      "indicators": [
+        "Automatiza casos de prueba con supervisión",
+        "Mantiene conjuntos de pruebas existentes",
+        "Identifica y reporta errores efectivamente"
+      ]
+    },
+    "TAE-L3": {
+      "level": "L3 - Test Auto Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de marcos de automatización robustos",
+        "Implementación de pruebas de extremo a extremo complejas",
+        "Capacidad de crear infraestructuras de prueba personalizadas",
+        "Dominio de metodologías de desarrollo guiado por comportamiento y pruebas",
+        "Habilidad para pruebas de microservicios",
+        "Conocimiento profundo de simulación y sustitución de servicios",
+        "Capacidad de pruebas de rendimiento avanzadas",
+        "Implementación de pruebas de regresión visual"
+      ],
+      "complementaryCompetencies": [
+        "Pruebas de aplicaciones móviles nativas",
+        "Conocimiento de pruebas de seguridad",
+        "Habilidad para pruebas de caos"
+      ],
+      "indicators": [
+        "Diseña estrategias de automatización completas",
+        "Lidera iniciativas de calidad",
+        "Mentoriza a probadores junior"
+      ]
+    },
+    "TAE-L4": {
+      "level": "L4 - Senior Test Auto",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de pruebas empresariales",
+        "Diseño de estrategias de pruebas multicapa",
+        "Implementación de pruebas continuas",
+        "Capacidad de pruebas en arquitecturas distribuidas",
+        "Dominio de pruebas de contratos",
+        "Habilidad para monitoreo sintético",
+        "Conocimiento profundo de optimización de pruebas",
+        "Liderazgo en pruebas tempranas en el ciclo de desarrollo"
+      ],
+      "complementaryCompetencies": [
+        "Implementación de inteligencia artificial en pruebas",
+        "Conocimiento de pruebas de accesibilidad avanzadas",
+        "Experiencia en pruebas de cumplimiento normativo"
+      ],
+      "indicators": [
+        "Define estrategias de pruebas organizacionales",
+        "Lidera equipos de automatización",
+        "Es evangelista de calidad"
+      ]
+    },
+    "TAE-L5": {
+      "level": "L5 - Lead Test Auto",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en ingeniería de calidad",
+        "Diseño de estrategias de calidad a escala",
+        "Gestión de equipos de automatización",
+        "Definición de métricas e indicadores de calidad",
+        "Implementación de puertas de calidad empresariales",
+        "Capacidad de estrategia de pruebas para transformaciones digitales",
+        "Dominio de pruebas basadas en riesgos",
+        "Evangelización de cultura de calidad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en pruebas de Internet de las Cosas y computación en el borde",
+        "Conocimiento de pruebas para sistemas de aprendizaje automático e inteligencia artificial",
+        "Gestión de pruebas externalizadas"
+      ],
+      "indicators": [
+        "Gestiona múltiples equipos de aseguramiento de calidad",
+        "Define hoja de ruta de calidad empresarial",
+        "Representa calidad ante ejecutivos"
+      ]
+    },
+    "TAE-L6": {
+      "level": "L6 - Principal Test Auto",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de calidad a nivel organizacional",
+        "Estrategia de pruebas para productos complejos",
+        "Gestión de presupuestos de calidad significativos",
+        "Definición de políticas de calidad corporativas",
+        "Liderazgo en transformación de aseguramiento a ingeniería de calidad",
+        "Implementación de modelos de calidad predictivos",
+        "Gestión de relaciones con proveedores para pruebas",
+        "Innovación en metodologías de calidad"
+      ],
+      "complementaryCompetencies": [
+        "Pruebas en contextos regulados (autoridades sanitarias, normas internacionales)",
+        "Experiencia en auditorías de calidad",
+        "Conocimiento de modelos de madurez de pruebas"
+      ],
+      "indicators": [
+        "Dirige departamento de calidad (20+ personas)",
+        "Participa en decisiones de producto estratégicas",
+        "Define inversiones en herramientas y tecnología"
+      ]
+    },
+    "TAE-L7": {
+      "level": "L7 - Director Test Auto",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en calidad de software",
+        "Diseño de estrategias de calidad globales",
+        "Transformación organizacional hacia calidad continua",
+        "Gestión de calidad en contextos multiproducto",
+        "Definición de estándares de industria",
+        "Alineación de calidad con objetivos de negocio",
+        "Creación de centros de excelencia en pruebas",
+        "Influencia en hoja de ruta de producto desde calidad"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de calidad en fusiones y adquisiciones tecnológicas",
+        "Experiencia en debida diligencia de calidad",
+        "Liderazgo en comunidades de pruebas"
+      ],
+      "indicators": [
+        "Reporta a vicepresidente de ingeniería o director técnico",
+        "Gestiona organizaciones de calidad (50+ personas)",
+        "Define visión de calidad empresarial"
+      ]
+    },
+    "TAE-L8": {
+      "level": "L8 - VP Quality",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de calidad como diferenciador",
+        "Liderazgo en calidad para grandes empresas",
+        "Innovación disruptiva en metodologías de pruebas",
+        "Gestión de calidad a escala global",
+        "Creación de productos de pruebas comercializables",
+        "Definición del futuro de ingeniería de calidad",
+        "Evangelización ejecutiva de calidad",
+        "Influencia en estándares internacionales"
+      ],
+      "complementaryCompetencies": [
+        "Participación en comités de estándares internacionales",
+        "Experiencia como asesor en empresas emergentes de pruebas",
+        "Publicación de investigación en calidad"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia de calidad corporativa",
+        "Es líder de pensamiento reconocido en pruebas"
+      ]
+    },
+    "TAE-L9": {
+      "level": "L9 - CTO Quality",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en calidad de software",
+        "Definición del futuro de las pruebas y aseguramiento de calidad",
+        "Transformación de calidad en ventaja competitiva",
+        "Creación de ecosistemas de calidad",
+        "Innovación revolucionaria en ingeniería de calidad",
+        "Influencia global en prácticas de pruebas",
+        "Evangelización de calidad a nivel de junta directiva",
+        "Redefinición de paradigmas de calidad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de calidad o director técnico en múltiples empresas",
+        "Reconocimiento mundial en ingeniería de calidad",
+        "Participación en juntas directivas de empresas tecnológicas"
+      ],
+      "indicators": [
+        "Es director de calidad o equivalente",
+        "Define filosofía de calidad organizacional",
+        "Es autoridad global en pruebas y calidad"
+      ]
+    }
+  }
+}

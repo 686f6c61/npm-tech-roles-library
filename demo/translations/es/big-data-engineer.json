@@ -1,0 +1,201 @@
+{
+  "BDE-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de ecosistema Hadoop",
+      "Conocimiento elemental de procesamiento distribuido",
+      "Habilidad para usar herramientas básicas",
+      "Comprensión básica de NoSQL",
+      "Capacidad de procesar datasets medianos",
+      "Conocimiento elemental de MapReduce",
+      "Comprensión básica de data lakes",
+      "Habilidad para documentar pipelines"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de Spark",
+      "Familiaridad con cloud storage",
+      "Comprensión elemental de streaming"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Puede ejecutar jobs simples",
+      "Necesita 6-12 meses de mentoría"
+    ]
+  },
+  "BDE-L2": {
+    "coreCompetencies": [
+      "Capacidad de desarrollar pipelines Spark",
+      "Habilidad para optimización básica",
+      "Conocimiento práctico de Kafka",
+      "Comprensión de partitioning strategies",
+      "Capacidad de data ingestion",
+      "Habilidad para batch processing",
+      "Conocimiento de data formats",
+      "Comprensión de cluster management"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de Flink",
+      "Habilidad para Storm",
+      "Comprensión de Cassandra"
+    ],
+    "indicators": [
+      "Desarrolla pipelines con supervisión",
+      "Mantiene clusters básicos",
+      "Optimiza jobs simples"
+    ]
+  },
+  "BDE-L3": {
+    "coreCompetencies": [
+      "Dominio de arquitecturas lambda/kappa",
+      "Capacidad de real-time processing",
+      "Habilidad para optimization avanzada",
+      "Conocimiento profundo de distributed systems",
+      "Capacidad de data governance",
+      "Comprensión sólida de security",
+      "Habilidad para multi-tenancy",
+      "Conocimiento de cost optimization"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de graph processing",
+      "Habilidad para ML pipelines",
+      "Comprensión de edge analytics"
+    ],
+    "indicators": [
+      "Diseña arquitecturas big data",
+      "Lidera migraciones de datos",
+      "Optimiza clusters empresariales"
+    ]
+  },
+  "BDE-L4": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar plataformas",
+      "Dominio de petabyte-scale systems",
+      "Habilidad para global data lakes",
+      "Conocimiento profundo de streaming architectures",
+      "Capacidad de liderar equipos",
+      "Dominio de data mesh",
+      "Habilidad para vendor evaluation",
+      "Conocimiento de hybrid architectures"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de quantum data",
+      "Habilidad para federated learning",
+      "Comprensión de confidential computing"
+    ],
+    "indicators": [
+      "Define estrategia big data",
+      "Lidera transformaciones de datos",
+      "Mentora ingenieros"
+    ]
+  },
+  "BDE-L5": {
+    "coreCompetencies": [
+      "Expertise en plataformas empresariales",
+      "Capacidad de transformación big data",
+      "Dominio de democratización de datos",
+      "Habilidad para innovation labs",
+      "Conocimiento profundo de economics",
+      "Capacidad de definir cultura de datos",
+      "Expertise en partnerships",
+      "Dominio de R&D"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de exascale computing",
+      "Habilidad para neuromorphic data",
+      "Comprensión de DNA storage"
+    ],
+    "indicators": [
+      "Arquitecta ecosistemas de datos",
+      "Lidera organizaciones big data",
+      "Define roadmap de datos"
+    ]
+  },
+  "BDE-L6": {
+    "coreCompetencies": [
+      "Capacidad de definir visión de datos",
+      "Expertise en data innovation",
+      "Dominio de global strategy",
+      "Habilidad para ecosystem building",
+      "Conocimiento profundo de data futures",
+      "Capacidad de thought leadership",
+      "Expertise en value creation",
+      "Dominio de data impact"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de cosmic data",
+      "Habilidad para quantum entanglement",
+      "Comprensión de multiverse data"
+    ],
+    "indicators": [
+      "Define visión de datos corporativa",
+      "Lidera transformación global",
+      "Influencia industria de datos"
+    ]
+  },
+  "BDE-L7": {
+    "coreCompetencies": [
+      "Liderazgo en evolución de datos",
+      "Capacidad de gestión global",
+      "Expertise en transformation",
+      "Dominio de governance",
+      "Capacidad de definir cultura",
+      "Conocimiento profundo de competitive advantage",
+      "Expertise en strategic data",
+      "Capacidad de liderar innovación"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar standards",
+      "Habilidad para data ventures",
+      "Conocimiento de data investments"
+    ],
+    "indicators": [
+      "Define estrategia ejecutiva",
+      "Representa empresa en big data",
+      "Thought leader en datos masivos"
+    ]
+  },
+  "BDE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica empresarial",
+      "Capacidad de datos como core",
+      "Expertise en transformación total",
+      "Dominio de gestión ejecutiva",
+      "Capacidad de construir organizaciones",
+      "Conocimiento profundo de data value",
+      "Expertise en alliances",
+      "Capacidad de definir cultura"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar industria",
+      "Habilidad para M&A",
+      "Conocimiento de data monopolies"
+    ],
+    "indicators": [
+      "Responsable de toda la data platform",
+      "Define futuro de datos",
+      "Líder reconocido globalmente"
+    ]
+  },
+  "BDE-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en datos",
+      "Capacidad de datos como modelo de negocio",
+      "Expertise en transformación mediante datos",
+      "Dominio de governance de datos",
+      "Capacidad de crear data empires",
+      "Conocimiento profundo de network effects",
+      "Expertise en data monetization",
+      "Capacidad de definir industrias",
+      "Dominio de data dominance"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de crear data economies",
+      "Habilidad para data sovereignty",
+      "Conocimiento de data as currency"
+    ],
+    "indicators": [
+      "Máximo responsable de plataforma de datos",
+      "Define futuro de la economía de datos",
+      "Líder global en big data"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "IE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de integración de sistemas",
+      "Comprensión elemental de APIs y web services",
+      "Habilidad para mapeo de datos simple",
+      "Conocimiento básico de formatos de intercambio",
+      "Capacidad de usar herramientas ETL básicas",
+      "Comprensión de middleware básico",
+      "Documentación de interfaces",
+      "Conocimiento elemental de protocols de integración"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con REST/SOAP",
+      "Conocimiento de JSON/XML transformations",
+      "Comprensión de message queues básico"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Implementa integraciones simples",
+      "Está aprendiendo integration patterns"
+    ]
+  },
+  "IE-L2": {
+    "coreCompetencies": [
+      "Capacidad de desarrollar conectores y adaptadores",
+      "Implementación de data transformation compleja",
+      "Conocimiento práctico de ESB/iPaaS",
+      "Habilidad para error handling en integraciones",
+      "Comprensión de transaction management",
+      "Capacidad de real-time integration",
+      "Conocimiento de batch processing",
+      "Habilidad para integration monitoring"
+    ],
+    "complementaryCompetencies": [
+      "Desarrollo de API orchestration",
+      "Conocimiento de event streaming",
+      "Comprensión de data synchronization"
+    ],
+    "indicators": [
+      "Desarrolla integraciones con supervisión",
+      "Implementa data pipelines",
+      "Mantiene conectores existentes"
+    ]
+  },
+  "IE-L3": {
+    "coreCompetencies": [
+      "Diseño de arquitecturas de integración empresariales",
+      "Implementación de integration patterns avanzados",
+      "Dominio de microservices integration",
+      "Capacidad de hybrid integration platforms",
+      "Habilidad para master data management",
+      "Conocimiento profundo de data governance",
+      "Implementación de API management",
+      "Diseño de integration security"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de blockchain integration",
+      "Habilidad para IoT integration",
+      "Comprensión de cloud-to-cloud integration"
+    ],
+    "indicators": [
+      "Lidera proyectos de integración",
+      "Diseña soluciones enterprise",
+      "Mentoriza integration engineers"
+    ]
+  },
+  "IE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de plataformas de integración",
+      "Diseño de estrategias de interoperabilidad",
+      "Implementación de federated integration",
+      "Dominio de semantic integration",
+      "Capacidad de integration at scale",
+      "Conocimiento profundo de data fabric",
+      "Habilidad para integration governance",
+      "Liderazgo en integration standards"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en B2B integration",
+      "Conocimiento de industry standards",
+      "Implementación de AI-driven integration"
+    ],
+    "indicators": [
+      "Define estrategia de integración",
+      "Lidera equipos de integration",
+      "Es referente en interoperabilidad"
+    ]
+  },
+  "IE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en integration engineering",
+      "Diseño de integration excellence programs",
+      "Gestión de equipos de integration",
+      "Definición de integration strategy",
+      "Capacidad de integration economics",
+      "Implementación de integration factories",
+      "Dominio de vendor management",
+      "Evangelización de seamless connectivity"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en M&A integration",
+      "Conocimiento de regulatory integration",
+      "Gestión de integration partners"
+    ],
+    "indicators": [
+      "Gestiona equipos de integration",
+      "Define visión de interoperabilidad",
+      "Representa integration ante ejecutivos"
+    ]
+  },
+  "IE-L6": {
+    "coreCompetencies": [
+      "Dirección de integration organizacional",
+      "Estrategia de ecosistema conectado",
+      "Gestión de inversiones en integration",
+      "Definición de interoperability strategy",
+      "Liderazgo en integration transformation",
+      "Implementación de autonomous integration",
+      "Innovación en integration paradigms",
+      "Gestión de global integration"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en digital ecosystems",
+      "Conocimiento de API economy",
+      "Liderazgo en integration consortiums"
+    ],
+    "indicators": [
+      "Dirige departamento de integration (20+ personas)",
+      "Participa en arquitectura empresarial",
+      "Define inversiones en conectividad"
+    ]
+  },
+  "IE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en integration excellence",
+      "Diseño de estrategias de integration globales",
+      "Transformación via seamless connectivity",
+      "Gestión de integration a escala Fortune 500",
+      "Creación de nuevos paradigmas de interoperabilidad",
+      "Definición de futuro de sistemas conectados",
+      "Evangelización integration a nivel board",
+      "Influencia en estándares de industria"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de ecosystem integration",
+      "Experiencia en platform economies",
+      "Liderazgo en interoperability standards"
+    ],
+    "indicators": [
+      "Reporta a CTO/CIO",
+      "Gestiona organización de integration (50+ personas)",
+      "Define estrategia de conectividad corporativa"
+    ]
+  },
+  "IE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de hiperconectividad total",
+      "Liderazgo en revolución de integración",
+      "Creación de paradigmas de seamless universe",
+      "Gestión de integration planetaria",
+      "Innovación disruptiva en universal connectivity",
+      "Definición de omnipresent integration",
+      "Evangelización de singularity connectivity",
+      "Influencia en economía conectada"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como Chief Integration en giants",
+      "Advisory en integration platforms",
+      "Thought leadership en interoperabilidad"
+    ],
+    "indicators": [
+      "Es parte del comité técnico",
+      "Define futuro de integration",
+      "Es líder mundial en conectividad de sistemas"
+    ]
+  },
+  "IE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de interconexión universal",
+      "Transformación de sistemas via perfect integration",
+      "Creación de paradigmas de unity computing",
+      "Definición de seamless reality",
+      "Innovación en consciousness integration",
+      "Evangelización de universal mesh",
+      "Arquitecto de realidad interconectada",
+      "Influencia en evolución de conectividad total"
+    ],
+    "complementaryCompetencies": [
+      "Creador de revoluciones en integration",
+      "Reconocimiento como maestro de interoperabilidad",
+      "Influencia en futuro de sistemas unidos"
+    ],
+    "indicators": [
+      "Es Chief Integration Officer legendario",
+      "Define futuro de conectividad universal",
+      "Es autoridad mundial en integration"
+    ]
+  }
+}

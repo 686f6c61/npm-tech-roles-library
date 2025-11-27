@@ -1,0 +1,200 @@
+{
+  "FE-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de HTML semántico y estructura de documentos",
+      "Conocimiento elemental de CSS y estilos básicos",
+      "Habilidad para crear páginas web estáticas simples",
+      "Comprensión básica de JavaScript y manipulación del DOM",
+      "Capacidad de usar herramientas de desarrollo del navegador",
+      "Conocimiento elemental de responsive design conceptos básicos",
+      "Comprensión básica de accesibilidad web",
+      "Habilidad para trabajar con sistemas de control de versiones básicos"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de diseño web",
+      "Familiaridad con editores de código",
+      "Comprensión elemental de HTTP"
+    ],
+    "indicators": [
+      "Requiere supervisión constante en tareas de frontend",
+      "Puede implementar interfaces simples con guía",
+      "Necesita 3-6 meses de mentoría intensiva"
+    ]
+  },
+  "FE-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar layouts complejos con CSS/Flexbox/Grid",
+      "Habilidad para crear componentes reutilizables básicos",
+      "Conocimiento práctico de frameworks/librerías modernas básico",
+      "Comprensión de gestión de estado en aplicaciones",
+      "Capacidad de consumir APIs REST y manejar datos asíncronos",
+      "Habilidad para implementar formularios con validación",
+      "Conocimiento de preprocesadores CSS y metodologías (BEM, SMACSS)",
+      "Comprensión de optimización básica de assets"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de testing frontend",
+      "Habilidad para usar build tools básicos",
+      "Comprensión de SEO básico"
+    ],
+    "indicators": [
+      "Puede desarrollar features de UI con supervisión moderada",
+      "Implementa componentes siguiendo patrones establecidos",
+      "Colabora efectivamente con diseñadores"
+    ]
+  },
+  "FE-L3": {
+    "coreCompetencies": [
+      "Dominio de JavaScript moderno (ES6+) y programación asíncrona",
+      "Capacidad de implementar gestión de estado compleja",
+      "Habilidad para optimizar rendimiento de aplicaciones frontend",
+      "Conocimiento profundo de lifecycle de componentes y hooks",
+      "Capacidad de implementar routing y navegación complejos",
+      "Comprensión sólida de bundlers y build optimization",
+      "Habilidad para implementar Progressive Web Apps básicas",
+      "Conocimiento de testing unitario y de integración frontend"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de TypeScript",
+      "Habilidad para implementar animaciones complejas",
+      "Comprensión de WebAssembly básico"
+    ],
+    "indicators": [
+      "Completa features frontend complejas independientemente",
+      "Optimiza aplicaciones para performance",
+      "Contribuye a decisiones de arquitectura frontend"
+    ]
+  },
+  "FE-L4": {
+    "coreCompetencies": [
+      "Capacidad de diseñar arquitecturas frontend escalables",
+      "Dominio de patrones avanzados de gestión de estado",
+      "Habilidad para implementar micro-frontends",
+      "Conocimiento profundo de performance optimization y metrics",
+      "Capacidad de implementar Server-Side Rendering y Static Generation",
+      "Dominio de accessibility (WCAG) y mejores prácticas",
+      "Habilidad para crear y mantener design systems",
+      "Conocimiento de monorepos y gestión de dependencias"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de Web Components",
+      "Habilidad para trabajar con WebRTC",
+      "Comprensión de GraphQL cliente"
+    ],
+    "indicators": [
+      "Lidera desarrollo de aplicaciones frontend complejas",
+      "Define estándares y herramientas del equipo",
+      "Mentora efectivamente a developers junior"
+    ]
+  },
+  "FE-L5": {
+    "coreCompetencies": [
+      "Expertise en arquitecturas de aplicaciones enterprise",
+      "Capacidad de diseñar sistemas de componentes corporativos",
+      "Dominio de estrategias de lazy loading y code splitting avanzadas",
+      "Habilidad para implementar real-time features complejas",
+      "Conocimiento profundo de seguridad frontend y OWASP",
+      "Capacidad de implementar AB testing y feature flags frontend",
+      "Expertise en internacionalización y localización",
+      "Dominio de optimización para dispositivos y redes limitadas"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de desarrollo multiplataforma",
+      "Habilidad para implementar visualizaciones de datos complejas",
+      "Comprensión de machine learning en el browser"
+    ],
+    "indicators": [
+      "Arquitecta soluciones frontend para productos completos",
+      "Lidera adopción de nuevas tecnologías frontend",
+      "Define roadmap técnico de frontend"
+    ]
+  },
+  "FE-L6": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar experiencias digitales omnicanal",
+      "Expertise en optimización de Core Web Vitals a escala",
+      "Dominio de estrategias de caching y offline-first",
+      "Habilidad para diseñar plataformas de componentes empresariales",
+      "Conocimiento profundo de browser APIs y capabilities",
+      "Capacidad de liderar migraciones frontend masivas",
+      "Expertise en building design systems desde cero",
+      "Dominio de developer experience y tooling"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de AR/VR web",
+      "Habilidad para contribuir a estándares web",
+      "Comprensión de edge computing para frontend"
+    ],
+    "indicators": [
+      "Arquitecta experiencias frontend para múltiples productos",
+      "Lidera transformación frontend organizacional",
+      "Influencia la comunidad frontend externa"
+    ]
+  },
+  "FE-L7": {
+    "coreCompetencies": [
+      "Liderazgo en innovación de experiencias digitales",
+      "Capacidad de diseñar arquitecturas frontend para millones de usuarios",
+      "Expertise en platform engineering para frontend",
+      "Dominio de optimización de experiencias globales",
+      "Capacidad de definir estrategias de experiencia de usuario técnicas",
+      "Conocimiento profundo de emerging web technologies",
+      "Expertise en building frameworks y herramientas propietarias",
+      "Capacidad de influenciar estándares de la industria"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de patentar innovaciones UI/UX",
+      "Habilidad para crear startups frontend-focused",
+      "Conocimiento de inversión en frontend tech"
+    ],
+    "indicators": [
+      "Define estrategia de experiencia digital empresarial",
+      "Speaker principal en conferencias frontend",
+      "Reconocido thought leader en frontend"
+    ]
+  },
+  "FE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica del futuro de las interfaces digitales",
+      "Capacidad de transformar empresas mediante experiencias digitales",
+      "Expertise en due diligence de tecnología frontend",
+      "Dominio de building organizaciones de frontend engineering",
+      "Capacidad de definir governance de experiencia digital",
+      "Conocimiento profundo de ROI de experiencia de usuario",
+      "Expertise en partnerships con browser vendors",
+      "Capacidad de liderar open source frontend projects"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar W3C y WHATWG",
+      "Habilidad para advisory boards técnicos",
+      "Conocimiento de frontend venture capital"
+    ],
+    "indicators": [
+      "Define arquitectura de experiencia para conglomerados",
+      "Influye en dirección de tecnologías web",
+      "Mentor de líderes frontend senior"
+    ]
+  },
+  "FE-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en experiencia digital",
+      "Capacidad de convertir UX en ventaja competitiva",
+      "Expertise en transformación digital customer-facing",
+      "Dominio de gestión de portfolios de productos digitales",
+      "Capacidad de construir organizaciones frontend globales",
+      "Conocimiento profundo de impacto de UX en métricas de negocio",
+      "Expertise en relaciones con stakeholders de producto",
+      "Capacidad de definir cultura de experiencia de usuario"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar industria UX/UI",
+      "Habilidad para crear ecosistemas de experiencia",
+      "Conocimiento de exits de empresas UX-focused"
+    ],
+    "indicators": [
+      "Define y ejecuta visión de experiencia digital",
+      "Responsable de satisfacción digital del cliente",
+      "Líder reconocido en experiencia digital"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "DA-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de estadística descriptiva",
+      "Comprensión elemental de bases de datos",
+      "Habilidad para queries SQL simples",
+      "Conocimiento básico de Excel avanzado",
+      "Capacidad de crear visualizaciones simples",
+      "Comprensión de data cleaning básico",
+      "Documentación de procesos de análisis",
+      "Conocimiento elemental de tipos de datos"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con herramientas BI básicas",
+      "Conocimiento de matemáticas fundamentales",
+      "Comprensión de métricas de negocio"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Ejecuta análisis predefinidos",
+      "Está aprendiendo metodologías de análisis"
+    ]
+  },
+  "DA-L2": {
+    "coreCompetencies": [
+      "Capacidad de análisis exploratorio de datos",
+      "Implementación de dashboards interactivos",
+      "Conocimiento práctico de statistical testing",
+      "Habilidad para data wrangling complejo",
+      "Comprensión de segmentación y clustering básico",
+      "Capacidad de storytelling con datos",
+      "Conocimiento de ETL processes",
+      "Habilidad para identificar tendencias"
+    ],
+    "complementaryCompetencies": [
+      "Análisis de series temporales básico",
+      "Conocimiento de A/B testing",
+      "Comprensión de customer analytics"
+    ],
+    "indicators": [
+      "Realiza análisis independientes",
+      "Crea reportes periódicos",
+      "Identifica insights accionables"
+    ]
+  },
+  "DA-L3": {
+    "coreCompetencies": [
+      "Diseño de frameworks analíticos completos",
+      "Implementación de modelos predictivos básicos",
+      "Dominio de advanced SQL y optimización",
+      "Capacidad de análisis multivariable",
+      "Habilidad para data governance",
+      "Conocimiento profundo de KPIs y métricas",
+      "Implementación de automated reporting",
+      "Diseño de experimentos y validación"
+    ],
+    "complementaryCompetencies": [
+      "Machine learning básico para análisis",
+      "Conocimiento de big data tools",
+      "Habilidad para prescriptive analytics"
+    ],
+    "indicators": [
+      "Lidera proyectos analíticos complejos",
+      "Define metodologías de análisis",
+      "Mentoriza analistas junior"
+    ]
+  },
+  "DA-L4": {
+    "coreCompetencies": [
+      "Arquitectura de soluciones analíticas empresariales",
+      "Diseño de data strategies departamentales",
+      "Implementación de advanced analytics",
+      "Dominio de business intelligence completo",
+      "Capacidad de ROI analysis y forecasting",
+      "Conocimiento profundo de data quality",
+      "Habilidad para cross-functional analytics",
+      "Liderazgo en data democratization"
+    ],
+    "complementaryCompetencies": [
+      "Implementación de real-time analytics",
+      "Conocimiento de data science workflows",
+      "Experiencia en industry-specific analytics"
+    ],
+    "indicators": [
+      "Define estrategia analítica departamental",
+      "Lidera equipos de analistas",
+      "Es referente en insights de negocio"
+    ]
+  },
+  "DA-L5": {
+    "coreCompetencies": [
+      "Liderazgo en analytics organizacional",
+      "Diseño de cultura data-driven",
+      "Gestión de equipos de analytics",
+      "Definición de analytics roadmaps",
+      "Capacidad de strategic planning con datos",
+      "Implementación de centers of excellence",
+      "Dominio de change management via datos",
+      "Evangelización de data literacy"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en transformación analítica",
+      "Conocimiento de analytics platforms enterprise",
+      "Gestión de vendor relationships"
+    ],
+    "indicators": [
+      "Gestiona múltiples equipos de analytics",
+      "Define visión analítica empresarial",
+      "Representa analytics ante C-suite"
+    ]
+  },
+  "DA-L6": {
+    "coreCompetencies": [
+      "Dirección de analytics a nivel corporativo",
+      "Estrategia de competitive intelligence",
+      "Gestión de presupuestos analíticos grandes",
+      "Definición de data monetization strategies",
+      "Liderazgo en digital analytics transformation",
+      "Implementación de advanced analytics capabilities",
+      "Innovación en methodologies analíticas",
+      "Gestión de analytics partnerships"
+    ],
+    "complementaryCompetencies": [
+      "Analytics en M&A y due diligence",
+      "Experiencia en analytics consulting",
+      "Conocimiento de regulatory analytics"
+    ],
+    "indicators": [
+      "Dirige departamento de analytics (20+ personas)",
+      "Participa en estrategia corporativa",
+      "Define inversiones en analytics"
+    ]
+  },
+  "DA-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en data analytics",
+      "Diseño de estrategias analíticas globales",
+      "Transformación de empresas mediante insights",
+      "Gestión de analytics a escala multinacional",
+      "Creación de ventajas competitivas via analytics",
+      "Definición de futuro de business intelligence",
+      "Evangelización analítica a nivel board",
+      "Influencia en analytics standards"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de analytics innovation labs",
+      "Experiencia en data-driven ventures",
+      "Liderazgo en analytics communities"
+    ],
+    "indicators": [
+      "Reporta a CEO/CFO",
+      "Gestiona organizaciones analíticas (50+ personas)",
+      "Define estrategia de insights corporativa"
+    ]
+  },
+  "DA-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de analytics como core business",
+      "Liderazgo en transformación analítica de industrias",
+      "Creación de nuevos paradigmas de análisis",
+      "Gestión de analytics ecosystems globales",
+      "Innovación disruptiva en decision intelligence",
+      "Definición de augmented analytics future",
+      "Evangelización de algorithmic business",
+      "Influencia en data policies globales"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como CAO/CDO en Fortune 500",
+      "Advisory en analytics startups",
+      "Thought leadership en analytics"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia analítica enterprise",
+      "Es líder reconocido en analytics"
+    ]
+  },
+  "DA-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de decision making",
+      "Transformación de cómo las empresas entienden datos",
+      "Creación de nuevos paradigmas analíticos",
+      "Definición de cognitive analytics evolution",
+      "Innovación en human-data symbiosis",
+      "Evangelización de data consciousness",
+      "Arquitecto de intelligence systems planetarios",
+      "Influencia en evolución de business intelligence"
+    ],
+    "complementaryCompetencies": [
+      "Pionero en analytics methodologies revolucionarias",
+      "Reconocimiento como guru de analytics",
+      "Influencia en educación analítica global"
+    ],
+    "indicators": [
+      "Es Chief Analytics Officer",
+      "Define futuro de inteligencia de negocio",
+      "Es autoridad mundial en analytics"
+    ]
+  }
+}

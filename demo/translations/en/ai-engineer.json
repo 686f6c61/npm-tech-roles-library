@@ -1,0 +1,200 @@
+{
+  "AIE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of AI/ML",
+      "Elementary understanding of fundamentals",
+      "Ability for simple tasks",
+      "Basic knowledge of tools",
+      "Capacity to work under supervision",
+      "Understanding of core concepts",
+      "Basic documentation",
+      "Elementary knowledge of best practices"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with basic frameworks",
+      "Knowledge of standard tools",
+      "Elementary understanding of cloud"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Executes basic tasks with guidance",
+      "Is learning AI/ML"
+    ]
+  },
+  "AIE-L2": {
+    "coreCompetencies": [
+      "Ability to implement basic AI/ML solutions",
+      "Implementation of standard techniques",
+      "Practical knowledge of frameworks",
+      "Ability to solve typical problems",
+      "Understanding of pipelines",
+      "Capacity for basic deployment",
+      "Knowledge of testing",
+      "Ability for documentation"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of emerging technologies",
+      "Ability for integration",
+      "Understanding of automation"
+    ],
+    "indicators": [
+      "Develops AI/ML solutions under supervision",
+      "Implements complete features",
+      "Optimizes basic processes"
+    ]
+  },
+  "AIE-L3": {
+    "coreCompetencies": [
+      "Design of end-to-end AI/ML solutions",
+      "Implementation of complex systems",
+      "Mastery of technology stack",
+      "Capacity for advanced optimization",
+      "Ability for architecture",
+      "Deep knowledge of best practices",
+      "Implementation of monitoring",
+      "Capacity for mentoring"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of advanced techniques",
+      "Ability for innovation",
+      "Understanding of research"
+    ],
+    "indicators": [
+      "Leads AI/ML projects",
+      "Designs complete architectures",
+      "Mentors junior engineers"
+    ]
+  },
+  "AIE-L4": {
+    "coreCompetencies": [
+      "Architecture of scalable AI/ML platforms",
+      "Design of technical strategies",
+      "Implementation of enterprise systems",
+      "Mastery of optimization at scale",
+      "Capacity for technical leadership",
+      "Deep knowledge of advanced patterns",
+      "Ability for strategic planning",
+      "Leadership in transformation"
+    ],
+    "complementaryCompetencies": [
+      "Experience in distributed systems",
+      "Knowledge of cutting-edge technology",
+      "Implementation of innovation"
+    ],
+    "indicators": [
+      "Defines AI/ML strategy",
+      "Leads technical teams",
+      "Is reference in AI/ML"
+    ]
+  },
+  "AIE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in AI/ML",
+      "Design of product strategy",
+      "Management of teams",
+      "Definition of standards",
+      "Capacity for ROI analysis",
+      "Implementation of governance",
+      "Mastery of emerging technology",
+      "Evangelization of culture"
+    ],
+    "complementaryCompetencies": [
+      "Experience in consulting",
+      "Knowledge of business models",
+      "Management of budgets"
+    ],
+    "indicators": [
+      "Manages AI/ML teams",
+      "Defines product vision",
+      "Represents AI/ML to stakeholders"
+    ]
+  },
+  "AIE-L6": {
+    "coreCompetencies": [
+      "Direction of corporate AI/ML strategy",
+      "Management of platforms at scale",
+      "Definition of enterprise architecture",
+      "Leadership in transformation",
+      "Management of strategic partnerships",
+      "Implementation of responsible practices",
+      "Innovation in solutions",
+      "Management of compliance"
+    ],
+    "complementaryCompetencies": [
+      "Experience in M&A",
+      "Knowledge of investment",
+      "Leadership in industry community"
+    ],
+    "indicators": [
+      "Directs AI/ML department",
+      "Participates in executive strategy",
+      "Defines AI/ML investments"
+    ]
+  },
+  "AIE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in AI/ML",
+      "Design of global strategies",
+      "Organizational transformation",
+      "Management at Fortune 500 scale",
+      "Creation of organizational culture",
+      "Definition of strategic roadmap",
+      "Evangelization at board level",
+      "Influence on industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of multi-million budgets",
+      "Experience in unicorns",
+      "Leadership in standards"
+    ],
+    "indicators": [
+      "Reports to CTO/CEO",
+      "Manages organization (50+ people)",
+      "Defines corporate AI/ML strategy"
+    ]
+  },
+  "AIE-L8": {
+    "coreCompetencies": [
+      "Strategic enterprise vision of AI/ML",
+      "Leadership in transformation",
+      "Creation of competitive advantage",
+      "Management of global ecosystems",
+      "Disruptive innovation",
+      "Definition of future direction",
+      "Evangelization of paradigm shift",
+      "Influence on policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as executive in tech giants",
+      "Advisory in startups",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines future of AI/ML",
+      "Is recognized leader in AI/ML"
+    ]
+  },
+  "AIE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in AI/ML",
+      "Transformation of industries",
+      "Creation of paradigms",
+      "Definition of AI/ML as core business",
+      "Innovation in breakthrough applications",
+      "Evangelization of culture",
+      "Architect of global ecosystems",
+      "Influence on regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming industries with AI/ML",
+      "Recognition as pioneer",
+      "Influence on future"
+    ],
+    "indicators": [
+      "Is Chief AI Engineer Officer",
+      "Defines the future of AI/ML industry",
+      "Is world authority in AI/ML"
+    ]
+  }
+}

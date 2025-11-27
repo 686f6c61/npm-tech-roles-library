@@ -1,0 +1,258 @@
+{
+  "role": "Especialista en Gobernanza de Datos",
+  "category": "Datos",
+  "levels": {
+    "DGS-L1": {
+      "level": "L1 - Aprendiz de Gobernanza de Datos",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de gobernanza de datos",
+        "Comprensión elemental de políticas de datos",
+        "Habilidad para documentar activos de datos",
+        "Conocimiento básico de metadatos",
+        "Capacidad de clasificación básica",
+        "Comprensión de privacidad de datos",
+        "Documentación de linaje",
+        "Conocimiento elemental de cumplimiento normativo"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con catálogos de datos",
+        "Conocimiento básico del RGPD",
+        "Comprensión elemental de custodia de datos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Documenta activos básicos",
+        "Está aprendiendo gobernanza"
+      ]
+    },
+    "DGS-L2": {
+      "level": "L2 - Especialista Junior en Gobernanza de Datos",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar políticas de datos",
+        "Implementación de clasificación de datos",
+        "Conocimiento práctico de gestión de metadatos",
+        "Habilidad para custodia de datos",
+        "Comprensión de control de acceso",
+        "Capacidad de seguimiento de linaje",
+        "Conocimiento básico de cumplimiento normativo",
+        "Habilidad para informes de gobernanza"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de Collibra o Alation",
+        "Habilidad para privacidad de datos",
+        "Comprensión de requisitos regulatorios"
+      ],
+      "indicators": [
+        "Implementa políticas con supervisión",
+        "Gestiona metadatos",
+        "Contribuye al cumplimiento normativo"
+      ]
+    },
+    "DGS-L3": {
+      "level": "L3 - Especialista en Gobernanza de Datos",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de marcos de gobernanza",
+        "Implementación de políticas de datos",
+        "Dominio de gestión de metadatos",
+        "Capacidad de programas de custodia de datos",
+        "Habilidad para gestión de cumplimiento",
+        "Conocimiento profundo de privacidad de datos",
+        "Implementación de catalogación de datos",
+        "Capacidad de gestión del cambio"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de gobernanza de malla de datos",
+        "Habilidad para gobernanza federada",
+        "Comprensión de propiedad de dominios"
+      ],
+      "indicators": [
+        "Lidera iniciativas de gobernanza",
+        "Diseña políticas de datos",
+        "Mentoriza en gobernanza"
+      ]
+    },
+    "DGS-L4": {
+      "level": "L4 - Especialista Senior en Gobernanza de Datos",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de programas de gobernanza",
+        "Diseño de estrategia empresarial de gobernanza",
+        "Implementación de gobernanza de malla de datos",
+        "Dominio de cumplimiento regulatorio",
+        "Capacidad en ética de datos",
+        "Conocimiento profundo de soberanía de datos",
+        "Habilidad para automatización de gobernanza",
+        "Liderazgo en cultura de datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en cumplimiento multijurisdiccional",
+        "Conocimiento de monetización de datos",
+        "Implementación de productos de datos"
+      ],
+      "indicators": [
+        "Define estrategia de gobernanza",
+        "Lidera cumplimiento normativo",
+        "Es referente en gobernanza"
+      ]
+    },
+    "DGS-L5": {
+      "level": "L5 - Líder de Gobernanza de Datos",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en gobernanza de datos",
+        "Diseño de ecosistemas de gobernanza",
+        "Gestión de equipos de gobernanza",
+        "Definición de estándares de gobernanza",
+        "Capacidad de gestión de riesgos",
+        "Implementación de gobernanza federada",
+        "Dominio de programas de ética de datos",
+        "Evangelización de cultura de datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en malla de datos",
+        "Conocimiento de contratos de datos",
+        "Gestión de herramientas de gobernanza"
+      ],
+      "indicators": [
+        "Gestiona equipo de gobernanza",
+        "Define visión de gobernanza",
+        "Representa gobernanza ante partes interesadas"
+      ]
+    },
+    "DGS-L6": {
+      "level": "L6 - Arquitecto Principal de Gobernanza de Datos",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia de gobernanza",
+        "Gestión de programas de gobernanza a escala",
+        "Definición de arquitectura de gobernanza",
+        "Liderazgo en transformación",
+        "Gestión de cumplimiento global",
+        "Implementación de soberanía de datos",
+        "Innovación en gobernanza",
+        "Gestión de ética de datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en gobernanza de fusiones y adquisiciones",
+        "Conocimiento de estrategia regulatoria",
+        "Liderazgo en comunidad de datos"
+      ],
+      "indicators": [
+        "Dirige departamento de gobernanza",
+        "Participa en estrategia",
+        "Define inversiones en gobernanza"
+      ]
+    },
+    "DGS-L7": {
+      "level": "L7 - Director de Gobernanza de Datos",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en gobernanza",
+        "Diseño de estrategias globales",
+        "Transformación organizacional mediante gobernanza",
+        "Gestión a escala empresarial",
+        "Creación de cultura de gobernanza",
+        "Definición de hoja de ruta de gobernanza",
+        "Evangelización a nivel de junta directiva",
+        "Influencia en estándares"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos de gobernanza",
+        "Experiencia en industrias reguladas",
+        "Liderazgo en consorcios"
+      ],
+      "indicators": [
+        "Reporta al director de datos",
+        "Gestiona organización (15+ personas)",
+        "Define estrategia de gobernanza"
+      ]
+    },
+    "DGS-L8": {
+      "level": "L8 - Vicepresidente de Gobernanza de Datos",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de gobernanza",
+        "Liderazgo en transformación de gobernanza",
+        "Creación de ventaja de confianza",
+        "Gestión de ecosistemas de gobernanza",
+        "Innovación en gobernanza",
+        "Definición de gobernanza descentralizada",
+        "Evangelización de democracia de datos",
+        "Influencia en políticas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en liderazgo de gobernanza",
+        "Asesoría en gobernanza",
+        "Liderazgo de pensamiento"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia de gobernanza",
+        "Es líder reconocido"
+      ]
+    },
+    "DGS-L9": {
+      "level": "L9 - Director de Gobernanza de Datos",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en gobernanza",
+        "Transformación de cultura de datos",
+        "Creación de paradigmas de gobernanza",
+        "Definición de organizaciones gobernadas",
+        "Innovación en ética de datos",
+        "Evangelización de confianza en datos",
+        "Arquitecto de ecosistemas de gobernanza",
+        "Influencia en regulación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando gobernanza",
+        "Reconocimiento como pionero",
+        "Influencia en estándares"
+      ],
+      "indicators": [
+        "Es director de gobernanza",
+        "Define futuro de gobernanza",
+        "Es autoridad mundial"
+      ]
+    }
+  }
+}

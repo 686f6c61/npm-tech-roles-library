@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Fiabilidad",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "RE-L1": {
+      "level": "L1 - Aprendiz de Fiabilidad",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de ingeniería de fiabilidad",
+        "Comprensión elemental de tiempo medio entre fallos y tiempo medio de reparación",
+        "Habilidad para monitorización básica",
+        "Conocimiento básico de respuesta a incidentes",
+        "Capacidad de documentar fallos",
+        "Comprensión de fundamentos de disponibilidad",
+        "Documentación de manuales de procedimientos simples",
+        "Conocimiento elemental de redundancia"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de alertas",
+        "Conocimiento de fundamentos de copias de seguridad",
+        "Comprensión de conmutación por error simple"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Monitorea sistemas básicos",
+        "Está aprendiendo prácticas de fiabilidad"
+      ]
+    },
+    "RE-L2": {
+      "level": "L2 - Ingeniero Junior de Fiabilidad",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar monitorización completa",
+        "Implementación de estrategias de alertas",
+        "Conocimiento práctico de gestión de incidentes",
+        "Habilidad para análisis de causa raíz",
+        "Comprensión de recuperación ante desastres",
+        "Capacidad de planificación de capacidad básica",
+        "Conocimiento de ingeniería del caos básica",
+        "Habilidad para automatización de manuales de procedimientos"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de rotaciones de guardia",
+        "Conocimiento de indicadores y objetivos de nivel de servicio básicos",
+        "Comprensión de presupuestos de error"
+      ],
+      "indicators": [
+        "Implementa fiabilidad con supervisión",
+        "Mejora observabilidad de sistemas",
+        "Responde a incidentes"
+      ]
+    },
+    "RE-L3": {
+      "level": "L3 - Ingeniero de Fiabilidad",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de sistemas altamente disponibles",
+        "Implementación de ingeniería del caos",
+        "Dominio de plataformas de observabilidad",
+        "Capacidad de pruebas de fiabilidad",
+        "Habilidad para análisis de modos de fallo",
+        "Conocimiento profundo de patrones de resiliencia",
+        "Implementación de sistemas de autocuración",
+        "Diseño de estrategias de recuperación ante desastres"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de rastreo distribuido",
+        "Habilidad para pruebas de carga avanzadas",
+        "Comprensión de interruptores automáticos"
+      ],
+      "indicators": [
+        "Lidera iniciativas de fiabilidad",
+        "Diseña sistemas resilientes",
+        "Mentoriza en prácticas de fiabilidad"
+      ]
+    },
+    "RE-L4": {
+      "level": "L4 - Ingeniero Senior de Fiabilidad",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de sistemas de misión crítica",
+        "Diseño de estrategias de fiabilidad globales",
+        "Implementación de tolerancia a fallos avanzada",
+        "Dominio de matemáticas de fiabilidad",
+        "Capacidad de análisis predictivo de fallos",
+        "Conocimiento profundo de diseño de redundancia",
+        "Habilidad para modelado de fiabilidad",
+        "Liderazgo en estándares de fiabilidad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en disponibilidad de cinco nueves",
+        "Conocimiento de métodos formales",
+        "Implementación de inteligencia artificial para fiabilidad"
+      ],
+      "indicators": [
+        "Define arquitectura de fiabilidad",
+        "Lidera equipos de fiabilidad",
+        "Es referente en sistemas resilientes"
+      ]
+    },
+    "RE-L5": {
+      "level": "L5 - Ingeniero Líder de Fiabilidad",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en ingeniería de fiabilidad",
+        "Diseño de programas de fiabilidad empresariales",
+        "Gestión de equipos de fiabilidad",
+        "Definición de estrategia de fiabilidad",
+        "Capacidad de economía de la fiabilidad",
+        "Implementación de cultura de fiabilidad",
+        "Dominio de gestión de riesgos",
+        "Evangelización de enfoque centrado en fiabilidad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación de fiabilidad",
+        "Conocimiento de sistemas de seguridad crítica",
+        "Gestión de fiabilidad de proveedores"
+      ],
+      "indicators": [
+        "Gestiona equipos de fiabilidad",
+        "Define visión de resiliencia empresarial",
+        "Representa fiabilidad ante ejecutivos"
+      ]
+    },
+    "RE-L6": {
+      "level": "L6 - Ingeniero Principal de Fiabilidad",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de fiabilidad organizacional",
+        "Estrategia de resiliencia empresarial",
+        "Gestión de inversiones en fiabilidad",
+        "Definición de estrategia de continuidad",
+        "Liderazgo en transformación de fiabilidad",
+        "Implementación de sistemas antifrágiles",
+        "Innovación en paradigmas de fiabilidad",
+        "Gestión de fiabilidad global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en infraestructura crítica",
+        "Conocimiento de fiabilidad regulatoria",
+        "Liderazgo en comunidades de fiabilidad"
+      ],
+      "indicators": [
+        "Dirige departamento de fiabilidad (20+ personas)",
+        "Participa en gestión de riesgos",
+        "Define inversiones en resiliencia"
+      ]
+    },
+    "RE-L7": {
+      "level": "L7 - Director de Fiabilidad",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en ingeniería de fiabilidad",
+        "Diseño de estrategias de resiliencia globales",
+        "Transformación de fiabilidad organizacional",
+        "Gestión de fiabilidad a escala Fortune 500",
+        "Creación de nuevos paradigmas de fiabilidad",
+        "Definición de futuro de fiabilidad de sistemas",
+        "Evangelización de fiabilidad a nivel de junta directiva",
+        "Influencia en industria de fiabilidad"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de fiabilidad en sistemas críticos nacionales",
+        "Experiencia en fiabilidad de infraestructura global",
+        "Liderazgo en estándares de fiabilidad"
+      ],
+      "indicators": [
+        "Reporta a director técnico o de operaciones",
+        "Gestiona organización de fiabilidad (50+ personas)",
+        "Define estrategia de resiliencia corporativa"
+      ]
+    },
+    "RE-L8": {
+      "level": "L8 - Vicepresidente de Fiabilidad",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de fiabilidad perfecta",
+        "Liderazgo en revolución de resiliencia",
+        "Creación de paradigmas de autocuración universal",
+        "Gestión de fiabilidad planetaria",
+        "Innovación disruptiva en antifragilidad",
+        "Definición de sistemas perpetuos",
+        "Evangelización de infraestructura inmortal",
+        "Influencia en políticas de fiabilidad global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de fiabilidad en gigantes tecnológicos",
+        "Asesoría en fondos de fiabilidad",
+        "Liderazgo de pensamiento en resiliencia"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define futuro de fiabilidad",
+        "Es líder mundial en resiliencia de sistemas"
+      ]
+    },
+    "RE-L9": {
+      "level": "L9 - Director de Fiabilidad",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de sistemas eternos",
+        "Transformación de fiabilidad universal",
+        "Creación de paradigmas de indestructibilidad",
+        "Definición de sistemas que nunca fallan",
+        "Innovación en fiabilidad biológica",
+        "Evangelización de fiabilidad consciente",
+        "Arquitecto de universo infalible",
+        "Influencia en evolución de permanencia"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones en fiabilidad",
+        "Reconocimiento como padre de resiliencia moderna",
+        "Influencia en futuro de continuidad"
+      ],
+      "indicators": [
+        "Es director de fiabilidad legendario",
+        "Define futuro de sistemas eternos",
+        "Es autoridad mundial en fiabilidad"
+      ]
+    }
+  }
+}

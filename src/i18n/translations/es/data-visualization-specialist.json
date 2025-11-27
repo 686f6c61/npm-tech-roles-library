@@ -1,0 +1,259 @@
+{
+  "role": "Especialista en Visualización de Datos",
+  "category": "Datos",
+  "levels": {
+    "DVS-L1": {
+      "level": "L1 - Aprendiz de Visualización de Datos",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de principios de visualización",
+        "Conocimiento elemental de herramientas de visualización",
+        "Habilidad para crear gráficos básicos",
+        "Comprensión básica de teoría del color",
+        "Capacidad de usar plantillas",
+        "Conocimiento elemental de narrativa visual",
+        "Comprensión básica de cuadros de mando",
+        "Habilidad para documentar visualizaciones"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de diseño",
+        "Familiaridad con datos",
+        "Comprensión elemental de experiencia de usuario"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede crear visualizaciones simples",
+        "Necesita 6-12 meses de mentoría"
+      ]
+    },
+    "DVS-L2": {
+      "level": "L2 - Visualización de Datos Junior",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de crear cuadros de mando interactivos",
+        "Habilidad para elegir gráficos apropiados",
+        "Conocimiento práctico de herramientas profesionales",
+        "Comprensión de mejores prácticas",
+        "Capacidad de preparación de datos para visualización",
+        "Habilidad para diseño adaptable",
+        "Conocimiento de accesibilidad",
+        "Comprensión de optimización de rendimiento"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de bibliotecas de visualización",
+        "Habilidad para infografías",
+        "Comprensión de gráficos animados"
+      ],
+      "indicators": [
+        "Crea visualizaciones con supervisión",
+        "Mantiene cuadros de mando corporativos",
+        "Aplica mejores prácticas"
+      ]
+    },
+    "DVS-L3": {
+      "level": "L3 - Especialista en Visualización de Datos",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de múltiples herramientas de visualización",
+        "Capacidad de visualizaciones complejas",
+        "Habilidad para visualizaciones personalizadas",
+        "Conocimiento profundo de percepción visual",
+        "Capacidad de visualizaciones en tiempo real",
+        "Comprensión sólida de arte de datos",
+        "Habilidad para visualización geoespacial",
+        "Conocimiento de visualización en realidad aumentada y virtual"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de programación creativa",
+        "Habilidad para periodismo de datos",
+        "Comprensión de visualización científica"
+      ],
+      "indicators": [
+        "Diseña sistemas de visualización",
+        "Lidera proyectos de visualización",
+        "Innova en representación visual"
+      ]
+    },
+    "DVS-L4": {
+      "level": "L4 - Visualización de Datos Sénior",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de definir estrategia de visualización",
+        "Dominio de visualización empresarial",
+        "Habilidad para plataformas de visualización",
+        "Conocimiento profundo de carga cognitiva",
+        "Capacidad de liderar equipos de visualización",
+        "Dominio de gobernanza de visualización",
+        "Habilidad para consultoría de visualización",
+        "Conocimiento de economía de visualización"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de visualización potenciada por inteligencia artificial",
+        "Habilidad para visualización inmersiva",
+        "Comprensión de visualización háptica"
+      ],
+      "indicators": [
+        "Define estándares de visualización",
+        "Lidera transformación visual",
+        "Mentora especialistas"
+      ]
+    },
+    "DVS-L5": {
+      "level": "L5 - Líder de Visualización de Datos",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en plataformas de visualización empresariales",
+        "Capacidad de democratización visual",
+        "Dominio de visualización de autoservicio",
+        "Habilidad para laboratorios de innovación en visualización",
+        "Conocimiento profundo de interacción humano-datos",
+        "Capacidad de definir cultura visual",
+        "Experiencia en alianzas de visualización",
+        "Dominio de investigación en visualización"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de visualización cerebro-ordenador",
+        "Habilidad para visualización holográfica",
+        "Comprensión de visualización cuántica"
+      ],
+      "indicators": [
+        "Arquitecta ecosistemas de visualización",
+        "Lidera organizaciones de visualización",
+        "Define hoja de ruta visual"
+      ]
+    },
+    "DVS-L6": {
+      "level": "L6 - Arquitecto Principal de Visualización",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir visión de visualización",
+        "Experiencia en innovación de visualización",
+        "Dominio de estrategia global de visualización",
+        "Habilidad para construcción de ecosistema de visualización",
+        "Conocimiento profundo de futuros de visualización",
+        "Capacidad de liderazgo de pensamiento",
+        "Experiencia en creación de valor mediante visualización",
+        "Dominio de impacto de visualización"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de visualización neural",
+        "Habilidad para visualización telepática",
+        "Comprensión de visualización dimensional"
+      ],
+      "indicators": [
+        "Define visión de visualización corporativa",
+        "Lidera transformación visual global",
+        "Influencia industria de visualización"
+      ]
+    },
+    "DVS-L7": {
+      "level": "L7 - Director de Visualización",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en evolución de visualización",
+        "Capacidad de gestión global de visualización",
+        "Experiencia en transformación de visualización",
+        "Dominio de gobernanza de visualización",
+        "Capacidad de definir cultura datos-visual",
+        "Conocimiento profundo de visualización competitiva",
+        "Experiencia en visualización estratégica",
+        "Capacidad de liderar innovación"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar percepción",
+        "Habilidad para empresas de visualización",
+        "Conocimiento de inversiones en visualización"
+      ],
+      "indicators": [
+        "Define estrategia de visualización ejecutiva",
+        "Representa empresa en visualización",
+        "Líder de pensamiento en visualización"
+      ]
+    },
+    "DVS-L8": {
+      "level": "L8 - VP Visualización",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de visualización empresarial",
+        "Capacidad de visualización como diferenciador",
+        "Experiencia en transformación mediante visualización",
+        "Dominio de gestión ejecutiva",
+        "Capacidad de construir organizaciones",
+        "Conocimiento profundo de valor de percepción",
+        "Experiencia en alianzas de visualización",
+        "Capacidad de definir cultura"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar industria",
+        "Habilidad para fusiones y adquisiciones en visualización",
+        "Conocimiento de plataformas de visualización"
+      ],
+      "indicators": [
+        "Responsable de toda visualización",
+        "Define futuro visual empresarial",
+        "Líder reconocido en visualización"
+      ]
+    },
+    "DVS-L9": {
+      "level": "L9 - Director de Visualización",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en visualización",
+        "Capacidad de visualización como ventaja competitiva",
+        "Experiencia en transformación perceptual",
+        "Dominio de gobernanza visual",
+        "Capacidad de crear nuevos paradigmas",
+        "Conocimiento profundo de cognición humana",
+        "Experiencia en aumento de realidad",
+        "Capacidad de definir percepción",
+        "Dominio de interfaz de consciencia"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de crear nuevas realidades",
+        "Habilidad para transformar percepción",
+        "Conocimiento de futuros post-visuales"
+      ],
+      "indicators": [
+        "Máximo responsable de visualización",
+        "Define futuro de percepción de datos",
+        "Líder global en visualización de datos"
+      ]
+    }
+  }
+}

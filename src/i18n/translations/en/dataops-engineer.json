@@ -1,0 +1,231 @@
+{
+  "role": "DataOps Engineer",
+  "category": "Data",
+  "levels": {
+    "DOE-L1": {
+      "level": "L1 - DataOps Trainee",
+      "levelNumber": 1,
+      "yearsRange": {"min": 0, "max": 1},
+      "coreCompetencies": [
+        "Basic DataOps knowledge",
+        "Elementary understanding of CI/CD for data",
+        "Basic deployment skills",
+        "Basic orchestration knowledge",
+        "Monitoring capability with supervision",
+        "Understanding of data pipelines",
+        "Deployment documentation",
+        "Elementary testing knowledge"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with Airflow",
+        "Basic Git knowledge",
+        "Elementary container understanding"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Executes simple deployments",
+        "Learning DataOps"
+      ]
+    },
+    "DOE-L2": {
+      "level": "L2 - Junior DataOps Engineer",
+      "levelNumber": 2,
+      "yearsRange": {"min": 1, "max": 2},
+      "coreCompetencies": [
+        "Ability to implement CI/CD pipelines",
+        "Automated testing implementation",
+        "Practical orchestration knowledge",
+        "Monitoring and alerting skills",
+        "Understanding of IaC for data",
+        "Deployment automation capability",
+        "Version control knowledge",
+        "Troubleshooting skills"
+      ],
+      "complementaryCompetencies": [
+        "Kubernetes knowledge",
+        "Scripting skills",
+        "Understanding of cloud platforms"
+      ],
+      "indicators": [
+        "Implements pipelines with supervision",
+        "Automates deployments",
+        "Maintains monitoring"
+      ]
+    },
+    "DOE-L3": {
+      "level": "L3 - DataOps Engineer",
+      "levelNumber": 3,
+      "yearsRange": {"min": 2, "max": 3},
+      "coreCompetencies": [
+        "DataOps architecture design",
+        "Advanced CI/CD implementation",
+        "Mastery of orchestration platforms",
+        "Observability capability",
+        "Advanced IaC skills",
+        "Deep knowledge of testing strategies",
+        "Self-service implementation",
+        "Incident management capability"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of data mesh ops",
+        "Cost optimization skills",
+        "Understanding of SRE principles"
+      ],
+      "indicators": [
+        "Leads DataOps projects",
+        "Designs automation",
+        "Mentors in DataOps"
+      ]
+    },
+    "DOE-L4": {
+      "level": "L4 - Senior DataOps Engineer",
+      "levelNumber": 4,
+      "yearsRange": {"min": 3, "max": 5},
+      "coreCompetencies": [
+        "DataOps platform architecture",
+        "Enterprise DataOps design",
+        "GitOps implementation",
+        "Mastery of multi-cloud DataOps",
+        "Platform engineering capability",
+        "Deep knowledge of reliability",
+        "Chaos engineering skills",
+        "Automation leadership"
+      ],
+      "complementaryCompetencies": [
+        "Data platform experience",
+        "FinOps knowledge",
+        "Policy as code implementation"
+      ],
+      "indicators": [
+        "Defines DataOps strategy",
+        "Leads platform teams",
+        "DataOps reference"
+      ]
+    },
+    "DOE-L5": {
+      "level": "L5 - Lead DataOps Engineer",
+      "levelNumber": 5,
+      "yearsRange": {"min": 5, "max": 7},
+      "coreCompetencies": [
+        "Technical leadership in DataOps",
+        "DataOps ecosystem design",
+        "DataOps team management",
+        "DataOps standards definition",
+        "SLO/SLA management capability",
+        "Observability platform implementation",
+        "Mastery of incident response",
+        "DataOps culture evangelization"
+      ],
+      "complementaryCompetencies": [
+        "Data reliability experience",
+        "Platform economics knowledge",
+        "Tools budget management"
+      ],
+      "indicators": [
+        "Manages DataOps team",
+        "Defines automation vision",
+        "Represents DataOps to stakeholders"
+      ]
+    },
+    "DOE-L6": {
+      "level": "L6 - Principal DataOps Architect",
+      "levelNumber": 6,
+      "yearsRange": {"min": 7, "max": 10},
+      "coreCompetencies": [
+        "DataOps strategy direction",
+        "Platform operations management at scale",
+        "DataOps architecture definition",
+        "Transformation leadership",
+        "Reliability program management",
+        "Global DataOps implementation",
+        "Automation innovation",
+        "Operational excellence management"
+      ],
+      "complementaryCompetencies": [
+        "Platform M&A experience",
+        "DataOps investment knowledge",
+        "Community leadership"
+      ],
+      "indicators": [
+        "Directs DataOps department",
+        "Participates in strategy",
+        "Defines platform investments"
+      ]
+    },
+    "DOE-L7": {
+      "level": "L7 - Director DataOps",
+      "levelNumber": 7,
+      "yearsRange": {"min": 10, "max": 12},
+      "coreCompetencies": [
+        "Executive leadership in DataOps",
+        "Global strategy design",
+        "Organizational transformation via DataOps",
+        "Enterprise-scale management",
+        "Automation culture creation",
+        "Platform roadmap definition",
+        "Board-level evangelization",
+        "Standards influence"
+      ],
+      "complementaryCompetencies": [
+        "DataOps budget management",
+        "Data-intensive company experience",
+        "Platform community leadership"
+      ],
+      "indicators": [
+        "Reports to CDO/CTO",
+        "Manages organization (25+ people)",
+        "Defines DataOps strategy"
+      ]
+    },
+    "DOE-L8": {
+      "level": "L8 - VP DataOps",
+      "levelNumber": 8,
+      "yearsRange": {"min": 12, "max": 15},
+      "coreCompetencies": [
+        "Strategic vision of DataOps",
+        "Platform transformation leadership",
+        "Operational advantage creation",
+        "DataOps ecosystem management",
+        "Automation innovation",
+        "Autonomous data ops definition",
+        "Reliability evangelization",
+        "Policy influence"
+      ],
+      "complementaryCompetencies": [
+        "DataOps leadership experience",
+        "Platform startup advisory",
+        "Thought leadership"
+      ],
+      "indicators": [
+        "Part of executive committee",
+        "Defines DataOps strategy",
+        "Recognized leader"
+      ]
+    },
+    "DOE-L9": {
+      "level": "L9 - Chief DataOps Officer",
+      "levelNumber": 9,
+      "yearsRange": {"min": 15, "max": null},
+      "coreCompetencies": [
+        "Visionary leadership in DataOps",
+        "Operations transformation",
+        "Automation paradigm creation",
+        "Ops-native organization definition",
+        "Reliability innovation",
+        "Operational excellence evangelization",
+        "DataOps ecosystem architect",
+        "Standards influence"
+      ],
+      "complementaryCompetencies": [
+        "Operations transformation experience",
+        "Recognition as pioneer",
+        "DataOps influence"
+      ],
+      "indicators": [
+        "Chief DataOps Officer",
+        "Defines future of DataOps",
+        "World authority"
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "@sparring/tech-roles-library",
+  "version": "1.0.0",
+  "description": "Comprehensive tech roles and competencies library for 78 technical roles with 9 career levels each. Includes detailed competencies and career progression paths with complete bilingual support (EN/ES).",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "lint": "eslint src/ --fix",
+    "format": "prettier --write 'src/**/*.js' 'demo/**/*.js' 'tests/**/*.js'",
+    "demo:basic": "node demo/01-basic-usage.js",
+    "demo:search": "node demo/02-search-filter.js",
+    "demo:career": "node demo/03-career-path.js",
+    "demo:advanced": "node demo/05-advanced-use-cases.js",
+    "demo:all": "npm run demo:basic && npm run demo:search && npm run demo:career && npm run demo:advanced"
+  },
+  "keywords": [
+    "tech-roles",
+    "competencies",
+    "skills",
+    "career-development",
+    "role-framework",
+    "skill-matrix",
+    "technical-skills",
+    "career-path",
+    "career-progression",
+    "software-engineering",
+    "devops",
+    "data-science",
+    "ai-ml",
+    "machine-learning",
+    "backend",
+    "frontend",
+    "fullstack",
+    "job-roles",
+    "hiring",
+    "recruitment",
+    "hr-tech",
+    "talent-management",
+    "professional-development",
+    "bilingual",
+    "spanish",
+    "english"
+  ],
+  "author": "686f6c61",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/686f6c61/npm-tech-roles-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/686f6c61/npm-tech-roles-library/issues"
+  },
+  "homepage": "https://github.com/686f6c61/npm-tech-roles-library#readme",
+  "files": [
+    "src/",
+    "assets/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.2.4"
+  }
+}

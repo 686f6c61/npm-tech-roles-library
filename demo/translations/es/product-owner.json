@@ -1,0 +1,200 @@
+{
+  "PO-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de gestión de backlog",
+      "Comprensión elemental de Scrum framework",
+      "Habilidad para escribir historias de usuario básicas",
+      "Conocimiento básico de criterios de aceptación",
+      "Capacidad de priorización simple",
+      "Comprensión de sprint planning básico",
+      "Documentación de épicas simples",
+      "Conocimiento elemental de ceremonias ágiles"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con Jira/Azure DevOps",
+      "Conocimiento básico de refinement",
+      "Comprensión de velocity tracking"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Gestiona backlogs pequeños",
+      "Está aprendiendo metodología Scrum"
+    ]
+  },
+  "PO-L2": {
+    "coreCompetencies": [
+      "Capacidad de gestionar backlogs complejos",
+      "Implementación de Definition of Done",
+      "Conocimiento práctico de story splitting",
+      "Habilidad para facilitar refinement sessions",
+      "Comprensión de release planning",
+      "Capacidad de stakeholder communication",
+      "Conocimiento de sprint goals definition",
+      "Habilidad para dependency management"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de technical debt",
+      "Conocimiento de capacity planning",
+      "Comprensión de value delivery metrics"
+    ],
+    "indicators": [
+      "Gestiona productos con supervisión",
+      "Facilita ceremonias Scrum",
+      "Colabora con múltiples equipos"
+    ]
+  },
+  "PO-L3": {
+    "coreCompetencies": [
+      "Diseño de product backlogs estratégicos",
+      "Implementación de value-driven development",
+      "Dominio de acceptance criteria avanzados",
+      "Capacidad de roadmap communication",
+      "Habilidad para trade-off decisions",
+      "Conocimiento profundo de release strategies",
+      "Implementación de continuous delivery",
+      "Gestión de multiple scrum teams"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de scaled agile frameworks",
+      "Habilidad para portfolio management",
+      "Comprensión de DevOps practices"
+    ],
+    "indicators": [
+      "Lidera producto end-to-end",
+      "Define visión de producto",
+      "Mentoriza otros POs"
+    ]
+  },
+  "PO-L4": {
+    "coreCompetencies": [
+      "Arquitectura de product ownership a escala",
+      "Diseño de value streams optimization",
+      "Implementación de business agility",
+      "Dominio de enterprise backlog management",
+      "Capacidad de strategic alignment",
+      "Conocimiento profundo de lean portfolio",
+      "Habilidad para transformation leadership",
+      "Liderazgo en agile coaching"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en SAFe implementation",
+      "Conocimiento de business architecture",
+      "Gestión de distributed teams"
+    ],
+    "indicators": [
+      "Define estrategia de agilidad",
+      "Lidera transformación ágil",
+      "Influencia cultura organizacional"
+    ]
+  },
+  "PO-L5": {
+    "coreCompetencies": [
+      "Liderazgo de product owner organization",
+      "Diseño de agile operating models",
+      "Gestión de portfolios ágiles complejos",
+      "Definición de product ownership standards",
+      "Capacidad de enterprise agility",
+      "Implementación de lean startup en enterprise",
+      "Dominio de innovation frameworks",
+      "Evangelización de mindset ágil"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en agile transformation",
+      "Conocimiento de OKRs implementation",
+      "Gestión de agile vendors"
+    ],
+    "indicators": [
+      "Gestiona múltiples POs",
+      "Define framework de agilidad",
+      "Representa agilidad ante ejecutivos"
+    ]
+  },
+  "PO-L6": {
+    "coreCompetencies": [
+      "Dirección de agilidad organizacional",
+      "Estrategia de transformación ágil corporativa",
+      "Gestión de budgets de transformación",
+      "Definición de business agility roadmaps",
+      "Liderazgo en cultural transformation",
+      "Implementación de agile at scale",
+      "Innovación en frameworks ágiles",
+      "Gestión de agile partnerships"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en merger integration ágil",
+      "Conocimiento de regulatory agility",
+      "Liderazgo en agile communities"
+    ],
+    "indicators": [
+      "Dirige departamento de agilidad",
+      "Participa en transformación digital",
+      "Define inversiones en agilidad"
+    ]
+  },
+  "PO-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en agilidad empresarial",
+      "Diseño de estrategias ágiles globales",
+      "Transformación organizacional completa",
+      "Gestión de agilidad a escala Fortune 500",
+      "Creación de ventajas competitivas via agilidad",
+      "Definición de futuro de business agility",
+      "Evangelización ágil a nivel board",
+      "Influencia en industria ágil"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de agility en IPO",
+      "Experiencia en enterprise agility",
+      "Liderazgo en agile alliances"
+    ],
+    "indicators": [
+      "Reporta a C-suite",
+      "Gestiona transformación ágil (50+ personas)",
+      "Define estrategia ágil corporativa"
+    ]
+  },
+  "PO-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de empresa ágil",
+      "Liderazgo en revolución ágil industrial",
+      "Creación de nuevos paradigmas ágiles",
+      "Gestión de transformación global",
+      "Innovación disruptiva en agilidad",
+      "Definición de post-agile frameworks",
+      "Evangelización de adaptive enterprises",
+      "Influencia en economía ágil"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como CAO en enterprises",
+      "Advisory en agile unicorns",
+      "Thought leadership en agilidad"
+    ],
+    "indicators": [
+      "Es parte del executive committee",
+      "Define futuro de agilidad empresarial",
+      "Es líder mundial en agilidad"
+    ]
+  },
+  "PO-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de organizaciones",
+      "Transformación de industrias mediante agilidad",
+      "Creación de paradigmas organizacionales nuevos",
+      "Definición de empresas líquidas",
+      "Innovación en human-centric organizations",
+      "Evangelización de consciousness-driven agility",
+      "Arquitecto de organizaciones adaptativas",
+      "Influencia en evolución empresarial"
+    ],
+    "complementaryCompetencies": [
+      "Creador de frameworks revolucionarios",
+      "Reconocimiento como padre de agilidad moderna",
+      "Influencia en management education global"
+    ],
+    "indicators": [
+      "Es Chief Agility Officer",
+      "Define futuro organizacional",
+      "Es autoridad mundial en agilidad"
+    ]
+  }
+}

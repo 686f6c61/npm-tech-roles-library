@@ -1,0 +1,258 @@
+{
+  "role": "Multimodal AI Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "MMALE-L1": {
+      "level": "L1 - Multimodal AI Engineer Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of multimodal AI",
+        "Elementary understanding of fundamentals",
+        "Ability for simple tasks",
+        "Basic knowledge of tools",
+        "Capability to work with supervision",
+        "Understanding of core concepts",
+        "Basic documentation",
+        "Elementary knowledge of best practices"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with basic frameworks",
+        "Knowledge of standard tools",
+        "Elementary understanding of cloud"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Executes basic tasks with guidance",
+        "Is learning multimodal AI"
+      ]
+    },
+    "MMALE-L2": {
+      "level": "L2 - Junior Multimodal AI Engineer",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to implement basic multimodal AI solutions",
+        "Implementation of standard techniques",
+        "Practical knowledge of frameworks",
+        "Ability to solve typical problems",
+        "Understanding of pipelines",
+        "Basic deployment capability",
+        "Knowledge of testing",
+        "Ability for documentation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of emerging technologies",
+        "Ability for integration",
+        "Understanding of automation"
+      ],
+      "indicators": [
+        "Develops multimodal AI solutions with supervision",
+        "Implements complete features",
+        "Optimizes basic processes"
+      ]
+    },
+    "MMALE-L3": {
+      "level": "L3 - Multimodal AI Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of end-to-end multimodal AI solutions",
+        "Implementation of complex systems",
+        "Mastery of technology stack",
+        "Advanced optimization capability",
+        "Ability for architecture",
+        "Deep knowledge of best practices",
+        "Implementation of monitoring",
+        "Mentoring capability"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of advanced techniques",
+        "Ability for innovation",
+        "Understanding of research"
+      ],
+      "indicators": [
+        "Leads multimodal AI projects",
+        "Designs complete architectures",
+        "Mentors junior engineers"
+      ]
+    },
+    "MMALE-L4": {
+      "level": "L4 - Senior Multimodal AI Engineer",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of scalable multimodal AI platforms",
+        "Design of technical strategies",
+        "Implementation of enterprise systems",
+        "Mastery of optimization at scale",
+        "Technical leadership capability",
+        "Deep knowledge of advanced patterns",
+        "Ability for strategic planning",
+        "Leadership in transformation"
+      ],
+      "complementaryCompetencies": [
+        "Experience in distributed systems",
+        "Knowledge of cutting-edge tech",
+        "Implementation of innovation"
+      ],
+      "indicators": [
+        "Defines multimodal AI strategy",
+        "Leads technical teams",
+        "Is a reference in multimodal AI"
+      ]
+    },
+    "MMALE-L5": {
+      "level": "L5 - Lead Multimodal AI Engineer",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in multimodal AI",
+        "Design of product strategy",
+        "Team management",
+        "Definition of standards",
+        "ROI analysis capability",
+        "Implementation of governance",
+        "Mastery of emerging tech",
+        "Evangelization of culture"
+      ],
+      "complementaryCompetencies": [
+        "Experience in consulting",
+        "Knowledge of business models",
+        "Budget management"
+      ],
+      "indicators": [
+        "Manages multimodal AI teams",
+        "Defines product vision",
+        "Represents multimodal AI to stakeholders"
+      ]
+    },
+    "MMALE-L6": {
+      "level": "L6 - Principal Multimodal AI Engineer",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of corporate multimodal AI strategy",
+        "Management of platforms at scale",
+        "Definition of enterprise architecture",
+        "Leadership in transformation",
+        "Management of strategic partnerships",
+        "Implementation of responsible practices",
+        "Innovation in solutions",
+        "Compliance management"
+      ],
+      "complementaryCompetencies": [
+        "Experience in M&A",
+        "Knowledge of investment",
+        "Leadership in industry community"
+      ],
+      "indicators": [
+        "Directs multimodal AI department",
+        "Participates in executive strategy",
+        "Defines multimodal AI investments"
+      ]
+    },
+    "MMALE-L7": {
+      "level": "L7 - Director Multimodal AI Engineer",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in multimodal AI",
+        "Design of global strategies",
+        "Organizational transformation",
+        "Management at Fortune 500 scale",
+        "Creation of organizational culture",
+        "Definition of strategic roadmap",
+        "Evangelization at board level",
+        "Influence in industry"
+      ],
+      "complementaryCompetencies": [
+        "Management of multi-million budgets",
+        "Experience in unicorns",
+        "Leadership in standards"
+      ],
+      "indicators": [
+        "Reports to CTO/CEO",
+        "Manages organization (50+ people)",
+        "Defines corporate multimodal AI strategy"
+      ]
+    },
+    "MMALE-L8": {
+      "level": "L8 - VP Multimodal AI Engineer",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Enterprise strategic vision of multimodal AI",
+        "Leadership in transformation",
+        "Creation of competitive advantage",
+        "Management of global ecosystems",
+        "Disruptive innovation",
+        "Definition of future direction",
+        "Evangelization of paradigm shift",
+        "Influence in policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as executive in tech giants",
+        "Advisory in startups",
+        "Thought leadership"
+      ],
+      "indicators": [
+        "Is part of executive committee",
+        "Defines future of multimodal AI",
+        "Is recognized leader in multimodal AI"
+      ]
+    },
+    "MMALE-L9": {
+      "level": "L9 - Chief Multimodal AI Engineer Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in multimodal AI",
+        "Transformation of industries",
+        "Creation of paradigms",
+        "Definition of multimodal AI as core business",
+        "Innovation in breakthrough applications",
+        "Evangelization of culture",
+        "Architect of global ecosystems",
+        "Influence in regulation"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming industries with multimodal AI",
+        "Recognition as pioneer",
+        "Influence in future"
+      ],
+      "indicators": [
+        "Is Chief Multimodal AI Engineer Officer",
+        "Defines future of multimodal AI industry",
+        "Is world authority in multimodal AI"
+      ]
+    }
+  }
+}

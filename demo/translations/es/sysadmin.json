@@ -1,0 +1,200 @@
+{
+  "SA-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de sistemas operativos",
+      "Comprensión de línea de comandos básica",
+      "Gestión básica de usuarios y permisos",
+      "Monitoreo simple de recursos del sistema",
+      "Backup y restauración básicos",
+      "Troubleshooting inicial de problemas comunes",
+      "Documentación de procedimientos simples",
+      "Soporte a usuarios nivel 1"
+    ],
+    "complementaryCompetencies": [
+      "Scripting muy básico para automatización",
+      "Conocimiento inicial de redes",
+      "Familiaridad con ticketing systems"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Realiza tareas rutinarias predefinidas",
+      "Está aprendiendo fundamentos de administración"
+    ]
+  },
+  "SA-L2": {
+    "coreCompetencies": [
+      "Administración de sistemas operativos múltiples",
+      "Gestión de servicios y demonios",
+      "Configuración de políticas de seguridad básicas",
+      "Gestión de almacenamiento y particiones",
+      "Automatización con scripts simples",
+      "Monitoreo proactivo de sistemas",
+      "Resolución de incidentes nivel 2",
+      "Mantenimiento preventivo de sistemas"
+    ],
+    "complementaryCompetencies": [
+      "Conocimientos de virtualización básica",
+      "Gestión básica de bases de datos",
+      "Configuración de servicios web"
+    ],
+    "indicators": [
+      "Trabaja con supervisión moderada",
+      "Resuelve problemas conocidos independientemente",
+      "Participa en guardias de soporte"
+    ]
+  },
+  "SA-L3": {
+    "coreCompetencies": [
+      "Diseño e implementación de arquitecturas de sistemas",
+      "Gestión avanzada de seguridad y hardening",
+      "Automatización compleja con múltiples herramientas",
+      "Gestión de clusters y alta disponibilidad",
+      "Optimización de rendimiento de sistemas",
+      "Disaster recovery y continuidad de negocio",
+      "Gestión de configuración centralizada",
+      "Troubleshooting avanzado y análisis root cause"
+    ],
+    "complementaryCompetencies": [
+      "Implementación de soluciones de containerización",
+      "Gestión de sistemas de monitoreo empresarial",
+      "Diseño de soluciones de backup empresarial"
+    ],
+    "indicators": [
+      "Trabaja de forma autónoma",
+      "Diseña soluciones para problemas complejos",
+      "Mentoriza a administradores junior"
+    ]
+  },
+  "SA-L4": {
+    "coreCompetencies": [
+      "Arquitectura empresarial de sistemas",
+      "Implementación de soluciones cloud híbridas",
+      "Automatización end-to-end de infraestructura",
+      "Gestión de compliance y auditoría",
+      "Capacity planning y proyección de recursos",
+      "Gestión de incidentes críticos y crisis",
+      "Diseño de soluciones multi-datacenter",
+      "Optimización de costos de infraestructura"
+    ],
+    "complementaryCompetencies": [
+      "Integración de sistemas heterogéneos",
+      "Implementación de DevOps practices",
+      "Gestión de seguridad avanzada"
+    ],
+    "indicators": [
+      "Lidera proyectos de infraestructura",
+      "Define estándares y best practices",
+      "Es referente técnico en el equipo"
+    ]
+  },
+  "SA-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en administración de sistemas",
+      "Diseño de estrategias de migración y modernización",
+      "Gestión de equipos de administradores",
+      "Definición de roadmaps de infraestructura",
+      "Negociación con proveedores de servicios",
+      "Gestión de presupuestos de infraestructura",
+      "Implementación de ITIL y frameworks de gestión",
+      "Evangelización de nuevas tecnologías"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en transformación digital",
+      "Gestión de proyectos complejos multi-equipo",
+      "Definición de SLAs y KPIs de servicio"
+    ],
+    "indicators": [
+      "Gestiona equipo de 3-5 personas",
+      "Define arquitectura de sistemas a nivel departamental",
+      "Representa al equipo en decisiones técnicas"
+    ]
+  },
+  "SA-L6": {
+    "coreCompetencies": [
+      "Dirección de operaciones de TI",
+      "Estrategia de infraestructura a nivel organizacional",
+      "Gestión de múltiples equipos técnicos",
+      "Definición de políticas y gobierno de TI",
+      "Gestión de riesgos tecnológicos",
+      "Optimización de procesos ITSM",
+      "Liderazgo en proyectos de transformación",
+      "Gestión de relaciones con stakeholders ejecutivos"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en gestión de crisis empresariales",
+      "Conocimiento profundo de regulaciones y compliance",
+      "Visión estratégica de tecnologías emergentes"
+    ],
+    "indicators": [
+      "Dirige área de operaciones (10-20 personas)",
+      "Participa en decisiones estratégicas de TI",
+      "Define presupuestos anuales de infraestructura"
+    ]
+  },
+  "SA-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en operaciones de TI",
+      "Diseño de estrategias de infraestructura multi-año",
+      "Gestión de operaciones a escala global",
+      "Transformación digital de operaciones",
+      "Gestión de proveedores estratégicos",
+      "Definición de estándares corporativos de TI",
+      "Alineación de TI con objetivos de negocio",
+      "Gestión de innovación en operaciones"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en fusiones y adquisiciones de TI",
+      "Gestión de outsourcing estratégico",
+      "Liderazgo en iniciativas de sostenibilidad"
+    ],
+    "indicators": [
+      "Reporta a CTO/CIO",
+      "Gestiona múltiples departamentos (50+ personas)",
+      "Define estrategia de operaciones corporativa"
+    ]
+  },
+  "SA-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de operaciones globales",
+      "Liderazgo en transformación empresarial",
+      "Gestión de operaciones multi-geografía",
+      "Definición de estrategias de resiliencia empresarial",
+      "Innovación en modelos operativos",
+      "Gestión de partnerships tecnológicos globales",
+      "Optimización de costos a escala enterprise",
+      "Gobierno corporativo de TI"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia ejecutiva en grandes corporaciones",
+      "Influencia en industria de operaciones TI",
+      "Gestión de crisis a nivel corporativo"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define políticas globales de TI",
+      "Gestiona presupuestos de decenas de millones"
+    ]
+  },
+  "SA-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en operaciones de TI",
+      "Definición de futuro de operaciones empresariales",
+      "Transformación radical de modelos operativos",
+      "Estrategia de operaciones para empresas Fortune 500",
+      "Innovación disruptiva en gestión de infraestructura",
+      "Creación de centros de excelencia operacional",
+      "Evangelización ejecutiva de nuevos paradigmas",
+      "Influencia en estándares de la industria"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como CIO/CTO en múltiples empresas",
+      "Reconocimiento internacional en operaciones TI",
+      "Participación en boards y consejos asesores"
+    ],
+    "indicators": [
+      "Es CIO/COO o equivalente",
+      "Define el futuro tecnológico de la empresa",
+      "Es referente global en operaciones de TI"
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "role": "Kubernetes Engineer",
+  "category": "Infrastructure",
+  "levels": {
+    "K8E-L1": {
+      "level": "L1 - K8s Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of Kubernetes",
+        "Elementary understanding of containers",
+        "Ability for simple deployments",
+        "Basic knowledge of pods and services",
+        "Basic troubleshooting capability",
+        "Understanding of YAML",
+        "Configuration documentation",
+        "Elementary knowledge of networking"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with kubectl",
+        "Basic Docker knowledge",
+        "Elementary understanding of cloud"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Deploys simple apps",
+        "Is learning K8s"
+      ]
+    },
+    "K8E-L2": {
+      "level": "L2 - Junior K8s Engineer",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to manage clusters",
+        "Implementation of complex deployments",
+        "Practical knowledge of networking",
+        "Storage management ability",
+        "Understanding of basic security",
+        "Monitoring capability",
+        "Knowledge of Helm",
+        "Troubleshooting ability"
+      ],
+      "complementaryCompetencies": [
+        "Basic service mesh knowledge",
+        "Ability with operators",
+        "Understanding of GitOps"
+      ],
+      "indicators": [
+        "Manages workloads with supervision",
+        "Implements configurations",
+        "Maintains clusters"
+      ]
+    },
+    "K8E-L3": {
+      "level": "L3 - Kubernetes Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of K8s architectures",
+        "Multi-cluster implementation",
+        "Mastery of advanced networking",
+        "Security hardening capability",
+        "Ability for custom controllers",
+        "Deep knowledge of operators",
+        "Autoscaling implementation",
+        "Disaster recovery capability"
+      ],
+      "complementaryCompetencies": [
+        "Service mesh knowledge",
+        "Observability ability",
+        "Understanding of chaos engineering"
+      ],
+      "indicators": [
+        "Leads K8s projects",
+        "Designs cluster architectures",
+        "Mentors in Kubernetes"
+      ]
+    },
+    "K8E-L4": {
+      "level": "L4 - Senior K8s Engineer",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of K8s platforms",
+        "Design of enterprise Kubernetes",
+        "Multi-tenancy implementation",
+        "Mastery of security at scale",
+        "Platform engineering capability",
+        "Deep knowledge of performance tuning",
+        "Cluster federation ability",
+        "Leadership in K8s operations"
+      ],
+      "complementaryCompetencies": [
+        "Experience in K8s at scale",
+        "Knowledge of cluster API",
+        "Policy management implementation"
+      ],
+      "indicators": [
+        "Defines K8s strategy",
+        "Leads platform teams",
+        "Is a reference in Kubernetes"
+      ]
+    },
+    "K8E-L5": {
+      "level": "L5 - Lead K8s Engineer",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in Kubernetes",
+        "Design of K8s ecosystems",
+        "Management of K8s teams",
+        "Definition of platform standards",
+        "Cost optimization capability",
+        "Self-service platforms implementation",
+        "Mastery of GitOps at scale",
+        "Evangelization of K8s best practices"
+      ],
+      "complementaryCompetencies": [
+        "Experience in managed K8s",
+        "Knowledge of K8s economics",
+        "Platform budget management"
+      ],
+      "indicators": [
+        "Manages K8s team",
+        "Defines platform vision",
+        "Represents K8s to stakeholders"
+      ]
+    },
+    "K8E-L6": {
+      "level": "L6 - Principal K8s Architect",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of K8s strategy",
+        "Management of platform operations",
+        "Definition of K8s architecture",
+        "Leadership in transformation",
+        "Multi-cluster management at scale",
+        "Global K8s implementation",
+        "Innovation in orchestration",
+        "Management of K8s governance"
+      ],
+      "complementaryCompetencies": [
+        "Experience in K8s consulting",
+        "Knowledge of CNCF ecosystem",
+        "Leadership in K8s community"
+      ],
+      "indicators": [
+        "Directs K8s department",
+        "Participates in cloud strategy",
+        "Defines platform investments"
+      ]
+    },
+    "K8E-L7": {
+      "level": "L7 - Director Kubernetes",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in Kubernetes",
+        "Design of platform strategies",
+        "Transformation via K8s",
+        "Enterprise-scale management",
+        "Creation of cloud-native culture",
+        "Definition of K8s roadmap",
+        "Evangelization at board level",
+        "Influence in CNCF"
+      ],
+      "complementaryCompetencies": [
+        "Management of platform budgets",
+        "Experience in K8s at scale",
+        "Leadership in cloud-native"
+      ],
+      "indicators": [
+        "Reports to CTO",
+        "Manages K8s organization (20+ people)",
+        "Defines platform strategy"
+      ]
+    },
+    "K8E-L8": {
+      "level": "L8 - VP Kubernetes",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of orchestration",
+        "Leadership in K8s transformation",
+        "Creation of platform advantage",
+        "Management of K8s ecosystems",
+        "Innovation in orchestration",
+        "Definition of cloud-native future",
+        "Evangelization of containerization",
+        "Influence in CNCF"
+      ],
+      "complementaryCompetencies": [
+        "Experience in K8s leadership",
+        "Advisory in cloud-native",
+        "Thought leadership"
+      ],
+      "indicators": [
+        "Is part of executive committee",
+        "Defines K8s strategy",
+        "Is a recognized leader"
+      ]
+    },
+    "K8E-L9": {
+      "level": "L9 - Chief Platform Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in platforms",
+        "Transformation of infrastructure",
+        "Creation of cloud-native paradigms",
+        "Definition of platform-centric organizations",
+        "Innovation in orchestration",
+        "Evangelization of K8s",
+        "Architect of platform ecosystems",
+        "Influence in CNCF"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming platforms",
+        "Recognition as K8s pioneer",
+        "Influence in cloud-native"
+      ],
+      "indicators": [
+        "Is Chief Platform Officer",
+        "Defines future of orchestration",
+        "Is a world authority"
+      ]
+    }
+  }
+}

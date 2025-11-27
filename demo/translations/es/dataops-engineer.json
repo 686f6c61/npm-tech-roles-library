@@ -1,0 +1,200 @@
+{
+  "DOE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de DataOps",
+      "Comprensión elemental de CI/CD para datos",
+      "Habilidad para deployment básico",
+      "Conocimiento básico de orchestration",
+      "Capacidad de monitoring con supervisión",
+      "Comprensión de data pipelines",
+      "Documentación de deployments",
+      "Conocimiento elemental de testing"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con Airflow",
+      "Conocimiento de Git básico",
+      "Comprensión elemental de containers"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Ejecuta deployments simples",
+      "Está aprendiendo DataOps"
+    ]
+  },
+  "DOE-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar CI/CD pipelines",
+      "Implementación de automated testing",
+      "Conocimiento práctico de orchestration",
+      "Habilidad para monitoring y alerting",
+      "Comprensión de IaC para datos",
+      "Capacidad de deployment automation",
+      "Conocimiento de version control",
+      "Habilidad para troubleshooting"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de Kubernetes",
+      "Habilidad para scripting",
+      "Comprensión de cloud platforms"
+    ],
+    "indicators": [
+      "Implementa pipelines con supervisión",
+      "Automatiza deployments",
+      "Mantiene monitoring"
+    ]
+  },
+  "DOE-L3": {
+    "coreCompetencies": [
+      "Diseño de DataOps architectures",
+      "Implementación de advanced CI/CD",
+      "Dominio de orchestration platforms",
+      "Capacidad de observability",
+      "Habilidad para IaC avanzado",
+      "Conocimiento profundo de testing strategies",
+      "Implementación de self-service",
+      "Capacidad de incident management"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de data mesh ops",
+      "Habilidad para cost optimization",
+      "Comprensión de SRE principles"
+    ],
+    "indicators": [
+      "Lidera proyectos DataOps",
+      "Diseña automation",
+      "Mentoriza en DataOps"
+    ]
+  },
+  "DOE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de DataOps platforms",
+      "Diseño de enterprise DataOps",
+      "Implementación de GitOps",
+      "Dominio de multi-cloud DataOps",
+      "Capacidad de platform engineering",
+      "Conocimiento profundo de reliability",
+      "Habilidad para chaos engineering",
+      "Liderazgo en automation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en data platform",
+      "Conocimiento de FinOps",
+      "Implementación de policy as code"
+    ],
+    "indicators": [
+      "Define estrategia DataOps",
+      "Lidera platform teams",
+      "Es referente en DataOps"
+    ]
+  },
+  "DOE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en DataOps",
+      "Diseño de DataOps ecosystems",
+      "Gestión de DataOps teams",
+      "Definición de DataOps standards",
+      "Capacidad de SLO/SLA management",
+      "Implementación de observability platforms",
+      "Dominio de incident response",
+      "Evangelización de DataOps culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en data reliability",
+      "Conocimiento de platform economics",
+      "Gestión de tools budget"
+    ],
+    "indicators": [
+      "Gestiona equipo DataOps",
+      "Define visión automation",
+      "Representa DataOps ante stakeholders"
+    ]
+  },
+  "DOE-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia DataOps",
+      "Gestión de platform operations a escala",
+      "Definición de DataOps architecture",
+      "Liderazgo en transformation",
+      "Gestión de reliability programs",
+      "Implementación de global DataOps",
+      "Innovación en automation",
+      "Gestión de operational excellence"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en platform M&A",
+      "Conocimiento de DataOps investment",
+      "Liderazgo en community"
+    ],
+    "indicators": [
+      "Dirige departamento DataOps",
+      "Participa en estrategia",
+      "Define inversiones platform"
+    ]
+  },
+  "DOE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en DataOps",
+      "Diseño de estrategias globales",
+      "Transformación organizacional via DataOps",
+      "Gestión a escala empresarial",
+      "Creación de automation culture",
+      "Definición de platform roadmap",
+      "Evangelización a nivel board",
+      "Influencia en standards"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de DataOps budgets",
+      "Experiencia en data-intensive companies",
+      "Liderazgo en platform community"
+    ],
+    "indicators": [
+      "Reporta a CDO/CTO",
+      "Gestiona organización (25+ personas)",
+      "Define estrategia DataOps"
+    ]
+  },
+  "DOE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de DataOps",
+      "Liderazgo en platform transformation",
+      "Creación de operational advantage",
+      "Gestión de DataOps ecosystems",
+      "Innovación en automation",
+      "Definición de autonomous data ops",
+      "Evangelización de reliability",
+      "Influencia en policies"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en DataOps leadership",
+      "Advisory en platform startups",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia DataOps",
+      "Es líder reconocido"
+    ]
+  },
+  "DOE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en DataOps",
+      "Transformación de operations",
+      "Creación de paradigmas automation",
+      "Definición de ops-native organizations",
+      "Innovación en reliability",
+      "Evangelización de operational excellence",
+      "Arquitecto de DataOps ecosystems",
+      "Influencia en standards"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando operations",
+      "Reconocimiento como pioneer",
+      "Influencia en DataOps"
+    ],
+    "indicators": [
+      "Es Chief DataOps Officer",
+      "Define futuro DataOps",
+      "Es autoridad mundial"
+    ]
+  }
+}

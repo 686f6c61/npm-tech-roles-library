@@ -1,0 +1,259 @@
+{
+  "role": "NLP Engineer",
+  "category": "Data",
+  "levels": {
+    "NLP-L1": {
+      "level": "L1 - NLP Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of language processing",
+        "Elementary knowledge of computational linguistics",
+        "Ability for basic tokenization",
+        "Basic understanding of embeddings",
+        "Capability to use NLP libraries",
+        "Elementary knowledge of sentiment analysis",
+        "Basic understanding of chatbots",
+        "Ability for text preprocessing"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of regex",
+        "Familiarity with corpus",
+        "Elementary understanding of languages"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can implement basic NLP",
+        "Needs 6-12 months of mentoring"
+      ]
+    },
+    "NLP-L2": {
+      "level": "L2 - Junior NLP",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement NLP models",
+        "Ability for fine-tuning",
+        "Practical knowledge of transformers",
+        "Understanding of NER and POS",
+        "Text classification capability",
+        "Ability for topic modeling",
+        "Knowledge of basic translation",
+        "Understanding of speech-to-text"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of BERT/GPT",
+        "Ability for multilingual",
+        "Understanding of dialogue systems"
+      ],
+      "indicators": [
+        "Develops NLP solutions with supervision",
+        "Implements standard models",
+        "Optimizes basic pipelines"
+      ]
+    },
+    "NLP-L3": {
+      "level": "L3 - NLP Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of transformer architectures",
+        "Custom models capability",
+        "Ability for large language models",
+        "Deep knowledge of attention mechanisms",
+        "Multimodal NLP capability",
+        "Solid understanding of generation",
+        "Ability for knowledge graphs",
+        "Knowledge of ethical NLP"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of neural machine translation",
+        "Ability for voice synthesis",
+        "Understanding of emotion AI"
+      ],
+      "indicators": [
+        "Designs complex NLP systems",
+        "Leads language projects",
+        "Innovates in text processing"
+      ]
+    },
+    "NLP-L4": {
+      "level": "L4 - Senior NLP",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to architect NLP platforms",
+        "Mastery of scale systems",
+        "Ability for production LLMs",
+        "Deep knowledge of efficiency",
+        "Team leadership capability",
+        "Mastery of multilingual systems",
+        "Ability for conversational AI",
+        "Knowledge of NLP strategy"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AGI language",
+        "Ability for consciousness modeling",
+        "Understanding of semantic reality"
+      ],
+      "indicators": [
+        "Defines NLP strategy",
+        "Leads language transformation",
+        "Mentors NLP engineers"
+      ]
+    },
+    "NLP-L5": {
+      "level": "L5 - Lead NLP",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise platforms",
+        "NLP democratization capability",
+        "Mastery of self-service NLP",
+        "Ability for innovation labs",
+        "Deep knowledge of language understanding",
+        "Capability to define culture",
+        "Expertise in partnerships",
+        "Mastery of research"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of telepathic interfaces",
+        "Ability for universal translation",
+        "Understanding of thought encoding"
+      ],
+      "indicators": [
+        "Architects NLP ecosystems",
+        "Leads language organizations",
+        "Defines NLP roadmap"
+      ]
+    },
+    "NLP-L6": {
+      "level": "L6 - Principal NLP",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define NLP vision",
+        "Expertise in language innovation",
+        "Mastery of global strategy",
+        "Ability for ecosystem building",
+        "Deep knowledge of language futures",
+        "Thought leadership capability",
+        "Expertise in communication revolution",
+        "Mastery of impact"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of alien languages",
+        "Ability for dimensional communication",
+        "Understanding of cosmic language"
+      ],
+      "indicators": [
+        "Defines corporate NLP vision",
+        "Leads linguistic transformation",
+        "Influences industry"
+      ]
+    },
+    "NLP-L7": {
+      "level": "L7 - Director NLP",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in language evolution",
+        "Global management capability",
+        "Expertise in transformation",
+        "Mastery of governance",
+        "Ability to define philosophy",
+        "Deep knowledge of competitive advantage",
+        "Expertise in strategic NLP",
+        "Capability to lead revolution"
+      ],
+      "complementaryCompetencies": [
+        "Ability to create languages",
+        "Ability for NLP ventures",
+        "Knowledge of language economies"
+      ],
+      "indicators": [
+        "Defines executive strategy",
+        "Represents company in NLP",
+        "Thought leader in language"
+      ]
+    },
+    "NLP-L8": {
+      "level": "L8 - VP NLP",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of NLP",
+        "Language as core capability",
+        "Expertise in transformation through language",
+        "Mastery of executive management",
+        "Capability to build empires",
+        "Deep knowledge of language value",
+        "Expertise in global communication",
+        "Ability to define culture"
+      ],
+      "complementaryCompetencies": [
+        "Capability to influence global communication",
+        "Ability for language M&A",
+        "Knowledge of babel resolution"
+      ],
+      "indicators": [
+        "Responsible for entire NLP strategy",
+        "Defines future of language",
+        "Recognized leader"
+      ]
+    },
+    "NLP-L9": {
+      "level": "L9 - Chief Language Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in language",
+        "Communication as definitive advantage capability",
+        "Expertise in transformation of humanity",
+        "Mastery of language governance",
+        "Ability to create new modes of thought",
+        "Deep knowledge of consciousness interface",
+        "Expertise in reality description",
+        "Capability to define linguistic existence",
+        "Mastery of logos"
+      ],
+      "complementaryCompetencies": [
+        "Ability to create realities through language",
+        "Ability for omnilingual communion",
+        "Knowledge of post-verbal futures"
+      ],
+      "indicators": [
+        "Ultimate language officer",
+        "Defines future of human communication",
+        "Global leader in NLP"
+      ]
+    }
+  }
+}

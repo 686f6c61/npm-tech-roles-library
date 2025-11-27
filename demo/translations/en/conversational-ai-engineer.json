@@ -1,0 +1,200 @@
+{
+  "CAI-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of chatbots",
+      "Elementary understanding of NLU",
+      "Ability to create simple conversations",
+      "Basic knowledge of dialogue management",
+      "Capacity for basic training",
+      "Understanding of intents and entities",
+      "Documentation of conversations",
+      "Elementary knowledge of deployment"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with Dialogflow/Rasa",
+      "Basic knowledge of NLP",
+      "Elementary understanding of voice AI"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Creates simple flows",
+      "Is learning conversational AI"
+    ]
+  },
+  "CAI-L2": {
+    "coreCompetencies": [
+      "Ability to design complex chatbots",
+      "Implementation of multi-turn conversations",
+      "Practical knowledge of NLU/NLG",
+      "Ability for context management",
+      "Understanding of dialogue policies",
+      "Capacity for integration",
+      "Knowledge of analytics",
+      "Ability for optimization"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of voice assistants",
+      "Ability for multi-lingual",
+      "Understanding of sentiment analysis"
+    ],
+    "indicators": [
+      "Develops chatbots under supervision",
+      "Implements complex conversations",
+      "Optimizes performance"
+    ]
+  },
+  "CAI-L3": {
+    "coreCompetencies": [
+      "Design of conversational systems",
+      "Implementation of advanced NLU",
+      "Mastery of dialogue management",
+      "Capacity for personalization",
+      "Ability for multi-modal AI",
+      "Deep knowledge of conversational design",
+      "Implementation of analytics",
+      "Capacity for A/B testing"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of emotional AI",
+      "Ability for voice recognition",
+      "Understanding of context awareness"
+    ],
+    "indicators": [
+      "Leads conversational AI projects",
+      "Designs dialogue architectures",
+      "Mentors in conversational AI"
+    ]
+  },
+  "CAI-L4": {
+    "coreCompetencies": [
+      "Architecture of conversational platforms",
+      "Design of enterprise chatbot strategy",
+      "Implementation of omnichannel conversations",
+      "Mastery of advanced NLU/NLG",
+      "Capacity for conversational analytics",
+      "Deep knowledge of user experience",
+      "Ability for scalability",
+      "Leadership in conversational design"
+    ],
+    "complementaryCompetencies": [
+      "Experience in voice AI",
+      "Knowledge of emotional intelligence",
+      "Implementation of personalization"
+    ],
+    "indicators": [
+      "Defines conversational AI strategy",
+      "Leads teams",
+      "Is reference in chatbots"
+    ]
+  },
+  "CAI-L5": {
+    "coreCompetencies": [
+      "Technical leadership in conversational AI",
+      "Design of AI assistant ecosystems",
+      "Management of conversational teams",
+      "Definition of dialogue standards",
+      "Capacity for platform management",
+      "Implementation of conversational governance",
+      "Mastery of multi-modal AI",
+      "Evangelization of conversational experiences"
+    ],
+    "complementaryCompetencies": [
+      "Experience in virtual assistants",
+      "Knowledge of conversational commerce",
+      "Management of vendors"
+    ],
+    "indicators": [
+      "Manages conversational AI team",
+      "Defines chatbot vision",
+      "Represents conversational to stakeholders"
+    ]
+  },
+  "CAI-L6": {
+    "coreCompetencies": [
+      "Direction of conversational strategy",
+      "Management of AI assistant platforms",
+      "Definition of conversational architecture",
+      "Leadership in transformation",
+      "Management of partnerships",
+      "Implementation of governance",
+      "Innovation in dialogue systems",
+      "Management of user experience"
+    ],
+    "complementaryCompetencies": [
+      "Experience in voice platforms",
+      "Knowledge of conversational investment",
+      "Leadership in AI community"
+    ],
+    "indicators": [
+      "Directs conversational AI department",
+      "Participates in digital strategy",
+      "Defines investments"
+    ]
+  },
+  "CAI-L7": {
+    "coreCompetencies": [
+      "Executive leadership in conversational AI",
+      "Design of global strategies",
+      "Transformation via chatbots",
+      "Management at enterprise scale",
+      "Creation of conversational culture",
+      "Definition of roadmap",
+      "Evangelization at board level",
+      "Influence on standards"
+    ],
+    "complementaryCompetencies": [
+      "Management of conversational budgets",
+      "Experience in AI assistants",
+      "Leadership in voice AI"
+    ],
+    "indicators": [
+      "Reports to CAI/CTO",
+      "Manages organization (20+ people)",
+      "Defines conversational strategy"
+    ]
+  },
+  "CAI-L8": {
+    "coreCompetencies": [
+      "Strategic vision of conversational AI",
+      "Leadership in transformation",
+      "Creation of conversational advantage",
+      "Management of ecosystems",
+      "Innovation in dialogue",
+      "Definition of next-gen assistants",
+      "Evangelization of voice-first",
+      "Influence on policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience in conversational giants",
+      "Advisory in startups",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines strategy",
+      "Is recognized leader"
+    ]
+  },
+  "CAI-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in conversational AI",
+      "Transformation of interfaces",
+      "Creation of paradigms",
+      "Definition of conversational-first",
+      "Innovation in dialogue",
+      "Evangelization of natural interfaces",
+      "Architect of ecosystems",
+      "Influence on regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming interaction",
+      "Recognition as pioneer",
+      "Influence on standards"
+    ],
+    "indicators": [
+      "Is Chief Conversational Officer",
+      "Defines future",
+      "Is world authority"
+    ]
+  }
+}

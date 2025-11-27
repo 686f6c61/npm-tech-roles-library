@@ -1,0 +1,258 @@
+{
+  "role": "AI Ethics & Governance Specialist",
+  "category": "AI/ML",
+  "levels": {
+    "AIEGS-L1": {
+      "level": "L1 - AI Ethics & Governance Specialist Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of AI ethics & governance",
+        "Elementary understanding of fundamentals",
+        "Ability to perform simple tasks",
+        "Basic knowledge of tools",
+        "Ability to work under supervision",
+        "Understanding of core concepts",
+        "Basic documentation",
+        "Elementary knowledge of best practices"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with basic frameworks",
+        "Knowledge of standard tools",
+        "Elementary understanding of cloud"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Executes basic tasks with guidance",
+        "Is learning AI ethics & governance"
+      ]
+    },
+    "AIEGS-L2": {
+      "level": "L2 - Junior AI Ethics & Governance Specialist",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement basic AI ethics & governance solutions",
+        "Implementation of standard techniques",
+        "Practical knowledge of frameworks",
+        "Ability to solve typical problems",
+        "Understanding of pipelines",
+        "Basic deployment capability",
+        "Knowledge of testing",
+        "Ability to write documentation"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of emerging technologies",
+        "Ability for integration",
+        "Understanding of automation"
+      ],
+      "indicators": [
+        "Develops AI ethics & governance solutions with supervision",
+        "Implements complete features",
+        "Optimizes basic processes"
+      ]
+    },
+    "AIEGS-L3": {
+      "level": "L3 - AI Ethics & Governance Specialist",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of end-to-end AI ethics & governance solutions",
+        "Implementation of complex systems",
+        "Mastery of technology stack",
+        "Advanced optimization capability",
+        "Ability for architecture",
+        "Deep knowledge of best practices",
+        "Implementation of monitoring",
+        "Mentoring capability"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of advanced techniques",
+        "Ability for innovation",
+        "Understanding of research"
+      ],
+      "indicators": [
+        "Leads AI ethics & governance projects",
+        "Designs complete architectures",
+        "Mentors junior engineers"
+      ]
+    },
+    "AIEGS-L4": {
+      "level": "L4 - Senior AI Ethics & Governance Specialist",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of scalable AI ethics & governance platforms",
+        "Design of technical strategies",
+        "Implementation of enterprise systems",
+        "Mastery of optimization at scale",
+        "Technical leadership capability",
+        "Deep knowledge of advanced patterns",
+        "Ability for strategic planning",
+        "Leadership in transformation"
+      ],
+      "complementaryCompetencies": [
+        "Experience in distributed systems",
+        "Knowledge of cutting-edge technology",
+        "Implementation of innovation"
+      ],
+      "indicators": [
+        "Defines AI ethics & governance strategy",
+        "Leads technical teams",
+        "Is a reference in AI ethics & governance"
+      ]
+    },
+    "AIEGS-L5": {
+      "level": "L5 - Lead AI Ethics & Governance Specialist",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in AI ethics & governance",
+        "Product strategy design",
+        "Team management",
+        "Standards definition",
+        "ROI analysis capability",
+        "Implementation of governance",
+        "Mastery of emerging technology",
+        "Culture evangelization"
+      ],
+      "complementaryCompetencies": [
+        "Experience in consulting",
+        "Knowledge of business models",
+        "Budget management"
+      ],
+      "indicators": [
+        "Manages AI ethics & governance teams",
+        "Defines product vision",
+        "Represents AI ethics & governance to stakeholders"
+      ]
+    },
+    "AIEGS-L6": {
+      "level": "L6 - Principal AI Ethics & Governance Specialist",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of corporate AI ethics & governance strategy",
+        "Management of platforms at scale",
+        "Definition of enterprise architecture",
+        "Leadership in transformation",
+        "Management of strategic partnerships",
+        "Implementation of responsible practices",
+        "Innovation in solutions",
+        "Compliance management"
+      ],
+      "complementaryCompetencies": [
+        "Experience in M&A",
+        "Knowledge of investment",
+        "Leadership in industry community"
+      ],
+      "indicators": [
+        "Directs AI ethics & governance department",
+        "Participates in executive strategy",
+        "Defines AI ethics & governance investments"
+      ]
+    },
+    "AIEGS-L7": {
+      "level": "L7 - Director AI Ethics & Governance Specialist",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in AI ethics & governance",
+        "Design of global strategies",
+        "Organizational transformation",
+        "Management at Fortune 500 scale",
+        "Creation of organizational culture",
+        "Definition of strategic roadmap",
+        "Board-level evangelization",
+        "Industry influence"
+      ],
+      "complementaryCompetencies": [
+        "Management of multi-million budgets",
+        "Experience in unicorns",
+        "Leadership in standards"
+      ],
+      "indicators": [
+        "Reports to CTO/CEO",
+        "Manages organization (50+ people)",
+        "Defines corporate AI ethics & governance strategy"
+      ]
+    },
+    "AIEGS-L8": {
+      "level": "L8 - VP AI Ethics & Governance Specialist",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic business vision for AI ethics & governance",
+        "Leadership in transformation",
+        "Creation of competitive advantage",
+        "Management of global ecosystems",
+        "Disruptive innovation",
+        "Definition of future direction",
+        "Evangelization of paradigm shift",
+        "Influence on policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as executive in tech giants",
+        "Advisory in startups",
+        "Thought leadership"
+      ],
+      "indicators": [
+        "Is part of executive committee",
+        "Defines future of AI ethics & governance",
+        "Is recognized leader in AI ethics & governance"
+      ]
+    },
+    "AIEGS-L9": {
+      "level": "L9 - Chief AI Ethics & Governance Specialist Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in AI ethics & governance",
+        "Industry transformation",
+        "Creation of paradigms",
+        "Definition of AI ethics & governance as core business",
+        "Innovation in breakthrough applications",
+        "Culture evangelization",
+        "Architect of global ecosystems",
+        "Influence on regulation"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming industries with AI ethics & governance",
+        "Recognition as pioneer",
+        "Influence on future"
+      ],
+      "indicators": [
+        "Is Chief AI Ethics & Governance Specialist Officer",
+        "Defines future of AI ethics & governance industry",
+        "Is world authority in AI ethics & governance"
+      ]
+    }
+  }
+}

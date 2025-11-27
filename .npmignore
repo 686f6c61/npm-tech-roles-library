@@ -1,0 +1,35 @@
+# Tests
+tests/
+coverage/
+*.test.js
+__tests__/
+
+# Demo (keep demo in package for users)
+# demo/
+
+# Documentation source
+docs/
+
+# Development files
+.eslintrc.js
+.prettierrc
+jest.config.js
+
+# IDE
+.vscode/
+.idea/
+
+# Git
+.git/
+.gitignore
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+
+# Misc
+*.log
+.DS_Store
+tmp/
+temp/

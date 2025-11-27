@@ -1,0 +1,200 @@
+{
+  "K8E-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de Kubernetes",
+      "Comprensión elemental de containers",
+      "Habilidad para deployments simples",
+      "Conocimiento básico de pods y services",
+      "Capacidad de troubleshooting básico",
+      "Comprensión de YAML",
+      "Documentación de configurations",
+      "Conocimiento elemental de networking"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con kubectl",
+      "Conocimiento de Docker básico",
+      "Comprensión elemental de cloud"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Deploya apps simples",
+      "Está aprendiendo K8s"
+    ]
+  },
+  "K8E-L2": {
+    "coreCompetencies": [
+      "Capacidad de gestionar clusters",
+      "Implementación de deployments complejos",
+      "Conocimiento práctico de networking",
+      "Habilidad para storage management",
+      "Comprensión de security básica",
+      "Capacidad de monitoring",
+      "Conocimiento de Helm",
+      "Habilidad para troubleshooting"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de service mesh básico",
+      "Habilidad para operators",
+      "Comprensión de GitOps"
+    ],
+    "indicators": [
+      "Gestiona workloads con supervisión",
+      "Implementa configurations",
+      "Mantiene clusters"
+    ]
+  },
+  "K8E-L3": {
+    "coreCompetencies": [
+      "Diseño de arquitecturas K8s",
+      "Implementación de multi-cluster",
+      "Dominio de networking avanzado",
+      "Capacidad de security hardening",
+      "Habilidad para custom controllers",
+      "Conocimiento profundo de operators",
+      "Implementación de autoscaling",
+      "Capacidad de disaster recovery"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de service mesh",
+      "Habilidad para observability",
+      "Comprensión de chaos engineering"
+    ],
+    "indicators": [
+      "Lidera proyectos K8s",
+      "Diseña cluster architectures",
+      "Mentoriza en Kubernetes"
+    ]
+  },
+  "K8E-L4": {
+    "coreCompetencies": [
+      "Arquitectura de plataformas K8s",
+      "Diseño de enterprise Kubernetes",
+      "Implementación de multi-tenancy",
+      "Dominio de security at scale",
+      "Capacidad de platform engineering",
+      "Conocimiento profundo de performance tuning",
+      "Habilidad para cluster federation",
+      "Liderazgo en K8s operations"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en K8s at scale",
+      "Conocimiento de cluster API",
+      "Implementación de policy management"
+    ],
+    "indicators": [
+      "Define estrategia K8s",
+      "Lidera platform teams",
+      "Es referente en Kubernetes"
+    ]
+  },
+  "K8E-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en Kubernetes",
+      "Diseño de K8s ecosystems",
+      "Gestión de K8s teams",
+      "Definición de platform standards",
+      "Capacidad de cost optimization",
+      "Implementación de self-service platforms",
+      "Dominio de GitOps at scale",
+      "Evangelización de K8s best practices"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en managed K8s",
+      "Conocimiento de K8s economics",
+      "Gestión de platform budget"
+    ],
+    "indicators": [
+      "Gestiona equipo K8s",
+      "Define visión platform",
+      "Representa K8s ante stakeholders"
+    ]
+  },
+  "K8E-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia K8s",
+      "Gestión de platform operations",
+      "Definición de K8s architecture",
+      "Liderazgo en transformation",
+      "Gestión de multi-cluster at scale",
+      "Implementación de global K8s",
+      "Innovación en orchestration",
+      "Gestión de K8s governance"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en K8s consulting",
+      "Conocimiento de CNCF ecosystem",
+      "Liderazgo en K8s community"
+    ],
+    "indicators": [
+      "Dirige departamento K8s",
+      "Participa en estrategia cloud",
+      "Define inversiones platform"
+    ]
+  },
+  "K8E-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en Kubernetes",
+      "Diseño de estrategias de platform",
+      "Transformación via K8s",
+      "Gestión a escala empresarial",
+      "Creación de cloud-native culture",
+      "Definición de K8s roadmap",
+      "Evangelización a nivel board",
+      "Influencia en CNCF"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de platform budgets",
+      "Experiencia en K8s at scale",
+      "Liderazgo en cloud-native"
+    ],
+    "indicators": [
+      "Reporta a CTO",
+      "Gestiona organización K8s (20+ personas)",
+      "Define estrategia platform"
+    ]
+  },
+  "K8E-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de orchestration",
+      "Liderazgo en K8s transformation",
+      "Creación de platform advantage",
+      "Gestión de K8s ecosystems",
+      "Innovación en orchestration",
+      "Definición de cloud-native future",
+      "Evangelización de containerization",
+      "Influencia en CNCF"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en K8s leadership",
+      "Advisory en cloud-native",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia K8s",
+      "Es líder reconocido"
+    ]
+  },
+  "K8E-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en platforms",
+      "Transformación de infrastructure",
+      "Creación de paradigmas cloud-native",
+      "Definición de platform-centric organizations",
+      "Innovación en orchestration",
+      "Evangelización de K8s",
+      "Arquitecto de platform ecosystems",
+      "Influencia en CNCF"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando platforms",
+      "Reconocimiento como K8s pioneer",
+      "Influencia en cloud-native"
+    ],
+    "indicators": [
+      "Es Chief Platform Officer",
+      "Define futuro orchestration",
+      "Es autoridad mundial"
+    ]
+  }
+}

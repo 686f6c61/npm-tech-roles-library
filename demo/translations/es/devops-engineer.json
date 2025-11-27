@@ -1,0 +1,208 @@
+{
+  "DO-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de sistemas operativos Linux/Unix",
+      "Conocimiento elemental de redes TCP/IP y protocolos básicos",
+      "Habilidad para usar línea de comandos y scripting básico",
+      "Comprensión básica de control de versiones y branching",
+      "Capacidad de trabajar con máquinas virtuales y contenedores básicos",
+      "Conocimiento elemental de servidores web y aplicaciones",
+      "Comprensión básica de logs y monitorización simple",
+      "Habilidad para documentar procesos y configuraciones"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de cloud computing",
+      "Familiaridad con herramientas de ticketing",
+      "Comprensión elemental de ITIL y procesos"
+    ],
+    "indicators": [
+      "Requiere supervisión constante en tareas de infraestructura",
+      "Puede ejecutar runbooks documentados con guía",
+      "Necesita 3-6 meses de mentoría en DevOps"
+    ]
+  },
+  "DO-L2": {
+    "coreCompetencies": [
+      "Capacidad de administrar servidores Linux con tareas comunes",
+      "Habilidad para escribir scripts de automatización en Bash/Python",
+      "Conocimiento práctico de Docker y containerización",
+      "Comprensión de pipelines CI/CD básicos y su configuración",
+      "Capacidad de configurar monitorización y alertas básicas",
+      "Habilidad para realizar backups y restauraciones",
+      "Conocimiento de configuración de firewalls y seguridad básica",
+      "Comprensión de Infrastructure as Code conceptos básicos",
+      "Capacidad de troubleshooting de problemas comunes"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de bases de datos",
+      "Habilidad para usar herramientas de configuración",
+      "Comprensión de metodologías ágiles"
+    ],
+    "indicators": [
+      "Puede mantener infraestructura existente con supervisión",
+      "Resuelve incidentes de nivel 1 y 2",
+      "Implementa cambios siguiendo procedimientos"
+    ]
+  },
+  "DO-L3": {
+    "coreCompetencies": [
+      "Dominio de orquestación de contenedores (Kubernetes básico)",
+      "Capacidad de diseñar e implementar pipelines CI/CD completos",
+      "Habilidad para implementar Infrastructure as Code con Terraform/Ansible",
+      "Conocimiento profundo de networking (VLANs, routing, load balancing)",
+      "Capacidad de implementar logging centralizado y agregación",
+      "Comprensión sólida de seguridad (hardening, compliance básico)",
+      "Habilidad para optimizar performance de sistemas",
+      "Conocimiento de disaster recovery y alta disponibilidad",
+      "Capacidad de implementar monitorización proactiva"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de múltiples clouds públicas",
+      "Habilidad para trabajar con microservicios",
+      "Comprensión de FinOps básico"
+    ],
+    "indicators": [
+      "Implementa infraestructura nueva con mínima supervisión",
+      "Participa en on-call rotation y resuelve incidentes",
+      "Contribuye a mejoras de procesos y herramientas"
+    ]
+  },
+  "DO-L4": {
+    "coreCompetencies": [
+      "Capacidad de diseñar arquitecturas cloud escalables y resilientes",
+      "Dominio de Kubernetes avanzado y service mesh",
+      "Habilidad para implementar GitOps y continuous deployment",
+      "Conocimiento profundo de observabilidad (metrics, logs, traces)",
+      "Capacidad de implementar security scanning y compliance automation",
+      "Dominio de gestión de secretos y vault systems",
+      "Habilidad para diseñar estrategias de backup y disaster recovery",
+      "Conocimiento de capacity planning y auto-scaling",
+      "Capacidad de implementar chaos engineering básico"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de serverless architectures",
+      "Habilidad para implementar ML pipelines",
+      "Comprensión de edge computing"
+    ],
+    "indicators": [
+      "Lidera proyectos de infraestructura medianos",
+      "Define estándares y mejores prácticas del equipo",
+      "Mentora a juniors en DevOps practices"
+    ]
+  },
+  "DO-L5": {
+    "coreCompetencies": [
+      "Expertise en arquitecturas multi-cloud y hybrid cloud",
+      "Capacidad de diseñar plataformas de desarrollo internas",
+      "Dominio de service mesh avanzado y API gateways",
+      "Habilidad para implementar zero-downtime deployments",
+      "Conocimiento profundo de compliance automation (SOC2, ISO)",
+      "Capacidad de implementar FinOps y optimización de costos",
+      "Expertise en incident management y post-mortems",
+      "Dominio de infrastructure testing y validation",
+      "Capacidad de diseñar sistemas de self-healing"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de quantum-safe cryptography",
+      "Habilidad para trabajar con IoT infrastructure",
+      "Comprensión de blockchain infrastructure"
+    ],
+    "indicators": [
+      "Diseña soluciones de infraestructura empresariales",
+      "Lidera respuesta a incidentes críticos",
+      "Define roadmap técnico de infraestructura"
+    ]
+  },
+  "DO-L6": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar plataformas DevOps empresariales",
+      "Expertise en platform engineering y developer experience",
+      "Dominio de GitOps a escala y progressive delivery",
+      "Habilidad para implementar observabilidad empresarial",
+      "Conocimiento profundo de zero-trust networking",
+      "Capacidad de diseñar DR para sistemas críticos globales",
+      "Expertise en cost optimization a gran escala",
+      "Dominio de compliance as code y governance",
+      "Capacidad de implementar SRE practices maduras"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de infraestructura para AI/ML",
+      "Habilidad para diseñar CDN globales",
+      "Comprensión de green computing"
+    ],
+    "indicators": [
+      "Arquitecta infraestructura para productos críticos",
+      "Lidera transformación DevOps organizacional",
+      "Define estrategia de reliability engineering"
+    ]
+  },
+  "DO-L7": {
+    "coreCompetencies": [
+      "Liderazgo en transformación cloud empresarial",
+      "Capacidad de diseñar infraestructura para unicornios/scale-ups",
+      "Expertise en platform as a product mindset",
+      "Dominio de infraestructura inmutable y GitOps avanzado",
+      "Capacidad de implementar AIOps y automación inteligente",
+      "Conocimiento profundo de edge computing y 5G infrastructure",
+      "Expertise en global traffic management y GeoDNS",
+      "Capacidad de diseñar supply chain security",
+      "Dominio de sustainability en infraestructura"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influir en cloud providers",
+      "Habilidad para contribuir a proyectos CNCF",
+      "Conocimiento de infraestructura espacial"
+    ],
+    "indicators": [
+      "Define estrategia de infraestructura multi-año",
+      "Lidera comunidades DevOps externas",
+      "Speaker en conferencias internacionales"
+    ]
+  },
+  "DO-L8": {
+    "coreCompetencies": [
+      "Visión estratégica para evolución de infraestructura",
+      "Capacidad de diseñar para empresas Fortune 500",
+      "Expertise en due diligence de infraestructura",
+      "Dominio de transformación de legacy a cloud-native",
+      "Capacidad de definir DevOps governance corporativo",
+      "Conocimiento profundo de vendor management estratégico",
+      "Expertise en building centros de excelencia DevOps",
+      "Capacidad de liderar open source infrastructure projects",
+      "Dominio de innovation en automation y tooling"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de patentar innovaciones",
+      "Habilidad para crear startups DevOps",
+      "Conocimiento de inversión en infraestructura"
+    ],
+    "indicators": [
+      "Define estrategia DevOps para toda la organización",
+      "Reconocido thought leader en DevOps",
+      "Influye en estándares de industria"
+    ]
+  },
+  "DO-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en infraestructura y operaciones",
+      "Capacidad de alinear infraestructura con estrategia de negocio",
+      "Expertise en M&A de infraestructura y migración",
+      "Dominio de presupuestos de infraestructura multi-millonarios",
+      "Capacidad de construir organizaciones DevOps globales",
+      "Conocimiento profundo de risk management tecnológico",
+      "Expertise en relaciones con vendors estratégicos",
+      "Capacidad de definir cultura DevOps organizacional",
+      "Dominio de innovación en infraestructura"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar políticas cloud",
+      "Habilidad para crear ecosistemas DevOps",
+      "Conocimiento de private equity tech"
+    ],
+    "indicators": [
+      "Define y ejecuta visión de infraestructura empresarial",
+      "Responsable de P&L de operaciones completo",
+      "Líder reconocido en industria DevOps global"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "GD-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de game loops y mecánicas",
+      "Comprensión elemental de físicas de juegos",
+      "Habilidad para scripting simple de gameplay",
+      "Conocimiento básico de gráficos 2D/3D",
+      "Capacidad de usar game engines básicos",
+      "Comprensión de input handling",
+      "Conocimiento elemental de game states",
+      "Habilidad para debugging básico de juegos"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con assets y sprites",
+      "Conocimiento básico de level design",
+      "Comprensión elemental de game AI"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Implementa mecánicas simples con guía",
+      "Está aprendiendo desarrollo de juegos"
+    ]
+  },
+  "GD-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar gameplay systems completos",
+      "Desarrollo de character controllers",
+      "Conocimiento práctico de collision detection",
+      "Habilidad para UI/UX de juegos",
+      "Implementación de save/load systems",
+      "Comprensión de pathfinding algorithms",
+      "Capacidad de audio integration",
+      "Conocimiento de particle systems"
+    ],
+    "complementaryCompetencies": [
+      "Desarrollo para móviles básico",
+      "Conocimiento de shader programming simple",
+      "Habilidad para multiplayer local"
+    ],
+    "indicators": [
+      "Desarrolla features de juego con supervisión",
+      "Implementa mecánicas estándar",
+      "Optimiza performance básica"
+    ]
+  },
+  "GD-L3": {
+    "coreCompetencies": [
+      "Diseño de arquitecturas de juego complejas",
+      "Implementación de AI behaviors avanzados",
+      "Dominio de graphics programming",
+      "Capacidad de networking para multiplayer",
+      "Habilidad para procedural generation",
+      "Conocimiento profundo de optimization techniques",
+      "Implementación de monetization systems",
+      "Diseño de tools y editors personalizados"
+    ],
+    "complementaryCompetencies": [
+      "Desarrollo de VR/AR games",
+      "Conocimiento de backend services para juegos",
+      "Habilidad para cross-platform development"
+    ],
+    "indicators": [
+      "Diseña sistemas de juego completos",
+      "Lidera desarrollo de features complejas",
+      "Mentoriza en mejores prácticas"
+    ]
+  },
+  "GD-L4": {
+    "coreCompetencies": [
+      "Arquitectura de game engines propios",
+      "Diseño de MMO infrastructure",
+      "Implementación de advanced rendering techniques",
+      "Dominio de real-time optimization",
+      "Capacidad de leading technical direction",
+      "Conocimiento profundo de platform-specific optimization",
+      "Habilidad para live-ops architecture",
+      "Liderazgo en technical game design"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en console development",
+      "Conocimiento de cloud gaming",
+      "Implementación de anti-cheat systems"
+    ],
+    "indicators": [
+      "Define arquitectura técnica de proyectos AAA",
+      "Lidera equipos técnicos de juegos",
+      "Es referente en tecnología de juegos"
+    ]
+  },
+  "GD-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en producción de juegos",
+      "Diseño de pipelines de desarrollo completos",
+      "Gestión de equipos multidisciplinarios",
+      "Definición de technical roadmaps",
+      "Capacidad de R&D en nuevas tecnologías",
+      "Implementación de metodologías ágiles para juegos",
+      "Dominio de post-launch strategies",
+      "Evangelización de innovación técnica"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en game porting",
+      "Conocimiento de blockchain gaming",
+      "Gestión de external development"
+    ],
+    "indicators": [
+      "Gestiona múltiples equipos de desarrollo",
+      "Define visión técnica del estudio",
+      "Representa tecnología ante publishers"
+    ]
+  },
+  "GD-L6": {
+    "coreCompetencies": [
+      "Dirección técnica de estudios de juegos",
+      "Estrategia tecnológica multi-proyecto",
+      "Gestión de presupuestos técnicos grandes",
+      "Definición de tech stack del estudio",
+      "Liderazgo en next-gen development",
+      "Gestión de partnerships tecnológicos",
+      "Innovación en game development processes",
+      "Definición de quality standards"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en game franchises",
+      "Conocimiento de esports infrastructure",
+      "Liderazgo en game industry initiatives"
+    ],
+    "indicators": [
+      "Dirige departamento técnico (20+ personas)",
+      "Participa en decisiones estratégicas del estudio",
+      "Define tecnología para múltiples títulos"
+    ]
+  },
+  "GD-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en tecnología de juegos",
+      "Diseño de estrategias tecnológicas multi-estudio",
+      "Transformación de procesos de producción",
+      "Gestión de innovación a escala industria",
+      "Creación de proprietary technology",
+      "Definición de futuro de game development",
+      "Evangelización ante inversores y boards",
+      "Influencia en dirección de la industria"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de game technology licensing",
+      "Experiencia en metaverse development",
+      "Liderazgo en consorcios tecnológicos"
+    ],
+    "indicators": [
+      "Reporta a CEO/Board",
+      "Gestiona organizaciones técnicas (50+ personas)",
+      "Define estrategia tecnológica corporativa"
+    ]
+  },
+  "GD-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de futuro del gaming",
+      "Liderazgo en transformación de entretenimiento digital",
+      "Creación de nuevos paradigmas de juego",
+      "Gestión de portfolios tecnológicos masivos",
+      "Innovación disruptiva en experiencias interactivas",
+      "Definición de estándares de industria",
+      "Evangelización de nuevas plataformas",
+      "Influencia en políticas de gaming globales"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como CTO en publishers AAA",
+      "Advisory en múltiples game studios",
+      "Creación de game engines comerciales"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia tecnológica de publisher",
+      "Es thought leader en game technology"
+    ]
+  },
+  "GD-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro del entretenimiento interactivo",
+      "Transformación de cómo la humanidad juega",
+      "Creación de nuevos medios de expresión",
+      "Definición de realidades virtuales masivas",
+      "Innovación en simbiosis humano-juego",
+      "Evangelización de gaming como cultura",
+      "Arquitecto de metaversos y mundos virtuales",
+      "Influencia en evolución del ocio digital"
+    ],
+    "complementaryCompetencies": [
+      "Creador de géneros de juego revolucionarios",
+      "Reconocimiento como leyenda de la industria",
+      "Influencia en generaciones de desarrolladores"
+    ],
+    "indicators": [
+      "Es CTO/Creative Director legendario",
+      "Define futuro del entretenimiento digital",
+      "Es ícono de la industria del gaming"
+    ]
+  }
+}

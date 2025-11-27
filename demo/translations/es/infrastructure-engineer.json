@@ -1,0 +1,201 @@
+{
+  "IE-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de sistemas operativos y redes",
+      "Conocimiento elemental de servidores y hardware",
+      "Habilidad para troubleshooting básico",
+      "Comprensión básica de protocolos de red",
+      "Capacidad de documentar infraestructura",
+      "Conocimiento elemental de virtualización",
+      "Comprensión básica de backup y recovery",
+      "Habilidad para usar herramientas de monitoreo básicas"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de cloud computing",
+      "Familiaridad con scripting",
+      "Comprensión elemental de seguridad"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Puede ejecutar tareas de mantenimiento básicas",
+      "Necesita 6-12 meses de mentoría"
+    ]
+  },
+  "IE-L2": {
+    "coreCompetencies": [
+      "Capacidad de gestionar servidores y storage",
+      "Habilidad para configurar redes y VLANs",
+      "Conocimiento práctico de virtualización",
+      "Comprensión de alta disponibilidad básica",
+      "Capacidad de implementar monitoring",
+      "Habilidad para capacity planning básico",
+      "Conocimiento de disaster recovery",
+      "Comprensión de security hardening"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de containerización",
+      "Habilidad para automation básica",
+      "Comprensión de ITIL"
+    ],
+    "indicators": [
+      "Gestiona infraestructura con supervisión moderada",
+      "Resuelve incidentes nivel 1-2",
+      "Mantiene SLAs básicos"
+    ]
+  },
+  "IE-L3": {
+    "coreCompetencies": [
+      "Dominio de arquitecturas de datacenter",
+      "Capacidad de diseñar redes empresariales",
+      "Habilidad para implementar clustering y HA",
+      "Conocimiento profundo de storage systems",
+      "Capacidad de automation con IaC",
+      "Comprensión sólida de performance tuning",
+      "Habilidad para gestión de vendors",
+      "Conocimiento de compliance y auditoría"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de hybrid cloud",
+      "Habilidad para SDN",
+      "Comprensión de DevOps"
+    ],
+    "indicators": [
+      "Diseña soluciones de infraestructura",
+      "Lidera proyectos de migración",
+      "Optimiza costos de infraestructura"
+    ]
+  },
+  "IE-L4": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar infraestructura empresarial",
+      "Dominio de cloud y on-premise integration",
+      "Habilidad para diseñar DR strategies",
+      "Conocimiento profundo de networking avanzado",
+      "Capacidad de liderar transformaciones",
+      "Dominio de automation y orchestration",
+      "Habilidad para capacity forecasting",
+      "Conocimiento de green IT"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de edge computing",
+      "Habilidad para ML infrastructure",
+      "Comprensión de IoT infrastructure"
+    ],
+    "indicators": [
+      "Define estrategia de infraestructura",
+      "Lidera equipos de infraestructura",
+      "Mentora ingenieros junior"
+    ]
+  },
+  "IE-L5": {
+    "coreCompetencies": [
+      "Expertise en arquitecturas globales distribuidas",
+      "Capacidad de diseñar datacenters",
+      "Dominio de multi-cloud strategies",
+      "Habilidad para transformación digital",
+      "Conocimiento profundo de TCO optimization",
+      "Capacidad de gestionar budgets grandes",
+      "Expertise en vendor negotiations",
+      "Dominio de innovation en infra"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de quantum readiness",
+      "Habilidad para sustainability",
+      "Comprensión de 5G infrastructure"
+    ],
+    "indicators": [
+      "Arquitecta infraestructura corporativa",
+      "Lidera iniciativas estratégicas",
+      "Define roadmap de infraestructura"
+    ]
+  },
+  "IE-L6": {
+    "coreCompetencies": [
+      "Capacidad de definir estrategia de infra empresarial",
+      "Expertise en mega-scale infrastructure",
+      "Dominio de global infrastructure",
+      "Habilidad para M&A infrastructure",
+      "Conocimiento profundo de emerging tech",
+      "Capacidad de liderar centros de excelencia",
+      "Expertise en partnerships estratégicos",
+      "Dominio de infrastructure economics"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de space infrastructure",
+      "Habilidad para infrastructure R&D",
+      "Comprensión de infrastructure ventures"
+    ],
+    "indicators": [
+      "Define visión de infraestructura",
+      "Lidera organizaciones de infra",
+      "Influencia industria"
+    ]
+  },
+  "IE-L7": {
+    "coreCompetencies": [
+      "Liderazgo en transformación de infraestructura",
+      "Capacidad de gestionar infra global",
+      "Expertise en infrastructure innovation",
+      "Dominio de strategic partnerships",
+      "Capacidad de definir infra governance",
+      "Conocimiento profundo de risk management",
+      "Expertise en cost optimization global",
+      "Capacidad de liderar digital transformation"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar estándares",
+      "Habilidad para crear startups infra",
+      "Conocimiento de infra investments"
+    ],
+    "indicators": [
+      "Define estrategia infra corporativa",
+      "Representa empresa en industria",
+      "Thought leader en infraestructura"
+    ]
+  },
+  "IE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de infraestructura futura",
+      "Capacidad de transformar empresas",
+      "Expertise en infra como ventaja competitiva",
+      "Dominio de presupuestos masivos",
+      "Capacidad de construir organizaciones",
+      "Conocimiento profundo de board reporting",
+      "Expertise en ecosystem building",
+      "Capacidad de definir cultura de infra"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar políticas",
+      "Habilidad para M&A de infra",
+      "Conocimiento de IPO readiness"
+    ],
+    "indicators": [
+      "Define estrategia ejecutiva de infra",
+      "Responsable de toda la infraestructura",
+      "Líder de industria reconocido"
+    ]
+  },
+  "IE-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en infraestructura",
+      "Capacidad de alinear infra con negocio",
+      "Expertise en transformación empresarial",
+      "Dominio de governance ejecutivo",
+      "Capacidad de construir ventajas mediante infra",
+      "Conocimiento profundo de shareholder value",
+      "Expertise en relaciones con inversores",
+      "Capacidad de definir futuro tecnológico",
+      "Dominio de innovación disruptiva"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de crear ecosistemas",
+      "Habilidad para influenciar industria",
+      "Conocimiento de exits estratégicos"
+    ],
+    "indicators": [
+      "Máximo responsable de infraestructura",
+      "Define futuro tecnológico empresarial",
+      "Líder global en infraestructura"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "BIS-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de herramientas BI",
+      "Comprensión elemental de data warehousing",
+      "Habilidad para crear reportes simples",
+      "Conocimiento básico de dimensional modeling",
+      "Capacidad de usar dashboards existentes",
+      "Comprensión de métricas de negocio básicas",
+      "Documentación de requirements BI",
+      "Conocimiento elemental de data marts"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con SQL básico",
+      "Conocimiento de Excel pivot tables",
+      "Comprensión de KPIs departamentales"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Mantiene reportes existentes",
+      "Está aprendiendo arquitectura BI"
+    ]
+  },
+  "BIS-L2": {
+    "coreCompetencies": [
+      "Capacidad de desarrollar dashboards completos",
+      "Implementación de ETL pipelines básicos",
+      "Conocimiento práctico de star/snowflake schemas",
+      "Habilidad para data modeling intermedio",
+      "Comprensión de OLAP cubes",
+      "Capacidad de performance tuning BI",
+      "Conocimiento de data governance BI",
+      "Habilidad para self-service BI"
+    ],
+    "complementaryCompetencies": [
+      "Desarrollo de scorecards corporativos",
+      "Conocimiento de real-time BI",
+      "Comprensión de mobile BI"
+    ],
+    "indicators": [
+      "Desarrolla soluciones BI independientes",
+      "Optimiza procesos ETL existentes",
+      "Entrena usuarios en herramientas BI"
+    ]
+  },
+  "BIS-L3": {
+    "coreCompetencies": [
+      "Diseño de arquitecturas BI empresariales",
+      "Implementación de data warehouses completos",
+      "Dominio de advanced ETL/ELT",
+      "Capacidad de metadata management",
+      "Habilidad para BI security y row-level security",
+      "Conocimiento profundo de BI performance optimization",
+      "Implementación de master data management",
+      "Diseño de BI governance frameworks"
+    ],
+    "complementaryCompetencies": [
+      "Implementación de predictive BI",
+      "Conocimiento de cloud BI platforms",
+      "Habilidad para embedded analytics"
+    ],
+    "indicators": [
+      "Arquitecta soluciones BI end-to-end",
+      "Lidera proyectos de BI transformation",
+      "Mentoriza especialistas BI junior"
+    ]
+  },
+  "BIS-L4": {
+    "coreCompetencies": [
+      "Arquitectura de plataformas BI corporativas",
+      "Diseño de estrategias de BI modernization",
+      "Implementación de semantic layers empresariales",
+      "Dominio de BI automation y orchestration",
+      "Capacidad de BI platform selection",
+      "Conocimiento profundo de hybrid cloud BI",
+      "Habilidad para augmented analytics",
+      "Liderazgo en BI center of excellence"
+    ],
+    "complementaryCompetencies": [
+      "Implementación de AI-powered BI",
+      "Conocimiento de data fabric architectures",
+      "Experiencia en BI monetization"
+    ],
+    "indicators": [
+      "Define estrategia BI organizacional",
+      "Lidera equipos de BI desarrollo",
+      "Es arquitecto principal de BI"
+    ]
+  },
+  "BIS-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en BI empresarial",
+      "Diseño de BI strategies multi-divisionales",
+      "Gestión de equipos de BI specialists",
+      "Definición de BI roadmaps estratégicos",
+      "Capacidad de BI portfolio management",
+      "Implementación de enterprise BI standards",
+      "Dominio de BI change management",
+      "Evangelización de data-driven culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en BI transformation programs",
+      "Conocimiento de industry-specific BI",
+      "Gestión de BI vendors estratégicos"
+    ],
+    "indicators": [
+      "Gestiona múltiples equipos BI",
+      "Define visión de inteligencia empresarial",
+      "Representa BI ante ejecutivos"
+    ]
+  },
+  "BIS-L6": {
+    "coreCompetencies": [
+      "Dirección de BI a nivel corporativo",
+      "Estrategia de competitive intelligence platforms",
+      "Gestión de inversiones BI millonarias",
+      "Definición de BI as a service models",
+      "Liderazgo en digital BI transformation",
+      "Implementación de next-gen BI capabilities",
+      "Innovación en BI delivery models",
+      "Gestión de BI ecosystem partnerships"
+    ],
+    "complementaryCompetencies": [
+      "BI strategy en M&A integration",
+      "Experiencia en BI consulting executive",
+      "Conocimiento de BI regulatory compliance"
+    ],
+    "indicators": [
+      "Dirige departamento BI (20+ personas)",
+      "Participa en digital strategy board",
+      "Define BI investments portfolio"
+    ]
+  },
+  "BIS-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en business intelligence",
+      "Diseño de estrategias BI globales multi-empresa",
+      "Transformación organizacional via intelligence",
+      "Gestión de BI a escala Fortune 500",
+      "Creación de ventajas competitivas via BI",
+      "Definición de futuro de enterprise intelligence",
+      "Evangelización de BI a nivel board",
+      "Influencia en BI industry standards"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de BI innovation centers",
+      "Experiencia en BI platform ventures",
+      "Liderazgo en BI consortiums globales"
+    ],
+    "indicators": [
+      "Reporta a CIO/CDO",
+      "Gestiona organizaciones BI (50+ personas)",
+      "Define inteligencia estratégica corporativa"
+    ]
+  },
+  "BIS-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de intelligence-driven enterprise",
+      "Liderazgo en revolución de business intelligence",
+      "Creación de paradigmas de ambient intelligence",
+      "Gestión de intelligence platforms globales",
+      "Innovación disruptiva en cognitive BI",
+      "Definición de autonomous BI evolution",
+      "Evangelización de intelligence automation",
+      "Influencia en intelligence regulations"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como CBIO en corporaciones globales",
+      "Advisory en BI unicorns",
+      "Thought leadership en enterprise intelligence"
+    ],
+    "indicators": [
+      "Es parte del executive committee",
+      "Define estrategia de inteligencia global",
+      "Es líder mundial en BI"
+    ]
+  },
+  "BIS-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de inteligencia empresarial",
+      "Transformación de economía mediante intelligence platforms",
+      "Creación de omniscient business paradigms",
+      "Definición de prescient analytics evolution",
+      "Innovación en quantum business intelligence",
+      "Evangelización de intelligence singularity",
+      "Arquitecto de planetary intelligence systems",
+      "Influencia en evolución de decision science"
+    ],
+    "complementaryCompetencies": [
+      "Creador de BI paradigms revolucionarios",
+      "Reconocimiento como padre del BI moderno",
+      "Influencia en BI education mundial"
+    ],
+    "indicators": [
+      "Es Chief Business Intelligence Officer",
+      "Define futuro de inteligencia corporativa",
+      "Es autoridad suprema en BI"
+    ]
+  }
+}

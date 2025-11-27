@@ -1,0 +1,201 @@
+{
+  "APID-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de arquitecturas API",
+      "Comprensión elemental de REST principles",
+      "Habilidad para consumir APIs existentes",
+      "Conocimiento básico de HTTP methods y status codes",
+      "Capacidad de testing manual de endpoints",
+      "Comprensión básica de JSON/XML",
+      "Documentación simple de APIs",
+      "Conocimiento elemental de autenticación API"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con Postman o similar",
+      "Conocimiento básico de cURL",
+      "Comprensión elemental de CORS"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Implementa endpoints simples con guía",
+      "Está aprendiendo fundamentos de APIs"
+    ]
+  },
+  "APID-L2": {
+    "coreCompetencies": [
+      "Capacidad de diseñar APIs RESTful básicas",
+      "Implementación de CRUD operations completas",
+      "Conocimiento práctico de OpenAPI/Swagger",
+      "Habilidad para versioning básico de APIs",
+      "Comprensión de rate limiting y throttling",
+      "Capacidad de implementar caching básico",
+      "Conocimiento de webhooks y callbacks",
+      "Habilidad para error handling consistente"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de GraphQL básico",
+      "Comprensión de gRPC",
+      "Habilidad para API testing automation"
+    ],
+    "indicators": [
+      "Desarrolla APIs funcionales con supervisión",
+      "Mantiene documentación actualizada",
+      "Resuelve issues de integración comunes"
+    ]
+  },
+  "APID-L3": {
+    "coreCompetencies": [
+      "Diseño de arquitecturas API complejas, Dominio de API security (OAuth2",
+      "JWT",
+      "API keys)",
+      "Capacidad de implementar API gateways",
+      "Habilidad para diseñar APIs idempotentes",
+      "Conocimiento profundo de HATEOAS",
+      "Implementación de pagination y filtering avanzado",
+      "Capacidad de API monitoring y analytics",
+      "Diseño de SDKs para múltiples lenguajes"
+    ],
+    "complementaryCompetencies": [
+      "Implementación de event-driven APIs",
+      "Conocimiento de API monetization",
+      "Habilidad para API governance"
+    ],
+    "indicators": [
+      "Diseña ecosistemas de APIs completos",
+      "Lidera standardization efforts",
+      "Mentoriza en mejores prácticas de API"
+    ]
+  },
+  "APID-L4": {
+    "coreCompetencies": [
+      "Arquitectura de plataformas API empresariales",
+      "Diseño de estrategias de API-first",
+      "Implementación de microservices communication",
+      "Dominio de API lifecycle management",
+      "Capacidad de designing for scale",
+      "Conocimiento profundo de API performance optimization",
+      "Habilidad para backward compatibility strategies",
+      "Liderazgo en API governance"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en API marketplaces",
+      "Conocimiento de semantic versioning avanzado",
+      "Implementación de API orchestration"
+    ],
+    "indicators": [
+      "Define estrategia de APIs organizacional",
+      "Lidera equipos de API development",
+      "Es referente en diseño de APIs"
+    ]
+  },
+  "APID-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en API platforms",
+      "Diseño de estrategias de partner integration",
+      "Gestión de developer ecosystems",
+      "Definición de API standards corporativos",
+      "Capacidad de API product management",
+      "Implementación de API economy strategies",
+      "Dominio de federated APIs",
+      "Evangelización de API culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en API transformation projects",
+      "Conocimiento de industry API standards",
+      "Gestión de third-party API relationships"
+    ],
+    "indicators": [
+      "Gestiona equipos de API platform",
+      "Define roadmap de APIs empresarial",
+      "Representa APIs ante stakeholders"
+    ]
+  },
+  "APID-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia API corporativa",
+      "Gestión de API platforms a escala",
+      "Definición de API business models",
+      "Liderazgo en digital transformation via APIs",
+      "Gestión de API partnerships estratégicos",
+      "Implementación de API-as-a-Product",
+      "Innovación en API technologies",
+      "Gestión de API compliance y regulations"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en API M&A integration",
+      "Conocimiento de API venture strategies",
+      "Liderazgo en API consortiums"
+    ],
+    "indicators": [
+      "Dirige departamento de API platform",
+      "Participa en estrategia digital ejecutiva",
+      "Define monetización de APIs"
+    ]
+  },
+  "APID-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en API economy",
+      "Diseño de estrategias de platform business",
+      "Transformación de empresas hacia API-centric",
+      "Gestión de ecosistemas API globales",
+      "Creación de ventajas competitivas via APIs",
+      "Definición de futuro de interoperabilidad",
+      "Evangelización de API-first a nivel board",
+      "Influencia en estándares de industria"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de API investment funds",
+      "Experiencia en unicornios API-first",
+      "Participación en regulatory bodies"
+    ],
+    "indicators": [
+      "Reporta a C-suite",
+      "Gestiona organizaciones de API (50+ personas)",
+      "Define estrategia de plataforma empresarial"
+    ]
+  },
+  "APID-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de economía de APIs",
+      "Liderazgo en transformación de industrias via APIs",
+      "Creación de standards que definen mercados",
+      "Gestión de ecosistemas de miles de APIs",
+      "Innovación disruptiva en interoperabilidad",
+      "Definición de next-gen API paradigms",
+      "Evangelización de API mesh y federation",
+      "Influencia en políticas de datos globales"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como CTO/CPO en empresas API-first",
+      "Advisory en múltiples API startups",
+      "Autor de especificaciones de industria"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia de ecosistema digital",
+      "Es thought leader en API economy"
+    ]
+  },
+  "APID-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de interconexión digital",
+      "Transformación de economía global mediante APIs",
+      "Creación de paradigmas de integración universales",
+      "Definición de web semántica y linked data",
+      "Innovación en autonomous API evolution",
+      "Evangelización de API consciousness",
+      "Arquitecto de interoperabilidad planetaria",
+      "Influencia en evolución de internet"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando industrias mediante APIs",
+      "Reconocimiento como pionero de API economy",
+      "Influencia en protocolos de internet"
+    ],
+    "indicators": [
+      "Es Chief API Officer o equivalente",
+      "Define futuro de conectividad digital",
+      "Es autoridad mundial en APIs"
+    ]
+  }
+}

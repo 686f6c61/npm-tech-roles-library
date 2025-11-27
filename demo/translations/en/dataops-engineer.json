@@ -1,0 +1,200 @@
+{
+  "DOE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of DataOps",
+      "Elementary understanding of CI/CD for data",
+      "Ability for basic deployment",
+      "Basic knowledge of orchestration",
+      "Capacity for monitoring with supervision",
+      "Understanding of data pipelines",
+      "Documentation of deployments",
+      "Elementary knowledge of testing"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with Airflow",
+      "Basic knowledge of Git",
+      "Elementary understanding of containers"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Executes simple deployments",
+      "Is learning DataOps"
+    ]
+  },
+  "DOE-L2": {
+    "coreCompetencies": [
+      "Ability to implement CI/CD pipelines",
+      "Implementation of automated testing",
+      "Practical knowledge of orchestration",
+      "Ability for monitoring and alerting",
+      "Understanding of IaC for data",
+      "Capacity for deployment automation",
+      "Knowledge of version control",
+      "Ability for troubleshooting"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of Kubernetes",
+      "Ability for scripting",
+      "Understanding of cloud platforms"
+    ],
+    "indicators": [
+      "Implements pipelines with supervision",
+      "Automates deployments",
+      "Maintains monitoring"
+    ]
+  },
+  "DOE-L3": {
+    "coreCompetencies": [
+      "Design of DataOps architectures",
+      "Implementation of advanced CI/CD",
+      "Mastery of orchestration platforms",
+      "Capacity for observability",
+      "Ability for advanced IaC",
+      "Deep knowledge of testing strategies",
+      "Implementation of self-service",
+      "Capacity for incident management"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of data mesh ops",
+      "Ability for cost optimization",
+      "Understanding of SRE principles"
+    ],
+    "indicators": [
+      "Leads DataOps projects",
+      "Designs automation",
+      "Mentors in DataOps"
+    ]
+  },
+  "DOE-L4": {
+    "coreCompetencies": [
+      "Architecture of DataOps platforms",
+      "Design of enterprise DataOps",
+      "Implementation of GitOps",
+      "Mastery of multi-cloud DataOps",
+      "Capacity for platform engineering",
+      "Deep knowledge of reliability",
+      "Ability for chaos engineering",
+      "Leadership in automation"
+    ],
+    "complementaryCompetencies": [
+      "Experience in data platform",
+      "Knowledge of FinOps",
+      "Implementation of policy as code"
+    ],
+    "indicators": [
+      "Defines DataOps strategy",
+      "Leads platform teams",
+      "Is reference in DataOps"
+    ]
+  },
+  "DOE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in DataOps",
+      "Design of DataOps ecosystems",
+      "Management of DataOps teams",
+      "Definition of DataOps standards",
+      "Capacity for SLO/SLA management",
+      "Implementation of observability platforms",
+      "Mastery of incident response",
+      "Evangelization of DataOps culture"
+    ],
+    "complementaryCompetencies": [
+      "Experience in data reliability",
+      "Knowledge of platform economics",
+      "Management of tools budget"
+    ],
+    "indicators": [
+      "Manages DataOps team",
+      "Defines automation vision",
+      "Represents DataOps to stakeholders"
+    ]
+  },
+  "DOE-L6": {
+    "coreCompetencies": [
+      "Direction of DataOps strategy",
+      "Management of platform operations at scale",
+      "Definition of DataOps architecture",
+      "Leadership in transformation",
+      "Management of reliability programs",
+      "Implementation of global DataOps",
+      "Innovation in automation",
+      "Management of operational excellence"
+    ],
+    "complementaryCompetencies": [
+      "Experience in platform M&A",
+      "Knowledge of DataOps investment",
+      "Leadership in community"
+    ],
+    "indicators": [
+      "Directs DataOps department",
+      "Participates in strategy",
+      "Defines platform investments"
+    ]
+  },
+  "DOE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in DataOps",
+      "Design of global strategies",
+      "Organizational transformation via DataOps",
+      "Management at enterprise scale",
+      "Creation of automation culture",
+      "Definition of platform roadmap",
+      "Evangelization at board level",
+      "Influence on standards"
+    ],
+    "complementaryCompetencies": [
+      "Management of DataOps budgets",
+      "Experience in data-intensive companies",
+      "Leadership in platform community"
+    ],
+    "indicators": [
+      "Reports to CDO/CTO",
+      "Manages organization (25+ people)",
+      "Defines DataOps strategy"
+    ]
+  },
+  "DOE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of DataOps",
+      "Leadership in platform transformation",
+      "Creation of operational advantage",
+      "Management of DataOps ecosystems",
+      "Innovation in automation",
+      "Definition of autonomous data ops",
+      "Evangelization of reliability",
+      "Influence on policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience in DataOps leadership",
+      "Advisory in platform startups",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines DataOps strategy",
+      "Is recognized leader"
+    ]
+  },
+  "DOE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in DataOps",
+      "Transformation of operations",
+      "Creation of automation paradigms",
+      "Definition of ops-native organizations",
+      "Innovation in reliability",
+      "Evangelization of operational excellence",
+      "Architect of DataOps ecosystems",
+      "Influence on standards"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming operations",
+      "Recognition as pioneer",
+      "Influence in DataOps"
+    ],
+    "indicators": [
+      "Is Chief DataOps Officer",
+      "Defines future of DataOps",
+      "Is world authority"
+    ]
+  }
+}

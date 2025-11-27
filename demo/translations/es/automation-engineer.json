@@ -1,0 +1,200 @@
+{
+  "AE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de automation scripting",
+      "Comprensión elemental de RPA tools",
+      "Habilidad para automatizar tareas simples",
+      "Conocimiento básico de workflow automation",
+      "Capacidad de usar automation frameworks básicos",
+      "Comprensión de scheduled tasks",
+      "Documentación de procesos automatizados",
+      "Conocimiento elemental de testing automation"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con Selenium básico",
+      "Conocimiento de macros y scripts",
+      "Comprensión de CI/CD pipelines básico"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Automatiza tareas repetitivas simples",
+      "Está aprendiendo automation engineering"
+    ]
+  },
+  "AE-L2": {
+    "coreCompetencies": [
+      "Capacidad de desarrollar bots RPA",
+      "Implementación de test automation completa",
+      "Conocimiento práctico de orchestration tools",
+      "Habilidad para process mining",
+      "Comprensión de intelligent automation",
+      "Capacidad de API automation",
+      "Conocimiento de infrastructure automation",
+      "Habilidad para automation monitoring"
+    ],
+    "complementaryCompetencies": [
+      "Desarrollo de chatbots básicos",
+      "Conocimiento de workflow engines",
+      "Comprensión de business process automation"
+    ],
+    "indicators": [
+      "Desarrolla automatizaciones con supervisión",
+      "Implementa RPA solutions",
+      "Mantiene automation frameworks"
+    ]
+  },
+  "AE-L3": {
+    "coreCompetencies": [
+      "Diseño de automation architectures",
+      "Implementación de cognitive automation",
+      "Dominio de hyperautomation",
+      "Capacidad de end-to-end process automation",
+      "Habilidad para automation CoE setup",
+      "Conocimiento profundo de AI-driven automation",
+      "Implementación de self-service automation",
+      "Diseño de automation governance"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de process intelligence",
+      "Habilidad para automation analytics",
+      "Comprensión de citizen developer platforms"
+    ],
+    "indicators": [
+      "Lidera proyectos de automatización",
+      "Diseña soluciones enterprise",
+      "Mentoriza automation engineers"
+    ]
+  },
+  "AE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de plataformas de automatización",
+      "Diseño de estrategias de hyperautomation",
+      "Implementación de autonomous operations",
+      "Dominio de intelligent process automation",
+      "Capacidad de automation at scale",
+      "Conocimiento profundo de ML-powered automation",
+      "Habilidad para automation economics",
+      "Liderazgo en automation transformation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en industrial automation",
+      "Conocimiento de robotic automation",
+      "Implementación de predictive automation"
+    ],
+    "indicators": [
+      "Define estrategia de automatización",
+      "Lidera equipos de automation",
+      "Es referente en hyperautomation"
+    ]
+  },
+  "AE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en automation engineering",
+      "Diseño de automation programs empresariales",
+      "Gestión de equipos de automation",
+      "Definición de automation strategy",
+      "Capacidad de automation ROI modeling",
+      "Implementación de automation factories",
+      "Dominio de change management",
+      "Evangelización de automation-first culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en digital workforce",
+      "Conocimiento de automation marketplaces",
+      "Gestión de automation partners"
+    ],
+    "indicators": [
+      "Gestiona equipos de automation",
+      "Define visión de automatización empresarial",
+      "Representa automation ante ejecutivos"
+    ]
+  },
+  "AE-L6": {
+    "coreCompetencies": [
+      "Dirección de automation organizacional",
+      "Estrategia de workforce automation",
+      "Gestión de inversiones en automation",
+      "Definición de digital labor strategy",
+      "Liderazgo en automation revolution",
+      "Implementación de sentient automation",
+      "Innovación en automation paradigms",
+      "Gestión de global automation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en automation M&A",
+      "Conocimiento de regulatory automation",
+      "Liderazgo en automation consortiums"
+    ],
+    "indicators": [
+      "Dirige departamento de automation (20+ personas)",
+      "Participa en transformación digital",
+      "Define inversiones en automatización"
+    ]
+  },
+  "AE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en automation excellence",
+      "Diseño de estrategias de automation globales",
+      "Transformación organizacional via automation",
+      "Gestión de automation a escala Fortune 500",
+      "Creación de nuevos paradigmas de automation",
+      "Definición de futuro de trabajo automatizado",
+      "Evangelización automation a nivel board",
+      "Influencia en industria 4.0"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de automation en scale-ups",
+      "Experiencia en automation unicorns",
+      "Liderazgo en automation standards"
+    ],
+    "indicators": [
+      "Reporta a COO/CTO",
+      "Gestiona organización de automation (50+ personas)",
+      "Define estrategia de automatización corporativa"
+    ]
+  },
+  "AE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de total automation",
+      "Liderazgo en revolución de automatización",
+      "Creación de paradigmas de self-running enterprises",
+      "Gestión de automation planetaria",
+      "Innovación disruptiva en conscious automation",
+      "Definición de autonomous everything",
+      "Evangelización de singularity automation",
+      "Influencia en futuro del trabajo"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como Chief Automation en giants",
+      "Advisory en automation funds",
+      "Thought leadership en hyperautomation"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define futuro de automation",
+      "Es líder mundial en automatización"
+    ]
+  },
+  "AE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de automatización total",
+      "Transformación de civilización via automation",
+      "Creación de paradigmas de realidad autónoma",
+      "Definición de consciousness automation",
+      "Innovación en biological automation",
+      "Evangelización de universal automation",
+      "Arquitecto de universo auto-ejecutable",
+      "Influencia en evolución de acción autónoma"
+    ],
+    "complementaryCompetencies": [
+      "Creador de revoluciones en automation",
+      "Reconocimiento como padre de hyperautomation",
+      "Influencia en futuro del trabajo"
+    ],
+    "indicators": [
+      "Es Chief Automation Officer legendario",
+      "Define futuro de automatización universal",
+      "Es autoridad mundial en automation"
+    ]
+  }
+}

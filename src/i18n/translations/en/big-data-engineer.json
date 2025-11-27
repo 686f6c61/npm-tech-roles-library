@@ -1,0 +1,259 @@
+{
+  "role": "Big Data Engineer",
+  "category": "Data",
+  "levels": {
+    "BDE-L1": {
+      "level": "L1 - Big Data Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of Hadoop ecosystem",
+        "Elementary knowledge of distributed processing",
+        "Ability to use basic tools",
+        "Basic understanding of NoSQL",
+        "Capability to process medium datasets",
+        "Elementary knowledge of MapReduce",
+        "Basic understanding of data lakes",
+        "Ability to document pipelines"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of Spark",
+        "Familiarity with cloud storage",
+        "Elementary understanding of streaming"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can execute simple jobs",
+        "Needs 6-12 months of mentorship"
+      ]
+    },
+    "BDE-L2": {
+      "level": "L2 - Junior Big Data",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to develop Spark pipelines",
+        "Ability for basic optimization",
+        "Practical knowledge of Kafka",
+        "Understanding of partitioning strategies",
+        "Capability for data ingestion",
+        "Ability for batch processing",
+        "Knowledge of data formats",
+        "Understanding of cluster management"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of Flink",
+        "Ability for Storm",
+        "Understanding of Cassandra"
+      ],
+      "indicators": [
+        "Develops pipelines with supervision",
+        "Maintains basic clusters",
+        "Optimizes simple jobs"
+      ]
+    },
+    "BDE-L3": {
+      "level": "L3 - Big Data Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of lambda/kappa architectures",
+        "Capability for real-time processing",
+        "Ability for advanced optimization",
+        "Deep knowledge of distributed systems",
+        "Capability for data governance",
+        "Solid understanding of security",
+        "Ability for multi-tenancy",
+        "Knowledge of cost optimization"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of graph processing",
+        "Ability for ML pipelines",
+        "Understanding of edge analytics"
+      ],
+      "indicators": [
+        "Designs big data architectures",
+        "Leads data migrations",
+        "Optimizes enterprise clusters"
+      ]
+    },
+    "BDE-L4": {
+      "level": "L4 - Senior Big Data",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capability to architect platforms",
+        "Mastery of petabyte-scale systems",
+        "Ability for global data lakes",
+        "Deep knowledge of streaming architectures",
+        "Capability to lead teams",
+        "Mastery of data mesh",
+        "Ability for vendor evaluation",
+        "Knowledge of hybrid architectures"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of quantum data",
+        "Ability for federated learning",
+        "Understanding of confidential computing"
+      ],
+      "indicators": [
+        "Defines big data strategy",
+        "Leads data transformations",
+        "Mentors engineers"
+      ]
+    },
+    "BDE-L5": {
+      "level": "L5 - Lead Big Data",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise platforms",
+        "Capability for big data transformation",
+        "Mastery of data democratization",
+        "Ability for innovation labs",
+        "Deep knowledge of economics",
+        "Capability to define data culture",
+        "Expertise in partnerships",
+        "Mastery of R&D"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of exascale computing",
+        "Ability for neuromorphic data",
+        "Understanding of DNA storage"
+      ],
+      "indicators": [
+        "Architects data ecosystems",
+        "Leads big data organizations",
+        "Defines data roadmap"
+      ]
+    },
+    "BDE-L6": {
+      "level": "L6 - Principal Big Data",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capability to define data vision",
+        "Expertise in data innovation",
+        "Mastery of global strategy",
+        "Ability for ecosystem building",
+        "Deep knowledge of data futures",
+        "Capability for thought leadership",
+        "Expertise in value creation",
+        "Mastery of data impact"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of cosmic data",
+        "Ability for quantum entanglement",
+        "Understanding of multiverse data"
+      ],
+      "indicators": [
+        "Defines corporate data vision",
+        "Leads global transformation",
+        "Influences data industry"
+      ]
+    },
+    "BDE-L7": {
+      "level": "L7 - Director Big Data",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in data evolution",
+        "Capability for global management",
+        "Expertise in transformation",
+        "Mastery of governance",
+        "Capability to define culture",
+        "Deep knowledge of competitive advantage",
+        "Expertise in strategic data",
+        "Capability to lead innovation"
+      ],
+      "complementaryCompetencies": [
+        "Capability to influence standards",
+        "Ability for data ventures",
+        "Knowledge of data investments"
+      ],
+      "indicators": [
+        "Defines executive strategy",
+        "Represents company in big data",
+        "Thought leader in massive data"
+      ]
+    },
+    "BDE-L8": {
+      "level": "L8 - VP Big Data",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic business vision",
+        "Capability for data as core",
+        "Expertise in total transformation",
+        "Mastery of executive management",
+        "Capability to build organizations",
+        "Deep knowledge of data value",
+        "Expertise in alliances",
+        "Capability to define culture"
+      ],
+      "complementaryCompetencies": [
+        "Capability to influence industry",
+        "Ability for M&A",
+        "Knowledge of data monopolies"
+      ],
+      "indicators": [
+        "Responsible for entire data platform",
+        "Defines future of data",
+        "Globally recognized leader"
+      ]
+    },
+    "BDE-L9": {
+      "level": "L9 - Chief Data Platform Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in data",
+        "Capability for data as business model",
+        "Expertise in transformation through data",
+        "Mastery of data governance",
+        "Capability to create data empires",
+        "Deep knowledge of network effects",
+        "Expertise in data monetization",
+        "Capability to define industries",
+        "Mastery of data dominance"
+      ],
+      "complementaryCompetencies": [
+        "Capability to create data economies",
+        "Ability for data sovereignty",
+        "Knowledge of data as currency"
+      ],
+      "indicators": [
+        "Chief data platform officer",
+        "Defines future of data economy",
+        "Global leader in big data"
+      ]
+    }
+  }
+}

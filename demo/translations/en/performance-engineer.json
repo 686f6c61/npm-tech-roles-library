@@ -1,0 +1,200 @@
+{
+  "PE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of performance testing",
+      "Elementary understanding of performance metrics",
+      "Ability to do simple benchmarking",
+      "Basic knowledge of profiling tools",
+      "Ability to identify obvious bottlenecks",
+      "Understanding of latency and throughput",
+      "Documentation of test results",
+      "Elementary knowledge of load testing"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with basic JMeter/Gatling",
+      "Knowledge of browser developer tools",
+      "Understanding of basic caching"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Executes simple performance tests",
+      "Is learning performance engineering"
+    ]
+  },
+  "PE-L2": {
+    "coreCompetencies": [
+      "Ability to design test scenarios",
+      "Implementation of complete load testing",
+      "Practical knowledge of advanced profiling",
+      "Ability to do stress testing",
+      "Understanding of memory optimization",
+      "Ability to do basic database tuning",
+      "Knowledge of APM tools",
+      "Ability to do performance monitoring"
+    ],
+    "complementaryCompetencies": [
+      "Analysis of flame graphs",
+      "Knowledge of capacity testing",
+      "Understanding of performance budgets"
+    ],
+    "indicators": [
+      "Executes performance testing with supervision",
+      "Identifies optimizations",
+      "Generates performance reports"
+    ]
+  },
+  "PE-L3": {
+    "coreCompetencies": [
+      "Design of performance testing strategies",
+      "Implementation of continuous performance testing",
+      "Mastery of optimization techniques",
+      "Ability to do scalability testing",
+      "Ability to do micro-benchmarking",
+      "Deep knowledge of system internals",
+      "Implementation of performance regression detection",
+      "Design of performance baselines"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of kernel tuning",
+      "Ability to do distributed tracing",
+      "Understanding of hardware optimization"
+    ],
+    "indicators": [
+      "Leads performance initiatives",
+      "Designs optimization strategies",
+      "Mentors on performance practices"
+    ]
+  },
+  "PE-L4": {
+    "coreCompetencies": [
+      "Architecture of performance testing platforms",
+      "Design of performance engineering programs",
+      "Implementation of predictive performance",
+      "Mastery of low-level optimization",
+      "Ability to do performance modeling",
+      "Deep knowledge of compiler optimizations",
+      "Ability to do performance forensics",
+      "Leadership in performance culture"
+    ],
+    "complementaryCompetencies": [
+      "Experience in HPC optimization",
+      "Knowledge of SIMD/vectorization",
+      "Implementation of performance AI"
+    ],
+    "indicators": [
+      "Defines performance strategy",
+      "Leads performance teams",
+      "Is a reference in optimization"
+    ]
+  },
+  "PE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in performance engineering",
+      "Design of performance excellence programs",
+      "Management of performance teams",
+      "Definition of performance strategy",
+      "Ability to do performance economics",
+      "Implementation of performance governance",
+      "Mastery of advanced capacity planning",
+      "Evangelization of performance culture"
+    ],
+    "complementaryCompetencies": [
+      "Experience in performance transformation",
+      "Knowledge of green computing",
+      "Management of performance vendors"
+    ],
+    "indicators": [
+      "Manages performance teams",
+      "Defines enterprise optimization vision",
+      "Represents performance to executives"
+    ]
+  },
+  "PE-L6": {
+    "coreCompetencies": [
+      "Direction of organizational performance engineering",
+      "Enterprise optimization strategy",
+      "Management of performance investments",
+      "Definition of efficiency strategy",
+      "Leadership in performance transformation",
+      "Implementation of auto-optimizing systems",
+      "Innovation in optimization paradigms",
+      "Management of global performance"
+    ],
+    "complementaryCompetencies": [
+      "Experience in hyperscale optimization",
+      "Knowledge of quantum performance",
+      "Leadership in performance standards"
+    ],
+    "indicators": [
+      "Leads performance department (20+ people)",
+      "Participates in technology strategy",
+      "Defines optimization investments"
+    ]
+  },
+  "PE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in performance excellence",
+      "Design of global optimization strategies",
+      "Transformation of organizational efficiency",
+      "Management of performance at Fortune 500 scale",
+      "Creation of new optimization paradigms",
+      "Definition of the future of performance engineering",
+      "Evangelization of performance at board level",
+      "Influence in the optimization industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of performance in global systems",
+      "Experience in optimization of critical infrastructure",
+      "Leadership in performance consortiums"
+    ],
+    "indicators": [
+      "Reports to CTO",
+      "Manages performance organization (50+ people)",
+      "Defines corporate efficiency strategy"
+    ]
+  },
+  "PE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of perfect performance",
+      "Leadership in the optimization revolution",
+      "Creation of zero-latency paradigms",
+      "Management of global performance",
+      "Disruptive innovation in quantum optimization",
+      "Definition of instant computing",
+      "Evangelization of infinite performance",
+      "Influence on global efficiency policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as Chief Performance in tech giants",
+      "Advisory in performance funds",
+      "Thought leadership in optimization"
+    ],
+    "indicators": [
+      "Part of the technical committee",
+      "Defines the future of performance",
+      "Global leader in optimization"
+    ]
+  },
+  "PE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in the future of instant computing",
+      "Transformation of the boundaries of performance",
+      "Creation of infinite speed paradigms",
+      "Definition of zero-time computing",
+      "Innovation in biological optimization",
+      "Evangelization of performance consciousness",
+      "Architect of a universe without latency",
+      "Influence on the evolution of computational speed"
+    ],
+    "complementaryCompetencies": [
+      "Creator of revolutions in performance",
+      "Recognition as a master of optimization",
+      "Influence on the future of efficiency"
+    ],
+    "indicators": [
+      "Is a legendary Chief Performance Officer",
+      "Defines the future of computational speed",
+      "Is a world authority in performance"
+    ]
+  }
+}

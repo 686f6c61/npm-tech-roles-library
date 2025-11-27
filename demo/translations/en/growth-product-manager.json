@@ -1,0 +1,200 @@
+{
+  "GPM-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of growth",
+      "Elementary understanding of metrics",
+      "Ability for basic analysis",
+      "Knowledge of funnel analysis",
+      "Ability to conduct A/B testing with guidance",
+      "Understanding of user acquisition",
+      "Documentation of experiments",
+      "Elementary knowledge of retention"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with analytics tools",
+      "Basic knowledge of SQL",
+      "Elementary understanding of virality"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Executes simple experiments",
+      "Is learning growth"
+    ]
+  },
+  "GPM-L2": {
+    "coreCompetencies": [
+      "Ability to design growth experiments",
+      "Implementation of A/B tests",
+      "Practical knowledge of analytics",
+      "Ability for funnel optimization",
+      "Understanding of activation",
+      "Ability to develop retention strategies",
+      "Knowledge of referral programs",
+      "Ability for hypothesis testing"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of growth tools",
+      "Ability for user research",
+      "Understanding of viral mechanics"
+    ],
+    "indicators": [
+      "Executes growth initiatives with supervision",
+      "Analyzes metrics",
+      "Optimizes funnels"
+    ]
+  },
+  "GPM-L3": {
+    "coreCompetencies": [
+      "Design of growth strategies",
+      "Implementation of growth loops",
+      "Mastery of experimentation",
+      "Ability for multi-variate testing",
+      "Ability for growth modeling",
+      "Deep knowledge of acquisition channels",
+      "Implementation of referral engines",
+      "Ability for cross-functional leadership"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of PLG (Product-Led Growth)",
+      "Ability for monetization",
+      "Understanding of market expansion"
+    ],
+    "indicators": [
+      "Leads growth initiatives",
+      "Designs complex experiments",
+      "Mentors in growth"
+    ]
+  },
+  "GPM-L4": {
+    "coreCompetencies": [
+      "Architecture of growth programs",
+      "Design of PLG strategy",
+      "Implementation of growth at scale",
+      "Mastery of north star metrics",
+      "Ability for market expansion",
+      "Deep knowledge of monetization",
+      "Ability for international growth",
+      "Leadership in growth culture"
+    ],
+    "complementaryCompetencies": [
+      "Experience in viral growth",
+      "Knowledge of network effects",
+      "Implementation of growth infrastructure"
+    ],
+    "indicators": [
+      "Defines growth strategy",
+      "Leads growth teams",
+      "Is a reference in PLG"
+    ]
+  },
+  "GPM-L5": {
+    "coreCompetencies": [
+      "Leadership in growth product",
+      "Design of growth ecosystems",
+      "Management of growth teams",
+      "Definition of growth metrics",
+      "Ability for experimentation platforms",
+      "Implementation of growth operations",
+      "Mastery of scaling strategies",
+      "Evangelization of growth mindset"
+    ],
+    "complementaryCompetencies": [
+      "Experience in hypergrowth",
+      "Knowledge of growth economics",
+      "Management of growth budget"
+    ],
+    "indicators": [
+      "Manages growth team",
+      "Defines PLG vision",
+      "Represents growth to executives"
+    ]
+  },
+  "GPM-L6": {
+    "coreCompetencies": [
+      "Direction of growth strategy",
+      "Management of growth programs",
+      "Definition of PLG architecture",
+      "Leadership in transformation",
+      "Management of international expansion",
+      "Implementation of global growth",
+      "Innovation in growth mechanics",
+      "Management of monetization"
+    ],
+    "complementaryCompetencies": [
+      "Experience in growth M&A",
+      "Knowledge of market strategy",
+      "Leadership in growth community"
+    ],
+    "indicators": [
+      "Directs growth department",
+      "Participates in strategy",
+      "Defines growth investments"
+    ]
+  },
+  "GPM-L7": {
+    "coreCompetencies": [
+      "Executive leadership in growth",
+      "Design of global strategies",
+      "Transformation via PLG",
+      "Management at unicorn scale",
+      "Creation of growth culture",
+      "Definition of expansion roadmap",
+      "Evangelization at board level",
+      "Influence in growth industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of multi-million growth budgets",
+      "Experience in unicorns",
+      "Leadership in PLG"
+    ],
+    "indicators": [
+      "Reports to CPO/CEO",
+      "Manages growth organization (30+ people)",
+      "Defines growth strategy"
+    ]
+  },
+  "GPM-L8": {
+    "coreCompetencies": [
+      "Strategic vision of growth",
+      "Leadership in PLG revolution",
+      "Creation of viral advantage",
+      "Management of growth ecosystems",
+      "Innovation in growth loops",
+      "Definition of compounding growth",
+      "Evangelization of product-led approach",
+      "Influence in market strategy"
+    ],
+    "complementaryCompetencies": [
+      "Experience in hypergrowth companies",
+      "Advisory in growth",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines growth strategy",
+      "Is a recognized leader"
+    ]
+  },
+  "GPM-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in growth",
+      "Transformation of acquisition",
+      "Creation of PLG paradigms",
+      "Definition of growth-native organizations",
+      "Innovation in viral mechanics",
+      "Evangelization of compounding growth",
+      "Architect of growth ecosystems",
+      "Influence in growth strategy"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming growth",
+      "Recognition as growth pioneer",
+      "Influence in PLG"
+    ],
+    "indicators": [
+      "Is Chief Growth Officer",
+      "Defines future growth",
+      "Is a worldwide authority"
+    ]
+  }
+}

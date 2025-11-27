@@ -1,0 +1,258 @@
+{
+  "role": "Data Quality Engineer",
+  "category": "Data",
+  "levels": {
+    "DQE-L1": {
+      "level": "L1 - DQ Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of data quality",
+        "Elementary understanding of data profiling",
+        "Ability to execute simple validations",
+        "Basic knowledge of anomaly detection",
+        "Ability to document issues",
+        "Understanding of data quality dimensions",
+        "Manual quality testing",
+        "Elementary knowledge of data cleansing"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with basic SQL",
+        "Knowledge of data quality tools",
+        "Elementary understanding of statistics"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Identifies basic issues",
+        "Is learning DQ"
+      ]
+    },
+    "DQE-L2": {
+      "level": "L2 - Junior DQ Engineer",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement data quality rules",
+        "Implementation of complete validations",
+        "Practical knowledge of DQ frameworks",
+        "Ability to perform automated testing",
+        "Understanding of data lineage",
+        "Ability to detect anomalies",
+        "Knowledge of monitoring",
+        "Ability to create DQ reporting"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of Great Expectations",
+        "Ability to perform scripting",
+        "Understanding of data observability"
+      ],
+      "indicators": [
+        "Implements DQ rules with supervision",
+        "Detects anomalies",
+        "Maintains DQ metrics"
+      ]
+    },
+    "DQE-L3": {
+      "level": "L3 - Data Quality Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of DQ frameworks",
+        "Implementation of automated DQ pipelines",
+        "Mastery of data profiling",
+        "Ability to perform root cause analysis",
+        "Ability to implement DQ governance",
+        "Deep knowledge of validation strategies",
+        "Implementation of alerting",
+        "Ability to communicate with stakeholders"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of data catalogs",
+        "Ability to manage metadata",
+        "Understanding of data contracts"
+      ],
+      "indicators": [
+        "Leads DQ projects",
+        "Designs quality frameworks",
+        "Mentors in DQ"
+      ]
+    },
+    "DQE-L4": {
+      "level": "L4 - Senior DQ Engineer",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of DQ platforms",
+        "Design of enterprise DQ strategy",
+        "Implementation of DQ at scale",
+        "Mastery of ML-based DQ",
+        "Ability to perform cost-benefit analysis",
+        "Deep knowledge of regulatory DQ",
+        "Ability to build DQ culture",
+        "Leadership in DQ transformation"
+      ],
+      "complementaryCompetencies": [
+        "Experience in data observability platforms",
+        "Knowledge of DataOps",
+        "Implementation of self-service DQ"
+      ],
+      "indicators": [
+        "Defines DQ strategy",
+        "Leads DQ teams",
+        "Is reference in data quality"
+      ]
+    },
+    "DQE-L5": {
+      "level": "L5 - Lead DQ Engineer",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in data quality",
+        "Design of DQ ecosystems",
+        "Management of DQ teams",
+        "Definition of DQ standards",
+        "Ability to measure DQ ROI",
+        "Implementation of DQ governance",
+        "Mastery of cross-functional DQ",
+        "Evangelization of data quality"
+      ],
+      "complementaryCompetencies": [
+        "Experience in data mesh DQ",
+        "Knowledge of DQ economics",
+        "Management of DQ tools"
+      ],
+      "indicators": [
+        "Manages DQ team",
+        "Defines quality vision",
+        "Represents DQ to stakeholders"
+      ]
+    },
+    "DQE-L6": {
+      "level": "L6 - Principal DQ Architect",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of corporate DQ strategy",
+        "Management of DQ programs at scale",
+        "Definition of DQ architecture",
+        "Leadership in DQ transformation",
+        "Management of data quality incidents",
+        "Implementation of global DQ",
+        "Innovation in DQ technologies",
+        "Management of DQ compliance"
+      ],
+      "complementaryCompetencies": [
+        "Experience in DQ M&A",
+        "Knowledge of DQ investment",
+        "Leadership in DQ community"
+      ],
+      "indicators": [
+        "Directs DQ department",
+        "Participates in data strategy",
+        "Defines DQ investments"
+      ]
+    },
+    "DQE-L7": {
+      "level": "L7 - Director Data Quality",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in data quality",
+        "Design of global DQ strategies",
+        "Organizational transformation via DQ",
+        "Management at Fortune 500 scale",
+        "Creation of quality-first culture",
+        "Definition of DQ roadmap",
+        "Evangelization at board level",
+        "Influence on DQ standards"
+      ],
+      "complementaryCompetencies": [
+        "Management of DQ budgets",
+        "Experience in data-driven companies",
+        "Leadership in data consortiums"
+      ],
+      "indicators": [
+        "Reports to CDO",
+        "Manages DQ organization (20+ people)",
+        "Defines DQ strategy"
+      ]
+    },
+    "DQE-L8": {
+      "level": "L8 - VP Data Quality",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of data quality",
+        "Leadership in DQ revolution",
+        "Creation of quality advantage",
+        "Management of DQ ecosystems",
+        "Disruptive innovation in DQ",
+        "Definition of autonomous DQ",
+        "Evangelization of quality-driven",
+        "Influence on data policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience in DQ giants",
+        "Advisory in DQ startups",
+        "Thought leadership in DQ"
+      ],
+      "indicators": [
+        "Is part of executive committee",
+        "Defines DQ strategy",
+        "Is recognized leader"
+      ]
+    },
+    "DQE-L9": {
+      "level": "L9 - Chief Data Quality Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in data quality",
+        "Transformation of quality paradigms",
+        "Creation of trusted data",
+        "Definition of quality-native organizations",
+        "Innovation in DQ governance",
+        "Evangelization of data trust",
+        "Architect of DQ ecosystems",
+        "Influence on data regulation"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming Fortune 500",
+        "Recognition as DQ pioneer",
+        "Influence on standards"
+      ],
+      "indicators": [
+        "Is Chief DQ Officer",
+        "Defines future of data quality",
+        "Is world authority"
+      ]
+    }
+  }
+}

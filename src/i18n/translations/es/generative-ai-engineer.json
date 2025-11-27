@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de IA Generativa",
+  "category": "IA/ML",
+  "levels": {
+    "GENAIE-L1": {
+      "level": "L1 - Aprendiz de Ingeniero de IA Generativa",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de IA generativa",
+        "Comprensión elemental de fundamentos",
+        "Habilidad para tareas simples",
+        "Conocimiento básico de herramientas",
+        "Capacidad de trabajo con supervisión",
+        "Comprensión de conceptos centrales",
+        "Documentación básica",
+        "Conocimiento elemental de mejores prácticas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con marcos de trabajo básicos",
+        "Conocimiento de herramientas estándar",
+        "Comprensión elemental de nube"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta tareas básicas con guía",
+        "Está aprendiendo IA generativa"
+      ]
+    },
+    "GENAIE-L2": {
+      "level": "L2 - Ingeniero Junior de IA Generativa",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar soluciones básicas en IA generativa",
+        "Implementación de técnicas estándar",
+        "Conocimiento práctico de marcos de trabajo",
+        "Habilidad para resolver problemas típicos",
+        "Comprensión de flujos de trabajo",
+        "Capacidad de despliegue básico",
+        "Conocimiento de pruebas",
+        "Habilidad para documentación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de tecnologías emergentes",
+        "Habilidad para integración",
+        "Comprensión de automatización"
+      ],
+      "indicators": [
+        "Desarrolla soluciones de IA generativa con supervisión",
+        "Implementa funcionalidades completas",
+        "Optimiza procesos básicos"
+      ]
+    },
+    "GENAIE-L3": {
+      "level": "L3 - Ingeniero de IA Generativa",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de soluciones completas de IA generativa",
+        "Implementación de sistemas complejos",
+        "Dominio de pila tecnológica",
+        "Capacidad de optimización avanzada",
+        "Habilidad para arquitectura",
+        "Conocimiento profundo de mejores prácticas",
+        "Implementación de monitorización",
+        "Capacidad de mentoría"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de técnicas avanzadas",
+        "Habilidad para innovación",
+        "Comprensión de investigación"
+      ],
+      "indicators": [
+        "Lidera proyectos de IA generativa",
+        "Diseña arquitecturas completas",
+        "Mentoriza ingenieros junior"
+      ]
+    },
+    "GENAIE-L4": {
+      "level": "L4 - Ingeniero Senior de IA Generativa",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de IA generativa escalables",
+        "Diseño de estrategias técnicas",
+        "Implementación de sistemas empresariales",
+        "Dominio de optimización a escala",
+        "Capacidad de liderazgo técnico",
+        "Conocimiento profundo de patrones avanzados",
+        "Habilidad para planificación estratégica",
+        "Liderazgo en transformación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en sistemas distribuidos",
+        "Conocimiento de tecnología de vanguardia",
+        "Implementación de innovación"
+      ],
+      "indicators": [
+        "Define estrategia de IA generativa",
+        "Lidera equipos técnicos",
+        "Es referente en IA generativa"
+      ]
+    },
+    "GENAIE-L5": {
+      "level": "L5 - Ingeniero Líder de IA Generativa",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en IA generativa",
+        "Diseño de estrategia de producto",
+        "Gestión de equipos",
+        "Definición de estándares",
+        "Capacidad de análisis de retorno de inversión",
+        "Implementación de gobernanza",
+        "Dominio de tecnologías emergentes",
+        "Evangelización de cultura"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en consultoría",
+        "Conocimiento de modelos de negocio",
+        "Gestión de presupuestos"
+      ],
+      "indicators": [
+        "Gestiona equipos de IA generativa",
+        "Define visión de productos",
+        "Representa IA generativa ante partes interesadas"
+      ]
+    },
+    "GENAIE-L6": {
+      "level": "L6 - Ingeniero Principal de IA Generativa",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia corporativa de IA generativa",
+        "Gestión de plataformas a escala",
+        "Definición de arquitectura empresarial",
+        "Liderazgo en transformación",
+        "Gestión de alianzas estratégicas",
+        "Implementación de prácticas responsables",
+        "Innovación en soluciones",
+        "Gestión de cumplimiento normativo"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fusiones y adquisiciones",
+        "Conocimiento de inversión",
+        "Liderazgo en comunidad de la industria"
+      ],
+      "indicators": [
+        "Dirige departamento de IA generativa",
+        "Participa en estrategia ejecutiva",
+        "Define inversiones en IA generativa"
+      ]
+    },
+    "GENAIE-L7": {
+      "level": "L7 - Director de Ingeniería de IA Generativa",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en IA generativa",
+        "Diseño de estrategias globales",
+        "Transformación organizacional",
+        "Gestión a escala Fortune 500",
+        "Creación de cultura organizacional",
+        "Definición de hoja de ruta estratégica",
+        "Evangelización a nivel de junta directiva",
+        "Influencia en la industria"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos multimillonarios",
+        "Experiencia en empresas unicornio",
+        "Liderazgo en estándares"
+      ],
+      "indicators": [
+        "Reporta a director de tecnología o director ejecutivo",
+        "Gestiona organización (más de 50 personas)",
+        "Define estrategia corporativa de IA generativa"
+      ]
+    },
+    "GENAIE-L8": {
+      "level": "L8 - Vicepresidente de Ingeniería de IA Generativa",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica empresarial de IA generativa",
+        "Liderazgo en transformación",
+        "Creación de ventaja competitiva",
+        "Gestión de ecosistemas globales",
+        "Innovación disruptiva",
+        "Definición de dirección futura",
+        "Evangelización de cambio de paradigma",
+        "Influencia en políticas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como ejecutivo en gigantes tecnológicos",
+        "Asesoría en empresas emergentes",
+        "Liderazgo de pensamiento"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define futuro de IA generativa",
+        "Es líder reconocido en IA generativa"
+      ]
+    },
+    "GENAIE-L9": {
+      "level": "L9 - Director General de Ingeniería de IA Generativa",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en IA generativa",
+        "Transformación de industrias",
+        "Creación de paradigmas",
+        "Definición de IA generativa como negocio central",
+        "Innovación en aplicaciones revolucionarias",
+        "Evangelización de cultura",
+        "Arquitecto de ecosistemas globales",
+        "Influencia en regulación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando industrias con IA generativa",
+        "Reconocimiento como pionero",
+        "Influencia en el futuro"
+      ],
+      "indicators": [
+        "Es director general de ingeniería de IA generativa",
+        "Define futuro de la industria de IA generativa",
+        "Es autoridad mundial en IA generativa"
+      ]
+    }
+  }
+}

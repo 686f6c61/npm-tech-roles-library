@@ -1,0 +1,201 @@
+{
+  "SRE-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de principios SRE y SLI/SLO/SLA",
+      "Conocimiento elemental de monitorización y observabilidad",
+      "Habilidad para responder a incidentes con runbooks",
+      "Comprensión básica de disponibilidad y confiabilidad",
+      "Capacidad de usar herramientas de monitoring básicas",
+      "Conocimiento elemental de incident management",
+      "Comprensión básica de automatización y scripting",
+      "Habilidad para documentar procedimientos operacionales"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de cloud platforms",
+      "Familiaridad con containerización",
+      "Comprensión elemental de networking"
+    ],
+    "indicators": [
+      "Requiere supervisión constante en tareas SRE",
+      "Participa en on-call con apoyo senior",
+      "Necesita 6-12 meses de mentoría SRE"
+    ]
+  },
+  "SRE-L2": {
+    "coreCompetencies": [
+      "Capacidad de definir y monitorear SLIs básicos",
+      "Habilidad para implementar alerting efectivo",
+      "Conocimiento práctico de capacity planning básico",
+      "Comprensión de error budgets y su gestión",
+      "Capacidad de realizar post-mortems básicos",
+      "Habilidad para automatizar tareas operacionales simples",
+      "Conocimiento de load balancing y failover",
+      "Comprensión de backup y recovery procedures"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de Infrastructure as Code",
+      "Habilidad para performance tuning básico",
+      "Comprensión de security operations"
+    ],
+    "indicators": [
+      "Maneja incidentes de severidad media independientemente",
+      "Mejora runbooks y documentación proactivamente",
+      "Participa efectivamente en on-call rotation"
+    ]
+  },
+  "SRE-L3": {
+    "coreCompetencies": [
+      "Dominio de observabilidad completa (metrics, logs, traces)",
+      "Capacidad de diseñar SLOs comprehensivos",
+      "Habilidad para implementar chaos engineering básico",
+      "Conocimiento profundo de distributed systems reliability",
+      "Capacidad de realizar capacity planning avanzado",
+      "Comprensión sólida de toil reduction y automation",
+      "Habilidad para implementar self-healing systems",
+      "Conocimiento de disaster recovery planning"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de service mesh",
+      "Habilidad para cost optimization",
+      "Comprensión de compliance automation"
+    ],
+    "indicators": [
+      "Lidera respuesta a incidentes complejos",
+      "Diseña sistemas de monitoring para nuevos servicios",
+      "Reduce toil significativamente mediante automation"
+    ]
+  },
+  "SRE-L4": {
+    "coreCompetencies": [
+      "Capacidad de diseñar arquitecturas para alta disponibilidad",
+      "Dominio de incident command y crisis management",
+      "Habilidad para implementar SRE practices a escala",
+      "Conocimiento profundo de performance engineering",
+      "Capacidad de definir reliability standards organizacionales",
+      "Dominio de blameless post-mortem culture",
+      "Habilidad para diseñar disaster recovery strategies",
+      "Conocimiento de multi-region failover y geo-redundancy"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de machine learning para SRE",
+      "Habilidad para game days y drills",
+      "Comprensión de edge reliability"
+    ],
+    "indicators": [
+      "Define SRE strategy para productos críticos",
+      "Mentora SREs junior efectivamente",
+      "Mejora MTTR y MTBF consistentemente"
+    ]
+  },
+  "SRE-L5": {
+    "coreCompetencies": [
+      "Expertise en reliability engineering para sistemas masivos",
+      "Capacidad de implementar AIOps y predictive analytics",
+      "Dominio de global load balancing y traffic management",
+      "Habilidad para diseñar observability platforms",
+      "Conocimiento profundo de chaos engineering avanzado",
+      "Capacidad de liderar SRE transformations",
+      "Expertise en production readiness reviews",
+      "Dominio de reliability testing y validation"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de quantum-safe reliability",
+      "Habilidad para reliability economics",
+      "Comprensión de sustainability en SRE"
+    ],
+    "indicators": [
+      "Arquitecta reliability para múltiples productos",
+      "Lidera iniciativas SRE cross-organizacionales",
+      "Define reliability roadmap técnico"
+    ]
+  },
+  "SRE-L6": {
+    "coreCompetencies": [
+      "Capacidad de definir SRE strategy empresarial",
+      "Expertise en reliability para arquitecturas complejas",
+      "Dominio de incident management a escala global",
+      "Habilidad para construir SRE platforms y tooling",
+      "Conocimiento profundo de reliability economics y ROI",
+      "Capacidad de liderar cultural transformation hacia SRE",
+      "Expertise en vendor reliability management",
+      "Dominio de regulatory compliance para availability"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de reliability para AI/ML systems",
+      "Habilidad para reliability consulting",
+      "Comprensión de reliability insurance"
+    ],
+    "indicators": [
+      "Define reliability standards corporativos",
+      "Lidera SRE organization building",
+      "Influencia industria SRE practices"
+    ]
+  },
+  "SRE-L7": {
+    "coreCompetencies": [
+      "Liderazgo en reliability engineering innovation",
+      "Capacidad de diseñar reliability para ecosistemas",
+      "Expertise en zero-downtime transformation",
+      "Dominio de reliability automation platforms",
+      "Capacidad de definir SRE methodologies",
+      "Conocimiento profundo de reliability impact en revenue",
+      "Expertise en building SRE centers of excellence",
+      "Capacidad de liderar reliability research"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de patentar reliability innovations",
+      "Habilidad para SRE evangelism global",
+      "Conocimiento de reliability ventures"
+    ],
+    "indicators": [
+      "Define filosofía SRE organizacional",
+      "Speaker keynote en SREcon",
+      "Autor de frameworks SRE"
+    ]
+  },
+  "SRE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica del futuro de reliability engineering",
+      "Capacidad de transformar industrias mediante reliability",
+      "Expertise en reliability para critical infrastructure",
+      "Dominio de reliability governance ejecutivo",
+      "Capacidad de definir reliability economics models",
+      "Conocimiento profundo de global reliability standards",
+      "Expertise en reliability partnerships estratégicos",
+      "Capacidad de liderar open source SRE initiatives"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar reliability regulations",
+      "Habilidad para reliability advisory boards",
+      "Conocimiento de reliability investments"
+    ],
+    "indicators": [
+      "Define estrategia reliability multi-año",
+      "Influye en estándares globales de reliability",
+      "Asesor de C-suite en reliability"
+    ]
+  },
+  "SRE-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en reliability y operaciones",
+      "Capacidad de convertir reliability en ventaja competitiva",
+      "Expertise en reliability transformation empresarial",
+      "Dominio de presupuestos de reliability estratégicos",
+      "Capacidad de construir organizaciones SRE globales",
+      "Conocimiento profundo de reliability risk management",
+      "Expertise en reliability como diferenciador de mercado",
+      "Capacidad de definir cultura de reliability",
+      "Dominio de reliability metrics para boards"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de crear empresas de reliability",
+      "Habilidad para M&A de reliability",
+      "Conocimiento de reliability IPOs"
+    ],
+    "indicators": [
+      "Define y ejecuta visión de reliability empresarial",
+      "Responsable de toda la reliability corporativa",
+      "Líder reconocido en reliability engineering global"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "CVE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de procesamiento de imágenes",
+      "Comprensión elemental de visión por computador",
+      "Habilidad para usar librerías CV básicas",
+      "Conocimiento básico de filtros y transformaciones",
+      "Capacidad de detección de objetos simple",
+      "Comprensión de segmentación básica",
+      "Documentación de pipelines de visión",
+      "Conocimiento elemental de datasets de imágenes"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con OpenCV básico",
+      "Conocimiento de anotación de imágenes",
+      "Comprensión de métricas de evaluación CV"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Implementa algoritmos CV simples",
+      "Está aprendiendo computer vision"
+    ]
+  },
+  "CVE-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar CNNs para clasificación",
+      "Implementación de object detection models",
+      "Conocimiento práctico de augmentation techniques",
+      "Habilidad para transfer learning",
+      "Comprensión de semantic segmentation",
+      "Capacidad de face recognition básico",
+      "Conocimiento de video processing",
+      "Habilidad para OCR implementation"
+    ],
+    "complementaryCompetencies": [
+      "Desarrollo de pose estimation",
+      "Conocimiento de 3D vision básico",
+      "Comprensión de image generation"
+    ],
+    "indicators": [
+      "Desarrolla soluciones CV con supervisión",
+      "Implementa modelos pre-entrenados",
+      "Optimiza pipelines de visión"
+    ]
+  },
+  "CVE-L3": {
+    "coreCompetencies": [
+      "Diseño de arquitecturas de visión complejas",
+      "Implementación de instance segmentation",
+      "Dominio de multi-object tracking",
+      "Capacidad de 3D reconstruction",
+      "Habilidad para SLAM básico",
+      "Conocimiento profundo de neural architectures",
+      "Implementación de real-time vision",
+      "Diseño de edge vision systems"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de NeRF y 3D learning",
+      "Habilidad para medical imaging",
+      "Comprensión de autonomous vision"
+    ],
+    "indicators": [
+      "Lidera proyectos de computer vision",
+      "Diseña sistemas de visión end-to-end",
+      "Mentoriza CV engineers"
+    ]
+  },
+  "CVE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de plataformas de visión",
+      "Diseño de vision systems escalables",
+      "Implementación de multimodal learning",
+      "Dominio de 3D deep learning",
+      "Capacidad de vision-language models",
+      "Conocimiento profundo de geometric CV",
+      "Habilidad para synthetic data generation",
+      "Liderazgo en vision research"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en robotic vision",
+      "Conocimiento de computational photography",
+      "Implementación de neural rendering"
+    ],
+    "indicators": [
+      "Define estrategia de computer vision",
+      "Lidera equipos de visión",
+      "Es referente en CV research"
+    ]
+  },
+  "CVE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en computer vision",
+      "Diseño de vision programs empresariales",
+      "Gestión de equipos de CV engineering",
+      "Definición de vision strategy",
+      "Capacidad de productización de CV",
+      "Implementación de vision platforms",
+      "Dominio de ethical CV",
+      "Evangelización de visual AI"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en AR/VR vision",
+      "Conocimiento de satellite imagery",
+      "Gestión de vision datasets masivos"
+    ],
+    "indicators": [
+      "Gestiona equipos de computer vision",
+      "Define visión de visual AI empresarial",
+      "Representa CV ante stakeholders"
+    ]
+  },
+  "CVE-L6": {
+    "coreCompetencies": [
+      "Dirección de computer vision organizacional",
+      "Estrategia de visual intelligence",
+      "Gestión de inversiones en vision R&D",
+      "Definición de perception strategy",
+      "Liderazgo en vision transformation",
+      "Implementación de autonomous perception",
+      "Innovación en vision paradigms",
+      "Gestión de global vision initiatives"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en defense/security vision",
+      "Conocimiento de regulatory CV",
+      "Liderazgo en vision standards"
+    ],
+    "indicators": [
+      "Dirige departamento de CV (20+ personas)",
+      "Participa en AI strategy",
+      "Define inversiones en visual AI"
+    ]
+  },
+  "CVE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en visual intelligence",
+      "Diseño de estrategias de vision globales",
+      "Transformación via computer vision",
+      "Gestión de CV a escala Fortune 500",
+      "Creación de nuevos paradigmas visuales",
+      "Definición de futuro de machine perception",
+      "Evangelización vision a nivel board",
+      "Influencia en industria de visual AI"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de vision en autonomous vehicles",
+      "Experiencia en vision unicorns",
+      "Liderazgo en CV consortiums"
+    ],
+    "indicators": [
+      "Reporta a CTO/Head of AI",
+      "Gestiona organización de vision (50+ personas)",
+      "Define estrategia de percepción corporativa"
+    ]
+  },
+  "CVE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de omnipercepción",
+      "Liderazgo en revolución de visión artificial",
+      "Creación de paradigmas de perfect perception",
+      "Gestión de vision planetaria",
+      "Innovación disruptiva en conscious vision",
+      "Definición de universal seeing",
+      "Evangelización de visual singularity",
+      "Influencia en futuro de percepción"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como Head of Vision en tech giants",
+      "Advisory en CV startups",
+      "Thought leadership en visual AI"
+    ],
+    "indicators": [
+      "Es parte del AI leadership",
+      "Define futuro de computer vision",
+      "Es líder mundial en visual intelligence"
+    ]
+  },
+  "CVE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de percepción artificial",
+      "Transformación de realidad via vision",
+      "Creación de paradigmas de omnivisión",
+      "Definición de conscious perception",
+      "Innovación en biological vision",
+      "Evangelización de universal sight",
+      "Arquitecto de realidad visual total",
+      "Influencia en evolución de ver y comprender"
+    ],
+    "complementaryCompetencies": [
+      "Creador de revoluciones en computer vision",
+      "Reconocimiento como pionero de visual AI",
+      "Influencia en futuro de percepción"
+    ],
+    "indicators": [
+      "Es Chief Vision Officer legendario",
+      "Define futuro de visión artificial",
+      "Es autoridad mundial en computer vision"
+    ]
+  }
+}

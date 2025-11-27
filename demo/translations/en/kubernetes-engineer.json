@@ -1,0 +1,200 @@
+{
+  "K8E-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of Kubernetes",
+      "Elementary understanding of containers",
+      "Ability to perform simple deployments",
+      "Basic knowledge of pods and services",
+      "Ability to perform basic troubleshooting",
+      "Understanding of YAML",
+      "Documentation of configurations",
+      "Elementary knowledge of networking"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with kubectl",
+      "Basic knowledge of Docker",
+      "Elementary understanding of cloud"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Deploys simple applications",
+      "Is learning Kubernetes"
+    ]
+  },
+  "K8E-L2": {
+    "coreCompetencies": [
+      "Ability to manage clusters",
+      "Implementation of complex deployments",
+      "Practical knowledge of networking",
+      "Ability for storage management",
+      "Basic understanding of security",
+      "Ability for monitoring",
+      "Knowledge of Helm",
+      "Ability to troubleshoot"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of service mesh",
+      "Ability for operators",
+      "Understanding of GitOps"
+    ],
+    "indicators": [
+      "Manages workloads with supervision",
+      "Implements configurations",
+      "Maintains clusters"
+    ]
+  },
+  "K8E-L3": {
+    "coreCompetencies": [
+      "Design of Kubernetes architectures",
+      "Implementation of multi-cluster",
+      "Mastery of advanced networking",
+      "Ability to security hardening",
+      "Ability for custom controllers",
+      "Deep knowledge of operators",
+      "Implementation of autoscaling",
+      "Ability for disaster recovery"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of service mesh",
+      "Ability for observability",
+      "Understanding of chaos engineering"
+    ],
+    "indicators": [
+      "Leads Kubernetes projects",
+      "Designs cluster architectures",
+      "Mentors in Kubernetes"
+    ]
+  },
+  "K8E-L4": {
+    "coreCompetencies": [
+      "Architecture of Kubernetes platforms",
+      "Design of enterprise Kubernetes",
+      "Implementation of multi-tenancy",
+      "Mastery of security at scale",
+      "Ability for platform engineering",
+      "Deep knowledge of performance tuning",
+      "Ability for cluster federation",
+      "Leadership in Kubernetes operations"
+    ],
+    "complementaryCompetencies": [
+      "Experience in Kubernetes at scale",
+      "Knowledge of Cluster API",
+      "Implementation of policy management"
+    ],
+    "indicators": [
+      "Defines Kubernetes strategy",
+      "Leads platform teams",
+      "Is a reference in Kubernetes"
+    ]
+  },
+  "K8E-L5": {
+    "coreCompetencies": [
+      "Technical leadership in Kubernetes",
+      "Design of Kubernetes ecosystems",
+      "Management of Kubernetes teams",
+      "Definition of platform standards",
+      "Ability for cost optimization",
+      "Implementation of self-service platforms",
+      "Mastery of GitOps at scale",
+      "Advocacy of Kubernetes best practices"
+    ],
+    "complementaryCompetencies": [
+      "Experience in managed Kubernetes",
+      "Knowledge of Kubernetes economics",
+      "Management of platform budget"
+    ],
+    "indicators": [
+      "Manages Kubernetes team",
+      "Defines platform vision",
+      "Represents Kubernetes to stakeholders"
+    ]
+  },
+  "K8E-L6": {
+    "coreCompetencies": [
+      "Direction of Kubernetes strategy",
+      "Management of platform operations",
+      "Definition of Kubernetes architecture",
+      "Leadership in transformation",
+      "Management of multi-cluster at scale",
+      "Implementation of global Kubernetes",
+      "Innovation in orchestration",
+      "Management of Kubernetes governance"
+    ],
+    "complementaryCompetencies": [
+      "Experience in Kubernetes consulting",
+      "Knowledge of CNCF ecosystem",
+      "Leadership in Kubernetes community"
+    ],
+    "indicators": [
+      "Leads Kubernetes department",
+      "Participates in cloud strategy",
+      "Defines platform investments"
+    ]
+  },
+  "K8E-L7": {
+    "coreCompetencies": [
+      "Executive leadership in Kubernetes",
+      "Design of platform strategies",
+      "Transformation via Kubernetes",
+      "Management at enterprise scale",
+      "Creation of cloud-native culture",
+      "Definition of Kubernetes roadmap",
+      "Advocacy at board level",
+      "Influence in CNCF"
+    ],
+    "complementaryCompetencies": [
+      "Management of platform budgets",
+      "Experience in Kubernetes at scale",
+      "Leadership in cloud-native"
+    ],
+    "indicators": [
+      "Reports to CTO",
+      "Manages Kubernetes organization (20+ people)",
+      "Defines platform strategy"
+    ]
+  },
+  "K8E-L8": {
+    "coreCompetencies": [
+      "Strategic vision of orchestration",
+      "Leadership in Kubernetes transformation",
+      "Creation of platform advantage",
+      "Management of Kubernetes ecosystems",
+      "Innovation in orchestration",
+      "Definition of cloud-native future",
+      "Advocacy of containerization",
+      "Influence in CNCF"
+    ],
+    "complementaryCompetencies": [
+      "Experience in Kubernetes leadership",
+      "Advisory in cloud-native",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines Kubernetes strategy",
+      "Is a recognized leader"
+    ]
+  },
+  "K8E-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in platforms",
+      "Transformation of infrastructure",
+      "Creation of cloud-native paradigms",
+      "Definition of platform-centric organizations",
+      "Innovation in orchestration",
+      "Advocacy of Kubernetes",
+      "Architect of platform ecosystems",
+      "Influence in CNCF"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming platforms",
+      "Recognition as Kubernetes pioneer",
+      "Influence in cloud-native"
+    ],
+    "indicators": [
+      "Is Chief Platform Officer",
+      "Defines future of orchestration",
+      "Is a worldwide authority"
+    ]
+  }
+}

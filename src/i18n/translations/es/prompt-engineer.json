@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Instrucciones",
+  "category": "IA/ML",
+  "levels": {
+    "PE-L1": {
+      "level": "L1 - Ingeniero de Instrucciones en Formación",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de modelos de lenguaje de gran escala",
+        "Comprensión elemental de ingeniería de instrucciones",
+        "Habilidad para crear instrucciones simples",
+        "Conocimiento básico de plataformas de modelos conversacionales",
+        "Capacidad de prueba de instrucciones",
+        "Comprensión básica de aprendizaje con pocos ejemplos",
+        "Documentación de instrucciones efectivas",
+        "Conocimiento elemental de limitaciones de modelos de lenguaje"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con interfaces de programación de aplicaciones",
+        "Conocimiento básico de representaciones vectoriales",
+        "Comprensión elemental de tokenización"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Crea instrucciones básicas efectivas",
+        "Está aprendiendo ingeniería de instrucciones"
+      ]
+    },
+    "PE-L2": {
+      "level": "L2 - Ingeniero de Instrucciones Junior",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar instrucciones complejas",
+        "Implementación de instrucciones con cadena de razonamiento",
+        "Conocimiento práctico de optimización de instrucciones",
+        "Habilidad para aprendizaje con pocos ejemplos y sin ejemplos",
+        "Comprensión de temperatura y muestreo",
+        "Capacidad de automatización de pruebas de instrucciones",
+        "Conocimiento de generación aumentada mediante recuperación",
+        "Habilidad para evaluación de resultados"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de marcos de trabajo para modelos de lenguaje",
+        "Habilidad para bases de datos vectoriales",
+        "Comprensión de búsqueda semántica"
+      ],
+      "indicators": [
+        "Diseña instrucciones efectivas con supervisión",
+        "Optimiza rendimiento de modelos de lenguaje",
+        "Evalúa calidad de resultados"
+      ]
+    },
+    "PE-L3": {
+      "level": "L3 - Ingeniero de Instrucciones",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de sistemas de instrucciones complejos",
+        "Implementación de sistemas multiagente",
+        "Dominio de encadenamiento de instrucciones",
+        "Capacidad de orientación en ajuste fino",
+        "Habilidad para prevención de inyección de instrucciones",
+        "Conocimiento profundo de limitaciones de modelos",
+        "Implementación de marcos de evaluación",
+        "Capacidad de versionado de instrucciones"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de entrenamiento de modelos personalizados",
+        "Habilidad para optimización de representaciones vectoriales",
+        "Comprensión de optimización de costes"
+      ],
+      "indicators": [
+        "Lidera proyectos de modelos de lenguaje",
+        "Diseña arquitecturas de instrucciones",
+        "Mentoriza en ingeniería de instrucciones"
+      ]
+    },
+    "PE-L4": {
+      "level": "L4 - Ingeniero de Instrucciones Senior",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de sistemas de modelos de lenguaje empresariales",
+        "Diseño de estrategias de instrucciones a escala",
+        "Implementación de orquestación de modelos de lenguaje",
+        "Dominio de técnicas avanzadas de instrucciones",
+        "Capacidad de selección de modelos",
+        "Conocimiento profundo de mitigación de sesgos",
+        "Habilidad para seguridad y alineación",
+        "Liderazgo en gobernanza de modelos de lenguaje"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en desarrollo de modelos personalizados",
+        "Conocimiento de sistemas distribuidos de modelos de lenguaje",
+        "Implementación de monitorización"
+      ],
+      "indicators": [
+        "Define estrategia de modelos de lenguaje",
+        "Lidera equipos de ingeniería de instrucciones",
+        "Es referente en modelos de lenguaje"
+      ]
+    },
+    "PE-L5": {
+      "level": "L5 - Ingeniero de Instrucciones Principal",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en plataformas de modelos de lenguaje",
+        "Diseño de ecosistemas de modelos de lenguaje",
+        "Gestión de equipos de ingeniería de instrucciones",
+        "Definición de estándares de modelos de lenguaje",
+        "Capacidad de optimización de retorno de inversión",
+        "Implementación de gobernanza de modelos de lenguaje",
+        "Dominio de estrategias multimodelo",
+        "Evangelización de inteligencia artificial responsable"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en productización de modelos de lenguaje",
+        "Conocimiento de economía de modelos de lenguaje",
+        "Gestión de proveedores de modelos"
+      ],
+      "indicators": [
+        "Gestiona equipos de modelos de lenguaje",
+        "Define visión de inteligencia artificial generativa",
+        "Representa modelos de lenguaje ante partes interesadas"
+      ]
+    },
+    "PE-L6": {
+      "level": "L6 - Arquitecto de Modelos de Lenguaje Distinguido",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia corporativa de modelos de lenguaje",
+        "Gestión de plataformas de inteligencia artificial a escala",
+        "Definición de estrategia de inteligencia artificial generativa",
+        "Liderazgo en transformación de inteligencia artificial",
+        "Gestión de alianzas de modelos de lenguaje",
+        "Implementación de gobernanza de inteligencia artificial",
+        "Innovación en aplicaciones de modelos de lenguaje",
+        "Gestión de cumplimiento de inteligencia artificial"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fusiones y adquisiciones de inteligencia artificial",
+        "Conocimiento de regulaciones de inteligencia artificial",
+        "Liderazgo en ética de inteligencia artificial"
+      ],
+      "indicators": [
+        "Dirige departamento de modelos de lenguaje e inteligencia artificial",
+        "Participa en estrategia digital",
+        "Define inversiones en inteligencia artificial"
+      ]
+    },
+    "PE-L7": {
+      "level": "L7 - Director de Inteligencia Artificial Generativa",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en inteligencia artificial generativa",
+        "Diseño de estrategias de inteligencia artificial globales",
+        "Transformación organizacional mediante inteligencia artificial generativa",
+        "Gestión de inteligencia artificial a escala empresarial",
+        "Creación de cultura centrada en inteligencia artificial",
+        "Definición de hoja de ruta de inteligencia artificial",
+        "Evangelización de inteligencia artificial a nivel directivo",
+        "Influencia en estándares de inteligencia artificial"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos multimillonarios de inteligencia artificial",
+        "Experiencia en empresas unicornio de inteligencia artificial",
+        "Liderazgo en consorcios de inteligencia artificial"
+      ],
+      "indicators": [
+        "Reporta a director de tecnología o de inteligencia artificial",
+        "Gestiona organización de inteligencia artificial (más de 30 personas)",
+        "Define estrategia de inteligencia artificial generativa"
+      ]
+    },
+    "PE-L8": {
+      "level": "L8 - Vicepresidente de Inteligencia Artificial Generativa",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de inteligencia artificial generativa",
+        "Liderazgo en revolución de inteligencia artificial generativa",
+        "Creación de ventaja competitiva mediante inteligencia artificial",
+        "Gestión de ecosistemas de inteligencia artificial",
+        "Innovación disruptiva en modelos de lenguaje",
+        "Definición de preparación para inteligencia artificial general",
+        "Evangelización de inteligencia artificial responsable",
+        "Influencia en políticas de inteligencia artificial"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de inteligencia artificial en empresas de crecimiento",
+        "Asesoría en empresas emergentes de inteligencia artificial",
+        "Liderazgo de pensamiento en inteligencia artificial generativa"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia de inteligencia artificial",
+        "Es líder reconocido en inteligencia artificial generativa"
+      ]
+    },
+    "PE-L9": {
+      "level": "L9 - Director Ejecutivo de Inteligencia Artificial",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en inteligencia artificial",
+        "Transformación de empresas mediante inteligencia artificial",
+        "Creación de paradigmas de inteligencia artificial",
+        "Definición de organizaciones nativas de inteligencia artificial",
+        "Innovación en gobernanza de inteligencia artificial",
+        "Evangelización de consciencia de inteligencia artificial",
+        "Arquitecto de ecosistemas de inteligencia artificial",
+        "Influencia en regulación de inteligencia artificial"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando empresas Fortune 500 con inteligencia artificial",
+        "Reconocimiento como pionero de inteligencia artificial",
+        "Influencia en políticas de inteligencia artificial"
+      ],
+      "indicators": [
+        "Es director ejecutivo de inteligencia artificial",
+        "Define el futuro de inteligencia artificial en la industria",
+        "Es autoridad mundial en inteligencia artificial"
+      ]
+    }
+  }
+}

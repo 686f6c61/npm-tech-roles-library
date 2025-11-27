@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Operaciones de Seguridad",
+  "category": "Seguridad",
+  "levels": {
+    "SOE-L1": {
+      "level": "L1 - Aprendiz de Operaciones de Seguridad",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de operaciones de seguridad",
+        "Comprensión elemental de gestión de eventos e información de seguridad",
+        "Habilidad para monitorear alertas básicas",
+        "Conocimiento básico de manejo de incidentes",
+        "Capacidad de clasificación con supervisión",
+        "Comprensión de eventos de seguridad",
+        "Documentación de incidentes",
+        "Conocimiento elemental de análisis forense"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de seguridad",
+        "Conocimiento básico de redes",
+        "Comprensión elemental de software malicioso"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Monitorea alertas básicas",
+        "Está aprendiendo operaciones de seguridad"
+      ]
+    },
+    "SOE-L2": {
+      "level": "L2 - Ingeniero Junior de Operaciones de Seguridad",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de responder a incidentes",
+        "Implementación de monitorización de seguridad",
+        "Conocimiento práctico de gestión de eventos de seguridad y automatización",
+        "Habilidad para búsqueda básica de amenazas",
+        "Comprensión de análisis de registros",
+        "Capacidad de contención",
+        "Conocimiento de manuales de procedimientos",
+        "Habilidad para escalamiento"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de herramientas de detección y respuesta en endpoints",
+        "Habilidad para programación de scripts",
+        "Comprensión de inteligencia de amenazas"
+      ],
+      "indicators": [
+        "Responde a incidentes con supervisión",
+        "Ejecuta manuales de procedimientos",
+        "Contribuye a búsqueda de amenazas"
+      ]
+    },
+    "SOE-L3": {
+      "level": "L3 - Ingeniero de Operaciones de Seguridad",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de monitorización de seguridad",
+        "Implementación de reglas de detección",
+        "Dominio de respuesta a incidentes",
+        "Capacidad de búsqueda de amenazas",
+        "Habilidad para análisis forense",
+        "Conocimiento profundo de patrones de ataque",
+        "Implementación de flujos de trabajo de automatización",
+        "Capacidad de métricas de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de análisis de software malicioso",
+        "Habilidad para inteligencia de amenazas",
+        "Comprensión de inteligencia de amenazas cibernéticas"
+      ],
+      "indicators": [
+        "Lidera respuesta a incidentes",
+        "Diseña lógica de detección",
+        "Mentoriza ingenieros junior de operaciones de seguridad"
+      ]
+    },
+    "SOE-L4": {
+      "level": "L4 - Ingeniero Senior de Operaciones de Seguridad",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de operaciones de centro de seguridad",
+        "Diseño de estrategia de respuesta a incidentes",
+        "Implementación de programas de búsqueda de amenazas",
+        "Dominio de análisis forense avanzado",
+        "Capacidad de orquestación de seguridad",
+        "Conocimiento profundo de tácticas de amenazas persistentes avanzadas",
+        "Habilidad para gestión de crisis",
+        "Liderazgo en incidentes de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en brechas de seguridad importantes",
+        "Conocimiento de actores de amenazas",
+        "Implementación de automatización"
+      ],
+      "indicators": [
+        "Define estrategia de centro de operaciones de seguridad",
+        "Lidera incidentes importantes",
+        "Es referente en operaciones de seguridad"
+      ]
+    },
+    "SOE-L5": {
+      "level": "L5 - Ingeniero Líder de Operaciones de Seguridad",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en operaciones de seguridad",
+        "Diseño de plataformas de centro de operaciones de seguridad",
+        "Gestión de equipos de centro de operaciones de seguridad",
+        "Definición de procedimientos de respuesta a incidentes",
+        "Capacidad de programas de inteligencia de amenazas",
+        "Implementación de automatización de seguridad",
+        "Dominio de métricas e indicadores clave de rendimiento",
+        "Evangelización de concienciación en seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en operaciones continuas",
+        "Conocimiento de proveedores de servicios de seguridad gestionados",
+        "Gestión de presupuesto de herramientas"
+      ],
+      "indicators": [
+        "Gestiona equipo de centro de operaciones de seguridad",
+        "Define visión de operaciones de seguridad",
+        "Representa centro de operaciones ante ejecutivos"
+      ]
+    },
+    "SOE-L6": {
+      "level": "L6 - Arquitecto Principal de Centro de Operaciones de Seguridad",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia de centro de operaciones de seguridad",
+        "Gestión de operaciones de seguridad a escala",
+        "Definición de arquitectura de centro de operaciones de seguridad",
+        "Liderazgo en transformación de centro de operaciones de seguridad",
+        "Gestión de incidentes de seguridad importantes",
+        "Implementación de centro de operaciones de seguridad global",
+        "Innovación en detección",
+        "Gestión de inteligencia de amenazas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en diseño de centro de operaciones de seguridad",
+        "Conocimiento de inversión en seguridad",
+        "Liderazgo en comunidad de operaciones de seguridad"
+      ],
+      "indicators": [
+        "Dirige departamento de centro de operaciones de seguridad",
+        "Participa en estrategia ejecutiva",
+        "Define inversiones en centro de operaciones de seguridad"
+      ]
+    },
+    "SOE-L7": {
+      "level": "L7 - Director de Operaciones de Seguridad",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en operaciones de seguridad",
+        "Diseño de estrategias globales de centro de operaciones de seguridad",
+        "Transformación de respuesta a incidentes",
+        "Gestión a escala Fortune 500",
+        "Creación de cultura de operaciones de seguridad",
+        "Definición de hoja de ruta de centro de operaciones de seguridad",
+        "Evangelización a nivel de junta directiva",
+        "Influencia en operaciones de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos multimillonarios de centro de operaciones de seguridad",
+        "Experiencia en centros de operaciones de seguridad globales",
+        "Liderazgo en comunidad de seguridad"
+      ],
+      "indicators": [
+        "Reporta a director de seguridad de la información",
+        "Gestiona organización de centro de operaciones de seguridad (30+ personas)",
+        "Define estrategia de operaciones de seguridad"
+      ]
+    },
+    "SOE-L8": {
+      "level": "L8 - Vicepresidente de Operaciones de Seguridad",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de operaciones de seguridad",
+        "Liderazgo en transformación de centro de operaciones de seguridad",
+        "Creación de ventaja en detección",
+        "Gestión de ecosistemas de centro de operaciones de seguridad",
+        "Innovación en búsqueda de amenazas",
+        "Definición de centro de operaciones de seguridad de nueva generación",
+        "Evangelización de seguridad proactiva",
+        "Influencia en políticas de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en gigantes de seguridad",
+        "Asesoría en empresas emergentes de operaciones de seguridad",
+        "Liderazgo de pensamiento en centros de operaciones de seguridad"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia de centro de operaciones de seguridad",
+        "Es líder reconocido"
+      ]
+    },
+    "SOE-L9": {
+      "level": "L9 - Director de Operaciones de Seguridad",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en operaciones de seguridad",
+        "Transformación de detección y respuesta",
+        "Creación de paradigmas de centro de operaciones de seguridad",
+        "Definición de seguridad proactiva",
+        "Innovación en detección de amenazas",
+        "Evangelización de vigilancia de seguridad",
+        "Arquitecto de ecosistemas de centros de operaciones de seguridad",
+        "Influencia en operaciones de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando centros de operaciones de seguridad en Fortune 100",
+        "Reconocimiento como líder de centros de operaciones de seguridad",
+        "Influencia en estándares de seguridad"
+      ],
+      "indicators": [
+        "Es director de operaciones de seguridad",
+        "Define futuro de centros de operaciones de seguridad",
+        "Es autoridad mundial"
+      ]
+    }
+  }
+}

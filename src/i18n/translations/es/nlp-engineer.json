@@ -1,0 +1,259 @@
+{
+  "role": "Ingeniero de Procesamiento de Lenguaje Natural",
+  "category": "Datos",
+  "levels": {
+    "NLP-L1": {
+      "level": "N1 - Aprendiz de Procesamiento de Lenguaje Natural",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de procesamiento de lenguaje",
+        "Conocimiento elemental de lingüística computacional",
+        "Habilidad para tokenización básica",
+        "Comprensión básica de incrustaciones de palabras",
+        "Capacidad de usar bibliotecas de procesamiento de lenguaje natural",
+        "Conocimiento elemental de análisis de sentimientos",
+        "Comprensión básica de asistentes conversacionales",
+        "Habilidad para preprocesamiento de texto"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de expresiones regulares",
+        "Familiaridad con corpus lingüísticos",
+        "Comprensión elemental de idiomas"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede implementar procesamiento de lenguaje natural básico",
+        "Necesita 6-12 meses de mentoría"
+      ]
+    },
+    "NLP-L2": {
+      "level": "N2 - Junior de Procesamiento de Lenguaje Natural",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar modelos de procesamiento de lenguaje natural",
+        "Habilidad para ajuste fino de modelos",
+        "Conocimiento práctico de transformadores",
+        "Comprensión de reconocimiento de entidades nombradas y etiquetado de categorías gramaticales",
+        "Capacidad de clasificación de texto",
+        "Habilidad para modelado de temas",
+        "Conocimiento de traducción básica",
+        "Comprensión de conversión de voz a texto"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de modelos preentrenados de lenguaje",
+        "Habilidad para procesamiento multilingüe",
+        "Comprensión de sistemas de diálogo"
+      ],
+      "indicators": [
+        "Desarrolla soluciones de procesamiento de lenguaje natural con supervisión",
+        "Implementa modelos estándar",
+        "Optimiza flujos de procesamiento básicos"
+      ]
+    },
+    "NLP-L3": {
+      "level": "N3 - Ingeniero de Procesamiento de Lenguaje Natural",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de arquitecturas de transformadores",
+        "Capacidad de diseñar modelos personalizados",
+        "Habilidad para trabajar con modelos grandes de lenguaje",
+        "Conocimiento profundo de mecanismos de atención",
+        "Capacidad de procesamiento de lenguaje natural multimodal",
+        "Comprensión sólida de generación de texto",
+        "Habilidad para trabajar con grafos de conocimiento",
+        "Conocimiento de procesamiento de lenguaje natural ético"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de traducción automática neuronal",
+        "Habilidad para síntesis de voz",
+        "Comprensión de inteligencia artificial emocional"
+      ],
+      "indicators": [
+        "Diseña sistemas complejos de procesamiento de lenguaje natural",
+        "Lidera proyectos de lenguaje",
+        "Innova en procesamiento de texto"
+      ]
+    },
+    "NLP-L4": {
+      "level": "N4 - Senior de Procesamiento de Lenguaje Natural",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar plataformas de procesamiento de lenguaje natural",
+        "Dominio de sistemas a escala",
+        "Habilidad para modelos grandes de lenguaje en producción",
+        "Conocimiento profundo de eficiencia computacional",
+        "Capacidad de liderar equipos",
+        "Dominio de sistemas multilingües",
+        "Habilidad para inteligencia artificial conversacional",
+        "Conocimiento de estrategia de procesamiento de lenguaje natural"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de lenguaje en inteligencia artificial general",
+        "Habilidad para modelado de consciencia",
+        "Comprensión de realidad semántica"
+      ],
+      "indicators": [
+        "Define estrategia de procesamiento de lenguaje natural",
+        "Lidera transformación de lenguaje",
+        "Mentoriza ingenieros de procesamiento de lenguaje natural"
+      ]
+    },
+    "NLP-L5": {
+      "level": "N5 - Líder de Procesamiento de Lenguaje Natural",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia experta en plataformas empresariales",
+        "Capacidad de democratización de procesamiento de lenguaje natural",
+        "Dominio de autoservicio de procesamiento de lenguaje natural",
+        "Habilidad para laboratorios de innovación",
+        "Conocimiento profundo de comprensión del lenguaje",
+        "Capacidad de definir cultura",
+        "Experiencia experta en asociaciones",
+        "Dominio de investigación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de interfaces telepáticas",
+        "Habilidad para traducción universal",
+        "Comprensión de codificación de pensamiento"
+      ],
+      "indicators": [
+        "Arquitecta ecosistemas de procesamiento de lenguaje natural",
+        "Lidera organizaciones de lenguaje",
+        "Define hoja de ruta de procesamiento de lenguaje natural"
+      ]
+    },
+    "NLP-L6": {
+      "level": "N6 - Principal de Procesamiento de Lenguaje Natural",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir visión de procesamiento de lenguaje natural",
+        "Experiencia experta en innovación del lenguaje",
+        "Dominio de estrategia global",
+        "Habilidad para construcción de ecosistemas",
+        "Conocimiento profundo de futuros del lenguaje",
+        "Capacidad de liderazgo de pensamiento",
+        "Experiencia experta en revolución de comunicación",
+        "Dominio de impacto"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de lenguajes extraterrestres",
+        "Habilidad para comunicación dimensional",
+        "Comprensión de lenguaje cósmico"
+      ],
+      "indicators": [
+        "Define visión corporativa de procesamiento de lenguaje natural",
+        "Lidera transformación lingüística",
+        "Influencia industria"
+      ]
+    },
+    "NLP-L7": {
+      "level": "N7 - Director de Procesamiento de Lenguaje Natural",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en evolución del lenguaje",
+        "Capacidad de gestión global",
+        "Experiencia experta en transformación",
+        "Dominio de gobernanza",
+        "Capacidad de definir filosofía",
+        "Conocimiento profundo de ventaja competitiva",
+        "Experiencia experta en procesamiento de lenguaje natural estratégico",
+        "Capacidad de liderar revolución"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de crear lenguajes",
+        "Habilidad para emprendimientos de procesamiento de lenguaje natural",
+        "Conocimiento de economías del lenguaje"
+      ],
+      "indicators": [
+        "Define estrategia ejecutiva",
+        "Representa empresa en procesamiento de lenguaje natural",
+        "Líder de pensamiento en lenguaje"
+      ]
+    },
+    "NLP-L8": {
+      "level": "N8 - Vicepresidente de Procesamiento de Lenguaje Natural",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de procesamiento de lenguaje natural",
+        "Capacidad de lenguaje como negocio central",
+        "Experiencia experta en transformación mediante lenguaje",
+        "Dominio de gestión ejecutiva",
+        "Capacidad de construir imperios",
+        "Conocimiento profundo de valor del lenguaje",
+        "Experiencia experta en comunicación global",
+        "Capacidad de definir cultura"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar comunicación global",
+        "Habilidad para fusiones y adquisiciones de lenguaje",
+        "Conocimiento de resolución de babel"
+      ],
+      "indicators": [
+        "Responsable de toda estrategia de procesamiento de lenguaje natural",
+        "Define futuro del lenguaje",
+        "Líder reconocido"
+      ]
+    },
+    "NLP-L9": {
+      "level": "N9 - Director Principal de Lenguaje",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en lenguaje",
+        "Capacidad de comunicación como ventaja definitiva",
+        "Experiencia experta en transformación de humanidad",
+        "Dominio de gobernanza del lenguaje",
+        "Capacidad de crear nuevos modos de pensamiento",
+        "Conocimiento profundo de interfaz de consciencia",
+        "Experiencia experta en descripción de realidad",
+        "Capacidad de definir existencia lingüística",
+        "Dominio del logos"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de crear realidades mediante lenguaje",
+        "Habilidad para comunión omnilingüe",
+        "Conocimiento de futuros posverbales"
+      ],
+      "indicators": [
+        "Máximo responsable de lenguaje",
+        "Define futuro de comunicación humana",
+        "Líder global en procesamiento de lenguaje natural"
+      ]
+    }
+  }
+}

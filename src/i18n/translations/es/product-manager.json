@@ -1,0 +1,258 @@
+{
+  "role": "Gestor de Producto",
+  "category": "Producto",
+  "levels": {
+    "PM-L1": {
+      "level": "L1 - Gestor Asociado de Producto",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de desarrollo de producto de aplicaciones",
+        "Comprensión elemental de metodologías ágiles",
+        "Habilidad para escribir historias de usuario simples",
+        "Conocimiento básico de métricas de producto",
+        "Capacidad de realizar análisis competitivo básico",
+        "Comprensión de ciclo de vida de las aplicaciones",
+        "Documentación de requisitos básicos",
+        "Conocimiento elemental de priorización"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de gestión",
+        "Conocimiento básico de experiencia e interfaz de usuario",
+        "Comprensión de análisis de datos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Apoya en tareas de producto",
+        "Está aprendiendo gestión de producto"
+      ]
+    },
+    "PM-L2": {
+      "level": "L2 - Gestor Junior de Producto",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de gestionar acumulado de producto",
+        "Implementación de hojas de ruta departamentales",
+        "Conocimiento práctico de marcos de priorización",
+        "Habilidad para conducir investigación de usuarios",
+        "Comprensión de ciclo de vida de desarrollo completo",
+        "Capacidad de definir productos mínimos viables",
+        "Conocimiento de lanzamiento al mercado básico",
+        "Habilidad para gestión de partes interesadas"
+      ],
+      "complementaryCompetencies": [
+        "Análisis de ajuste producto-mercado",
+        "Conocimiento de estrategias de precios",
+        "Comprensión de mapeo del viaje del cliente"
+      ],
+      "indicators": [
+        "Gestiona funcionalidades con supervisión",
+        "Define requisitos independientemente",
+        "Colabora efectivamente con desarrollo"
+      ]
+    },
+    "PM-L3": {
+      "level": "L3 - Gestor de Producto",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de estrategias de producto completas",
+        "Implementación de objetivos clave y métricas avanzadas",
+        "Dominio de técnicas de descubrimiento",
+        "Capacidad de definición de visión de producto",
+        "Habilidad para decisiones técnicas de producto",
+        "Conocimiento profundo de estrategias de monetización",
+        "Implementación de marcos de experimentación",
+        "Gestión de productos completa"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de economía de plataforma",
+        "Habilidad para técnicas de crecimiento",
+        "Comprensión de gestión de producto de interfaces de programación"
+      ],
+      "indicators": [
+        "Lidera productos completos",
+        "Define estrategia de funcionalidades",
+        "Mentoriza gestores junior de producto"
+      ]
+    },
+    "PM-L4": {
+      "level": "L4 - Gestor Senior de Producto",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de carteras de productos",
+        "Diseño de estrategias de plataforma",
+        "Implementación de crecimiento impulsado por producto",
+        "Dominio de liderazgo multifuncional",
+        "Capacidad de estrategias de expansión de mercado",
+        "Conocimiento profundo de modelos de negocio tecnológicos",
+        "Habilidad para integración de productos en fusiones y adquisiciones",
+        "Liderazgo en transformación de producto"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en dinámicas de mercado",
+        "Conocimiento de gestión de producto de inteligencia artificial",
+        "Gestión de productos empresariales entre empresas"
+      ],
+      "indicators": [
+        "Define estrategia multi-producto",
+        "Lidera equipos de producto",
+        "Influencia decisiones de negocio"
+      ]
+    },
+    "PM-L5": {
+      "level": "L5 - Líder de Gestión de Producto",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo de equipos de gestión de producto",
+        "Diseño de organización de producto",
+        "Gestión de carteras de productos complejos",
+        "Definición de cultura de producto",
+        "Capacidad de marcos de innovación",
+        "Implementación de operaciones de producto",
+        "Dominio de alianzas estratégicas",
+        "Evangelización de pensamiento de producto"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación digital",
+        "Conocimiento de construcción de iniciativas empresariales",
+        "Gestión de productos globales"
+      ],
+      "indicators": [
+        "Gestiona múltiples gestores de producto",
+        "Define visión de producto empresarial",
+        "Representa producto ante inversores"
+      ]
+    },
+    "PM-L6": {
+      "level": "L6 - Gestor Principal de Producto",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de producto a nivel organizacional",
+        "Estrategia de producto para empresas en crecimiento",
+        "Gestión de presupuestos de producto grandes",
+        "Definición de expansión producto-mercado",
+        "Liderazgo en estrategias de pivote",
+        "Implementación de laboratorios de innovación",
+        "Innovación en procesos de desarrollo de producto",
+        "Gestión de productos de ecosistema"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en productos disruptivos",
+        "Conocimiento de gestión de producto regulatorio",
+        "Liderazgo en comunidades de producto"
+      ],
+      "indicators": [
+        "Dirige departamento de producto (20+ personas)",
+        "Participa en estrategia corporativa",
+        "Define inversiones en producto"
+      ]
+    },
+    "PM-L7": {
+      "level": "L7 - Director de Producto",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en producto tecnológico",
+        "Diseño de estrategias de producto globales",
+        "Transformación de empresas mediante producto",
+        "Gestión de producto a escala de empresa emergente exitosa",
+        "Creación de nuevas categorías de producto",
+        "Definición del futuro del producto de aplicaciones",
+        "Evangelización de producto a nivel de junta directiva",
+        "Influencia en industria de producto tecnológico"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de productos en salida a bolsa",
+        "Experiencia en producto para grandes corporaciones",
+        "Liderazgo en consejos de producto"
+      ],
+      "indicators": [
+        "Reporta al director ejecutivo",
+        "Gestiona organizaciones de producto (50+ personas)",
+        "Define estrategia de producto corporativa"
+      ]
+    },
+    "PM-L8": {
+      "level": "L8 - Vicepresidente de Producto",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de producto como negocio central",
+        "Liderazgo en revoluciones de producto de aplicaciones",
+        "Creación de ecosistemas de productos",
+        "Gestión de carteras multimillonarias",
+        "Innovación disruptiva en gestión de producto",
+        "Definición de paradigmas de producto de nueva generación",
+        "Evangelización de empresas orientadas al producto",
+        "Influencia en economía digital"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de producto en gigantes tecnológicos",
+        "Asesoramiento en empresas emergentes orientadas al producto",
+        "Liderazgo de pensamiento en producto tecnológico"
+      ],
+      "indicators": [
+        "Es parte de la alta dirección",
+        "Define estrategia de producto global",
+        "Es líder reconocido en producto tecnológico"
+      ]
+    },
+    "PM-L9": {
+      "level": "L9 - Director General de Producto",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de las aplicaciones",
+        "Transformación de industrias mediante producto",
+        "Creación de nuevos paradigmas de producto digital",
+        "Definición de producto en era post-digital",
+        "Innovación en simbiosis humano-producto",
+        "Evangelización de consciencia de producto",
+        "Arquitecto de economías digitales",
+        "Influencia en evolución de las aplicaciones"
+      ],
+      "complementaryCompetencies": [
+        "Creador de categorías de producto revolucionarias",
+        "Reconocimiento como maestro del producto tecnológico",
+        "Influencia en educación de producto global"
+      ],
+      "indicators": [
+        "Es director general de producto legendario",
+        "Define futuro del producto de aplicaciones",
+        "Es autoridad mundial en gestión de producto"
+      ]
+    }
+  }
+}

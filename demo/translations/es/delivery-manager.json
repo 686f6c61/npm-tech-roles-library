@@ -1,0 +1,200 @@
+{
+  "DM-L2": {
+    "coreCompetencies": [
+      "Capacidad de gestionar delivery pipelines",
+      "Implementación de release management",
+      "Conocimiento práctico de deployment automation",
+      "Habilidad para incident management",
+      "Comprensión de rollback strategies",
+      "Capacidad de performance monitoring",
+      "Conocimiento de service level management",
+      "Habilidad para dependency tracking"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de environments",
+      "Conocimiento de containerization",
+      "Comprensión de infrastructure as code"
+    ],
+    "indicators": [
+      "Gestiona delivery con supervisión",
+      "Coordina múltiples releases",
+      "Mejora procesos de entrega"
+    ]
+  },
+  "DM-L3": {
+    "coreCompetencies": [
+      "Diseño de delivery strategies completas",
+      "Implementación de continuous deployment",
+      "Dominio de release orchestration",
+      "Capacidad de zero-downtime deployments",
+      "Habilidad para chaos engineering",
+      "Conocimiento profundo de observability",
+      "Implementación de progressive delivery",
+      "Gestión de complex dependencies"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de service mesh",
+      "Habilidad para canary deployments",
+      "Comprensión de feature flags avanzado"
+    ],
+    "indicators": [
+      "Lidera delivery excellence",
+      "Define estrategias de release",
+      "Mentoriza delivery teams"
+    ]
+  },
+  "DM-L4": {
+    "coreCompetencies": [
+      "Arquitectura de delivery platforms",
+      "Diseño de deployment strategies globales",
+      "Implementación de GitOps practices",
+      "Dominio de multi-region deployments",
+      "Capacidad de disaster recovery planning",
+      "Conocimiento profundo de SRE practices",
+      "Habilidad para cost-optimized delivery",
+      "Liderazgo en automation excellence"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en blue-green deployments",
+      "Conocimiento de compliance automation",
+      "Gestión de multi-cloud delivery"
+    ],
+    "indicators": [
+      "Define estrategia de delivery platform",
+      "Lidera transformación DevOps",
+      "Influencia arquitectura técnica"
+    ]
+  },
+  "DM-L5": {
+    "coreCompetencies": [
+      "Liderazgo de delivery excellence",
+      "Diseño de DevOps transformation",
+      "Gestión de delivery teams complejos",
+      "Definición de delivery metrics y KPIs",
+      "Capacidad de platform engineering",
+      "Implementación de self-service delivery",
+      "Dominio de reliability engineering",
+      "Evangelización de delivery culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en SRE transformation",
+      "Conocimiento de FinOps practices",
+      "Gestión de delivery vendors"
+    ],
+    "indicators": [
+      "Gestiona delivery organization",
+      "Define visión de DevOps",
+      "Representa delivery ante ejecutivos"
+    ]
+  },
+  "DM-L6": {
+    "coreCompetencies": [
+      "Dirección de delivery y DevOps",
+      "Estrategia de continuous everything",
+      "Gestión de transformation budgets",
+      "Definición de engineering excellence",
+      "Liderazgo en platform revolution",
+      "Implementación de autonomous delivery",
+      "Innovación en deployment paradigms",
+      "Gestión de global delivery"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en hyperscale delivery",
+      "Conocimiento de edge deployment",
+      "Liderazgo en DevOps communities"
+    ],
+    "indicators": [
+      "Dirige departamento DevOps (20+ personas)",
+      "Participa en technology strategy",
+      "Define inversiones en automation"
+    ]
+  },
+  "DM-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en engineering excellence",
+      "Diseño de estrategias DevOps globales",
+      "Transformación de engineering culture",
+      "Gestión de delivery a escala FAANG",
+      "Creación de ventajas via velocity",
+      "Definición de futuro de continuous delivery",
+      "Evangelización DevOps a nivel board",
+      "Influencia en industria DevOps"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de planetary-scale systems",
+      "Experiencia en zero-touch operations",
+      "Liderazgo en CNCF/standards"
+    ],
+    "indicators": [
+      "Reporta a CTO",
+      "Gestiona engineering excellence (50+ personas)",
+      "Define estrategia DevOps corporativa"
+    ]
+  },
+  "DM-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de perfect delivery",
+      "Liderazgo en revolución DevOps mundial",
+      "Creación de paradigmas de instant deployment",
+      "Gestión de delivery universal",
+      "Innovación disruptiva en continuous everything",
+      "Definición de self-healing systems",
+      "Evangelización de NoOps future",
+      "Influencia en evolución de software delivery"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como VP Engineering en unicorns",
+      "Advisory en DevOps transformation",
+      "Thought leadership en delivery"
+    ],
+    "indicators": [
+      "Es parte del engineering leadership",
+      "Define futuro de delivery",
+      "Es líder reconocido en DevOps"
+    ]
+  },
+  "DM-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de software delivery",
+      "Transformación de cómo se entrega software",
+      "Creación de paradigmas de teleportation delivery",
+      "Definición de thought-based deployment",
+      "Innovación en consciousness delivery",
+      "Evangelización de infinite velocity",
+      "Arquitecto de delivery sin tiempo",
+      "Influencia en evolución de creación digital"
+    ],
+    "complementaryCompetencies": [
+      "Padre del movimiento DevOps moderno",
+      "Reconocimiento como revolucionario del delivery",
+      "Influencia en futuro de desarrollo"
+    ],
+    "indicators": [
+      "Es Chief Delivery Officer visionario",
+      "Define futuro del deployment",
+      "Es leyenda del DevOps"
+    ]
+  },
+  "DM-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de metodologías de entrega",
+      "Comprensión elemental de continuous delivery",
+      "Habilidad para tracking de releases básico",
+      "Conocimiento básico de deployment processes",
+      "Capacidad de coordinación simple",
+      "Comprensión de quality gates básicas",
+      "Documentación de release notes",
+      "Conocimiento elemental de DevOps"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con CI/CD tools",
+      "Conocimiento básico de automation",
+      "Comprensión de monitoring básico"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Coordina releases simples",
+      "Está aprendiendo delivery management"
+    ]
+  }
+}

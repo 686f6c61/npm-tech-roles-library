@@ -1,0 +1,258 @@
+{
+  "role": "Arquitecto MLOps",
+  "category": "Datos",
+  "levels": {
+    "MLOA-L1": {
+      "level": "L1 - Aprendiz MLOps",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de principios MLOps",
+        "Comprensión elemental de flujos ML",
+        "Habilidad para versionado de modelos básico",
+        "Conocimiento básico de contenedorización ML",
+        "Capacidad de despliegue simple",
+        "Comprensión de monitorización básica",
+        "Documentación de flujos de trabajo ML",
+        "Conocimiento elemental de reproducibilidad"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con MLflow básico",
+        "Conocimiento de Git para ML",
+        "Comprensión de Docker para ML"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Implementa flujos ML simples",
+        "Está aprendiendo arquitectura MLOps"
+      ]
+    },
+    "MLOA-L2": {
+      "level": "L2 - Ingeniero MLOps Junior",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar flujos completos",
+        "Implementación de integración/despliegue continuo para ML",
+        "Conocimiento práctico de orquestación",
+        "Habilidad para almacenes de características",
+        "Comprensión de registro de modelos",
+        "Capacidad de pruebas A/B en ML",
+        "Conocimiento de detección de deriva",
+        "Habilidad para reentrenamiento automatizado"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo de APIs de servicio de modelos",
+        "Conocimiento de Kubernetes para ML",
+        "Comprensión de versionado de datos"
+      ],
+      "indicators": [
+        "Diseña flujos MLOps con supervisión",
+        "Implementa automatización ML",
+        "Mantiene infraestructura ML"
+      ]
+    },
+    "MLOA-L3": {
+      "level": "L3 - Ingeniero MLOps",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas MLOps empresariales",
+        "Implementación de plataformas ML",
+        "Dominio de infraestructura de entrenamiento distribuido",
+        "Capacidad de MLOps multinube",
+        "Habilidad para marcos de gobierno",
+        "Conocimiento profundo de observabilidad",
+        "Implementación de despliegue ML en borde",
+        "Diseño de plataformas de experimentación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de operaciones de aprendizaje federado",
+        "Habilidad para optimización de costes ML",
+        "Comprensión de cumplimiento MLOps"
+      ],
+      "indicators": [
+        "Lidera iniciativas MLOps",
+        "Diseña plataformas ML escalables",
+        "Mentoriza ingenieros MLOps"
+      ]
+    },
+    "MLOA-L4": {
+      "level": "L4 - Ingeniero MLOps Senior",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de ecosistemas MLOps",
+        "Diseño de infraestructura ML global",
+        "Implementación de plataformas AutoML",
+        "Dominio de ingeniería de confiabilidad ML",
+        "Capacidad de ingeniería de plataforma ML",
+        "Conocimiento profundo de economía ML",
+        "Habilidad para estándares MLOps",
+        "Liderazgo en innovación MLOps"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en sistemas ML en tiempo real",
+        "Conocimiento de operaciones ML cuánticas",
+        "Implementación de ML ecológico"
+      ],
+      "indicators": [
+        "Define estrategia MLOps empresarial",
+        "Lidera equipos de plataforma ML",
+        "Es referente en infraestructura ML"
+      ]
+    },
+    "MLOA-L5": {
+      "level": "L5 - Ingeniero MLOps Líder",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en MLOps",
+        "Diseño de programas de transformación MLOps",
+        "Gestión de equipos de plataforma ML",
+        "Definición de estrategia de infraestructura ML",
+        "Capacidad de centro de excelencia MLOps",
+        "Implementación de ML de autoservicio",
+        "Dominio de democratización ML",
+        "Evangelización de cultura MLOps"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en consultoría MLOps",
+        "Conocimiento de estándares MLOps de la industria",
+        "Gestión de proveedores MLOps"
+      ],
+      "indicators": [
+        "Gestiona organización MLOps",
+        "Define visión de plataforma ML empresarial",
+        "Representa MLOps ante ejecutivos"
+      ]
+    },
+    "MLOA-L6": {
+      "level": "L6 - Arquitecto MLOps Principal",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de MLOps organizacional",
+        "Estrategia de infraestructura ML global",
+        "Gestión de inversiones en plataforma ML",
+        "Definición de estrategia de operaciones de IA",
+        "Liderazgo en transformación MLOps",
+        "Implementación de operaciones ML autónomas",
+        "Innovación en paradigmas MLOps",
+        "Gestión de infraestructura ML global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en MLOps para productos críticos",
+        "Conocimiento de MLOps regulatorio",
+        "Liderazgo en comunidades MLOps"
+      ],
+      "indicators": [
+        "Dirige departamento MLOps (20+ personas)",
+        "Participa en estrategia de IA",
+        "Define inversiones en infraestructura ML"
+      ]
+    },
+    "MLOA-L7": {
+      "level": "L7 - Director MLOps",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en operaciones ML",
+        "Diseño de estrategias MLOps globales",
+        "Transformación empresarial mediante MLOps",
+        "Gestión de MLOps a escala Fortune 500",
+        "Creación de nuevos paradigmas operacionales",
+        "Definición del futuro de infraestructura ML",
+        "Evangelización MLOps a nivel directivo",
+        "Influencia en industria ML"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de MLOps a hiperescala",
+        "Experiencia en unicornios MLOps",
+        "Liderazgo en organismos de estándares MLOps"
+      ],
+      "indicators": [
+        "Reporta a CTO/CDO",
+        "Gestiona organización MLOps (50+ personas)",
+        "Define estrategia de operaciones ML corporativa"
+      ]
+    },
+    "MLOA-L8": {
+      "level": "L8 - VP MLOps",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de operaciones ML autónomas",
+        "Liderazgo en revolución MLOps",
+        "Creación de paradigmas de ML autogestionado",
+        "Gestión de MLOps planetaria",
+        "Innovación disruptiva en automatización ML",
+        "Definición de MLOps consciente",
+        "Evangelización de operaciones de singularidad ML",
+        "Influencia en futuro de operaciones de IA"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como VP MLOps en gigantes tecnológicos",
+        "Asesoría en plataformas MLOps",
+        "Liderazgo de pensamiento en infraestructura ML"
+      ],
+      "indicators": [
+        "Es parte del liderazgo de IA",
+        "Define futuro de MLOps",
+        "Es líder mundial en operaciones ML"
+      ]
+    },
+    "MLOA-L9": {
+      "level": "L9 - VP MLOps/Director Plataforma ML",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de operaciones ML",
+        "Transformación de IA mediante operaciones perfectas",
+        "Creación de paradigmas de sistemas ML eternos",
+        "Definición de infraestructura ML consciente",
+        "Innovación en MLOps biológico",
+        "Evangelización de omnipresencia ML",
+        "Arquitecto de realidad ML",
+        "Influencia en evolución de inteligencia operacional"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones MLOps",
+        "Reconocimiento como padre de MLOps moderno",
+        "Influencia en futuro de operaciones de IA"
+      ],
+      "indicators": [
+        "Es Director MLOps legendario",
+        "Define futuro de operaciones ML",
+        "Es autoridad mundial en MLOps"
+      ]
+    }
+  }
+}
