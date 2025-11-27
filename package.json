@@ -1,6 +1,6 @@
 {
   "name": "@sparring/tech-roles-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Comprehensive tech roles and competencies library for 78 technical roles with 9 career levels each. Includes detailed competencies and career progression paths with complete bilingual support (EN/ES).",
   "main": "src/index.js",
   "scripts": {
