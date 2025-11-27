@@ -1,0 +1,200 @@
+{
+  "SDR-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of B2B tech prospecting",
+      "Elementary understanding of lead qualification",
+      "Ability to perform basic cold calling",
+      "Basic knowledge of email outreach",
+      "Capacity to use simple CRM",
+      "Understanding of tech buyer personas",
+      "Documentation of basic interactions",
+      "Elementary knowledge of SaaS products"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with prospecting tools",
+      "Basic knowledge of LinkedIn Sales",
+      "Understanding of SDR metrics"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Performs outreach with scripts",
+      "Learning B2B tech sales"
+    ]
+  },
+  "SDR-L2": {
+    "coreCompetencies": [
+      "Ability to qualify BANT/MEDDIC",
+      "Implementation of outreach sequences",
+      "Practical knowledge of personalization at scale",
+      "Ability to perform discovery calls",
+      "Understanding of technical pain points",
+      "Capacity to book qualified meetings",
+      "Knowledge of objection handling",
+      "Ability for pipeline generation"
+    ],
+    "complementaryCompetencies": [
+      "Management of assigned territory",
+      "Knowledge of account research",
+      "Understanding of tech buyer journey"
+    ],
+    "indicators": [
+      "Generates pipeline with supervision",
+      "Qualifies leads independently",
+      "Collaborates with Account Executives"
+    ]
+  },
+  "SDR-L3": {
+    "coreCompetencies": [
+      "Design of outbound strategies",
+      "Implementation of account-based prospecting",
+      "Mastery of social selling",
+      "Capacity for technical qualification",
+      "Ability for enterprise prospecting",
+      "Deep knowledge of competitive positioning",
+      "Implementation of multi-channel outreach",
+      "Management of named accounts"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of intent data",
+      "Ability for event prospecting",
+      "Understanding of partner channel"
+    ],
+    "indicators": [
+      "Leads pipeline generation",
+      "Defines prospecting strategies",
+      "Mentors junior SDRs"
+    ]
+  },
+  "SDR-L4": {
+    "coreCompetencies": [
+      "Architecture of SDR processes",
+      "Design of prospecting playbooks",
+      "Implementation of predictive lead scoring",
+      "Mastery of enterprise account penetration",
+      "Capacity for strategic prospecting",
+      "Deep knowledge of buyer psychology",
+      "Ability for executive outreach",
+      "Leadership in SDR enablement"
+    ],
+    "complementaryCompetencies": [
+      "Experience in vertical specialization",
+      "Knowledge of technographic data",
+      "Management of SDR technology stack"
+    ],
+    "indicators": [
+      "Defines SDR team strategy",
+      "Leads pipeline initiatives",
+      "Consistent top performer"
+    ]
+  },
+  "SDR-L5": {
+    "coreCompetencies": [
+      "Leadership of SDR teams",
+      "Design of prospecting organizations",
+      "Management of pipeline generation at scale",
+      "Definition of SDR metrics and compensation",
+      "Capacity for territory planning",
+      "Implementation of sales development ops",
+      "Mastery of SDR-AE alignment",
+      "Evangelization of outbound excellence"
+    ],
+    "complementaryCompetencies": [
+      "Experience in global SDR teams",
+      "Knowledge of outsourced SDR management",
+      "Management of SDR enablement"
+    ],
+    "indicators": [
+      "Manages multiple SDR teams",
+      "Defines pipeline generation vision",
+      "Represents SDR to sales"
+    ]
+  },
+  "SDR-L6": {
+    "coreCompetencies": [
+      "Direction of organizational sales development",
+      "Enterprise pipeline generation strategy",
+      "Management of large prospecting budgets",
+      "Definition of go-to-market outbound",
+      "Leadership in SDR transformation",
+      "Implementation of AI-powered prospecting",
+      "Innovation in outreach methods",
+      "Management of global SDR operations"
+    ],
+    "complementaryCompetencies": [
+      "Experience in SDR for enterprise accounts",
+      "Knowledge of channel development",
+      "Leadership in SDR communities"
+    ],
+    "indicators": [
+      "Directs SDR department (20+ people)",
+      "Participates in sales strategy",
+      "Defines prospecting investments"
+    ]
+  },
+  "SDR-L7": {
+    "coreCompetencies": [
+      "Executive leadership in pipeline generation",
+      "Design of global SDR strategies",
+      "Transformation of top-of-funnel",
+      "Management of SDR at unicorn scale",
+      "Creation of advantages via prospecting",
+      "Definition of future of sales development",
+      "Evangelization of SDR at board level",
+      "Influence in sales industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of SDR in hypergrowth",
+      "Experience in SDR for Fortune 500",
+      "Leadership in sales development councils"
+    ],
+    "indicators": [
+      "Reports to CRO/VP Sales",
+      "Manages SDR organization (50+ people)",
+      "Defines corporate pipeline strategy"
+    ]
+  },
+  "SDR-L8": {
+    "coreCompetencies": [
+      "Strategic vision of demand generation",
+      "Leadership in prospecting revolution",
+      "Creation of new SDR paradigms",
+      "Management of massive pipeline generation",
+      "Disruptive innovation in outreach",
+      "Definition of autonomous prospecting",
+      "Evangelization of predictive SDR",
+      "Influence in sales economics"
+    ],
+    "complementaryCompetencies": [
+      "Experience as VP SDR in unicorns",
+      "Advisory in sales tech startups",
+      "Thought leadership in prospecting"
+    ],
+    "indicators": [
+      "Part of sales leadership",
+      "Defines future of pipeline generation",
+      "Recognized leader in SDR"
+    ]
+  },
+  "SDR-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in future of prospecting",
+      "Transformation of sales via SDR innovation",
+      "Creation of revolutionary outreach paradigms",
+      "Definition of telepathic prospecting",
+      "Innovation in human-AI selling",
+      "Evangelization of consciousness selling",
+      "Architect of infinite pipeline",
+      "Influence in evolution of sales"
+    ],
+    "complementaryCompetencies": [
+      "Creator of revolutionary SDR methodologies",
+      "Recognition as father of modern SDR",
+      "Influence in global sales education"
+    ],
+    "indicators": [
+      "Legendary Chief Pipeline Officer",
+      "Defines future of B2B prospecting",
+      "World authority in sales development"
+    ]
+  }
+}

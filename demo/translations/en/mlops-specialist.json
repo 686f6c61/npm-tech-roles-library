@@ -1,0 +1,200 @@
+{
+  "MLOPS-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of MLOps",
+      "Elementary understanding of fundamentals",
+      "Ability to perform simple tasks",
+      "Basic knowledge of tools",
+      "Capability to work under supervision",
+      "Understanding of core concepts",
+      "Basic documentation",
+      "Elementary knowledge of best practices"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with basic frameworks",
+      "Knowledge of standard tools",
+      "Elementary understanding of cloud"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Executes basic tasks with guidance",
+      "Currently learning MLOps"
+    ]
+  },
+  "MLOPS-L2": {
+    "coreCompetencies": [
+      "Ability to implement basic MLOps solutions",
+      "Implementation of standard techniques",
+      "Practical knowledge of frameworks",
+      "Ability to solve typical problems",
+      "Understanding of pipelines",
+      "Capability of basic deployment",
+      "Knowledge of testing",
+      "Ability for documentation"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of emerging technologies",
+      "Ability for integration",
+      "Understanding of automation"
+    ],
+    "indicators": [
+      "Develops MLOps solutions with supervision",
+      "Implements complete features",
+      "Optimizes basic processes"
+    ]
+  },
+  "MLOPS-L3": {
+    "coreCompetencies": [
+      "Design of end-to-end MLOps solutions",
+      "Implementation of complex systems",
+      "Mastery of technology stack",
+      "Ability for advanced optimization",
+      "Ability for architecture",
+      "Deep knowledge of best practices",
+      "Implementation of monitoring",
+      "Ability for mentoring"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of advanced techniques",
+      "Ability for innovation",
+      "Understanding of research"
+    ],
+    "indicators": [
+      "Leads MLOps projects",
+      "Designs complete architectures",
+      "Mentors junior engineers"
+    ]
+  },
+  "MLOPS-L4": {
+    "coreCompetencies": [
+      "Architecture of scalable MLOps platforms",
+      "Design of technical strategies",
+      "Implementation of enterprise systems",
+      "Mastery of optimization at scale",
+      "Ability for technical leadership",
+      "Deep knowledge of advanced patterns",
+      "Ability for strategic planning",
+      "Leadership in transformation"
+    ],
+    "complementaryCompetencies": [
+      "Experience in distributed systems",
+      "Knowledge of cutting-edge technology",
+      "Implementation of innovation"
+    ],
+    "indicators": [
+      "Defines MLOps strategy",
+      "Leads technical teams",
+      "Is a reference in MLOps"
+    ]
+  },
+  "MLOPS-L5": {
+    "coreCompetencies": [
+      "Technical leadership in MLOps",
+      "Design of product strategy",
+      "Team management",
+      "Definition of standards",
+      "Ability for ROI analysis",
+      "Implementation of governance",
+      "Mastery of emerging technology",
+      "Evangelization of culture"
+    ],
+    "complementaryCompetencies": [
+      "Experience in consulting",
+      "Knowledge of business models",
+      "Budget management"
+    ],
+    "indicators": [
+      "Manages MLOps teams",
+      "Defines product vision",
+      "Represents MLOps to stakeholders"
+    ]
+  },
+  "MLOPS-L6": {
+    "coreCompetencies": [
+      "Direction of corporate MLOps strategy",
+      "Platform management at scale",
+      "Definition of enterprise architecture",
+      "Leadership in transformation",
+      "Management of strategic partnerships",
+      "Implementation of responsible practices",
+      "Innovation in solutions",
+      "Compliance management"
+    ],
+    "complementaryCompetencies": [
+      "Experience in M&A",
+      "Knowledge of investment",
+      "Leadership in industry community"
+    ],
+    "indicators": [
+      "Directs MLOps department",
+      "Participates in executive strategy",
+      "Defines MLOps investments"
+    ]
+  },
+  "MLOPS-L7": {
+    "coreCompetencies": [
+      "Executive leadership in MLOps",
+      "Design of global strategies",
+      "Organizational transformation",
+      "Management at Fortune 500 scale",
+      "Creation of organizational culture",
+      "Definition of strategic roadmap",
+      "Evangelization at board level",
+      "Industry influence"
+    ],
+    "complementaryCompetencies": [
+      "Management of multi-million budgets",
+      "Experience in unicorns",
+      "Leadership in standards"
+    ],
+    "indicators": [
+      "Reports to CTO/CEO",
+      "Manages organization (50+ people)",
+      "Defines corporate MLOps strategy"
+    ]
+  },
+  "MLOPS-L8": {
+    "coreCompetencies": [
+      "Enterprise strategic vision of MLOps",
+      "Leadership in transformation",
+      "Creation of competitive advantage",
+      "Management of global ecosystems",
+      "Disruptive innovation",
+      "Definition of future direction",
+      "Evangelization of paradigm shift",
+      "Influence on policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as executive in tech giants",
+      "Advisory in startups",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines future of MLOps",
+      "Is recognized leader in MLOps"
+    ]
+  },
+  "MLOPS-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in MLOps",
+      "Transformation of industries",
+      "Creation of paradigms",
+      "Definition of MLOps as core business",
+      "Innovation in breakthrough applications",
+      "Evangelization of culture",
+      "Architect of global ecosystems",
+      "Influence on regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming industries with MLOps",
+      "Recognition as pioneer",
+      "Influence on future"
+    ],
+    "indicators": [
+      "Is Chief MLOps Specialist Officer",
+      "Defines future of MLOps industry",
+      "Is world authority in MLOps"
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "DS-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de estadística descriptiva e inferencial",
+      "Conocimiento elemental de probabilidad y distribuciones",
+      "Habilidad para análisis exploratorio de datos básico",
+      "Comprensión básica de hypothesis testing",
+      "Capacidad de crear visualizaciones simples",
+      "Conocimiento elemental de correlación y regresión",
+      "Comprensión básica de data cleaning y preprocessing",
+      "Habilidad para usar herramientas estadísticas básicas"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de SQL",
+      "Familiaridad con notebooks y entornos analíticos",
+      "Comprensión elemental de business metrics"
+    ],
+    "indicators": [
+      "Requiere supervisión constante en análisis",
+      "Puede ejecutar análisis predefinidos",
+      "Necesita 6-12 meses de mentoría"
+    ]
+  },
+  "DS-L2": {
+    "coreCompetencies": [
+      "Capacidad de realizar análisis estadístico completo",
+      "Habilidad para construir modelos predictivos básicos",
+      "Conocimiento práctico de feature engineering",
+      "Comprensión de validation techniques y overfitting",
+      "Capacidad de realizar A/B testing y experimentación",
+      "Habilidad para storytelling con datos",
+      "Conocimiento de segmentación y clustering",
+      "Comprensión de time series analysis básico"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de big data tools",
+      "Habilidad para web scraping",
+      "Comprensión de data ethics"
+    ],
+    "indicators": [
+      "Desarrolla modelos con supervisión moderada",
+      "Genera insights accionables básicos",
+      "Comunica resultados efectivamente"
+    ]
+  },
+  "DS-L3": {
+    "coreCompetencies": [
+      "Dominio de machine learning algorithms clásicos",
+      "Capacidad de optimización de modelos y tuning",
+      "Habilidad para análisis causal y inferencia",
+      "Conocimiento profundo de experimental design",
+      "Capacidad de trabajar con datos no estructurados",
+      "Comprensión sólida de dimensionality reduction",
+      "Habilidad para ensemble methods y stacking",
+      "Conocimiento de interpretabilidad de modelos"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de deep learning básico",
+      "Habilidad para NLP básico",
+      "Comprensión de recommender systems"
+    ],
+    "indicators": [
+      "Lidera proyectos analíticos end-to-end",
+      "Mejora métricas de negocio mediante insights",
+      "Propone nuevas metodologías analíticas"
+    ]
+  },
+  "DS-L4": {
+    "coreCompetencies": [
+      "Capacidad de diseñar estrategias analíticas completas",
+      "Dominio de advanced machine learning techniques",
+      "Habilidad para modelado de sistemas complejos",
+      "Conocimiento profundo de optimization algorithms",
+      "Capacidad de implementar deep learning models",
+      "Dominio de statistical inference avanzado",
+      "Habilidad para survival analysis y hazard modeling",
+      "Conocimiento de Bayesian methods y probabilistic programming"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de reinforcement learning",
+      "Habilidad para computer vision",
+      "Comprensión de graph analytics"
+    ],
+    "indicators": [
+      "Define estrategia analítica para productos",
+      "Mentora data scientists junior",
+      "Publica análisis y metodologías"
+    ]
+  },
+  "DS-L5": {
+    "coreCompetencies": [
+      "Expertise en modelado a escala empresarial",
+      "Capacidad de diseñar experimentos complejos",
+      "Dominio de causal inference y econometrics",
+      "Habilidad para simulation y Monte Carlo methods",
+      "Conocimiento profundo de time series forecasting",
+      "Capacidad de implementar AutoML solutions",
+      "Expertise en anomaly detection avanzado",
+      "Dominio de multi-objective optimization"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de quantum algorithms",
+      "Habilidad para federated analytics",
+      "Comprensión de differential privacy"
+    ],
+    "indicators": [
+      "Lidera data science para líneas de negocio",
+      "Define metodologías analíticas corporativas",
+      "Impacta decisiones estratégicas con análisis"
+    ]
+  },
+  "DS-L6": {
+    "coreCompetencies": [
+      "Capacidad de definir estrategia de data science empresarial",
+      "Expertise en advanced analytics y AI",
+      "Dominio de decision science y prescriptive analytics",
+      "Habilidad para construir data products",
+      "Conocimiento profundo de industry-specific modeling",
+      "Capacidad de liderar research aplicado",
+      "Expertise en explainable AI y fairness",
+      "Dominio de advanced experimentation platforms"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de cognitive computing",
+      "Habilidad para synthetic data generation",
+      "Comprensión de edge analytics"
+    ],
+    "indicators": [
+      "Arquitecta soluciones analíticas empresariales",
+      "Lidera transformación data-driven",
+      "Reconocido como experto en el dominio"
+    ]
+  },
+  "DS-L7": {
+    "coreCompetencies": [
+      "Liderazgo en innovación analítica organizacional",
+      "Capacidad de crear competitive advantage mediante analytics",
+      "Expertise en AI strategy y roadmapping",
+      "Dominio de advanced research methods",
+      "Capacidad de definir data science governance",
+      "Conocimiento profundo de analytics economics",
+      "Expertise en building data science teams",
+      "Capacidad de liderar open science initiatives"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de patentar metodologías",
+      "Habilidad para academic collaboration",
+      "Conocimiento de analytics ventures"
+    ],
+    "indicators": [
+      "Define filosofía analítica corporativa",
+      "Speaker en conferencias top-tier",
+      "Influye en prácticas de la industria"
+    ]
+  },
+  "DS-L8": {
+    "coreCompetencies": [
+      "Visión estratégica del futuro de data science",
+      "Capacidad de transformar empresas mediante analytics",
+      "Expertise en data science para strategic advantage",
+      "Dominio de research leadership y innovation",
+      "Capacidad de definir scientific governance",
+      "Conocimiento profundo de data science ethics",
+      "Expertise en academic-industry partnerships",
+      "Capacidad de liderar breakthrough research"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de advisory boards científicos",
+      "Habilidad para spin-offs analíticos",
+      "Conocimiento de research funding"
+    ],
+    "indicators": [
+      "Define estrategia científica corporativa",
+      "Publica en journals top-tier",
+      "Influye en dirección de la disciplina"
+    ]
+  },
+  "DS-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en ciencia de datos",
+      "Capacidad de monetizar analytics como activo",
+      "Expertise en transformación analítica empresarial",
+      "Dominio de presupuestos de research estratégicos",
+      "Capacidad de construir organizaciones científicas",
+      "Conocimiento profundo de IP y patents management",
+      "Expertise en scientific partnerships globales",
+      "Capacidad de definir cultura analítica",
+      "Dominio de innovation mediante ciencia de datos"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar política de datos",
+      "Habilidad para crear institutos de research",
+      "Conocimiento de scientific investments"
+    ],
+    "indicators": [
+      "Define y ejecuta visión científica empresarial",
+      "Responsable de toda la analítica corporativa",
+      "Líder reconocido en data science global"
+    ]
+  }
+}

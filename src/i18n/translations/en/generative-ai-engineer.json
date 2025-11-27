@@ -1,0 +1,258 @@
+{
+  "role": "Generative AI Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "GENAIE-L1": {
+      "level": "L1 - Generative AI Engineer Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of generative AI",
+        "Elementary understanding of fundamentals",
+        "Ability to perform simple tasks",
+        "Basic knowledge of tools",
+        "Ability to work under supervision",
+        "Understanding of core concepts",
+        "Basic documentation",
+        "Elementary knowledge of best practices"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with basic frameworks",
+        "Knowledge of standard tools",
+        "Elementary understanding of cloud"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Executes basic tasks with guidance",
+        "Is learning generative AI"
+      ]
+    },
+    "GENAIE-L2": {
+      "level": "L2 - Junior Generative AI Engineer",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to implement basic generative AI solutions",
+        "Implementation of standard techniques",
+        "Practical knowledge of frameworks",
+        "Ability to solve typical problems",
+        "Understanding of pipelines",
+        "Basic deployment capability",
+        "Knowledge of testing",
+        "Ability to document"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of emerging technologies",
+        "Ability for integration",
+        "Understanding of automation"
+      ],
+      "indicators": [
+        "Develops generative AI solutions with supervision",
+        "Implements complete features",
+        "Optimizes basic processes"
+      ]
+    },
+    "GENAIE-L3": {
+      "level": "L3 - Generative AI Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of end-to-end generative AI solutions",
+        "Implementation of complex systems",
+        "Mastery of technology stack",
+        "Advanced optimization capability",
+        "Ability for architecture",
+        "Deep knowledge of best practices",
+        "Implementation of monitoring",
+        "Mentoring capability"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of advanced techniques",
+        "Ability for innovation",
+        "Understanding of research"
+      ],
+      "indicators": [
+        "Leads generative AI projects",
+        "Designs complete architectures",
+        "Mentors junior engineers"
+      ]
+    },
+    "GENAIE-L4": {
+      "level": "L4 - Senior Generative AI Engineer",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of scalable generative AI platforms",
+        "Design of technical strategies",
+        "Implementation of enterprise systems",
+        "Mastery of optimization at scale",
+        "Technical leadership capability",
+        "Deep knowledge of advanced patterns",
+        "Ability for strategic planning",
+        "Leadership in transformation"
+      ],
+      "complementaryCompetencies": [
+        "Experience in distributed systems",
+        "Knowledge of cutting-edge tech",
+        "Implementation of innovation"
+      ],
+      "indicators": [
+        "Defines generative AI strategy",
+        "Leads technical teams",
+        "Is a reference in generative AI"
+      ]
+    },
+    "GENAIE-L5": {
+      "level": "L5 - Lead Generative AI Engineer",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in generative AI",
+        "Design of product strategy",
+        "Team management",
+        "Definition of standards",
+        "ROI analysis capability",
+        "Implementation of governance",
+        "Mastery of emerging tech",
+        "Evangelization of culture"
+      ],
+      "complementaryCompetencies": [
+        "Experience in consulting",
+        "Knowledge of business models",
+        "Budget management"
+      ],
+      "indicators": [
+        "Manages generative AI teams",
+        "Defines product vision",
+        "Represents generative AI to stakeholders"
+      ]
+    },
+    "GENAIE-L6": {
+      "level": "L6 - Principal Generative AI Engineer",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of corporate generative AI strategy",
+        "Management of platforms at scale",
+        "Definition of enterprise architecture",
+        "Leadership in transformation",
+        "Management of strategic partnerships",
+        "Implementation of responsible practices",
+        "Innovation in solutions",
+        "Compliance management"
+      ],
+      "complementaryCompetencies": [
+        "Experience in M&A",
+        "Knowledge of investment",
+        "Leadership in industry community"
+      ],
+      "indicators": [
+        "Directs generative AI department",
+        "Participates in executive strategy",
+        "Defines investments in generative AI"
+      ]
+    },
+    "GENAIE-L7": {
+      "level": "L7 - Director Generative AI Engineer",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in generative AI",
+        "Design of global strategies",
+        "Organizational transformation",
+        "Management at Fortune 500 scale",
+        "Creation of organizational culture",
+        "Definition of strategic roadmap",
+        "Evangelization at board level",
+        "Industry influence"
+      ],
+      "complementaryCompetencies": [
+        "Management of multi-million dollar budgets",
+        "Experience in unicorns",
+        "Leadership in standards"
+      ],
+      "indicators": [
+        "Reports to CTO/CEO",
+        "Manages organization (50+ people)",
+        "Defines corporate generative AI strategy"
+      ]
+    },
+    "GENAIE-L8": {
+      "level": "L8 - VP Generative AI Engineer",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic business vision of generative AI",
+        "Leadership in transformation",
+        "Creation of competitive advantage",
+        "Management of global ecosystems",
+        "Disruptive innovation",
+        "Definition of future direction",
+        "Evangelization of paradigm shift",
+        "Influence on policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as executive in tech giants",
+        "Advisory in startups",
+        "Thought leadership"
+      ],
+      "indicators": [
+        "Is part of executive committee",
+        "Defines future of generative AI",
+        "Is recognized leader in generative AI"
+      ]
+    },
+    "GENAIE-L9": {
+      "level": "L9 - Chief Generative AI Engineer Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in generative AI",
+        "Transformation of industries",
+        "Creation of paradigms",
+        "Definition of generative AI as core business",
+        "Innovation in breakthrough applications",
+        "Evangelization of culture",
+        "Architect of global ecosystems",
+        "Influence on regulation"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming industries with generative AI",
+        "Recognition as pioneer",
+        "Influence on future"
+      ],
+      "indicators": [
+        "Is Chief Generative AI Engineer Officer",
+        "Defines future of generative AI industry",
+        "Is world authority in generative AI"
+      ]
+    }
+  }
+}

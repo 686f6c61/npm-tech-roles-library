@@ -1,0 +1,200 @@
+{
+  "NE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de networking fundamentals",
+      "Comprensión elemental de modelo OSI/TCP-IP",
+      "Habilidad para configuración de routers básica",
+      "Conocimiento básico de subnetting",
+      "Capacidad de troubleshooting de conectividad",
+      "Comprensión de VLANs básicas",
+      "Documentación de topologías de red",
+      "Conocimiento elemental de seguridad de red"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con switches y routers",
+      "Conocimiento de DHCP/DNS",
+      "Comprensión de wireless básico"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Configura redes simples",
+      "Está aprendiendo network engineering"
+    ]
+  },
+  "NE-L2": {
+    "coreCompetencies": [
+      "Capacidad de diseñar redes departamentales",
+      "Implementación de routing protocols",
+      "Conocimiento práctico de switching avanzado",
+      "Habilidad para VPN configuration",
+      "Comprensión de QoS basics",
+      "Capacidad de network monitoring",
+      "Conocimiento de firewall rules",
+      "Habilidad para bandwidth management"
+    ],
+    "complementaryCompetencies": [
+      "Configuración de load balancers",
+      "Conocimiento de MPLS básico",
+      "Comprensión de IPv6"
+    ],
+    "indicators": [
+      "Diseña redes con supervisión",
+      "Implementa seguridad de red",
+      "Optimiza performance de red"
+    ]
+  },
+  "NE-L3": {
+    "coreCompetencies": [
+      "Diseño de arquitecturas de red empresariales",
+      "Implementación de SD-WAN",
+      "Dominio de network security",
+      "Capacidad de high availability design",
+      "Habilidad para datacenter networking",
+      "Conocimiento profundo de BGP",
+      "Implementación de network automation",
+      "Diseño de disaster recovery networks"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de SDN",
+      "Habilidad para network virtualization",
+      "Comprensión de cloud networking"
+    ],
+    "indicators": [
+      "Lidera proyectos de red",
+      "Diseña infraestructura crítica",
+      "Mentoriza network engineers"
+    ]
+  },
+  "NE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de redes a gran escala",
+      "Diseño de multi-datacenter networks",
+      "Implementación de zero-trust networking",
+      "Dominio de network optimization",
+      "Capacidad de global load balancing",
+      "Conocimiento profundo de CDN design",
+      "Habilidad para network forensics",
+      "Liderazgo en network innovation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en ISP networks",
+      "Conocimiento de submarine cables",
+      "Implementación de 5G networks"
+    ],
+    "indicators": [
+      "Define arquitectura de red empresarial",
+      "Lidera equipos de networking",
+      "Es referente en infraestructura de red"
+    ]
+  },
+  "NE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en network infrastructure",
+      "Diseño de estrategias de conectividad",
+      "Gestión de equipos de network engineering",
+      "Definición de network architecture roadmaps",
+      "Capacidad de network transformation",
+      "Implementación de intent-based networking",
+      "Dominio de network economics",
+      "Evangelización de connectivity excellence"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en carrier networks",
+      "Conocimiento de network slicing",
+      "Gestión de peering agreements"
+    ],
+    "indicators": [
+      "Gestiona equipos de networking",
+      "Define visión de conectividad",
+      "Representa networking ante ejecutivos"
+    ]
+  },
+  "NE-L6": {
+    "coreCompetencies": [
+      "Dirección de network engineering organizacional",
+      "Estrategia de infraestructura de red global",
+      "Gestión de inversiones en networking",
+      "Definición de connectivity strategy",
+      "Liderazgo en network transformation",
+      "Implementación de autonomous networks",
+      "Innovación en networking paradigms",
+      "Gestión de partnerships con carriers"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en hyperscale networking",
+      "Conocimiento de quantum networking",
+      "Liderazgo en networking standards"
+    ],
+    "indicators": [
+      "Dirige departamento de networking (20+ personas)",
+      "Participa en infraestructura strategy",
+      "Define inversiones en conectividad"
+    ]
+  },
+  "NE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en network infrastructure",
+      "Diseño de estrategias de red globales",
+      "Transformación de conectividad empresarial",
+      "Gestión de networks a escala Fortune 500",
+      "Creación de nuevos paradigmas de networking",
+      "Definición de futuro de conectividad",
+      "Evangelización networking a nivel board",
+      "Influencia en industria de telecomunicaciones"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de backbone networks",
+      "Experiencia en network providers",
+      "Liderazgo en internet governance"
+    ],
+    "indicators": [
+      "Reporta a CTO/CIO",
+      "Gestiona organización de networking (50+ personas)",
+      "Define estrategia de conectividad corporativa"
+    ]
+  },
+  "NE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de hiperconectividad global",
+      "Liderazgo en revolución de networking",
+      "Creación de paradigmas de omnipresent networking",
+      "Gestión de infraestructura planetaria",
+      "Innovación disruptiva en quantum networks",
+      "Definición de conscious networking",
+      "Evangelización de connectivity singularity",
+      "Influencia en políticas de internet global"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como network architect en tier-1",
+      "Advisory en networking funds",
+      "Thought leadership en conectividad"
+    ],
+    "indicators": [
+      "Es parte del comité de infraestructura",
+      "Define futuro de networking",
+      "Es líder mundial en conectividad"
+    ]
+  },
+  "NE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de interconexión universal",
+      "Transformación de comunicación global",
+      "Creación de paradigmas de telepathic networking",
+      "Definición de instantaneous connectivity",
+      "Innovación en biological networking",
+      "Evangelización de universal mesh",
+      "Arquitecto de nervious system planetario",
+      "Influencia en evolución de comunicación"
+    ],
+    "complementaryCompetencies": [
+      "Creador de protocolos revolucionarios",
+      "Reconocimiento como padre del networking moderno",
+      "Influencia en futuro de internet"
+    ],
+    "indicators": [
+      "Es Chief Network Officer legendario",
+      "Define futuro de conectividad",
+      "Es autoridad mundial en networking"
+    ]
+  }
+}

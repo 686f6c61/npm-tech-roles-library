@@ -1,0 +1,201 @@
+{
+  "DAR-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de modelado de datos",
+      "Conocimiento elemental de arquitecturas de datos",
+      "Habilidad para diagramas básicos",
+      "Comprensión básica de integración",
+      "Capacidad de documentar modelos",
+      "Conocimiento elemental de governance",
+      "Comprensión básica de metadata",
+      "Habilidad para análisis de requisitos"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de herramientas",
+      "Familiaridad con estándares",
+      "Comprensión elemental de procesos"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Puede asistir en diseño",
+      "Necesita 1-2 años experiencia"
+    ]
+  },
+  "DAR-L2": {
+    "coreCompetencies": [
+      "Capacidad de diseñar modelos de datos",
+      "Habilidad para integración básica",
+      "Conocimiento práctico de MDM",
+      "Comprensión de data quality",
+      "Capacidad de definir schemas",
+      "Habilidad para lineage básico",
+      "Conocimiento de security",
+      "Comprensión de compliance"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de cloud architectures",
+      "Habilidad para APIs",
+      "Comprensión de microservices"
+    ],
+    "indicators": [
+      "Diseña con supervisión",
+      "Implementa modelos básicos",
+      "Mantiene documentación"
+    ]
+  },
+  "DAR-L3": {
+    "coreCompetencies": [
+      "Dominio de arquitecturas empresariales",
+      "Capacidad de diseñar ecosistemas",
+      "Habilidad para modernización",
+      "Conocimiento profundo de patterns",
+      "Capacidad de governance frameworks",
+      "Comprensión sólida de regulations",
+      "Habilidad para data mesh",
+      "Conocimiento de economics"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de AI/ML architectures",
+      "Habilidad para real-time",
+      "Comprensión de IoT"
+    ],
+    "indicators": [
+      "Diseña arquitecturas complejas",
+      "Lidera proyectos de arquitectura",
+      "Define estándares"
+    ]
+  },
+  "DAR-L4": {
+    "coreCompetencies": [
+      "Capacidad de estrategia de arquitectura",
+      "Dominio de transformation",
+      "Habilidad para global architectures",
+      "Conocimiento profundo de emerging tech",
+      "Capacidad de liderar equipos",
+      "Dominio de innovation",
+      "Habilidad para partnerships",
+      "Conocimiento de value creation"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de quantum architectures",
+      "Habilidad para blockchain",
+      "Comprensión de edge"
+    ],
+    "indicators": [
+      "Define estrategia arquitectural",
+      "Lidera transformaciones",
+      "Mentora arquitectos"
+    ]
+  },
+  "DAR-L5": {
+    "coreCompetencies": [
+      "Expertise en arquitecturas globales",
+      "Capacidad de platform thinking",
+      "Dominio de democratization",
+      "Habilidad para centers of excellence",
+      "Conocimiento profundo de business value",
+      "Capacidad de definir cultura",
+      "Expertise en alliances",
+      "Dominio de thought leadership"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de future architectures",
+      "Habilidad para disruption",
+      "Comprensión de paradigm shifts"
+    ],
+    "indicators": [
+      "Arquitecta plataformas empresariales",
+      "Lidera organizaciones",
+      "Define roadmap arquitectural"
+    ]
+  },
+  "DAR-L6": {
+    "coreCompetencies": [
+      "Capacidad de definir visión arquitectural",
+      "Expertise en innovation",
+      "Dominio de global strategy",
+      "Habilidad para ecosystem design",
+      "Conocimiento profundo de trends",
+      "Capacidad de industry influence",
+      "Expertise en value chains",
+      "Dominio de impact"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de civilization-scale",
+      "Habilidad para cosmic architectures",
+      "Comprensión de quantum reality"
+    ],
+    "indicators": [
+      "Define visión corporativa",
+      "Lidera transformación global",
+      "Influencia industria"
+    ]
+  },
+  "DAR-L7": {
+    "coreCompetencies": [
+      "Liderazgo en evolución arquitectural",
+      "Capacidad de gestión global",
+      "Expertise en transformation",
+      "Dominio de governance",
+      "Capacidad de definir filosofía",
+      "Conocimiento profundo de competitive edge",
+      "Expertise en strategic architecture",
+      "Capacidad de liderar revolución"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de crear standards",
+      "Habilidad para architecture ventures",
+      "Conocimiento de investments"
+    ],
+    "indicators": [
+      "Define estrategia ejecutiva",
+      "Representa empresa",
+      "Thought leader global"
+    ]
+  },
+  "DAR-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de arquitectura",
+      "Capacidad de arquitectura como core",
+      "Expertise en transformación total",
+      "Dominio de gestión C-level",
+      "Capacidad de empire building",
+      "Conocimiento profundo de architectural value",
+      "Expertise en global alliances",
+      "Capacidad de industry shaping"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar gobiernos",
+      "Habilidad para architectural M&A",
+      "Conocimiento de dominance"
+    ],
+    "indicators": [
+      "Responsable de toda arquitectura de datos",
+      "Define futuro arquitectural",
+      "Líder reconocido"
+    ]
+  },
+  "DAR-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en arquitectura",
+      "Capacidad de arquitectura como ventaja definitiva",
+      "Expertise en transformación de industrias",
+      "Dominio de architectural governance",
+      "Capacidad de crear nuevos paradigmas",
+      "Conocimiento profundo de civilizational impact",
+      "Expertise en reality architecture",
+      "Capacidad de definir existencia digital",
+      "Dominio de transcendence"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de arquitectar realidades",
+      "Habilidad para dimensional design",
+      "Conocimiento de post-singularity architecture"
+    ],
+    "indicators": [
+      "Máximo responsable arquitectural",
+      "Define futuro de arquitectura de datos",
+      "Líder global en data architecture"
+    ]
+  }
+}

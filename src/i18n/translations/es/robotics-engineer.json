@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Robótica",
+  "category": "IA/ML",
+  "levels": {
+    "RBE-L1": {
+      "level": "L1 - Aprendiz de Robótica",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de robótica",
+        "Comprensión elemental de cinemática",
+        "Habilidad para programación de robots simple",
+        "Conocimiento básico de sensores y actuadores",
+        "Capacidad de control básico",
+        "Comprensión de fundamentos de sistemas operativos robóticos",
+        "Documentación de sistemas robóticos",
+        "Conocimiento elemental de mecatrónica"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con robótica basada en plataformas de desarrollo",
+        "Conocimiento de simuladores básicos",
+        "Comprensión de control de pinzas"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Programa robots simples",
+        "Está aprendiendo ingeniería robótica"
+      ]
+    },
+    "RBE-L2": {
+      "level": "L2 - Ingeniero Junior de Robótica",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar algoritmos de control",
+        "Implementación de planificación de rutas básica",
+        "Conocimiento práctico de dinámica",
+        "Habilidad para fusión de sensores",
+        "Comprensión de localización",
+        "Capacidad de manipulación básica",
+        "Conocimiento de visión robótica",
+        "Habilidad para robótica colaborativa"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo de robots móviles",
+        "Conocimiento de robótica industrial",
+        "Comprensión de fundamentos de enjambres"
+      ],
+      "indicators": [
+        "Desarrolla aplicaciones robóticas con supervisión",
+        "Implementa comportamientos de robot",
+        "Integra sensores y actuadores"
+      ]
+    },
+    "RBE-L3": {
+      "level": "L3 - Ingeniero de Robótica",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de sistemas robóticos completos",
+        "Implementación de localización y mapeo simultáneos avanzados",
+        "Dominio de planificación de movimiento",
+        "Capacidad de aprendizaje por refuerzo para robots",
+        "Habilidad para interacción humano-robot",
+        "Conocimiento profundo de teoría de control",
+        "Implementación de navegación autónoma",
+        "Diseño de sistemas multi-robot"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de robótica blanda",
+        "Habilidad para prótesis y exoesqueletos",
+        "Comprensión de autonomía de drones"
+      ],
+      "indicators": [
+        "Lidera proyectos de robótica",
+        "Diseña robots autónomos",
+        "Mentoriza ingenieros de robótica"
+      ]
+    },
+    "RBE-L4": {
+      "level": "L4 - Ingeniero Senior de Robótica",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas robóticas",
+        "Diseño de inteligencia de enjambre",
+        "Implementación de robótica cognitiva",
+        "Dominio de robótica bioinspirada",
+        "Capacidad de control de cuerpo completo",
+        "Conocimiento profundo de control óptimo",
+        "Habilidad para aprendizaje por demostración",
+        "Liderazgo en investigación robótica"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en robótica quirúrgica",
+        "Conocimiento de robótica espacial",
+        "Implementación de robots sociales"
+      ],
+      "indicators": [
+        "Define estrategia de robótica",
+        "Lidera equipos de robótica",
+        "Es referente en sistemas autónomos"
+      ]
+    },
+    "RBE-L5": {
+      "level": "L5 - Ingeniero Líder de Robótica",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en robótica",
+        "Diseño de programas de robótica empresariales",
+        "Gestión de equipos de ingeniería robótica",
+        "Definición de estrategia de automatización",
+        "Capacidad de producción de robots",
+        "Implementación de flotas de robots",
+        "Dominio de estándares de seguridad",
+        "Evangelización de automatización inteligente"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en robótica agrícola",
+        "Conocimiento de robótica submarina",
+        "Gestión de alianzas en robótica"
+      ],
+      "indicators": [
+        "Gestiona equipos de robótica",
+        "Define visión de automatización física",
+        "Representa robótica ante ejecutivos"
+      ]
+    },
+    "RBE-L6": {
+      "level": "L6 - Ingeniero Principal de Robótica",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de robótica organizacional",
+        "Estrategia de sistemas autónomos",
+        "Gestión de inversiones en investigación y desarrollo de robótica",
+        "Definición de estrategia de inteligencia artificial física",
+        "Liderazgo en transformación robótica",
+        "Implementación de robots auto-evolutivos",
+        "Innovación en paradigmas robóticos",
+        "Gestión de robótica global"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en robótica militar",
+        "Conocimiento de regulación en robótica",
+        "Liderazgo en estándares de robótica"
+      ],
+      "indicators": [
+        "Dirige departamento de robótica (20+ personas)",
+        "Participa en estrategia de automatización",
+        "Define inversiones en robótica"
+      ]
+    },
+    "RBE-L7": {
+      "level": "L7 - Director de Robótica",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en robótica inteligente",
+        "Diseño de estrategias de robótica globales",
+        "Transformación mediante sistemas autónomos",
+        "Gestión de robótica a escala Fortune 500",
+        "Creación de nuevos paradigmas robóticos",
+        "Definición de futuro de inteligencia artificial física",
+        "Evangelización de robótica a nivel de junta directiva",
+        "Influencia en industria 4.0"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de robótica en manufactura",
+        "Experiencia en empresas emergentes de robótica",
+        "Liderazgo en alianzas robóticas"
+      ],
+      "indicators": [
+        "Reporta a director técnico",
+        "Gestiona organización de robótica (50+ personas)",
+        "Define estrategia de automatización física"
+      ]
+    },
+    "RBE-L8": {
+      "level": "L8 - Vicepresidente de Robótica",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de sociedad robótica",
+        "Liderazgo en revolución robótica",
+        "Creación de paradigmas de robots conscientes",
+        "Gestión de robótica planetaria",
+        "Innovación disruptiva en máquinas vivientes",
+        "Definición de evolución robótica",
+        "Evangelización de singularidad robótica",
+        "Influencia en futuro del trabajo físico"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de robótica en gigantes tecnológicos",
+        "Asesoría en fondos de robótica",
+        "Liderazgo de pensamiento en inteligencia artificial física"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define futuro de robótica",
+        "Es líder mundial en sistemas autónomos"
+      ]
+    },
+    "RBE-L9": {
+      "level": "L9 - Director de Robótica",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de inteligencia física",
+        "Transformación de mundo mediante robótica",
+        "Creación de paradigmas de vida artificial",
+        "Definición de consciencia robótica",
+        "Innovación en robótica biológica",
+        "Evangelización de simbiosis robot-humano",
+        "Arquitecto de civilización robótica",
+        "Influencia en evolución de inteligencia encarnada"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones robóticas",
+        "Reconocimiento como padre de robótica moderna",
+        "Influencia en futuro de automatización física"
+      ],
+      "indicators": [
+        "Es director de robótica legendario",
+        "Define futuro de robots",
+        "Es autoridad mundial en inteligencia física"
+      ]
+    }
+  }
+}

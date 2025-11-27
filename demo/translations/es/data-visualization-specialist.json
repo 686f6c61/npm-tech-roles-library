@@ -1,0 +1,201 @@
+{
+  "DVS-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de principios de visualización",
+      "Conocimiento elemental de herramientas de viz",
+      "Habilidad para crear gráficos básicos",
+      "Comprensión básica de teoría del color",
+      "Capacidad de usar templates",
+      "Conocimiento elemental de storytelling visual",
+      "Comprensión básica de dashboards",
+      "Habilidad para documentar visualizaciones"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de diseño",
+      "Familiaridad con datos",
+      "Comprensión elemental de UX"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Puede crear visualizaciones simples",
+      "Necesita 6-12 meses de mentoría"
+    ]
+  },
+  "DVS-L2": {
+    "coreCompetencies": [
+      "Capacidad de crear dashboards interactivos",
+      "Habilidad para elegir charts apropiados",
+      "Conocimiento práctico de herramientas profesionales",
+      "Comprensión de best practices",
+      "Capacidad de data preparation para viz",
+      "Habilidad para responsive design",
+      "Conocimiento de accesibilidad",
+      "Comprensión de performance optimization"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de D3.js básico",
+      "Habilidad para infografías",
+      "Comprensión de motion graphics"
+    ],
+    "indicators": [
+      "Crea visualizaciones con supervisión",
+      "Mantiene dashboards corporativos",
+      "Aplica mejores prácticas"
+    ]
+  },
+  "DVS-L3": {
+    "coreCompetencies": [
+      "Dominio de múltiples herramientas de viz",
+      "Capacidad de visualizaciones complejas",
+      "Habilidad para custom visualizations",
+      "Conocimiento profundo de percepción visual",
+      "Capacidad de real-time visualizations",
+      "Comprensión sólida de data art",
+      "Habilidad para geospatial viz",
+      "Conocimiento de AR/VR viz"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de creative coding",
+      "Habilidad para data journalism",
+      "Comprensión de scientific viz"
+    ],
+    "indicators": [
+      "Diseña sistemas de visualización",
+      "Lidera proyectos de viz",
+      "Innova en representación visual"
+    ]
+  },
+  "DVS-L4": {
+    "coreCompetencies": [
+      "Capacidad de definir estrategia de viz",
+      "Dominio de enterprise visualization",
+      "Habilidad para viz platforms",
+      "Conocimiento profundo de cognitive load",
+      "Capacidad de liderar equipos de viz",
+      "Dominio de viz governance",
+      "Habilidad para viz consulting",
+      "Conocimiento de viz economics"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de AI-powered viz",
+      "Habilidad para immersive viz",
+      "Comprensión de haptic viz"
+    ],
+    "indicators": [
+      "Define estándares de visualización",
+      "Lidera transformación visual",
+      "Mentora especialistas"
+    ]
+  },
+  "DVS-L5": {
+    "coreCompetencies": [
+      "Expertise en plataformas de viz empresariales",
+      "Capacidad de democratización visual",
+      "Dominio de self-service viz",
+      "Habilidad para viz innovation labs",
+      "Conocimiento profundo de human-data interaction",
+      "Capacidad de definir cultura visual",
+      "Expertise en viz partnerships",
+      "Dominio de viz research"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de brain-computer viz",
+      "Habilidad para holographic viz",
+      "Comprensión de quantum viz"
+    ],
+    "indicators": [
+      "Arquitecta ecosistemas de viz",
+      "Lidera organizaciones de viz",
+      "Define roadmap visual"
+    ]
+  },
+  "DVS-L6": {
+    "coreCompetencies": [
+      "Capacidad de definir visión de viz",
+      "Expertise en viz innovation",
+      "Dominio de global viz strategy",
+      "Habilidad para viz ecosystem building",
+      "Conocimiento profundo de viz futures",
+      "Capacidad de thought leadership",
+      "Expertise en viz value creation",
+      "Dominio de viz impact"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de neural viz",
+      "Habilidad para telepathic viz",
+      "Comprensión de dimensional viz"
+    ],
+    "indicators": [
+      "Define visión de viz corporativa",
+      "Lidera transformación visual global",
+      "Influencia industria de viz"
+    ]
+  },
+  "DVS-L7": {
+    "coreCompetencies": [
+      "Liderazgo en evolución de viz",
+      "Capacidad de gestión global de viz",
+      "Expertise en viz transformation",
+      "Dominio de viz governance",
+      "Capacidad de definir cultura data-visual",
+      "Conocimiento profundo de competitive viz",
+      "Expertise en strategic visualization",
+      "Capacidad de liderar innovación"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar percepción",
+      "Habilidad para viz ventures",
+      "Conocimiento de viz investments"
+    ],
+    "indicators": [
+      "Define estrategia viz ejecutiva",
+      "Representa empresa en viz",
+      "Thought leader en visualización"
+    ]
+  },
+  "DVS-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de viz empresarial",
+      "Capacidad de viz como diferenciador",
+      "Expertise en transformación mediante viz",
+      "Dominio de gestión ejecutiva",
+      "Capacidad de construir organizaciones",
+      "Conocimiento profundo de perception value",
+      "Expertise en viz alliances",
+      "Capacidad de definir cultura"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar industria",
+      "Habilidad para viz M&A",
+      "Conocimiento de viz platforms"
+    ],
+    "indicators": [
+      "Responsable de toda visualización",
+      "Define futuro visual empresarial",
+      "Líder reconocido en viz"
+    ]
+  },
+  "DVS-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en visualización",
+      "Capacidad de viz como ventaja competitiva",
+      "Expertise en transformación perceptual",
+      "Dominio de governance visual",
+      "Capacidad de crear nuevos paradigmas",
+      "Conocimiento profundo de human cognition",
+      "Expertise en reality augmentation",
+      "Capacidad de definir percepción",
+      "Dominio de consciousness interface"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de crear nuevas realidades",
+      "Habilidad para transformar percepción",
+      "Conocimiento de post-visual futures"
+    ],
+    "indicators": [
+      "Máximo responsable de visualización",
+      "Define futuro de percepción de datos",
+      "Líder global en data visualization"
+    ]
+  }
+}

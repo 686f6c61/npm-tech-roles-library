@@ -1,0 +1,200 @@
+{
+  "TPM-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of software architecture",
+      "Elementary understanding of APIs and microservices",
+      "Ability to write technical requirements",
+      "Basic knowledge of cloud computing",
+      "Capability of communication with developers",
+      "Understanding of SDLC",
+      "Basic technical documentation",
+      "Elementary knowledge of databases"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with technical diagrams",
+      "Basic knowledge of DevOps",
+      "Understanding of security basics"
+    ],
+    "indicators": [
+      "Requires supervision in technical decisions",
+      "Supports technical specifications",
+      "Learning technical product management"
+    ]
+  },
+  "TPM-L2": {
+    "coreCompetencies": [
+      "Ability to define product architectures",
+      "Implementation of technical roadmaps",
+      "Practical knowledge of system design",
+      "Ability for API design",
+      "Understanding of scalability patterns",
+      "Ability for technical trade-offs",
+      "Knowledge of performance metrics",
+      "Ability for technical debt management"
+    ],
+    "complementaryCompetencies": [
+      "Management of platform products",
+      "Knowledge of integration patterns",
+      "Understanding of SaaS architecture"
+    ],
+    "indicators": [
+      "Manages technical products with supervision",
+      "Defines technical specs independently",
+      "Collaborates effectively with architects"
+    ]
+  },
+  "TPM-L3": {
+    "coreCompetencies": [
+      "Design of complex platform products",
+      "Implementation of developer experience strategies",
+      "Mastery of technical requirements",
+      "Ability for architectural decisions",
+      "Ability for API product management",
+      "Deep knowledge of infrastructure",
+      "Implementation of technical partnerships",
+      "Management of B2D products"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of open source strategy",
+      "Ability for SDK design",
+      "Understanding of developer ecosystems"
+    ],
+    "indicators": [
+      "Leads complex technical products",
+      "Defines platform strategy",
+      "Mentors junior TPMs"
+    ]
+  },
+  "TPM-L4": {
+    "coreCompetencies": [
+      "Architecture of enterprise products",
+      "Design of platform strategies",
+      "Implementation of developer platforms",
+      "Mastery of technical ecosystems",
+      "Ability for infrastructure products",
+      "Deep knowledge of enterprise architecture",
+      "Ability for technical M&A",
+      "Leadership in platform transformation"
+    ],
+    "complementaryCompetencies": [
+      "Experience in API economy",
+      "Knowledge of cloud-native products",
+      "Management of infrastructure products"
+    ],
+    "indicators": [
+      "Defines technical product strategy",
+      "Leads platform products",
+      "Influences enterprise architecture"
+    ]
+  },
+  "TPM-L5": {
+    "coreCompetencies": [
+      "Leadership of technical product management",
+      "Design of platform organizations",
+      "Management of technical portfolios",
+      "Definition of developer strategy",
+      "Ability for platform economics",
+      "Implementation of internal platforms",
+      "Mastery of technical partnerships",
+      "Evangelization of platform thinking"
+    ],
+    "complementaryCompetencies": [
+      "Experience in platform transformation",
+      "Knowledge of infrastructure products",
+      "Management of technical ecosystems"
+    ],
+    "indicators": [
+      "Manages multiple TPMs",
+      "Defines enterprise platform vision",
+      "Represents technical products to CTOs"
+    ]
+  },
+  "TPM-L6": {
+    "coreCompetencies": [
+      "Leadership of corporate technical products",
+      "Strategy of enterprise platforms",
+      "Management of large infrastructure investments",
+      "Definition of developer experience strategy",
+      "Leadership in platform revolution",
+      "Implementation of platform as product",
+      "Innovation in technical products",
+      "Management of global ecosystems"
+    ],
+    "complementaryCompetencies": [
+      "Experience in critical infrastructure products",
+      "Knowledge of platform regulations",
+      "Leadership in technical communities"
+    ],
+    "indicators": [
+      "Leads platform product management (20+ people)",
+      "Participates in technical strategy",
+      "Defines platform investments"
+    ]
+  },
+  "TPM-L7": {
+    "coreCompetencies": [
+      "Executive leadership in technical products",
+      "Design of global platform strategies",
+      "Enterprise transformation via platforms",
+      "Management of technical products at unicorn scale",
+      "Creation of technological moats",
+      "Definition of future of platform products",
+      "Evangelization of technical at board level",
+      "Influence in platform industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of hyperscale platforms",
+      "Experience in infrastructure unicorns",
+      "Leadership in technical standards"
+    ],
+    "indicators": [
+      "Reports to CTO/CPO",
+      "Manages platform organization (50+ people)",
+      "Defines corporate technical strategy"
+    ]
+  },
+  "TPM-L8": {
+    "coreCompetencies": [
+      "Strategic vision of platforms as core business",
+      "Leadership in infrastructure revolution",
+      "Creation of new platform paradigms",
+      "Management of massive technical ecosystems",
+      "Disruptive innovation in platform thinking",
+      "Definition of autonomous platforms",
+      "Evangelization of platform-first",
+      "Influence in platform economy"
+    ],
+    "complementaryCompetencies": [
+      "Experience as VP Platform in FAANG",
+      "Advisory in infrastructure startups",
+      "Thought leadership in platforms"
+    ],
+    "indicators": [
+      "Part of technical leadership",
+      "Defines future of platforms",
+      "Recognized leader in platform products"
+    ]
+  },
+  "TPM-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in future of platforms",
+      "Transformation of industries via infrastructure",
+      "Creation of new computing paradigms",
+      "Definition of conscious platforms",
+      "Innovation in human-platform symbiosis",
+      "Evangelization of platform consciousness",
+      "Architect of planetary infrastructures",
+      "Influence in evolution of computing"
+    ],
+    "complementaryCompetencies": [
+      "Creator of platform revolutions",
+      "Recognition as architect of ecosystems",
+      "Influence in future of infrastructure"
+    ],
+    "indicators": [
+      "Legendary Chief Platform Officer",
+      "Defines future of tech infrastructure",
+      "World authority in platform products"
+    ]
+  }
+}

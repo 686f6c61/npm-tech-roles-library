@@ -1,0 +1,266 @@
+{
+  "role": "Ingeniero de Aseguramiento de Calidad",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "QA-L1": {
+      "level": "L1 - Ingeniero en Formación",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de ciclo de vida del software y tipos de pruebas",
+        "Conocimiento elemental de casos de prueba y escenarios",
+        "Habilidad para ejecutar pruebas manuales siguiendo guiones",
+        "Comprensión básica de reporte de defectos y severidades",
+        "Capacidad de documentar resultados de pruebas",
+        "Conocimiento elemental de herramientas de gestión de defectos",
+        "Comprensión básica de entornos de pruebas (desarrollo, preparación, producción)",
+        "Habilidad para realizar pruebas exploratorias simples"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de HTML y navegadores web",
+        "Familiaridad con metodologías ágiles",
+        "Comprensión elemental de bases de datos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en actividades de aseguramiento de calidad",
+        "Puede ejecutar casos de prueba documentados con orientación",
+        "Necesita de 3 a 6 meses de mentoría en pruebas"
+      ]
+    },
+    "QA-L2": {
+      "level": "L2 - Ingeniero Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de escribir casos de prueba detallados y exhaustivos",
+        "Habilidad para realizar pruebas funcionales completas",
+        "Conocimiento práctico de pruebas de regresión",
+        "Comprensión de pruebas de integración y sistema",
+        "Capacidad de usar herramientas de automatización básicas",
+        "Habilidad para realizar pruebas de interfaz de programación con herramientas",
+        "Conocimiento de pruebas multinavegador y multidispositivo",
+        "Comprensión de lenguaje de consulta estructurado para validación de datos",
+        "Capacidad de participar en sesiones de refinamiento"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de programación de guiones",
+        "Habilidad para realizar pruebas de usabilidad",
+        "Comprensión de accesibilidad básica"
+      ],
+      "indicators": [
+        "Puede planificar y ejecutar pruebas con supervisión moderada",
+        "Identifica y reporta defectos de manera efectiva",
+        "Colabora activamente con desarrolladores"
+      ]
+    },
+    "QA-L3": {
+      "level": "L3 - Ingeniero Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de automatización de pruebas con marcos de trabajo populares",
+        "Capacidad de diseñar estrategias de prueba para funcionalidades",
+        "Habilidad para realizar pruebas de rendimiento básicas",
+        "Conocimiento profundo de pruebas de seguridad básicas",
+        "Capacidad de implementar pruebas automatizadas de interfaces de programación",
+        "Comprensión sólida de integración continua y entrega continua con pruebas en tuberías",
+        "Habilidad para realizar análisis de causa raíz",
+        "Conocimiento de pruebas de compatibilidad y localización",
+        "Capacidad de estimar esfuerzo de pruebas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de pruebas móviles",
+        "Habilidad para usar herramientas de virtualización",
+        "Comprensión de pruebas de accesibilidad según estándares internacionales"
+      ],
+      "indicators": [
+        "Automatiza casos de prueba de manera independiente",
+        "Identifica riesgos de calidad proactivamente",
+        "Contribuye a mejoras del proceso de aseguramiento de calidad"
+      ]
+    },
+    "QA-L4": {
+      "level": "L4 - Ingeniero Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar marcos de automatización desde cero",
+        "Dominio de pruebas de rendimiento y pruebas de carga",
+        "Habilidad para implementar pruebas de extremo a extremo complejas",
+        "Conocimiento profundo de pruebas en arquitecturas distribuidas",
+        "Capacidad de implementar pruebas de contrato y pruebas dirigidas por consumidor",
+        "Dominio de pruebas de seguridad según estándares y penetración básica",
+        "Habilidad para diseñar estrategias de prueba para microservicios",
+        "Conocimiento de pruebas de caos y pruebas de resiliencia",
+        "Capacidad de implementar pruebas de regresión visual"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de pruebas de inteligencia artificial y aprendizaje automático",
+        "Habilidad para pruebas de internet de las cosas",
+        "Comprensión de pruebas de cadena de bloques"
+      ],
+      "indicators": [
+        "Lidera estrategia de pruebas para proyectos medianos",
+        "Define estándares de automatización del equipo",
+        "Mentoriza a ingenieros junior efectivamente"
+      ]
+    },
+    "QA-L5": {
+      "level": "L5 - Ingeniero Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en arquitectura de pruebas para sistemas complejos",
+        "Capacidad de implementar pruebas como servicio",
+        "Dominio de ingeniería de rendimiento y optimización",
+        "Habilidad para diseñar pruebas de recuperación ante desastres",
+        "Conocimiento profundo de pruebas de seguridad avanzadas",
+        "Capacidad de implementar monitorización sintética",
+        "Experiencia en gestión y generación de datos de prueba",
+        "Dominio de pruebas de accesibilidad exhaustivas",
+        "Capacidad de implementar pruebas basadas en aprendizaje automático"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de pruebas de computación cuántica",
+        "Habilidad para pruebas de realidad virtual",
+        "Comprensión de pruebas de cumplimiento normativo"
+      ],
+      "indicators": [
+        "Diseña estrategias de aseguramiento de calidad para productos completos",
+        "Lidera iniciativas de mejora de calidad",
+        "Define métricas e indicadores clave de rendimiento de calidad"
+      ]
+    },
+    "QA-L6": {
+      "level": "L6 - Ingeniero Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar estrategias de calidad empresariales",
+        "Experiencia en pruebas continuas y pruebas anticipadas",
+        "Dominio de pruebas basadas en riesgo y priorización",
+        "Habilidad para implementar puertas de calidad automatizadas",
+        "Conocimiento profundo de cumplimiento normativo y regulaciones",
+        "Capacidad de diseñar observabilidad para pruebas",
+        "Experiencia en pruebas de producción y análisis gradual",
+        "Dominio de optimización de costes en pruebas",
+        "Capacidad de implementar operaciones de inteligencia artificial para calidad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de pruebas para sistemas autónomos",
+        "Habilidad para diseñar pruebas de inteligencia artificial ética",
+        "Comprensión de pruebas sostenibles"
+      ],
+      "indicators": [
+        "Arquitecta calidad para portafolios de productos",
+        "Lidera transformación de calidad organizacional",
+        "Define estrategia de pruebas a largo plazo"
+      ]
+    },
+    "QA-L7": {
+      "level": "L7 - Ingeniero Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en cultura de calidad organizacional",
+        "Capacidad de diseñar ecosistemas de calidad",
+        "Experiencia en ingeniería de calidad versus aseguramiento de calidad",
+        "Dominio de análisis predictivo de calidad",
+        "Capacidad de implementar estrategias de cero defectos",
+        "Conocimiento profundo de calidad centrada en el cliente",
+        "Experiencia en estrategias de pruebas globales",
+        "Capacidad de diseñar calidad para escala",
+        "Dominio de innovación en herramientas de pruebas"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en estándares internacionales",
+        "Habilidad para crear marcos de trabajo de código abierto",
+        "Conocimiento de construcción de empresas de calidad"
+      ],
+      "indicators": [
+        "Define filosofía de calidad empresarial",
+        "Lidera comunidades de pruebas globales",
+        "Reconocido líder de pensamiento en calidad"
+      ]
+    },
+    "QA-L8": {
+      "level": "L8 - Ingeniero Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para el futuro de las pruebas",
+        "Capacidad de transformar calidad en ventaja competitiva",
+        "Experiencia en diligencia debida de calidad para fusiones y adquisiciones",
+        "Dominio de construcción de centros de excelencia en aseguramiento de calidad",
+        "Capacidad de definir gobernanza de calidad corporativa",
+        "Conocimiento profundo de retorno de inversión de calidad",
+        "Experiencia en alianzas con proveedores de pruebas",
+        "Capacidad de liderar innovación en automatización",
+        "Dominio de métricas de calidad para juntas directivas"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar metodologías de pruebas",
+        "Habilidad para crear empresas de aseguramiento de calidad",
+        "Conocimiento de inversión en tecnología de calidad"
+      ],
+      "indicators": [
+        "Define estrategia de calidad multianual",
+        "Representa la empresa en foros de calidad",
+        "Influye en dirección de la industria"
+      ]
+    },
+    "QA-L9": {
+      "level": "L9 - Vicepresidente o Director de Calidad",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en calidad y excelencia operacional",
+        "Capacidad de alinear calidad con objetivos de negocio",
+        "Experiencia en transformación de calidad empresarial",
+        "Dominio de presupuestos de calidad y retorno de inversión",
+        "Capacidad de construir organizaciones de aseguramiento de calidad globales",
+        "Conocimiento profundo de gestión de riesgos mediante calidad",
+        "Experiencia en satisfacción del cliente mediante calidad",
+        "Capacidad de definir cultura de calidad",
+        "Dominio de calidad como diferenciador de mercado"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar regulaciones de calidad",
+        "Habilidad para crear ecosistemas de calidad",
+        "Conocimiento de inversiones en calidad"
+      ],
+      "indicators": [
+        "Define y ejecuta visión de calidad empresarial",
+        "Responsable de métricas de calidad corporativas",
+        "Líder reconocido en calidad de software global"
+      ]
+    }
+  }
+}

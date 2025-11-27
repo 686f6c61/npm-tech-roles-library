@@ -1,0 +1,200 @@
+{
+  "SOE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of security operations",
+      "Elementary understanding of SIEM",
+      "Ability to monitor basic alerts",
+      "Basic knowledge of incident handling",
+      "Capacity for triage with supervision",
+      "Understanding of security events",
+      "Incident documentation",
+      "Elementary knowledge of forensics"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with security tools",
+      "Basic knowledge of networking",
+      "Elementary understanding of malware"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Monitors basic alerts",
+      "Is learning SecOps"
+    ]
+  },
+  "SOE-L2": {
+    "coreCompetencies": [
+      "Ability to respond to incidents",
+      "Implementation of security monitoring",
+      "Practical knowledge of SIEM/SOAR",
+      "Ability for basic threat hunting",
+      "Understanding of log analysis",
+      "Capacity for containment",
+      "Knowledge of playbooks",
+      "Ability for escalation"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of EDR tools",
+      "Ability for scripting",
+      "Understanding of threat intelligence"
+    ],
+    "indicators": [
+      "Responds to incidents with supervision",
+      "Executes playbooks",
+      "Contributes to threat hunting"
+    ]
+  },
+  "SOE-L3": {
+    "coreCompetencies": [
+      "Design of security monitoring",
+      "Implementation of detection rules",
+      "Mastery of incident response",
+      "Ability for threat hunting",
+      "Ability for forensic analysis",
+      "Deep knowledge of attack patterns",
+      "Implementation of SOAR workflows",
+      "Capacity for security metrics"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of malware analysis",
+      "Ability for threat intelligence",
+      "Understanding of CTI"
+    ],
+    "indicators": [
+      "Leads incident response",
+      "Designs detection logic",
+      "Mentors SecOps junior"
+    ]
+  },
+  "SOE-L4": {
+    "coreCompetencies": [
+      "Architecture of SOC operations",
+      "Design of incident response strategy",
+      "Implementation of threat hunting programs",
+      "Mastery of advanced forensics",
+      "Capacity for security orchestration",
+      "Deep knowledge of APT tactics",
+      "Ability for crisis management",
+      "Leadership in security incidents"
+    ],
+    "complementaryCompetencies": [
+      "Experience in major breaches",
+      "Knowledge of threat actors",
+      "Implementation of automation"
+    ],
+    "indicators": [
+      "Defines SOC strategy",
+      "Leads major incidents",
+      "Is reference in SecOps"
+    ]
+  },
+  "SOE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in security operations",
+      "Design of SOC platforms",
+      "Management of SOC teams",
+      "Definition of incident response procedures",
+      "Capacity for threat intelligence programs",
+      "Implementation of security automation",
+      "Mastery of metrics and KPIs",
+      "Evangelization of security awareness"
+    ],
+    "complementaryCompetencies": [
+      "Experience in 24/7 operations",
+      "Knowledge of MSSP",
+      "Management of tools budget"
+    ],
+    "indicators": [
+      "Manages SOC team",
+      "Defines SecOps vision",
+      "Represents SOC to executives"
+    ]
+  },
+  "SOE-L6": {
+    "coreCompetencies": [
+      "Direction of SOC strategy",
+      "Management of security operations at scale",
+      "Definition of SOC architecture",
+      "Leadership in SOC transformation",
+      "Management of major security incidents",
+      "Implementation of global SOC",
+      "Innovation in detection",
+      "Management of threat intelligence"
+    ],
+    "complementaryCompetencies": [
+      "Experience in SOC design",
+      "Knowledge of security investment",
+      "Leadership in SecOps community"
+    ],
+    "indicators": [
+      "Directs SOC department",
+      "Participates in executive strategy",
+      "Defines SOC investments"
+    ]
+  },
+  "SOE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in security operations",
+      "Design of global SOC strategies",
+      "Transformation of incident response",
+      "Management at Fortune 500 scale",
+      "Creation of security operations culture",
+      "Definition of SOC roadmap",
+      "Evangelization at board level",
+      "Influence on security operations"
+    ],
+    "complementaryCompetencies": [
+      "Management of multi-million SOC budgets",
+      "Experience in global SOCs",
+      "Leadership in security community"
+    ],
+    "indicators": [
+      "Reports to CISO",
+      "Manages SOC organization (30+ people)",
+      "Defines SecOps strategy"
+    ]
+  },
+  "SOE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of security operations",
+      "Leadership in SOC transformation",
+      "Creation of detection advantage",
+      "Management of SOC ecosystems",
+      "Innovation in threat hunting",
+      "Definition of next-gen SOC",
+      "Evangelization of proactive security",
+      "Influence on security policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience in security giants",
+      "Advisory in SecOps startups",
+      "Thought leadership in SOC"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines SOC strategy",
+      "Is recognized leader in SecOps"
+    ]
+  },
+  "SOE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in security operations",
+      "Transformation of detection and response",
+      "Creation of SOC paradigms",
+      "Definition of proactive security",
+      "Innovation in threat detection",
+      "Evangelization of security vigilance",
+      "Architect of SOC ecosystems",
+      "Influence on security operations"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming SOC in Fortune 100",
+      "Recognition as SOC leader",
+      "Influence on security standards"
+    ],
+    "indicators": [
+      "Is Chief Security Operations Officer",
+      "Defines future of SOC",
+      "Is world authority in security operations"
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "BDE-L1": {
+    "coreCompetencies": [
+      "Basic understanding of Hadoop ecosystem",
+      "Elementary knowledge of distributed processing",
+      "Ability to use basic tools",
+      "Basic understanding of NoSQL",
+      "Capability to process medium-sized datasets",
+      "Elementary knowledge of MapReduce",
+      "Basic understanding of data lakes",
+      "Ability to document pipelines"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of Spark",
+      "Familiarity with cloud storage",
+      "Elementary understanding of streaming"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Can execute simple jobs",
+      "Needs 6-12 months of mentoring"
+    ]
+  },
+  "BDE-L2": {
+    "coreCompetencies": [
+      "Ability to develop Spark pipelines",
+      "Skill in basic optimization",
+      "Practical knowledge of Kafka",
+      "Understanding of partitioning strategies",
+      "Capability for data ingestion",
+      "Ability for batch processing",
+      "Knowledge of data formats",
+      "Understanding of cluster management"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of Flink",
+      "Ability with Storm",
+      "Understanding of Cassandra"
+    ],
+    "indicators": [
+      "Develops pipelines with supervision",
+      "Maintains basic clusters",
+      "Optimizes simple jobs"
+    ]
+  },
+  "BDE-L3": {
+    "coreCompetencies": [
+      "Mastery of lambda/kappa architectures",
+      "Ability for real-time processing",
+      "Skill in advanced optimization",
+      "Deep knowledge of distributed systems",
+      "Capability for data governance",
+      "Solid understanding of security",
+      "Ability for multi-tenancy",
+      "Knowledge of cost optimization"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of graph processing",
+      "Ability for ML pipelines",
+      "Understanding of edge analytics"
+    ],
+    "indicators": [
+      "Designs big data architectures",
+      "Leads data migrations",
+      "Optimizes enterprise clusters"
+    ]
+  },
+  "BDE-L4": {
+    "coreCompetencies": [
+      "Ability to architect platforms",
+      "Mastery of petabyte-scale systems",
+      "Skill for global data lakes",
+      "Deep knowledge of streaming architectures",
+      "Capability to lead teams",
+      "Mastery of data mesh",
+      "Ability for vendor evaluation",
+      "Knowledge of hybrid architectures"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of quantum data",
+      "Ability for federated learning",
+      "Understanding of confidential computing"
+    ],
+    "indicators": [
+      "Defines big data strategy",
+      "Leads data transformations",
+      "Mentors engineers"
+    ]
+  },
+  "BDE-L5": {
+    "coreCompetencies": [
+      "Expertise in enterprise platforms",
+      "Ability for big data transformation",
+      "Mastery of data democratization",
+      "Skill for innovation labs",
+      "Deep knowledge of economics",
+      "Capability to define data culture",
+      "Expertise in partnerships",
+      "Mastery of R&D"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of exascale computing",
+      "Ability for neuromorphic data",
+      "Understanding of DNA storage"
+    ],
+    "indicators": [
+      "Architects data ecosystems",
+      "Leads big data organizations",
+      "Defines data roadmap"
+    ]
+  },
+  "BDE-L6": {
+    "coreCompetencies": [
+      "Ability to define data vision",
+      "Expertise in data innovation",
+      "Mastery of global strategy",
+      "Skill for ecosystem building",
+      "Deep knowledge of data futures",
+      "Capability for thought leadership",
+      "Expertise in value creation",
+      "Mastery of data impact"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of cosmic data",
+      "Ability for quantum entanglement",
+      "Understanding of multiverse data"
+    ],
+    "indicators": [
+      "Defines corporate data vision",
+      "Leads global transformation",
+      "Influences data industry"
+    ]
+  },
+  "BDE-L7": {
+    "coreCompetencies": [
+      "Leadership in data evolution",
+      "Ability for global management",
+      "Expertise in transformation",
+      "Mastery of governance",
+      "Capability to define culture",
+      "Deep knowledge of competitive advantage",
+      "Expertise in strategic data",
+      "Ability to lead innovation"
+    ],
+    "complementaryCompetencies": [
+      "Ability to influence standards",
+      "Skill for data ventures",
+      "Knowledge of data investments"
+    ],
+    "indicators": [
+      "Defines executive strategy",
+      "Represents company in big data",
+      "Thought leader in massive data"
+    ]
+  },
+  "BDE-L8": {
+    "coreCompetencies": [
+      "Strategic enterprise vision",
+      "Ability to position data as core",
+      "Expertise in total transformation",
+      "Mastery of executive management",
+      "Ability to build organizations",
+      "Deep knowledge of data value",
+      "Expertise in alliances",
+      "Ability to define culture"
+    ],
+    "complementaryCompetencies": [
+      "Ability to influence industry",
+      "Skill for M&A",
+      "Knowledge of data monopolies"
+    ],
+    "indicators": [
+      "Responsible for entire data platform",
+      "Defines future of data",
+      "Globally recognized leader"
+    ]
+  },
+  "BDE-L9": {
+    "coreCompetencies": [
+      "Executive leadership in data",
+      "Ability to position data as business model",
+      "Expertise in data-driven transformation",
+      "Mastery of data governance",
+      "Ability to create data empires",
+      "Deep knowledge of network effects",
+      "Expertise in data monetization",
+      "Ability to define industries",
+      "Mastery of data dominance"
+    ],
+    "complementaryCompetencies": [
+      "Ability to create data economies",
+      "Skill for data sovereignty",
+      "Knowledge of data as currency"
+    ],
+    "indicators": [
+      "Top responsible for data platform",
+      "Defines future of data economy",
+      "Global leader in big data"
+    ]
+  }
+}

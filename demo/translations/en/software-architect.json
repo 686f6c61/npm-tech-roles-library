@@ -1,0 +1,201 @@
+{
+  "SA-L1": {
+    "coreCompetencies": [
+      "Basic understanding of common architectural patterns (MVC, layered, client-server)",
+      "Elementary knowledge of UML diagrams and technical documentation",
+      "Ability to identify components and their basic relationships",
+      "Basic understanding of non-functional requirements",
+      "Ability to participate in design sessions with supervision",
+      "Elementary knowledge of architectural trade-offs",
+      "Basic understanding of design principles (SOLID, DRY, KISS)",
+      "Ability to document simple design decisions"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of cloud computing",
+      "Familiarity with modeling tools",
+      "Elementary understanding of integration patterns"
+    ],
+    "indicators": [
+      "Requires constant supervision in architectural decisions",
+      "Can document existing architectures",
+      "Needs 1-2 years of previous development experience"
+    ]
+  },
+  "SA-L2": {
+    "coreCompetencies": [
+      "Ability to design architectures for medium-sized applications",
+      "Skill in evaluating and selecting appropriate technologies",
+      "Practical knowledge of enterprise design patterns",
+      "Understanding of microservices and monolithic architectures",
+      "Ability to define interfaces and contracts between systems",
+      "Skill in conducting architectural proof of concepts",
+      "Knowledge of scalability and performance principles",
+      "Understanding of basic architectural security"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of event-driven architectures",
+      "Skill in technical cost estimation",
+      "Understanding of DevOps and CI/CD"
+    ],
+    "indicators": [
+      "Designs architectures with moderate supervision",
+      "Actively participates in technical decisions",
+      "Can lead design of specific components"
+    ]
+  },
+  "SA-L3": {
+    "coreCompetencies": [
+      "Mastery of multiple architectural styles and their application",
+      "Ability to design resilient distributed systems",
+      "Skill in defining migration and modernization strategies",
+      "Deep knowledge of enterprise integration patterns",
+      "Ability to conduct architecture reviews and assessments",
+      "Solid understanding of domain-driven design",
+      "Skill in balancing technical and business requirements",
+      "Knowledge of multi-tenant and SaaS architectures"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of serverless architectures",
+      "Skill in designing data pipelines",
+      "Understanding of IoT architectures"
+    ],
+    "indicators": [
+      "Designs end-to-end architectures independently",
+      "Leads architectural decisions for the team",
+      "Mentors developers in architectural aspects"
+    ]
+  },
+  "SA-L4": {
+    "coreCompetencies": [
+      "Ability to define complex enterprise architectures",
+      "Mastery of cloud-native and hybrid cloud architectures",
+      "Skill in designing mission-critical systems",
+      "Deep knowledge of enterprise integration patterns",
+      "Ability to define architectural governance",
+      "Expertise in high-availability and disaster recovery architectures",
+      "Mastery of monolith decomposition strategies",
+      "Ability to lead Architecture Review Boards"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of architectures for ML/AI",
+      "Skill in designing blockchain solutions",
+      "Understanding of quantum computing readiness"
+    ],
+    "indicators": [
+      "Defines architecture for complete product lines",
+      "Leads architectural transformations",
+      "Influences organizational architectural standards"
+    ]
+  },
+  "SA-L5": {
+    "coreCompetencies": [
+      "Expertise in architectures for digital ecosystems",
+      "Ability to design enterprise technology platforms",
+      "Mastery of federated and mesh architectures",
+      "Skill in defining corporate reference architectures",
+      "Deep knowledge of zero-trust architectures",
+      "Ability to lead architectural centers of excellence",
+      "Expertise in architectures for digital transformation",
+      "Mastery of technology radar and trend evaluation"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of metaverse architectures",
+      "Skill in designing edge architectures",
+      "Understanding of green IT architecture"
+    ],
+    "indicators": [
+      "Architects multi-product and multi-region solutions",
+      "Defines corporate architectural principles",
+      "Recognized as a thought leader in architecture"
+    ]
+  },
+  "SA-L6": {
+    "coreCompetencies": [
+      "Ability to define enterprise architectural strategy",
+      "Expertise in architectures for mergers and acquisitions",
+      "Mastery of architectures for regulated industries",
+      "Skill in designing business-critical architectures",
+      "Deep knowledge of architectural economics and TCO",
+      "Ability to influence corporate technology roadmaps",
+      "Expertise in architectures for global scale",
+      "Mastery of innovation labs and architectural R&D"
+    ],
+    "complementaryCompetencies": [
+      "Ability to patent innovative architectures",
+      "Skill for technical advisory boards",
+      "Knowledge of disruptive architectures"
+    ],
+    "indicators": [
+      "Defines multi-year architectural vision",
+      "Represents the company at architectural forums",
+      "Mentor to senior architects"
+    ]
+  },
+  "SA-L7": {
+    "coreCompetencies": [
+      "Leadership in defining industry-leading architectures",
+      "Ability to design architectures for unicorn companies",
+      "Expertise in architectures for industry transformation",
+      "Mastery of adaptive and evolutionary architectures",
+      "Ability to define architectural methodologies",
+      "Deep knowledge of architectural impact on P&L",
+      "Expertise in architectures for sustainability",
+      "Ability to lead global architectural communities"
+    ],
+    "complementaryCompetencies": [
+      "Ability to influence ISO/IEEE standards",
+      "Skill in creating architectural frameworks",
+      "Knowledge of futuristic architectures"
+    ],
+    "indicators": [
+      "Defines architectures that impact the industry",
+      "Keynote speaker at global conferences",
+      "Author of books/papers on architecture"
+    ]
+  },
+  "SA-L8": {
+    "coreCompetencies": [
+      "Strategic vision for global enterprise architecture",
+      "Ability to align architecture with corporate strategy",
+      "Expertise in executive architectural governance",
+      "Mastery of complex architectural portfolios",
+      "Ability to build architectural organizations",
+      "Deep knowledge of enterprise architectural risk",
+      "Expertise in architectural ecosystems and partnerships",
+      "Ability to define organizational architectural culture"
+    ],
+    "complementaryCompetencies": [
+      "Ability to influence technical regulations",
+      "Skill in architectural M&A",
+      "Knowledge of geopolitical architectures"
+    ],
+    "indicators": [
+      "Responsible for all corporate architecture",
+      "Reports directly to C-suite",
+      "Influences industry architectures"
+    ]
+  },
+  "SA-L9": {
+    "coreCompetencies": [
+      "Executive leadership in architecture and technology",
+      "Ability to transform enterprises through architecture",
+      "Expertise in architecture as competitive advantage",
+      "Mastery of strategic architectural budgets",
+      "Ability to define disruptive technology vision",
+      "Deep knowledge of architecture and market value",
+      "Expertise in architectures for IPO and exits",
+      "Ability to lead global architectural transformation",
+      "Mastery of architecture and business strategy"
+    ],
+    "complementaryCompetencies": [
+      "Ability to build companies based on architecture",
+      "Skill in technology architecture investment",
+      "Knowledge of architectures for new markets"
+    ],
+    "indicators": [
+      "Defines and executes enterprise architectural vision",
+      "Responsible for corporate architectural value",
+      "Recognized leader in global enterprise architecture"
+    ]
+  }
+}

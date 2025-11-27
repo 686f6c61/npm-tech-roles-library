@@ -1,0 +1,200 @@
+{
+  "GPM-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de growth",
+      "Comprensión elemental de metrics",
+      "Habilidad para análisis básico",
+      "Conocimiento de funnel analysis",
+      "Capacidad de A/B testing con guía",
+      "Comprensión de user acquisition",
+      "Documentación de experiments",
+      "Conocimiento elemental de retention"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con analytics tools",
+      "Conocimiento de SQL básico",
+      "Comprensión elemental de virality"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Ejecuta experiments simples",
+      "Está aprendiendo growth"
+    ]
+  },
+  "GPM-L2": {
+    "coreCompetencies": [
+      "Capacidad de diseñar growth experiments",
+      "Implementación de A/B tests",
+      "Conocimiento práctico de analytics",
+      "Habilidad para funnel optimization",
+      "Comprensión de activation",
+      "Capacidad de retention strategies",
+      "Conocimiento de referral programs",
+      "Habilidad para hypothesis testing"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de growth tools",
+      "Habilidad para user research",
+      "Comprensión de viral mechanics"
+    ],
+    "indicators": [
+      "Ejecuta growth initiatives con supervisión",
+      "Analiza metrics",
+      "Optimiza funnels"
+    ]
+  },
+  "GPM-L3": {
+    "coreCompetencies": [
+      "Diseño de growth strategies",
+      "Implementación de growth loops",
+      "Dominio de experimentation",
+      "Capacidad de multi-variate testing",
+      "Habilidad para growth modeling",
+      "Conocimiento profundo de acquisition channels",
+      "Implementación de referral engines",
+      "Capacidad de cross-functional leadership"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de PLG",
+      "Habilidad para monetization",
+      "Comprensión de market expansion"
+    ],
+    "indicators": [
+      "Lidera growth initiatives",
+      "Diseña experimentos complejos",
+      "Mentoriza en growth"
+    ]
+  },
+  "GPM-L4": {
+    "coreCompetencies": [
+      "Arquitectura de growth programs",
+      "Diseño de PLG strategy",
+      "Implementación de growth at scale",
+      "Dominio de north star metrics",
+      "Capacidad de market expansion",
+      "Conocimiento profundo de monetization",
+      "Habilidad para international growth",
+      "Liderazgo en growth culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en viral growth",
+      "Conocimiento de network effects",
+      "Implementación de growth infrastructure"
+    ],
+    "indicators": [
+      "Define estrategia growth",
+      "Lidera growth teams",
+      "Es referente en PLG"
+    ]
+  },
+  "GPM-L5": {
+    "coreCompetencies": [
+      "Liderazgo en growth product",
+      "Diseño de growth ecosystems",
+      "Gestión de growth teams",
+      "Definición de growth metrics",
+      "Capacidad de experimentation platforms",
+      "Implementación de growth operations",
+      "Dominio de scaling strategies",
+      "Evangelización de growth mindset"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en hypergrowth",
+      "Conocimiento de growth economics",
+      "Gestión de growth budget"
+    ],
+    "indicators": [
+      "Gestiona equipo growth",
+      "Define visión PLG",
+      "Representa growth ante ejecutivos"
+    ]
+  },
+  "GPM-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia growth",
+      "Gestión de growth programs",
+      "Definición de PLG architecture",
+      "Liderazgo en transformation",
+      "Gestión de international expansion",
+      "Implementación de global growth",
+      "Innovación en growth mechanics",
+      "Gestión de monetization"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en growth M&A",
+      "Conocimiento de market strategy",
+      "Liderazgo en growth community"
+    ],
+    "indicators": [
+      "Dirige departamento growth",
+      "Participa en estrategia",
+      "Define inversiones growth"
+    ]
+  },
+  "GPM-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en growth",
+      "Diseño de estrategias globales",
+      "Transformación via PLG",
+      "Gestión a escala unicornio",
+      "Creación de growth culture",
+      "Definición de expansion roadmap",
+      "Evangelización a nivel board",
+      "Influencia en growth industry"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de growth budgets multi-millonarios",
+      "Experiencia en unicorns",
+      "Liderazgo en PLG"
+    ],
+    "indicators": [
+      "Reporta a CPO/CEO",
+      "Gestiona organización growth (30+ personas)",
+      "Define estrategia growth"
+    ]
+  },
+  "GPM-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de growth",
+      "Liderazgo en PLG revolution",
+      "Creación de viral advantage",
+      "Gestión de growth ecosystems",
+      "Innovación en growth loops",
+      "Definición de compounding growth",
+      "Evangelización de product-led",
+      "Influencia en market strategy"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en hypergrowth companies",
+      "Advisory en growth",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia growth",
+      "Es líder reconocido"
+    ]
+  },
+  "GPM-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en growth",
+      "Transformación de acquisition",
+      "Creación de paradigmas PLG",
+      "Definición de growth-native organizations",
+      "Innovación en viral mechanics",
+      "Evangelización de compounding growth",
+      "Arquitecto de growth ecosystems",
+      "Influencia en growth strategy"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando growth",
+      "Reconocimiento como growth pioneer",
+      "Influencia en PLG"
+    ],
+    "indicators": [
+      "Es Chief Growth Officer",
+      "Define futuro growth",
+      "Es autoridad mundial"
+    ]
+  }
+}

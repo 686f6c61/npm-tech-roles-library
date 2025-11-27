@@ -1,0 +1,258 @@
+{
+  "role": "Probador de Penetración",
+  "category": "Seguridad",
+  "levels": {
+    "PT-L1": {
+      "level": "N1 - Aprendiz de Pruebas de Penetración",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de piratería ética",
+        "Comprensión elemental de vulnerabilidades",
+        "Habilidad para usar herramientas básicas",
+        "Conocimiento básico de reconocimiento",
+        "Capacidad de explotar vulnerabilidades simples con guía",
+        "Comprensión de elaboración de informes",
+        "Documentación de hallazgos",
+        "Conocimiento elemental de remediación"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con distribuciones de Linux para seguridad",
+        "Conocimiento básico de marcos de explotación",
+        "Comprensión elemental de programación de scripts"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta pruebas básicas",
+        "Está aprendiendo pruebas de penetración"
+      ]
+    },
+    "PT-L2": {
+      "level": "N2 - Probador Junior de Penetración",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de ejecutar pruebas de penetración completas",
+        "Implementación de reconocimiento avanzado",
+        "Conocimiento práctico de explotación",
+        "Habilidad para escalada de privilegios",
+        "Comprensión de posexplotación",
+        "Capacidad de reportar hallazgos",
+        "Conocimiento de pruebas de proyecto de seguridad de aplicaciones web abiertas",
+        "Habilidad para pruebas de penetración de redes"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de marcos de metodología (estándar de ejecución de pruebas de penetración, metodología estándar de evaluación de seguridad de código abierto)",
+        "Habilidad para programación de scripts",
+        "Comprensión de seguridad inalámbrica"
+      ],
+      "indicators": [
+        "Ejecuta pruebas de penetración con supervisión",
+        "Identifica vulnerabilidades críticas",
+        "Escribe informes técnicos"
+      ]
+    },
+    "PT-L3": {
+      "level": "N3 - Probador de Penetración",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de metodologías de pruebas de penetración",
+        "Implementación de explotación avanzada",
+        "Dominio de operaciones de equipo rojo",
+        "Capacidad de simulación de adversario",
+        "Habilidad para desarrollo de exploits personalizados",
+        "Conocimiento profundo de técnicas de evasión",
+        "Implementación de ingeniería social",
+        "Capacidad de elaboración de informes ejecutivos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de análisis de código malicioso",
+        "Habilidad para desarrollo de herramientas",
+        "Comprensión de inteligencia de amenazas"
+      ],
+      "indicators": [
+        "Lidera pruebas de penetración complejas",
+        "Desarrolla exploits personalizados",
+        "Mentoriza probadores junior"
+      ]
+    },
+    "PT-L4": {
+      "level": "N4 - Probador Senior de Penetración",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de programas de pruebas de penetración",
+        "Diseño de estrategia de equipo rojo",
+        "Implementación de equipos de pruebas conjuntas",
+        "Dominio de amenazas persistentes avanzadas",
+        "Capacidad de pruebas de penetración de alcance completo",
+        "Conocimiento profundo de investigación de vulnerabilidades y exposiciones comunes",
+        "Habilidad para explotación de vulnerabilidades de día cero",
+        "Liderazgo en evaluaciones de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en recompensas por errores",
+        "Conocimiento de investigación de vulnerabilidades",
+        "Implementación de automatización"
+      ],
+      "indicators": [
+        "Define estrategia de pruebas de penetración",
+        "Lidera equipo rojo",
+        "Es referente en piratería ética"
+      ]
+    },
+    "PT-L5": {
+      "level": "N5 - Líder de Pruebas de Penetración",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en seguridad ofensiva",
+        "Diseño de operaciones de equipo rojo",
+        "Gestión de equipos de pruebas de penetración",
+        "Definición de metodologías de pruebas",
+        "Capacidad de planificación de campañas",
+        "Implementación de ejercicios de equipos conjuntos",
+        "Dominio de emulación de amenazas",
+        "Evangelización de concienciación sobre seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en simulación de amenazas persistentes avanzadas",
+        "Conocimiento de actores de amenazas",
+        "Gestión de presupuesto de herramientas"
+      ],
+      "indicators": [
+        "Gestiona equipo rojo",
+        "Define visión de seguridad ofensiva",
+        "Representa pruebas de penetración ante ejecutivos"
+      ]
+    },
+    "PT-L6": {
+      "level": "N6 - Arquitecto Principal de Seguridad Ofensiva",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia de seguridad ofensiva",
+        "Gestión de operaciones de equipo rojo a escala",
+        "Definición de programas de emulación de adversarios",
+        "Liderazgo en validación de seguridad",
+        "Gestión de programas de recompensas por errores",
+        "Implementación de pruebas de penetración continuas",
+        "Innovación en técnicas de ataque",
+        "Gestión de investigación de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en atribución de amenazas persistentes avanzadas",
+        "Conocimiento de investigación y desarrollo de seguridad",
+        "Liderazgo en comunidad de seguridad"
+      ],
+      "indicators": [
+        "Dirige departamento de seguridad ofensiva",
+        "Participa en estrategia",
+        "Define inversiones en pruebas de penetración"
+      ]
+    },
+    "PT-L7": {
+      "level": "N7 - Director de Seguridad Ofensiva",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en seguridad ofensiva",
+        "Diseño de estrategias globales de equipo rojo",
+        "Transformación de validación de seguridad",
+        "Gestión a escala Fortune 500",
+        "Creación de cultura centrada en adversario",
+        "Definición de hoja de ruta ofensiva",
+        "Evangelización a nivel de junta directiva",
+        "Influencia en pruebas de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos ofensivos",
+        "Experiencia en empresas unicornio de seguridad",
+        "Liderazgo en comunidad de piratería"
+      ],
+      "indicators": [
+        "Reporta a Director de Seguridad de la Información",
+        "Gestiona organización de equipo rojo (15 o más personas)",
+        "Define estrategia ofensiva"
+      ]
+    },
+    "PT-L8": {
+      "level": "N8 - Vicepresidente de Seguridad Ofensiva",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de seguridad ofensiva",
+        "Liderazgo en validación de seguridad",
+        "Creación de defensa informada por amenazas",
+        "Gestión de ecosistemas ofensivos",
+        "Innovación en técnicas de ataque",
+        "Definición de equipos rojos de próxima generación",
+        "Evangelización de asunción de vulneración",
+        "Influencia en políticas de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en gigantes de seguridad",
+        "Asesoría en empresas emergentes ofensivas",
+        "Liderazgo de pensamiento en pruebas de penetración"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia ofensiva",
+        "Es líder reconocido"
+      ]
+    },
+    "PT-L9": {
+      "level": "N9 - Director Principal de Seguridad Ofensiva",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en seguridad ofensiva",
+        "Transformación de pruebas de seguridad",
+        "Creación de paradigmas de equipos rojos",
+        "Definición de seguridad centrada en adversario",
+        "Innovación en explotación",
+        "Evangelización de validación continua",
+        "Arquitecto de programas ofensivos",
+        "Influencia en estándares de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando validación de seguridad",
+        "Reconocimiento como líder ofensivo",
+        "Influencia en cultura de piratería"
+      ],
+      "indicators": [
+        "Es Director Principal de Seguridad Ofensiva",
+        "Define futuro de pruebas de penetración",
+        "Es autoridad mundial"
+      ]
+    }
+  }
+}

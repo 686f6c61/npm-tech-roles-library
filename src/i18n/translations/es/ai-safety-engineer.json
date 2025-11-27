@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Seguridad en IA",
+  "category": "IA/ML",
+  "levels": {
+    "AISAFE-L1": {
+      "level": "L1 - Ingeniero de Seguridad en IA en Formación",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de seguridad en IA",
+        "Comprensión elemental de alineación de IA",
+        "Habilidad para identificar riesgos básicos",
+        "Conocimiento básico de sesgos en IA",
+        "Capacidad de pruebas de seguridad con supervisión",
+        "Comprensión de equidad",
+        "Documentación de problemas de seguridad",
+        "Conocimiento elemental de ética en IA"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con marcos de evaluación",
+        "Conocimiento básico de pruebas adversarias",
+        "Comprensión elemental de interpretabilidad"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Identifica riesgos básicos",
+        "Está aprendiendo seguridad en IA"
+      ]
+    },
+    "AISAFE-L2": {
+      "level": "L2 - Ingeniero de Seguridad en IA Junior",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de evaluar modelos por seguridad",
+        "Implementación de detección de sesgos",
+        "Conocimiento práctico de robustez adversaria",
+        "Habilidad para equipo rojo en IA",
+        "Comprensión de referencias de seguridad",
+        "Capacidad de estrategias de mitigación",
+        "Conocimiento de técnicas de alineación",
+        "Habilidad para documentación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de métodos de interpretabilidad",
+        "Habilidad para pruebas de seguridad",
+        "Comprensión de regulaciones de IA"
+      ],
+      "indicators": [
+        "Evalúa seguridad con supervisión",
+        "Implementa mitigaciones",
+        "Documenta riesgos"
+      ]
+    },
+    "AISAFE-L3": {
+      "level": "L3 - Ingeniero de Seguridad en IA",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de marcos de evaluación de seguridad",
+        "Implementación de estrategias de alineación",
+        "Dominio de pruebas adversarias",
+        "Capacidad de mitigación de sesgos",
+        "Habilidad para monitorización de seguridad",
+        "Conocimiento profundo de riesgos en IA",
+        "Implementación de barreras de seguridad",
+        "Capacidad de comunicación con partes interesadas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de investigación en interpretabilidad",
+        "Habilidad para investigación en seguridad",
+        "Comprensión de seguridad en inteligencia artificial general"
+      ],
+      "indicators": [
+        "Lidera evaluaciones de seguridad",
+        "Diseña sistemas de seguridad",
+        "Mentoriza en seguridad en IA"
+      ]
+    },
+    "AISAFE-L4": {
+      "level": "L4 - Ingeniero de Seguridad en IA Senior",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de programas de seguridad en IA",
+        "Diseño de estrategias de alineación",
+        "Implementación de seguridad a escala",
+        "Dominio de técnicas avanzadas de seguridad",
+        "Capacidad de gobernanza de seguridad",
+        "Conocimiento profundo de riesgos existenciales",
+        "Habilidad para investigación en seguridad",
+        "Liderazgo en ética de IA"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en investigación de seguridad en IA",
+        "Conocimiento de estándares de seguridad",
+        "Implementación de cultura de seguridad"
+      ],
+      "indicators": [
+        "Define estrategia de seguridad en IA",
+        "Lidera investigación en seguridad",
+        "Es referente en seguridad en IA"
+      ]
+    },
+    "AISAFE-L5": {
+      "level": "L5 - Ingeniero de Seguridad en IA Líder",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en seguridad en IA",
+        "Diseño de ecosistemas de seguridad",
+        "Gestión de equipos de seguridad",
+        "Definición de estándares de seguridad",
+        "Capacidad de evaluación de riesgos",
+        "Implementación de gobernanza de seguridad",
+        "Dominio de investigación en alineación",
+        "Evangelización de IA responsable"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en política de seguridad",
+        "Conocimiento de gobernanza de IA",
+        "Gestión de presupuesto de seguridad"
+      ],
+      "indicators": [
+        "Gestiona equipo de seguridad",
+        "Define visión de seguridad en IA",
+        "Representa seguridad ante ejecutivos"
+      ]
+    },
+    "AISAFE-L6": {
+      "level": "L6 - Arquitecto de Seguridad en IA Principal",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia de seguridad en IA",
+        "Gestión de programas de seguridad a escala",
+        "Definición de arquitectura de seguridad",
+        "Liderazgo en transformación de seguridad",
+        "Gestión de incidentes de seguridad",
+        "Implementación de estándares globales de seguridad",
+        "Innovación en investigación de seguridad",
+        "Gestión de cumplimiento de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en regulación de seguridad",
+        "Conocimiento de inversión en seguridad",
+        "Liderazgo en comunidad de seguridad en IA"
+      ],
+      "indicators": [
+        "Dirige departamento de seguridad en IA",
+        "Participa en estrategia ejecutiva",
+        "Define inversiones en seguridad"
+      ]
+    },
+    "AISAFE-L7": {
+      "level": "L7 - Director de Seguridad en IA",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en seguridad en IA",
+        "Diseño de estrategias de seguridad globales",
+        "Transformación organizacional mediante seguridad",
+        "Gestión de seguridad a escala",
+        "Creación de cultura de seguridad",
+        "Definición de hoja de ruta de seguridad",
+        "Evangelización a nivel directivo",
+        "Influencia en estándares de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos de seguridad",
+        "Experiencia en gobernanza de IA",
+        "Liderazgo en comunidad de seguridad"
+      ],
+      "indicators": [
+        "Reporta a Director de IA o Director de Tecnología",
+        "Gestiona organización de seguridad de más de 15 personas",
+        "Define estrategia de seguridad"
+      ]
+    },
+    "AISAFE-L8": {
+      "level": "L8 - Vicepresidente de Seguridad en IA",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de seguridad en IA",
+        "Liderazgo en transformación de seguridad",
+        "Creación de ventaja de IA segura",
+        "Gestión de ecosistemas de seguridad",
+        "Innovación en alineación",
+        "Definición de seguridad en inteligencia artificial general",
+        "Evangelización de IA responsable",
+        "Influencia en políticas de IA"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en liderazgo de seguridad en IA",
+        "Asesoría en seguridad",
+        "Liderazgo de pensamiento en seguridad en IA"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia de seguridad",
+        "Es líder reconocido"
+      ]
+    },
+    "AISAFE-L9": {
+      "level": "L9 - Director General de Seguridad en IA",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en seguridad en IA",
+        "Transformación de paradigmas de seguridad",
+        "Creación de IA segura",
+        "Definición de IA alineada",
+        "Innovación en gobernanza de seguridad",
+        "Evangelización de seguridad en IA",
+        "Arquitecto de ecosistemas de seguridad",
+        "Influencia en regulación de IA"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando seguridad en IA",
+        "Reconocimiento como pionero en seguridad",
+        "Influencia en política de seguridad"
+      ],
+      "indicators": [
+        "Es Director General de Seguridad en IA",
+        "Define futuro de seguridad en IA",
+        "Es autoridad mundial"
+      ]
+    }
+  }
+}

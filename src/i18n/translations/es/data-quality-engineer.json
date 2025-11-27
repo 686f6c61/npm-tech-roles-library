@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Calidad de Datos",
+  "category": "Datos",
+  "levels": {
+    "DQE-L1": {
+      "level": "L1 - Aprendiz de Calidad de Datos",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de calidad de datos",
+        "Comprensión elemental de perfilado de datos",
+        "Habilidad para ejecutar validaciones simples",
+        "Conocimiento básico de detección de anomalías",
+        "Capacidad de documentar problemas",
+        "Comprensión de dimensiones de calidad de datos",
+        "Pruebas manuales de calidad",
+        "Conocimiento elemental de limpieza de datos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con SQL básico",
+        "Conocimiento de herramientas de calidad de datos",
+        "Comprensión elemental de estadística"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Identifica problemas básicos",
+        "Está aprendiendo calidad de datos"
+      ]
+    },
+    "DQE-L2": {
+      "level": "L2 - Ingeniero Junior de Calidad de Datos",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar reglas de calidad de datos",
+        "Implementación de validaciones completas",
+        "Conocimiento práctico de marcos de calidad de datos",
+        "Habilidad para pruebas automatizadas",
+        "Comprensión de linaje de datos",
+        "Capacidad de detección de anomalías",
+        "Conocimiento de monitoreo",
+        "Habilidad para informes de calidad de datos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de Great Expectations",
+        "Habilidad para scripts",
+        "Comprensión de observabilidad de datos"
+      ],
+      "indicators": [
+        "Implementa reglas de calidad de datos con supervisión",
+        "Detecta anomalías",
+        "Mantiene métricas de calidad de datos"
+      ]
+    },
+    "DQE-L3": {
+      "level": "L3 - Ingeniero de Calidad de Datos",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de marcos de calidad de datos",
+        "Implementación de pipelines automatizados de calidad de datos",
+        "Dominio de perfilado de datos",
+        "Capacidad de análisis de causa raíz",
+        "Habilidad para gobernanza de calidad de datos",
+        "Conocimiento profundo de estrategias de validación",
+        "Implementación de alertas",
+        "Capacidad de comunicación con partes interesadas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de catálogos de datos",
+        "Habilidad para gestión de metadatos",
+        "Comprensión de contratos de datos"
+      ],
+      "indicators": [
+        "Lidera proyectos de calidad de datos",
+        "Diseña marcos de calidad",
+        "Mentoriza en calidad de datos"
+      ]
+    },
+    "DQE-L4": {
+      "level": "L4 - Ingeniero Senior de Calidad de Datos",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de calidad de datos",
+        "Diseño de estrategia empresarial de calidad de datos",
+        "Implementación de calidad de datos a escala",
+        "Dominio de calidad de datos basada en aprendizaje automático",
+        "Capacidad de análisis de coste-beneficio",
+        "Conocimiento profundo de calidad de datos regulatoria",
+        "Habilidad para cultura de calidad de datos",
+        "Liderazgo en transformación de calidad de datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en plataformas de observabilidad de datos",
+        "Conocimiento de operaciones de datos",
+        "Implementación de calidad de datos de autoservicio"
+      ],
+      "indicators": [
+        "Define estrategia de calidad de datos",
+        "Lidera equipos de calidad de datos",
+        "Es referente en calidad de datos"
+      ]
+    },
+    "DQE-L5": {
+      "level": "L5 - Líder de Ingeniería de Calidad de Datos",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en calidad de datos",
+        "Diseño de ecosistemas de calidad de datos",
+        "Gestión de equipos de calidad de datos",
+        "Definición de estándares de calidad de datos",
+        "Capacidad de retorno de inversión en calidad de datos",
+        "Implementación de gobernanza de calidad de datos",
+        "Dominio de calidad de datos interfuncional",
+        "Evangelización de calidad de datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en calidad de datos en malla de datos",
+        "Conocimiento de economía de calidad de datos",
+        "Gestión de herramientas de calidad de datos"
+      ],
+      "indicators": [
+        "Gestiona equipo de calidad de datos",
+        "Define visión de calidad",
+        "Representa calidad de datos ante partes interesadas"
+      ]
+    },
+    "DQE-L6": {
+      "level": "L6 - Arquitecto Principal de Calidad de Datos",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia de calidad de datos corporativa",
+        "Gestión de programas de calidad de datos a escala",
+        "Definición de arquitectura de calidad de datos",
+        "Liderazgo en transformación de calidad de datos",
+        "Gestión de incidentes de calidad de datos",
+        "Implementación de calidad de datos global",
+        "Innovación en tecnologías de calidad de datos",
+        "Gestión de cumplimiento de calidad de datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en calidad de datos en fusiones y adquisiciones",
+        "Conocimiento de inversión en calidad de datos",
+        "Liderazgo en comunidad de calidad de datos"
+      ],
+      "indicators": [
+        "Dirige departamento de calidad de datos",
+        "Participa en estrategia de datos",
+        "Define inversiones en calidad de datos"
+      ]
+    },
+    "DQE-L7": {
+      "level": "L7 - Director de Calidad de Datos",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en calidad de datos",
+        "Diseño de estrategias de calidad de datos globales",
+        "Transformación organizacional mediante calidad de datos",
+        "Gestión a escala de grandes corporaciones",
+        "Creación de cultura centrada en calidad",
+        "Definición de hoja de ruta de calidad de datos",
+        "Evangelización a nivel de junta directiva",
+        "Influencia en estándares de calidad de datos"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos de calidad de datos",
+        "Experiencia en empresas basadas en datos",
+        "Liderazgo en consorcios de datos"
+      ],
+      "indicators": [
+        "Reporta al director de datos",
+        "Gestiona organización de calidad de datos (20+ personas)",
+        "Define estrategia de calidad de datos"
+      ]
+    },
+    "DQE-L8": {
+      "level": "L8 - Vicepresidente de Calidad de Datos",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de calidad de datos",
+        "Liderazgo en revolución de calidad de datos",
+        "Creación de ventaja de calidad",
+        "Gestión de ecosistemas de calidad de datos",
+        "Innovación disruptiva en calidad de datos",
+        "Definición de calidad de datos autónoma",
+        "Evangelización de enfoque centrado en calidad",
+        "Influencia en políticas de datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en gigantes de calidad de datos",
+        "Asesoría en empresas emergentes de calidad de datos",
+        "Liderazgo de pensamiento en calidad de datos"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia de calidad de datos",
+        "Es líder reconocido"
+      ]
+    },
+    "DQE-L9": {
+      "level": "L9 - Director de Calidad de Datos",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en calidad de datos",
+        "Transformación de paradigmas de calidad",
+        "Creación de datos confiables",
+        "Definición de organizaciones nativas en calidad",
+        "Innovación en gobernanza de calidad de datos",
+        "Evangelización de confianza en datos",
+        "Arquitecto de ecosistemas de calidad de datos",
+        "Influencia en regulación de datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando grandes corporaciones",
+        "Reconocimiento como pionero de calidad de datos",
+        "Influencia en estándares"
+      ],
+      "indicators": [
+        "Es director de calidad de datos",
+        "Define futuro de calidad de datos",
+        "Es autoridad mundial"
+      ]
+    }
+  }
+}

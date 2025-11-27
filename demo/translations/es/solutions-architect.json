@@ -1,0 +1,201 @@
+{
+  "SOA-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de arquitectura de soluciones",
+      "Conocimiento elemental de requirements gathering",
+      "Habilidad para documentar soluciones simples",
+      "Comprensión básica de customer needs analysis",
+      "Capacidad de crear diagramas básicos",
+      "Conocimiento elemental de presales técnico",
+      "Comprensión básica de demos y POCs",
+      "Habilidad para comunicación cliente básica"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de cloud solutions",
+      "Familiaridad con methodologies",
+      "Comprensión elemental de pricing"
+    ],
+    "indicators": [
+      "Requiere supervisión en cliente",
+      "Puede asistir en soluciones simples",
+      "Necesita 1-2 años experiencia previa"
+    ]
+  },
+  "SOA-L2": {
+    "coreCompetencies": [
+      "Capacidad de diseñar soluciones para clientes pequeños",
+      "Habilidad para conducir workshops técnicos",
+      "Conocimiento práctico de integration patterns",
+      "Comprensión de sizing y capacity planning",
+      "Capacidad de crear proposals técnicos",
+      "Habilidad para demos efectivos",
+      "Conocimiento de competitive analysis",
+      "Comprensión de project scoping"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de industry verticals",
+      "Habilidad para cost estimation",
+      "Comprensión de partnerships"
+    ],
+    "indicators": [
+      "Diseña soluciones con supervisión moderada",
+      "Maneja clientes pequeños independientemente",
+      "Cierra deals técnicos simples"
+    ]
+  },
+  "SOA-L3": {
+    "coreCompetencies": [
+      "Dominio de solution design end-to-end",
+      "Capacidad de manejar RFPs complejos",
+      "Habilidad para arquitectar integraciones",
+      "Conocimiento profundo de best practices industria",
+      "Capacidad de liderar POCs y pilots",
+      "Comprensión sólida de security y compliance",
+      "Habilidad para value engineering",
+      "Conocimiento de migration strategies"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de emerging technologies",
+      "Habilidad para partnership solutions",
+      "Comprensión de professional services"
+    ],
+    "indicators": [
+      "Maneja cuentas enterprise independientemente",
+      "Diseña soluciones multi-producto",
+      "Influencia decisiones de compra"
+    ]
+  },
+  "SOA-L4": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar soluciones enterprise",
+      "Dominio de complex integration scenarios",
+      "Habilidad para transformation roadmaps",
+      "Conocimiento profundo de TCO y ROI analysis",
+      "Capacidad de liderar arquitectura en deals grandes",
+      "Dominio de regulatory compliance solutions",
+      "Habilidad para strategic account planning",
+      "Conocimiento de ecosystem solutions"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de M&A integration",
+      "Habilidad para global deployments",
+      "Comprensión de channel strategies"
+    ],
+    "indicators": [
+      "Lidera soluciones para cuentas estratégicas",
+      "Define arquitecturas reference",
+      "Mentora solutions architects junior"
+    ]
+  },
+  "SOA-L5": {
+    "coreCompetencies": [
+      "Expertise en transformación digital enterprise",
+      "Capacidad de diseñar industry solutions",
+      "Dominio de solution frameworks corporativos",
+      "Habilidad para C-level engagement",
+      "Conocimiento profundo de business value mapping",
+      "Capacidad de liderar solution teams",
+      "Expertise en competitive displacement",
+      "Dominio de partner ecosystem solutions"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de platform strategies",
+      "Habilidad para solution innovation",
+      "Comprensión de venture solutions"
+    ],
+    "indicators": [
+      "Arquitecta soluciones para portfolios",
+      "Lidera wins estratégicos",
+      "Define metodologías de soluciones"
+    ]
+  },
+  "SOA-L6": {
+    "coreCompetencies": [
+      "Capacidad de definir solution strategy regional",
+      "Expertise en mega-deals y transformaciones",
+      "Dominio de industry thought leadership",
+      "Habilidad para ejecutive advisory",
+      "Conocimiento profundo de solution economics",
+      "Capacidad de construir practices",
+      "Expertise en alliance solutions",
+      "Dominio de solution governance"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de solution investments",
+      "Habilidad para IP creation",
+      "Comprensión de solution ventures"
+    ],
+    "indicators": [
+      "Define estrategia de soluciones regional",
+      "Lidera solution practices",
+      "Trusted advisor C-suite"
+    ]
+  },
+  "SOA-L7": {
+    "coreCompetencies": [
+      "Liderazgo en solution innovation global",
+      "Capacidad de crear market-making solutions",
+      "Expertise en industry transformation",
+      "Dominio de solution partnerships globales",
+      "Capacidad de definir solution methodologies",
+      "Conocimiento profundo de solution trends",
+      "Expertise en solution thought leadership",
+      "Capacidad de liderar solution research"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de patentar solutions",
+      "Habilidad para solution evangelism",
+      "Conocimiento de solution M&A"
+    ],
+    "indicators": [
+      "Define solution philosophy global",
+      "Speaker keynote industry events",
+      "Influye en solution standards"
+    ]
+  },
+  "SOA-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de solutions futuras",
+      "Capacidad de transformar industrias mediante solutions",
+      "Expertise en solution strategy corporativa",
+      "Dominio de solution portfolio management",
+      "Capacidad de definir solution excellence",
+      "Conocimiento profundo de solution governance global",
+      "Expertise en solution ecosystem building",
+      "Capacidad de liderar solution innovation"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar industry solutions",
+      "Habilidad para solution ventures",
+      "Conocimiento de solution IPOs"
+    ],
+    "indicators": [
+      "Define estrategia solutions Fortune 500",
+      "Influye en direction de industrias",
+      "Asesor ejecutivo global"
+    ]
+  },
+  "SOA-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en solution strategy",
+      "Capacidad de solutions como diferenciador",
+      "Expertise en solution-led growth",
+      "Dominio de solution investment strategies",
+      "Capacidad de construir solution empires",
+      "Conocimiento profundo de solution value creation",
+      "Expertise en solution partnerships ejecutivas",
+      "Capacidad de definir solution culture",
+      "Dominio de solution business impact"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de solution policy influence",
+      "Habilidad para solution ecosystem dominance",
+      "Conocimiento de solution-based exits"
+    ],
+    "indicators": [
+      "Define y ejecuta visión solutions empresarial",
+      "Responsable de todo el portfolio solutions",
+      "Líder reconocido en solutions global"
+    ]
+  }
+}

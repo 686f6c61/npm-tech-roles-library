@@ -1,0 +1,208 @@
+{
+  "SEC-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de conceptos CIA (Confidencialidad, Integridad, Disponibilidad)",
+      "Conocimiento elemental de tipos de amenazas y vulnerabilidades comunes",
+      "Habilidad para usar herramientas de escaneo de vulnerabilidades básicas",
+      "Comprensión básica de controles de acceso y autenticación",
+      "Capacidad de documentar hallazgos de seguridad simples",
+      "Conocimiento elemental de políticas y procedimientos de seguridad",
+      "Comprensión básica de encriptación y hashing",
+      "Habilidad para realizar hardening básico de sistemas"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de compliance y regulaciones",
+      "Familiaridad con frameworks de seguridad (NIST, ISO)",
+      "Comprensión elemental de networking"
+    ],
+    "indicators": [
+      "Requiere supervisión constante en tareas de seguridad",
+      "Puede ejecutar playbooks de seguridad documentados",
+      "Necesita 3-6 meses de mentoría en security"
+    ]
+  },
+  "SEC-L2": {
+    "coreCompetencies": [
+      "Capacidad de realizar evaluaciones de vulnerabilidades",
+      "Habilidad para configurar firewalls y sistemas IDS/IPS básicos",
+      "Conocimiento práctico de OWASP Top 10 y mitigaciones",
+      "Comprensión de gestión de identidades y accesos (IAM)",
+      "Capacidad de responder a incidentes de seguridad nivel 1",
+      "Habilidad para realizar análisis de logs de seguridad",
+      "Conocimiento de secure coding practices básicas",
+      "Comprensión de PKI y gestión de certificados",
+      "Capacidad de realizar security awareness training"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de forensics digital",
+      "Habilidad para usar SIEM básico",
+      "Comprensión de cloud security fundamentals"
+    ],
+    "indicators": [
+      "Puede realizar assessments de seguridad con supervisión",
+      "Responde a alertas de seguridad siguiendo procedimientos",
+      "Implementa controles de seguridad estándar"
+    ]
+  },
+  "SEC-L3": {
+    "coreCompetencies": [
+      "Dominio de penetration testing y ethical hacking básico",
+      "Capacidad de diseñar arquitecturas de seguridad para aplicaciones",
+      "Habilidad para implementar DLP y prevención de fuga de datos",
+      "Conocimiento profundo de seguridad en contenedores y Kubernetes",
+      "Capacidad de realizar threat modeling y risk assessment",
+      "Comprensión sólida de Zero Trust Architecture",
+      "Habilidad para implementar SIEM y correlación de eventos",
+      "Conocimiento de incident response y forensics",
+      "Capacidad de desarrollar políticas de seguridad"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de seguridad móvil",
+      "Habilidad para reverse engineering básico",
+      "Comprensión de seguridad IoT"
+    ],
+    "indicators": [
+      "Realiza pen testing de manera independiente",
+      "Diseña controles de seguridad para proyectos",
+      "Lidera respuesta a incidentes menores"
+    ]
+  },
+  "SEC-L4": {
+    "coreCompetencies": [
+      "Capacidad de diseñar programas de seguridad empresariales",
+      "Dominio de red team operations y adversary simulation",
+      "Habilidad para implementar DevSecOps y security automation",
+      "Conocimiento profundo de cloud security y multi-cloud",
+      "Capacidad de realizar advanced threat hunting",
+      "Dominio de malware analysis y reverse engineering",
+      "Habilidad para diseñar SOC y security operations",
+      "Conocimiento de supply chain security",
+      "Capacidad de implementar cryptography aplicada"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de seguridad OT/ICS",
+      "Habilidad para exploit development",
+      "Comprensión de quantum-safe cryptography"
+    ],
+    "indicators": [
+      "Lidera proyectos de seguridad complejos",
+      "Define arquitectura de seguridad para productos",
+      "Mentora al equipo en mejores prácticas"
+    ]
+  },
+  "SEC-L5": {
+    "coreCompetencies": [
+      "Expertise en arquitecturas Zero Trust empresariales",
+      "Capacidad de diseñar threat intelligence programs",
+      "Dominio de security orchestration y SOAR",
+      "Habilidad para implementar deception technology",
+      "Conocimiento profundo de compliance automation (PCI, HIPAA, GDPR)",
+      "Capacidad de realizar APT simulation y purple teaming",
+      "Expertise en blockchain security y smart contracts",
+      "Dominio de API security y microservices security",
+      "Capacidad de diseñar disaster recovery para seguridad"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de AI/ML security",
+      "Habilidad para hardware security",
+      "Comprensión de 5G security"
+    ],
+    "indicators": [
+      "Diseña estrategias de seguridad empresariales",
+      "Lidera transformación DevSecOps",
+      "Define roadmap de seguridad multi-año"
+    ]
+  },
+  "SEC-L6": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar seguridad para empresas Fortune 500",
+      "Expertise en cyber resilience y business continuity",
+      "Dominio de nation-state threat defense",
+      "Habilidad para implementar adaptive security architecture",
+      "Conocimiento profundo de privacy engineering",
+      "Capacidad de diseñar security by design frameworks",
+      "Expertise en third-party risk management",
+      "Dominio de security metrics y KRIs",
+      "Capacidad de liderar crisis management"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de seguridad espacial",
+      "Habilidad para cyber warfare defense",
+      "Comprensión de biosecurity digital"
+    ],
+    "indicators": [
+      "Arquitecta seguridad para ecosistemas complejos",
+      "Lidera programas de seguridad globales",
+      "Interface con C-suite y board"
+    ]
+  },
+  "SEC-L7": {
+    "coreCompetencies": [
+      "Liderazgo en transformación de seguridad empresarial",
+      "Capacidad de diseñar cyber defense para infraestructura crítica",
+      "Expertise en geopolitical cyber risk management",
+      "Dominio de security innovation y R&D",
+      "Capacidad de implementar predictive security analytics",
+      "Conocimiento profundo de regulatory compliance global",
+      "Expertise en M&A security due diligence",
+      "Capacidad de diseñar security partnerships",
+      "Dominio de security culture transformation"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influir en políticas nacionales",
+      "Habilidad para crear startups de seguridad",
+      "Conocimiento de cyber insurance"
+    ],
+    "indicators": [
+      "Define estrategia de seguridad corporativa",
+      "Reconocido thought leader en cybersecurity",
+      "Advisor para gobiernos y organizaciones"
+    ]
+  },
+  "SEC-L8": {
+    "coreCompetencies": [
+      "Visión estratégica para el futuro de cybersecurity",
+      "Capacidad de liderar seguridad en transformación digital",
+      "Expertise en cyber diplomacy y cooperación internacional",
+      "Dominio de security economics y ROI",
+      "Capacidad de definir security governance global",
+      "Conocimiento profundo de emerging threats landscape",
+      "Expertise en building security centers of excellence",
+      "Capacidad de liderar security research initiatives",
+      "Dominio de security vendor ecosystem"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de patentar innovaciones de seguridad",
+      "Habilidad para venture building en security",
+      "Conocimiento de security investment"
+    ],
+    "indicators": [
+      "Define estrategia de seguridad multi-año global",
+      "Influye en estándares internacionales",
+      "Speaker keynote en conferencias globales"
+    ]
+  },
+  "SEC-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en seguridad y gestión de riesgo",
+      "Capacidad de alinear seguridad con estrategia de negocio",
+      "Expertise en board reporting y risk communication",
+      "Dominio de presupuestos de seguridad multi-millonarios",
+      "Capacidad de construir organizaciones de seguridad globales",
+      "Conocimiento profundo de cyber insurance y transfer risk",
+      "Expertise en relaciones con law enforcement y agencias",
+      "Capacidad de definir postura de seguridad corporativa",
+      "Dominio de crisis leadership y comunicación"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar legislación de seguridad",
+      "Habilidad para crear ecosistemas de seguridad",
+      "Conocimiento de security M&A"
+    ],
+    "indicators": [
+      "Define y ejecuta visión de seguridad empresarial",
+      "Responsable de postura de riesgo corporativo",
+      "Líder reconocido en cybersecurity global"
+    ]
+  }
+}

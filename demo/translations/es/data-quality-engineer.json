@@ -1,0 +1,200 @@
+{
+  "DQE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de calidad de datos",
+      "Comprensión elemental de data profiling",
+      "Habilidad para ejecutar validaciones simples",
+      "Conocimiento básico de anomaly detection",
+      "Capacidad de documentar issues",
+      "Comprensión de data quality dimensions",
+      "Testing manual de calidad",
+      "Conocimiento elemental de data cleansing"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con SQL básico",
+      "Conocimiento de data quality tools",
+      "Comprensión elemental de statistics"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Identifica issues básicos",
+      "Está aprendiendo DQ"
+    ]
+  },
+  "DQE-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar data quality rules",
+      "Implementación de validations completas",
+      "Conocimiento práctico de DQ frameworks",
+      "Habilidad para automated testing",
+      "Comprensión de data lineage",
+      "Capacidad de anomaly detection",
+      "Conocimiento de monitoring",
+      "Habilidad para reporting DQ"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de Great Expectations",
+      "Habilidad para scripting",
+      "Comprensión de data observability"
+    ],
+    "indicators": [
+      "Implementa DQ rules con supervisión",
+      "Detecta anomalías",
+      "Mantiene DQ metrics"
+    ]
+  },
+  "DQE-L3": {
+    "coreCompetencies": [
+      "Diseño de DQ frameworks",
+      "Implementación de automated DQ pipelines",
+      "Dominio de data profiling",
+      "Capacidad de root cause analysis",
+      "Habilidad para DQ governance",
+      "Conocimiento profundo de validation strategies",
+      "Implementación de alerting",
+      "Capacidad de stakeholder communication"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de data catalogs",
+      "Habilidad para metadata management",
+      "Comprensión de data contracts"
+    ],
+    "indicators": [
+      "Lidera proyectos DQ",
+      "Diseña frameworks de calidad",
+      "Mentoriza en DQ"
+    ]
+  },
+  "DQE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de DQ platforms",
+      "Diseño de enterprise DQ strategy",
+      "Implementación de DQ at scale",
+      "Dominio de ML-based DQ",
+      "Capacidad de cost-benefit analysis",
+      "Conocimiento profundo de regulatory DQ",
+      "Habilidad para DQ culture",
+      "Liderazgo en DQ transformation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en data observability platforms",
+      "Conocimiento de DataOps",
+      "Implementación de self-service DQ"
+    ],
+    "indicators": [
+      "Define estrategia DQ",
+      "Lidera equipos DQ",
+      "Es referente en data quality"
+    ]
+  },
+  "DQE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en data quality",
+      "Diseño de DQ ecosystems",
+      "Gestión de equipos DQ",
+      "Definición de DQ standards",
+      "Capacidad de DQ ROI",
+      "Implementación de DQ governance",
+      "Dominio de cross-functional DQ",
+      "Evangelización de data quality"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en data mesh DQ",
+      "Conocimiento de DQ economics",
+      "Gestión de DQ tools"
+    ],
+    "indicators": [
+      "Gestiona equipo DQ",
+      "Define visión de calidad",
+      "Representa DQ ante stakeholders"
+    ]
+  },
+  "DQE-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia DQ corporativa",
+      "Gestión de DQ programs a escala",
+      "Definición de DQ architecture",
+      "Liderazgo en DQ transformation",
+      "Gestión de data quality incidents",
+      "Implementación de global DQ",
+      "Innovación en DQ technologies",
+      "Gestión de DQ compliance"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en DQ M&A",
+      "Conocimiento de DQ investment",
+      "Liderazgo en DQ community"
+    ],
+    "indicators": [
+      "Dirige departamento DQ",
+      "Participa en estrategia de datos",
+      "Define inversiones DQ"
+    ]
+  },
+  "DQE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en data quality",
+      "Diseño de estrategias DQ globales",
+      "Transformación organizacional via DQ",
+      "Gestión a escala Fortune 500",
+      "Creación de quality-first culture",
+      "Definición de DQ roadmap",
+      "Evangelización a nivel board",
+      "Influencia en DQ standards"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de DQ budgets",
+      "Experiencia en data-driven companies",
+      "Liderazgo en data consortiums"
+    ],
+    "indicators": [
+      "Reporta a CDO",
+      "Gestiona organización DQ (20+ personas)",
+      "Define estrategia DQ"
+    ]
+  },
+  "DQE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de data quality",
+      "Liderazgo en DQ revolution",
+      "Creación de quality advantage",
+      "Gestión de DQ ecosystems",
+      "Innovación disruptiva en DQ",
+      "Definición de autonomous DQ",
+      "Evangelización de quality-driven",
+      "Influencia en data policies"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en DQ giants",
+      "Advisory en DQ startups",
+      "Thought leadership en DQ"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia DQ",
+      "Es líder reconocido"
+    ]
+  },
+  "DQE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en data quality",
+      "Transformación de quality paradigms",
+      "Creación de trusted data",
+      "Definición de quality-native organizations",
+      "Innovación en DQ governance",
+      "Evangelización de data trust",
+      "Arquitecto de DQ ecosystems",
+      "Influencia en data regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando Fortune 500",
+      "Reconocimiento como DQ pioneer",
+      "Influencia en standards"
+    ],
+    "indicators": [
+      "Es Chief DQ Officer",
+      "Define futuro de data quality",
+      "Es autoridad mundial"
+    ]
+  }
+}

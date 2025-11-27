@@ -1,0 +1,258 @@
+{
+  "role": "Desarrollador de Internet de las Cosas",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "IOT-L1": {
+      "level": "L1 - Aprendiz de Internet de las Cosas",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de sistemas embebidos",
+        "Comprensión elemental de protocolos de Internet de las Cosas",
+        "Habilidad para programación de sensores básica",
+        "Conocimiento básico de protocolos de mensajería y aplicaciones restringidas",
+        "Capacidad de usar plataformas de nube para Internet de las Cosas",
+        "Comprensión de computación en el borde básico",
+        "Documentación de arquitecturas simples de Internet de las Cosas",
+        "Conocimiento elemental de hardware"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con plataformas de desarrollo embebido",
+        "Conocimiento básico de protocolos inalámbricos",
+        "Comprensión de recolección de datos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Programa dispositivos simples",
+        "Está aprendiendo desarrollo de Internet de las Cosas"
+      ]
+    },
+    "IOT-L2": {
+      "level": "L2 - Desarrollador Junior de Internet de las Cosas",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de desarrollar firmware para dispositivos",
+        "Implementación de puertas de enlace de Internet de las Cosas",
+        "Conocimiento práctico de pila de protocolos",
+        "Habilidad para procesamiento en el borde",
+        "Comprensión de gestión de energía",
+        "Capacidad de fusión de sensores básico",
+        "Conocimiento de seguridad de Internet de las Cosas",
+        "Habilidad para integración con nube"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo con sistemas operativos en tiempo real básico",
+        "Conocimiento de protocolos de comunicación de largo alcance",
+        "Comprensión de datos de series temporales"
+      ],
+      "indicators": [
+        "Desarrolla soluciones de Internet de las Cosas con supervisión",
+        "Implementa conectividad de dispositivos",
+        "Optimiza consumo energético"
+      ]
+    },
+    "IOT-L3": {
+      "level": "L3 - Desarrollador de Internet de las Cosas",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas de extremo a extremo de Internet de las Cosas",
+        "Implementación de análisis en el borde",
+        "Dominio de protocolos industriales",
+        "Capacidad de redes de malla",
+        "Habilidad para mantenimiento predictivo",
+        "Conocimiento profundo de seguridad de Internet de las Cosas",
+        "Implementación de gemelos digitales",
+        "Diseño de sistemas distribuidos de Internet de las Cosas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de Internet de las Cosas de quinta generación",
+        "Habilidad para visión por ordenador en el borde",
+        "Comprensión de cadena de bloques de Internet de las Cosas"
+      ],
+      "indicators": [
+        "Lidera proyectos complejos de Internet de las Cosas",
+        "Diseña ecosistemas de dispositivos",
+        "Mentoriza desarrolladores de Internet de las Cosas"
+      ]
+    },
+    "IOT-L4": {
+      "level": "L4 - Desarrollador Senior de Internet de las Cosas",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas empresariales de Internet de las Cosas",
+        "Diseño de soluciones de ciudad inteligente",
+        "Implementación de Internet industrial de las Cosas",
+        "Dominio de sistemas en tiempo real",
+        "Capacidad de escalado masivo de Internet de las Cosas",
+        "Conocimiento profundo de inteligencia artificial en el borde",
+        "Habilidad para orquestación de Internet de las Cosas",
+        "Liderazgo en estándares de Internet de las Cosas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en Internet de las Cosas automotriz",
+        "Conocimiento de Internet de las Cosas satelital",
+        "Implementación de inteligencia de enjambre"
+      ],
+      "indicators": [
+        "Define estrategia empresarial de Internet de las Cosas",
+        "Lidera equipos de Internet de las Cosas",
+        "Es referente en computación en el borde"
+      ]
+    },
+    "IOT-L5": {
+      "level": "L5 - Desarrollador Líder de Internet de las Cosas",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en plataformas de Internet de las Cosas",
+        "Diseño de ecosistemas globales de Internet de las Cosas",
+        "Gestión de equipos de desarrollo de Internet de las Cosas",
+        "Definición de estrategia empresarial de Internet de las Cosas",
+        "Capacidad de modelos de negocio de Internet de las Cosas",
+        "Implementación de infraestructura inteligente",
+        "Dominio de gobernanza de Internet de las Cosas",
+        "Evangelización de mundo conectado"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en transformación de Internet de las Cosas",
+        "Conocimiento de cumplimiento regulatorio de Internet de las Cosas",
+        "Gestión de alianzas de Internet de las Cosas"
+      ],
+      "indicators": [
+        "Gestiona múltiples equipos de Internet de las Cosas",
+        "Define visión de conectividad empresarial",
+        "Representa Internet de las Cosas ante ejecutivos"
+      ]
+    },
+    "IOT-L6": {
+      "level": "L6 - Arquitecto Principal de Internet de las Cosas",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de Internet de las Cosas organizacional",
+        "Estrategia de transformación conectada",
+        "Gestión de inversiones grandes en Internet de las Cosas",
+        "Definición de estrategia de computación ubicua",
+        "Liderazgo en todo inteligente",
+        "Implementación de Internet de las Cosas autónomo",
+        "Innovación en inteligencia en el borde",
+        "Gestión de ecosistemas globales"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en infraestructura crítica de Internet de las Cosas",
+        "Conocimiento de fusiones y adquisiciones de Internet de las Cosas",
+        "Liderazgo en alianzas de Internet de las Cosas"
+      ],
+      "indicators": [
+        "Dirige departamento de Internet de las Cosas (20+ personas)",
+        "Participa en transformación digital",
+        "Define inversiones en conectividad"
+      ]
+    },
+    "IOT-L7": {
+      "level": "L7 - Director de Internet de las Cosas",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en Internet de las Cosas",
+        "Diseño de estrategias globales de Internet de las Cosas",
+        "Transformación de industrias mediante Internet de las Cosas",
+        "Gestión de Internet de las Cosas a escala planetaria",
+        "Creación de nuevos paradigmas conectados",
+        "Definición de futuro de computación ambiental",
+        "Evangelización de Internet de las Cosas a nivel directivo",
+        "Influencia en industria cuatro punto cero"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de proyectos de naciones inteligentes",
+        "Experiencia en unicornios de Internet de las Cosas",
+        "Liderazgo en estándares globales de Internet de las Cosas"
+      ],
+      "indicators": [
+        "Reporta a alta dirección",
+        "Gestiona organización de Internet de las Cosas (50+ personas)",
+        "Define estrategia de conectividad corporativa"
+      ]
+    },
+    "IOT-L8": {
+      "level": "L8 - Vicepresidente de Internet de las Cosas",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de mundo hiperconectado",
+        "Liderazgo en revolución global de Internet de las Cosas",
+        "Creación de paradigmas de inteligencia ambiental",
+        "Gestión de billones de dispositivos",
+        "Innovación disruptiva en entornos conscientes",
+        "Definición de conciencia de Internet de las Cosas",
+        "Evangelización de planeta inteligente",
+        "Influencia en políticas globales de Internet de las Cosas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como director de tecnología de Internet de las Cosas en Fortune 500",
+        "Asesoría en fondos de Internet de las Cosas",
+        "Liderazgo de pensamiento en conectividad"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia global de Internet de las Cosas",
+        "Es líder mundial en Internet de las Cosas"
+      ]
+    },
+    "IOT-L9": {
+      "level": "L9 - Director de Internet de las Cosas",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de realidad conectada",
+        "Transformación de civilización mediante Internet de las Cosas",
+        "Creación de paradigmas de omnipresencia digital",
+        "Definición de simbiosis humano-objeto",
+        "Innovación en redes de conciencia",
+        "Evangelización de realidad responsiva",
+        "Arquitecto de planeta consciente",
+        "Influencia en evolución de materia inteligente"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones de Internet de las Cosas",
+        "Reconocimiento como padre del Internet de las Cosas moderno",
+        "Influencia en futuro de conectividad"
+      ],
+      "indicators": [
+        "Es director de Internet de las Cosas legendario",
+        "Define futuro de mundo conectado",
+        "Es autoridad mundial en Internet de Todo"
+      ]
+    }
+  }
+}

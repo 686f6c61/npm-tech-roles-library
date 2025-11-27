@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero FinOps",
+  "category": "Infraestructura",
+  "levels": {
+    "FOE-L1": {
+      "level": "L1 - Aprendiz FinOps",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de costes de nube",
+        "Comprensión elemental de facturación",
+        "Habilidad para informes básicos",
+        "Conocimiento básico de asignación de costes",
+        "Capacidad de identificar desperdicio",
+        "Comprensión de modelos de precios",
+        "Documentación de ahorros",
+        "Conocimiento elemental de presupuestos"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con consolas de nube",
+        "Conocimiento de etiquetado básico",
+        "Comprensión elemental de devolución de costes"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Genera informes básicos",
+        "Está aprendiendo FinOps"
+      ]
+    },
+    "FOE-L2": {
+      "level": "L2 - Ingeniero Junior FinOps",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de análisis de costes",
+        "Implementación de asignación de costes",
+        "Conocimiento práctico de optimización",
+        "Habilidad para dimensionamiento correcto",
+        "Comprensión de instancias reservadas",
+        "Capacidad de previsión básica",
+        "Conocimiento de contracargo",
+        "Habilidad para recomendaciones"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de CloudHealth y Cloudability",
+        "Habilidad para scripting",
+        "Comprensión de detección de anomalías de costes"
+      ],
+      "indicators": [
+        "Optimiza costes con supervisión",
+        "Implementa planes de ahorro",
+        "Genera análisis de costes"
+      ]
+    },
+    "FOE-L3": {
+      "level": "L3 - Ingeniero FinOps",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de estrategias de optimización de costes",
+        "Implementación de optimización automatizada",
+        "Dominio de economía de la nube",
+        "Capacidad de modelado de costes",
+        "Habilidad para devolución y contracargo",
+        "Conocimiento profundo de precios",
+        "Implementación de gobernanza",
+        "Capacidad de gestión de partes interesadas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de descuentos basados en compromisos",
+        "Habilidad para herramientas FinOps",
+        "Comprensión de costes multi-nube"
+      ],
+      "indicators": [
+        "Lidera proyectos de optimización",
+        "Diseña marcos de costes",
+        "Mentoriza en FinOps"
+      ]
+    },
+    "FOE-L4": {
+      "level": "L4 - Ingeniero Senior FinOps",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de programas FinOps",
+        "Diseño de estrategia de costes empresarial",
+        "Implementación de FinOps a escala",
+        "Dominio de economía unitaria",
+        "Capacidad de asignación de costes compleja",
+        "Conocimiento profundo de contratos de nube",
+        "Habilidad para análisis de retorno de inversión",
+        "Liderazgo en cultura de costes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en FinOps multi-nube",
+        "Conocimiento de negociaciones con proveedores",
+        "Implementación de automatización FinOps"
+      ],
+      "indicators": [
+        "Define estrategia FinOps",
+        "Lidera optimización de costes",
+        "Es referente en economía de la nube"
+      ]
+    },
+    "FOE-L5": {
+      "level": "L5 - Ingeniero Líder FinOps",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en FinOps",
+        "Diseño de ecosistemas de costes",
+        "Gestión de equipos FinOps",
+        "Definición de estándares FinOps",
+        "Capacidad de gobernanza financiera",
+        "Implementación de inteligencia de costes",
+        "Dominio de optimización a escala",
+        "Evangelización de conciencia de costes"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en gestión financiera de la nube",
+        "Conocimiento de Fundación FinOps",
+        "Gestión de presupuesto de optimización"
+      ],
+      "indicators": [
+        "Gestiona equipo FinOps",
+        "Define visión de optimización de costes",
+        "Representa FinOps ante director financiero"
+      ]
+    },
+    "FOE-L6": {
+      "level": "L6 - Arquitecto Principal FinOps",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia FinOps",
+        "Gestión de operaciones financieras de la nube",
+        "Definición de arquitectura FinOps",
+        "Liderazgo en transformación de costes",
+        "Gestión de estrategias de compromisos",
+        "Implementación de FinOps global",
+        "Innovación en optimización de costes",
+        "Gestión de relaciones con proveedores"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en madurez FinOps",
+        "Conocimiento de economía de la nube",
+        "Liderazgo en comunidad FinOps"
+      ],
+      "indicators": [
+        "Dirige departamento FinOps",
+        "Participa en estrategia financiera",
+        "Define gasto en la nube"
+      ]
+    },
+    "FOE-L7": {
+      "level": "L7 - Director FinOps",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en FinOps",
+        "Diseño de estrategias de costes globales",
+        "Transformación de economía de la nube",
+        "Gestión de gasto a escala",
+        "Creación de cultura consciente de costes",
+        "Definición de hoja de ruta FinOps",
+        "Evangelización a nivel de junta directiva",
+        "Influencia en adquisiciones"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos de nube multimillonarios",
+        "Experiencia en certificación FinOps",
+        "Liderazgo en optimización de costes"
+      ],
+      "indicators": [
+        "Reporta a CTO o director financiero",
+        "Gestiona organización FinOps (15+ personas)",
+        "Define estrategia de gasto"
+      ]
+    },
+    "FOE-L8": {
+      "level": "L8 - Vicepresidente FinOps",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de economía de la nube",
+        "Liderazgo en transformación FinOps",
+        "Creación de ventaja de costes",
+        "Gestión de ecosistemas financieros",
+        "Innovación en optimización de costes",
+        "Definición de FinOps autónomo",
+        "Evangelización de economía unitaria",
+        "Influencia en estrategia de nube"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en liderazgo financiero de la nube",
+        "Asesoría en FinOps",
+        "Liderazgo de pensamiento"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia FinOps",
+        "Es líder reconocido"
+      ]
+    },
+    "FOE-L9": {
+      "level": "L9 - Director de FinOps",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en economía de la nube",
+        "Transformación de operaciones financieras",
+        "Creación de paradigmas FinOps",
+        "Definición de organizaciones optimizadas en costes",
+        "Innovación en finanzas de la nube",
+        "Evangelización de conciencia económica",
+        "Arquitecto de ecosistemas FinOps",
+        "Influencia en adquisiciones"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando gasto en la nube",
+        "Reconocimiento como pionero FinOps",
+        "Influencia en economía"
+      ],
+      "indicators": [
+        "Es Director de FinOps",
+        "Define futuro de economía de la nube",
+        "Es autoridad mundial"
+      ]
+    }
+  }
+}

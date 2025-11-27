@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Visión por Computadora",
+  "category": "IA/AM",
+  "levels": {
+    "CVE-L1": {
+      "level": "L1 - Aprendiz de Visión por Computadora",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de procesamiento de imágenes",
+        "Comprensión elemental de visión por computadora",
+        "Habilidad para usar bibliotecas de visión básicas",
+        "Conocimiento básico de filtros y transformaciones",
+        "Capacidad de detección de objetos simple",
+        "Comprensión de segmentación básica",
+        "Documentación de procesos de visión",
+        "Conocimiento elemental de conjuntos de datos de imágenes"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con OpenCV básico",
+        "Conocimiento de anotación de imágenes",
+        "Comprensión de métricas de evaluación de visión"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Implementa algoritmos de visión simples",
+        "Está aprendiendo visión por computadora"
+      ]
+    },
+    "CVE-L2": {
+      "level": "L2 - Ingeniero de Visión por Computadora Junior",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar redes neuronales convolucionales para clasificación",
+        "Implementación de modelos de detección de objetos",
+        "Conocimiento práctico de técnicas de aumento",
+        "Habilidad para aprendizaje por transferencia",
+        "Comprensión de segmentación semántica",
+        "Capacidad de reconocimiento facial básico",
+        "Conocimiento de procesamiento de vídeo",
+        "Habilidad para implementación de reconocimiento óptico de caracteres"
+      ],
+      "complementaryCompetencies": [
+        "Desarrollo de estimación de poses",
+        "Conocimiento de visión 3D básico",
+        "Comprensión de generación de imágenes"
+      ],
+      "indicators": [
+        "Desarrolla soluciones de visión con supervisión",
+        "Implementa modelos preentrenados",
+        "Optimiza procesos de visión"
+      ]
+    },
+    "CVE-L3": {
+      "level": "L3 - Ingeniero de Visión por Computadora",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de arquitecturas de visión complejas",
+        "Implementación de segmentación de instancias",
+        "Dominio de seguimiento de múltiples objetos",
+        "Capacidad de reconstrucción tridimensional",
+        "Habilidad para localización y mapeo simultáneos básico",
+        "Conocimiento profundo de arquitecturas neuronales",
+        "Implementación de visión en tiempo real",
+        "Diseño de sistemas de visión en el borde"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de campos de radiación neuronal y aprendizaje 3D",
+        "Habilidad para imágenes médicas",
+        "Comprensión de visión autónoma"
+      ],
+      "indicators": [
+        "Lidera proyectos de visión por computadora",
+        "Diseña sistemas de visión de extremo a extremo",
+        "Tutoriza ingenieros de visión"
+      ]
+    },
+    "CVE-L4": {
+      "level": "L4 - Ingeniero de Visión por Computadora Senior",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de visión",
+        "Diseño de sistemas de visión escalables",
+        "Implementación de aprendizaje multimodal",
+        "Dominio de aprendizaje profundo tridimensional",
+        "Capacidad de modelos de visión y lenguaje",
+        "Conocimiento profundo de visión geométrica",
+        "Habilidad para generación de datos sintéticos",
+        "Liderazgo en investigación de visión"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en visión robótica",
+        "Conocimiento de fotografía computacional",
+        "Implementación de renderizado neuronal"
+      ],
+      "indicators": [
+        "Define estrategia de visión por computadora",
+        "Lidera equipos de visión",
+        "Es referente en investigación de visión"
+      ]
+    },
+    "CVE-L5": {
+      "level": "L5 - Líder de Ingeniería de Visión por Computadora",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en visión por computadora",
+        "Diseño de programas de visión empresariales",
+        "Gestión de equipos de ingeniería de visión",
+        "Definición de estrategia de visión",
+        "Capacidad de productización de visión",
+        "Implementación de plataformas de visión",
+        "Dominio de visión ética",
+        "Evangelización de inteligencia artificial visual"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en visión de realidad aumentada y virtual",
+        "Conocimiento de imágenes satelitales",
+        "Gestión de conjuntos de datos de visión masivos"
+      ],
+      "indicators": [
+        "Gestiona equipos de visión por computadora",
+        "Define visión de inteligencia artificial visual empresarial",
+        "Representa visión ante partes interesadas"
+      ]
+    },
+    "CVE-L6": {
+      "level": "L6 - Ingeniero Principal de Visión por Computadora",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de visión por computadora organizacional",
+        "Estrategia de inteligencia visual",
+        "Gestión de inversiones en investigación y desarrollo de visión",
+        "Definición de estrategia de percepción",
+        "Liderazgo en transformación de visión",
+        "Implementación de percepción autónoma",
+        "Innovación en paradigmas de visión",
+        "Gestión de iniciativas de visión globales"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en visión de defensa y seguridad",
+        "Conocimiento de visión regulatoria",
+        "Liderazgo en estándares de visión"
+      ],
+      "indicators": [
+        "Dirige departamento de visión (20+ personas)",
+        "Participa en estrategia de inteligencia artificial",
+        "Define inversiones en inteligencia artificial visual"
+      ]
+    },
+    "CVE-L7": {
+      "level": "L7 - Director de Visión por Computadora",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en inteligencia visual",
+        "Diseño de estrategias de visión globales",
+        "Transformación mediante visión por computadora",
+        "Gestión de visión a escala Fortune 500",
+        "Creación de nuevos paradigmas visuales",
+        "Definición de futuro de percepción automática",
+        "Evangelización de visión a nivel directivo",
+        "Influencia en industria de inteligencia artificial visual"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de visión en vehículos autónomos",
+        "Experiencia en empresas unicornio de visión",
+        "Liderazgo en consorcios de visión"
+      ],
+      "indicators": [
+        "Reporta al Director de Tecnología o Director de Inteligencia Artificial",
+        "Gestiona organización de visión (50+ personas)",
+        "Define estrategia de percepción corporativa"
+      ]
+    },
+    "CVE-L8": {
+      "level": "L8 - Vicepresidente de Visión por Computadora",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de omnipercepción",
+        "Liderazgo en revolución de visión artificial",
+        "Creación de paradigmas de percepción perfecta",
+        "Gestión de visión planetaria",
+        "Innovación disruptiva en visión consciente",
+        "Definición de visión universal",
+        "Evangelización de singularidad visual",
+        "Influencia en futuro de percepción"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como Director de Visión en gigantes tecnológicos",
+        "Asesoría en empresas emergentes de visión",
+        "Liderazgo intelectual en inteligencia artificial visual"
+      ],
+      "indicators": [
+        "Es parte del liderazgo de inteligencia artificial",
+        "Define futuro de visión por computadora",
+        "Es líder mundial en inteligencia visual"
+      ]
+    },
+    "CVE-L9": {
+      "level": "L9 - Director de Visión",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en futuro de percepción artificial",
+        "Transformación de realidad mediante visión",
+        "Creación de paradigmas de omnivisión",
+        "Definición de percepción consciente",
+        "Innovación en visión biológica",
+        "Evangelización de visión universal",
+        "Arquitecto de realidad visual total",
+        "Influencia en evolución de ver y comprender"
+      ],
+      "complementaryCompetencies": [
+        "Creador de revoluciones en visión por computadora",
+        "Reconocimiento como pionero de inteligencia artificial visual",
+        "Influencia en futuro de percepción"
+      ],
+      "indicators": [
+        "Es Director de Visión legendario",
+        "Define futuro de visión artificial",
+        "Es autoridad mundial en visión por computadora"
+      ]
+    }
+  }
+}

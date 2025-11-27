@@ -1,0 +1,200 @@
+{
+  "AISAFE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de AI safety",
+      "Comprensión elemental de AI alignment",
+      "Habilidad para identificar riesgos básicos",
+      "Conocimiento básico de bias en AI",
+      "Capacidad de testing de seguridad con supervisión",
+      "Comprensión de fairness",
+      "Documentación de safety issues",
+      "Conocimiento elemental de AI ethics"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con evaluation frameworks",
+      "Conocimiento básico de adversarial testing",
+      "Comprensión elemental de interpretability"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Identifica riesgos básicos",
+      "Está aprendiendo AI safety"
+    ]
+  },
+  "AISAFE-L2": {
+    "coreCompetencies": [
+      "Capacidad de evaluar modelos por safety",
+      "Implementación de bias detection",
+      "Conocimiento práctico de adversarial robustness",
+      "Habilidad para red teaming AI",
+      "Comprensión de safety benchmarks",
+      "Capacidad de mitigation strategies",
+      "Conocimiento de alignment techniques",
+      "Habilidad para documentation"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de interpretability methods",
+      "Habilidad para safety testing",
+      "Comprensión de AI regulations"
+    ],
+    "indicators": [
+      "Evalúa safety con supervisión",
+      "Implementa mitigations",
+      "Documenta riesgos"
+    ]
+  },
+  "AISAFE-L3": {
+    "coreCompetencies": [
+      "Diseño de safety evaluation frameworks",
+      "Implementación de alignment strategies",
+      "Dominio de adversarial testing",
+      "Capacidad de bias mitigation",
+      "Habilidad para safety monitoring",
+      "Conocimiento profundo de AI risks",
+      "Implementación de safety guardrails",
+      "Capacidad de stakeholder communication"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de interpretability research",
+      "Habilidad para safety research",
+      "Comprensión de AGI safety"
+    ],
+    "indicators": [
+      "Lidera safety evaluations",
+      "Diseña safety systems",
+      "Mentoriza en AI safety"
+    ]
+  },
+  "AISAFE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de AI safety programs",
+      "Diseño de alignment strategies",
+      "Implementación de safety at scale",
+      "Dominio de advanced safety techniques",
+      "Capacidad de safety governance",
+      "Conocimiento profundo de existential risks",
+      "Habilidad para safety research",
+      "Liderazgo en AI ethics"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en AI safety research",
+      "Conocimiento de safety standards",
+      "Implementación de safety culture"
+    ],
+    "indicators": [
+      "Define estrategia AI safety",
+      "Lidera safety research",
+      "Es referente en AI safety"
+    ]
+  },
+  "AISAFE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en AI safety",
+      "Diseño de safety ecosystems",
+      "Gestión de safety teams",
+      "Definición de safety standards",
+      "Capacidad de risk assessment",
+      "Implementación de safety governance",
+      "Dominio de alignment research",
+      "Evangelización de responsible AI"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en safety policy",
+      "Conocimiento de AI governance",
+      "Gestión de safety budget"
+    ],
+    "indicators": [
+      "Gestiona equipo safety",
+      "Define visión AI safety",
+      "Representa safety ante ejecutivos"
+    ]
+  },
+  "AISAFE-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia AI safety",
+      "Gestión de safety programs a escala",
+      "Definición de safety architecture",
+      "Liderazgo en safety transformation",
+      "Gestión de safety incidents",
+      "Implementación de global safety standards",
+      "Innovación en safety research",
+      "Gestión de safety compliance"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en safety regulation",
+      "Conocimiento de safety investment",
+      "Liderazgo en AI safety community"
+    ],
+    "indicators": [
+      "Dirige departamento AI safety",
+      "Participa en estrategia ejecutiva",
+      "Define inversiones en safety"
+    ]
+  },
+  "AISAFE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en AI safety",
+      "Diseño de estrategias de safety globales",
+      "Transformación organizacional via safety",
+      "Gestión de safety a escala",
+      "Creación de safety culture",
+      "Definición de safety roadmap",
+      "Evangelización a nivel board",
+      "Influencia en safety standards"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de safety budgets",
+      "Experiencia en AI governance",
+      "Liderazgo en safety community"
+    ],
+    "indicators": [
+      "Reporta a CAI/CTO",
+      "Gestiona organización safety (15+ personas)",
+      "Define estrategia safety"
+    ]
+  },
+  "AISAFE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de AI safety",
+      "Liderazgo en safety transformation",
+      "Creación de safe AI advantage",
+      "Gestión de safety ecosystems",
+      "Innovación en alignment",
+      "Definición de AGI safety",
+      "Evangelización de responsible AI",
+      "Influencia en AI policies"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en AI safety leadership",
+      "Advisory en safety",
+      "Thought leadership en AI safety"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia safety",
+      "Es líder reconocido"
+    ]
+  },
+  "AISAFE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en AI safety",
+      "Transformación de safety paradigms",
+      "Creación de safe AI",
+      "Definición de aligned AI",
+      "Innovación en safety governance",
+      "Evangelización de AI safety",
+      "Arquitecto de safety ecosystems",
+      "Influencia en AI regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando AI safety",
+      "Reconocimiento como safety pioneer",
+      "Influencia en safety policy"
+    ],
+    "indicators": [
+      "Es Chief AI Safety Officer",
+      "Define futuro de AI safety",
+      "Es autoridad mundial"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "DM-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of delivery methodologies",
+      "Elementary understanding of continuous delivery",
+      "Ability for basic release tracking",
+      "Basic knowledge of deployment processes",
+      "Ability for simple coordination",
+      "Understanding of basic quality gates",
+      "Documentation of release notes",
+      "Elementary knowledge of DevOps"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with CI/CD tools",
+      "Basic knowledge of automation",
+      "Understanding of basic monitoring"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Coordinates simple releases",
+      "Is learning delivery management"
+    ]
+  },
+  "DM-L2": {
+    "coreCompetencies": [
+      "Ability to manage delivery pipelines",
+      "Implementation of release management",
+      "Practical knowledge of deployment automation",
+      "Ability for incident management",
+      "Understanding of rollback strategies",
+      "Ability to perform performance monitoring",
+      "Knowledge of service level management",
+      "Ability for dependency tracking"
+    ],
+    "complementaryCompetencies": [
+      "Management of environments",
+      "Knowledge of containerization",
+      "Understanding of infrastructure as code"
+    ],
+    "indicators": [
+      "Manages delivery with supervision",
+      "Coordinates multiple releases",
+      "Improves delivery processes"
+    ]
+  },
+  "DM-L3": {
+    "coreCompetencies": [
+      "Design of complete delivery strategies",
+      "Implementation of continuous deployment",
+      "Mastery of release orchestration",
+      "Ability for zero-downtime deployments",
+      "Ability for chaos engineering",
+      "Deep knowledge of observability",
+      "Implementation of progressive delivery",
+      "Management of complex dependencies"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of service mesh",
+      "Ability for canary deployments",
+      "Understanding of advanced feature flags"
+    ],
+    "indicators": [
+      "Leads delivery excellence",
+      "Defines release strategies",
+      "Mentors delivery teams"
+    ]
+  },
+  "DM-L4": {
+    "coreCompetencies": [
+      "Architecture of delivery platforms",
+      "Design of global deployment strategies",
+      "Implementation of GitOps practices",
+      "Mastery of multi-region deployments",
+      "Ability for disaster recovery planning",
+      "Deep knowledge of SRE practices",
+      "Ability for cost-optimized delivery",
+      "Leadership in automation excellence"
+    ],
+    "complementaryCompetencies": [
+      "Experience in blue-green deployments",
+      "Knowledge of compliance automation",
+      "Management of multi-cloud delivery"
+    ],
+    "indicators": [
+      "Defines delivery platform strategy",
+      "Leads DevOps transformation",
+      "Influences technical architecture"
+    ]
+  },
+  "DM-L5": {
+    "coreCompetencies": [
+      "Leadership of delivery excellence",
+      "Design of DevOps transformation",
+      "Management of complex delivery teams",
+      "Definition of delivery metrics and KPIs",
+      "Ability for platform engineering",
+      "Implementation of self-service delivery",
+      "Mastery of reliability engineering",
+      "Evangelization of delivery culture"
+    ],
+    "complementaryCompetencies": [
+      "Experience in SRE transformation",
+      "Knowledge of FinOps practices",
+      "Management of delivery vendors"
+    ],
+    "indicators": [
+      "Manages delivery organization",
+      "Defines DevOps vision",
+      "Represents delivery to executives"
+    ]
+  },
+  "DM-L6": {
+    "coreCompetencies": [
+      "Direction of delivery and DevOps",
+      "Strategy of continuous everything",
+      "Management of transformation budgets",
+      "Definition of engineering excellence",
+      "Leadership in platform revolution",
+      "Implementation of autonomous delivery",
+      "Innovation in deployment paradigms",
+      "Management of global delivery"
+    ],
+    "complementaryCompetencies": [
+      "Experience in hyperscale delivery",
+      "Knowledge of edge deployment",
+      "Leadership in DevOps communities"
+    ],
+    "indicators": [
+      "Leads DevOps department (20+ people)",
+      "Participates in technology strategy",
+      "Defines automation investments"
+    ]
+  },
+  "DM-L7": {
+    "coreCompetencies": [
+      "Executive leadership in engineering excellence",
+      "Design of global DevOps strategies",
+      "Transformation of engineering culture",
+      "Management of delivery at FAANG scale",
+      "Creation of velocity advantages",
+      "Definition of future of continuous delivery",
+      "Evangelization of DevOps at board level",
+      "Influence in DevOps industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of planetary-scale systems",
+      "Experience in zero-touch operations",
+      "Leadership in CNCF/standards"
+    ],
+    "indicators": [
+      "Reports to CTO",
+      "Manages engineering excellence (50+ people)",
+      "Defines corporate DevOps strategy"
+    ]
+  },
+  "DM-L8": {
+    "coreCompetencies": [
+      "Strategic vision of perfect delivery",
+      "Leadership in global DevOps revolution",
+      "Creation of instant deployment paradigms",
+      "Management of universal delivery",
+      "Disruptive innovation in continuous everything",
+      "Definition of self-healing systems",
+      "Evangelization of NoOps future",
+      "Influence in evolution of software delivery"
+    ],
+    "complementaryCompetencies": [
+      "Experience as VP Engineering in unicorns",
+      "Advisory in DevOps transformation",
+      "Thought leadership in delivery"
+    ],
+    "indicators": [
+      "Part of engineering leadership",
+      "Defines future of delivery",
+      "Recognized leader in DevOps"
+    ]
+  },
+  "DM-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in the future of software delivery",
+      "Transformation of how software is delivered",
+      "Creation of teleportation delivery paradigms",
+      "Definition of thought-based deployment",
+      "Innovation in consciousness delivery",
+      "Evangelization of infinite velocity",
+      "Architect of timeless delivery",
+      "Influence on digital creation evolution"
+    ],
+    "complementaryCompetencies": [
+      "Father of modern DevOps movement",
+      "Recognition as delivery revolutionary",
+      "Influence on the future of development"
+    ],
+    "indicators": [
+      "Visionary Chief Delivery Officer",
+      "Defines the future of deployment",
+      "DevOps legend"
+    ]
+  }
+}

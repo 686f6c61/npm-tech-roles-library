@@ -1,0 +1,201 @@
+{
+  "DBA-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de sistemas de bases de datos",
+      "Conocimiento elemental de SQL y queries",
+      "Habilidad para backups y restauraciones básicas",
+      "Comprensión básica de usuarios y permisos",
+      "Capacidad de monitoreo básico de bases de datos",
+      "Conocimiento elemental de índices",
+      "Comprensión básica de integridad de datos",
+      "Habilidad para documentar configuraciones"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de scripting",
+      "Familiaridad con herramientas DBA",
+      "Comprensión elemental de OS"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Puede ejecutar tareas DBA rutinarias",
+      "Necesita 6-12 meses de mentoría"
+    ]
+  },
+  "DBA-L2": {
+    "coreCompetencies": [
+      "Capacidad de administrar bases de datos operacionalmente",
+      "Habilidad para optimización de queries básica",
+      "Conocimiento práctico de replicación y clustering",
+      "Comprensión de maintenance plans",
+      "Capacidad de troubleshooting básico",
+      "Habilidad para capacity planning simple",
+      "Conocimiento de security database",
+      "Comprensión de performance monitoring"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de NoSQL básico",
+      "Habilidad para automation básica",
+      "Comprensión de cloud databases"
+    ],
+    "indicators": [
+      "Administra databases con supervisión moderada",
+      "Resuelve issues operacionales comunes",
+      "Mantiene SLAs básicos"
+    ]
+  },
+  "DBA-L3": {
+    "coreCompetencies": [
+      "Dominio de tuning y optimization avanzado",
+      "Capacidad de diseñar estrategias de HA/DR",
+      "Habilidad para implementar sharding",
+      "Conocimiento profundo de internals database",
+      "Capacidad de implementar security avanzada",
+      "Comprensión sólida de data modeling",
+      "Habilidad para migration y upgrades",
+      "Conocimiento de compliance database"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de múltiples RDBMS",
+      "Habilidad para database automation",
+      "Comprensión de data warehousing"
+    ],
+    "indicators": [
+      "Gestiona databases críticas independientemente",
+      "Optimiza performance significativamente",
+      "Lidera proyectos database medianos"
+    ]
+  },
+  "DBA-L4": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar soluciones database enterprise",
+      "Dominio de distributed databases",
+      "Habilidad para implementar multi-master replication",
+      "Conocimiento profundo de storage optimization",
+      "Capacidad de disaster recovery planning",
+      "Dominio de database security enterprise",
+      "Habilidad para capacity forecasting",
+      "Conocimiento de database consolidation"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de in-memory databases",
+      "Habilidad para big data platforms",
+      "Comprensión de database containers"
+    ],
+    "indicators": [
+      "Define estrategia database para aplicaciones",
+      "Lidera migraciones database complejas",
+      "Mentora DBAs junior"
+    ]
+  },
+  "DBA-L5": {
+    "coreCompetencies": [
+      "Expertise en arquitecturas database híbridas",
+      "Capacidad de diseñar data platforms",
+      "Dominio de database automation completa",
+      "Habilidad para implementar DBaaS",
+      "Conocimiento profundo de regulatory compliance",
+      "Capacidad de implementar data governance",
+      "Expertise en cross-platform migrations",
+      "Dominio de database economics"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de blockchain databases",
+      "Habilidad para ML databases",
+      "Comprensión de edge databases"
+    ],
+    "indicators": [
+      "Arquitecta soluciones database corporativas",
+      "Lidera transformación database",
+      "Define standards database enterprise"
+    ]
+  },
+  "DBA-L6": {
+    "coreCompetencies": [
+      "Capacidad de definir estrategia database empresarial",
+      "Expertise en database platform engineering",
+      "Dominio de database modernization",
+      "Habilidad para database center of excellence",
+      "Conocimiento profundo de data strategy",
+      "Capacidad de liderar database teams",
+      "Expertise en vendor management",
+      "Dominio de database risk management"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de database innovation",
+      "Habilidad para database consulting",
+      "Comprensión de data monetization"
+    ],
+    "indicators": [
+      "Define roadmap database multi-año",
+      "Lidera organizaciones database",
+      "Influencia industria database"
+    ]
+  },
+  "DBA-L7": {
+    "coreCompetencies": [
+      "Liderazgo en database innovation global",
+      "Capacidad de database transformation enterprise",
+      "Expertise en data platform strategies",
+      "Dominio de database ecosystem building",
+      "Capacidad de definir database philosophy",
+      "Conocimiento profundo de future databases",
+      "Expertise en database thought leadership",
+      "Capacidad de liderar database research"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de patentar database innovations",
+      "Habilidad para database ventures",
+      "Conocimiento de database investments"
+    ],
+    "indicators": [
+      "Define filosofía database corporativa",
+      "Speaker en conferencias database globales",
+      "Thought leader database"
+    ]
+  },
+  "DBA-L8": {
+    "coreCompetencies": [
+      "Visión estratégica del futuro de databases",
+      "Capacidad de transformar empresas mediante data platforms",
+      "Expertise en database strategy ejecutiva",
+      "Dominio de data economics corporativo",
+      "Capacidad de definir database excellence",
+      "Conocimiento profundo de data governance global",
+      "Expertise en database partnerships",
+      "Capacidad de liderar database standards"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar database industry",
+      "Habilidad para database M&A",
+      "Conocimiento de database IPOs"
+    ],
+    "indicators": [
+      "Define estrategia database Fortune 500",
+      "Influye en database vendors",
+      "Asesor database ejecutivo"
+    ]
+  },
+  "DBA-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en data platforms",
+      "Capacidad de data como activo empresarial",
+      "Expertise en data transformation total",
+      "Dominio de data investment strategies",
+      "Capacidad de construir data organizations",
+      "Conocimiento profundo de data value creation",
+      "Expertise en data partnerships globales",
+      "Capacidad de definir data culture",
+      "Dominio de data business models"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de data policy influence",
+      "Habilidad para data ecosystem creation",
+      "Conocimiento de data-driven exits"
+    ],
+    "indicators": [
+      "Define y ejecuta visión data empresarial",
+      "Responsable de toda la estrategia data",
+      "Líder reconocido en data management global"
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "FME-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of foundation models",
+      "Elementary understanding of fundamentals",
+      "Ability for simple tasks",
+      "Basic knowledge of tools",
+      "Capacity to work under supervision",
+      "Understanding of core concepts",
+      "Basic documentation",
+      "Elementary knowledge of best practices"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with basic frameworks",
+      "Knowledge of standard tools",
+      "Elementary understanding of cloud"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Executes basic tasks with guidance",
+      "Is learning foundation models"
+    ]
+  },
+  "FME-L2": {
+    "coreCompetencies": [
+      "Ability to implement basic solutions in foundation models",
+      "Implementation of standard techniques",
+      "Practical knowledge of frameworks",
+      "Ability to solve typical problems",
+      "Understanding of pipelines",
+      "Capacity for basic deployment",
+      "Knowledge of testing",
+      "Ability for documentation"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of emerging technologies",
+      "Ability for integration",
+      "Understanding of automation"
+    ],
+    "indicators": [
+      "Develops foundation models solutions under supervision",
+      "Implements complete features",
+      "Optimizes basic processes"
+    ]
+  },
+  "FME-L3": {
+    "coreCompetencies": [
+      "Design of end-to-end foundation models solutions",
+      "Implementation of complex systems",
+      "Mastery of technology stack",
+      "Capacity for advanced optimization",
+      "Ability for architecture",
+      "Deep knowledge of best practices",
+      "Implementation of monitoring",
+      "Capacity for mentoring"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of advanced techniques",
+      "Ability for innovation",
+      "Understanding of research"
+    ],
+    "indicators": [
+      "Leads foundation models projects",
+      "Designs complete architectures",
+      "Mentors junior engineers"
+    ]
+  },
+  "FME-L4": {
+    "coreCompetencies": [
+      "Architecture of scalable foundation models platforms",
+      "Design of technical strategies",
+      "Implementation of enterprise systems",
+      "Mastery of optimization at scale",
+      "Capacity for technical leadership",
+      "Deep knowledge of advanced patterns",
+      "Ability for strategic planning",
+      "Leadership in transformation"
+    ],
+    "complementaryCompetencies": [
+      "Experience in distributed systems",
+      "Knowledge of cutting-edge technology",
+      "Implementation of innovation"
+    ],
+    "indicators": [
+      "Defines foundation models strategy",
+      "Leads technical teams",
+      "Is reference in foundation models"
+    ]
+  },
+  "FME-L5": {
+    "coreCompetencies": [
+      "Technical leadership in foundation models",
+      "Design of product strategy",
+      "Management of teams",
+      "Definition of standards",
+      "Capacity for ROI analysis",
+      "Implementation of governance",
+      "Mastery of emerging technology",
+      "Evangelization of culture"
+    ],
+    "complementaryCompetencies": [
+      "Experience in consulting",
+      "Knowledge of business models",
+      "Management of budgets"
+    ],
+    "indicators": [
+      "Manages foundation models teams",
+      "Defines product vision",
+      "Represents foundation models to stakeholders"
+    ]
+  },
+  "FME-L6": {
+    "coreCompetencies": [
+      "Direction of corporate strategy of foundation models",
+      "Management of platforms at scale",
+      "Definition of enterprise architecture",
+      "Leadership in transformation",
+      "Management of strategic partnerships",
+      "Implementation of responsible practices",
+      "Innovation in solutions",
+      "Management of compliance"
+    ],
+    "complementaryCompetencies": [
+      "Experience in M&A",
+      "Knowledge of investment",
+      "Leadership in industry community"
+    ],
+    "indicators": [
+      "Directs foundation models department",
+      "Participates in executive strategy",
+      "Defines foundation models investments"
+    ]
+  },
+  "FME-L7": {
+    "coreCompetencies": [
+      "Executive leadership in foundation models",
+      "Design of global strategies",
+      "Organizational transformation",
+      "Management at Fortune 500 scale",
+      "Creation of organizational culture",
+      "Definition of strategic roadmap",
+      "Evangelization at board level",
+      "Influence on industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of multi-million budgets",
+      "Experience in unicorns",
+      "Leadership in standards"
+    ],
+    "indicators": [
+      "Reports to CTO/CEO",
+      "Manages organization (50+ people)",
+      "Defines corporate strategy for foundation models"
+    ]
+  },
+  "FME-L8": {
+    "coreCompetencies": [
+      "Strategic enterprise vision of foundation models",
+      "Leadership in transformation",
+      "Creation of competitive advantage",
+      "Management of global ecosystems",
+      "Disruptive innovation",
+      "Definition of future direction",
+      "Evangelization of paradigm shift",
+      "Influence on policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as executive in tech giants",
+      "Advisory in startups",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines future of foundation models",
+      "Is recognized leader in foundation models"
+    ]
+  },
+  "FME-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in foundation models",
+      "Transformation of industries",
+      "Creation of paradigms",
+      "Definition of foundation models as core business",
+      "Innovation in breakthrough applications",
+      "Evangelization of culture",
+      "Architect of global ecosystems",
+      "Influence on regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming industries with foundation models",
+      "Recognition as pioneer",
+      "Influence on future"
+    ],
+    "indicators": [
+      "Is Chief Foundation Models Engineer Officer",
+      "Defines future of foundation models industry",
+      "Is world authority in foundation models"
+    ]
+  }
+}

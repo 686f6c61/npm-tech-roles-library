@@ -1,0 +1,200 @@
+{
+  "BD-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of blockchain technology",
+      "Elementary understanding of cryptography",
+      "Ability to create simple smart contracts",
+      "Basic knowledge of distributed networks",
+      "Ability to use wallets and block explorers",
+      "Understanding of hashing and blocks",
+      "Documentation of basic transactions",
+      "Elementary knowledge of consensus mechanisms"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with basic Web3",
+      "Knowledge of standard tokens",
+      "Understanding of gas fees"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Implements simple contracts",
+      "Is learning blockchain development"
+    ]
+  },
+  "BD-L2": {
+    "coreCompetencies": [
+      "Ability to develop complete smart contracts",
+      "Implementation of fungible and non-fungible tokens (NFTs)",
+      "Practical knowledge of DeFi protocols",
+      "Ability to test contracts",
+      "Understanding of oracles and bridges",
+      "Ability to optimize gas costs",
+      "Knowledge of security patterns",
+      "Ability to integrate dApp frontends"
+    ],
+    "complementaryCompetencies": [
+      "Development across multiple chains",
+      "Knowledge of Layer 2 solutions",
+      "Understanding of basic MEV (Maximal Extractable Value)"
+    ],
+    "indicators": [
+      "Develops contracts with supervision",
+      "Implements basic DeFi functionality",
+      "Audits simple code"
+    ]
+  },
+  "BD-L3": {
+    "coreCompetencies": [
+      "Design of complex blockchain architectures",
+      "Implementation of advanced DeFi protocols",
+      "Mastery of security best practices",
+      "Ability to develop cross-chain solutions",
+      "Ability to work with upgradeable contracts",
+      "Deep knowledge of EVM (Ethereum Virtual Machine) internals",
+      "Implementation of governance systems",
+      "Design of tokenomics"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of zero-knowledge proofs",
+      "Ability to work with Substrate/Cosmos",
+      "Understanding of sharding"
+    ],
+    "indicators": [
+      "Leads blockchain development",
+      "Designs complex protocols",
+      "Mentors junior developers"
+    ]
+  },
+  "BD-L4": {
+    "coreCompetencies": [
+      "Architecture of blockchain ecosystems",
+      "Design of consensus mechanisms",
+      "Implementation of sidechains and rollups",
+      "Mastery of cryptographic primitives",
+      "Ability to optimize protocols",
+      "Deep knowledge of MEV strategies",
+      "Ability to perform formal verification",
+      "Leadership in protocol design"
+    ],
+    "complementaryCompetencies": [
+      "Experience in blockchain infrastructure",
+      "Knowledge of quantum resistance",
+      "Implementation of privacy solutions"
+    ],
+    "indicators": [
+      "Defines protocol architecture",
+      "Leads blockchain teams",
+      "Is a reference in Web3"
+    ]
+  },
+  "BD-L5": {
+    "coreCompetencies": [
+      "Technical leadership in blockchain platforms",
+      "Design of decentralized ecosystems",
+      "Management of protocol development teams",
+      "Definition of blockchain strategy",
+      "Ability in advanced tokenomics",
+      "Implementation of complex DAOs (Decentralized Autonomous Organizations)",
+      "Mastery of interoperability",
+      "Evangelization of Web3"
+    ],
+    "complementaryCompetencies": [
+      "Experience in blockchain consulting",
+      "Knowledge of regulatory compliance",
+      "Management of security audits"
+    ],
+    "indicators": [
+      "Manages multiple blockchain teams",
+      "Defines enterprise Web3 vision",
+      "Represents blockchain to investors"
+    ]
+  },
+  "BD-L6": {
+    "coreCompetencies": [
+      "Direction of organizational blockchain development",
+      "Web3 transformation strategy",
+      "Management of blockchain innovation budgets",
+      "Definition of enterprise decentralization",
+      "Leadership in blockchain adoption",
+      "Implementation of enterprise blockchain",
+      "Innovation in consensus algorithms",
+      "Management of global ecosystems"
+    ],
+    "complementaryCompetencies": [
+      "Experience with CBDCs (Central Bank Digital Currencies)",
+      "Knowledge of blockchain regulation",
+      "Leadership in blockchain consortiums"
+    ],
+    "indicators": [
+      "Directs blockchain department (20+ people)",
+      "Participates in digital strategy",
+      "Defines Web3 investments"
+    ]
+  },
+  "BD-L7": {
+    "coreCompetencies": [
+      "Executive leadership in blockchain technology",
+      "Design of global blockchain strategies",
+      "Transformation of industries via blockchain",
+      "Management of protocols at unicorn scale",
+      "Creation of new Web3 paradigms",
+      "Definition of decentralization future",
+      "Evangelization of blockchain at board level",
+      "Influence in crypto industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of crypto treasury",
+      "Experience with blockchain IPOs/ICOs",
+      "Leadership in standards bodies"
+    ],
+    "indicators": [
+      "Reports to C-suite",
+      "Manages blockchain organization (50+ people)",
+      "Defines corporate Web3 strategy"
+    ]
+  },
+  "BD-L8": {
+    "coreCompetencies": [
+      "Strategic vision of decentralized economy",
+      "Leadership in global blockchain revolution",
+      "Creation of new economic models",
+      "Management of multi-billion dollar ecosystems",
+      "Disruptive innovation in consensus mechanisms",
+      "Definition of Web4 paradigms",
+      "Evangelization of sovereign computing",
+      "Influence in global crypto policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as CTO in crypto unicorns",
+      "Advisory in blockchain funds",
+      "Thought leadership in decentralization"
+    ],
+    "indicators": [
+      "Part of executive committee",
+      "Defines global blockchain strategy",
+      "Recognized leader in Web3"
+    ]
+  },
+  "BD-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in the future of value transfer",
+      "Transformation of global economy via blockchain",
+      "Creation of new monetary paradigms",
+      "Definition of universal decentralized computing",
+      "Innovation in planetary consensus",
+      "Evangelization of blockchain consciousness",
+      "Architect of autonomous economies",
+      "Influence in the evolution of money"
+    ],
+    "complementaryCompetencies": [
+      "Creator of revolutionary protocols",
+      "Recognition as blockchain pioneer",
+      "Influence in the future of digital economy"
+    ],
+    "indicators": [
+      "Legendary Chief Blockchain Officer",
+      "Defines the future of decentralization",
+      "World authority in blockchain"
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "EM-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de gestión de equipos técnicos",
+      "Conocimiento elemental de metodologías de desarrollo",
+      "Habilidad para facilitar ceremonias ágiles básicas",
+      "Comprensión básica de métricas de ingeniería",
+      "Capacidad de documentar procesos y decisiones",
+      "Conocimiento elemental de gestión de proyectos",
+      "Comprensión básica de people management",
+      "Habilidad para comunicación técnica y no técnica"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de presupuestos",
+      "Familiaridad con herramientas de gestión",
+      "Comprensión elemental de hiring"
+    ],
+    "indicators": [
+      "Requiere supervisión en decisiones de gestión",
+      "Puede liderar equipos pequeños con apoyo",
+      "Necesita 2-3 años experiencia técnica previa"
+    ]
+  },
+  "EM-L2": {
+    "coreCompetencies": [
+      "Capacidad de gestionar equipos de 5-10 ingenieros",
+      "Habilidad para conducir 1-on-1s efectivos",
+      "Conocimiento práctico de desarrollo de carrera",
+      "Comprensión de gestión de performance",
+      "Capacidad de priorizar roadmap técnico",
+      "Habilidad para resolver conflictos básicos",
+      "Conocimiento de hiring y onboarding",
+      "Comprensión de gestión de stakeholders"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de compensation planning",
+      "Habilidad para budget management básico",
+      "Comprensión de vendor management"
+    ],
+    "indicators": [
+      "Gestiona un equipo con autonomía moderada",
+      "Mejora métricas del equipo consistentemente",
+      "Retiene talento efectivamente"
+    ]
+  },
+  "EM-L3": {
+    "coreCompetencies": [
+      "Dominio de gestión de múltiples equipos",
+      "Capacidad de strategic planning y OKRs",
+      "Habilidad para construir cultura de equipo",
+      "Conocimiento profundo de coaching y mentoring",
+      "Capacidad de gestionar reorganizaciones",
+      "Comprensión sólida de technical debt management",
+      "Habilidad para cross-functional collaboration",
+      "Conocimiento de gestión de crisis"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de gestión de productos",
+      "Habilidad para partnership building",
+      "Comprensión de business metrics"
+    ],
+    "indicators": [
+      "Gestiona 2-3 equipos efectivamente",
+      "Define procesos de ingeniería",
+      "Influencia cultura organizacional"
+    ]
+  },
+  "EM-L4": {
+    "coreCompetencies": [
+      "Capacidad de liderar organizaciones de 20-30 personas",
+      "Dominio de talent management estratégico",
+      "Habilidad para definir engineering strategy",
+      "Conocimiento profundo de organizational design",
+      "Capacidad de gestionar presupuestos significativos",
+      "Dominio de change management",
+      "Habilidad para executive communication",
+      "Conocimiento de scaling engineering orgs"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de M&A integration",
+      "Habilidad para investor relations",
+      "Comprensión de board reporting"
+    ],
+    "indicators": [
+      "Lidera múltiples equipos complejos",
+      "Define estrategia de ingeniería departamental",
+      "Desarrolla otros managers"
+    ]
+  },
+  "EM-L5": {
+    "coreCompetencies": [
+      "Expertise en liderazgo de 30-50+ ingenieros",
+      "Capacidad de definir visión técnica organizacional",
+      "Dominio de portfolio management",
+      "Habilidad para transformation leadership",
+      "Conocimiento profundo de engineering economics",
+      "Capacidad de gestionar distributed teams",
+      "Expertise en vendor y partnership management",
+      "Dominio de innovation management"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de corporate strategy",
+      "Habilidad para public speaking",
+      "Comprensión de industry analysis"
+    ],
+    "indicators": [
+      "Lidera departamentos completos",
+      "Impacta P&L significativamente",
+      "Representa la empresa externamente"
+    ]
+  },
+  "EM-L6": {
+    "coreCompetencies": [
+      "Capacidad de liderar organizaciones de 50-100 personas",
+      "Expertise en engineering excellence programs",
+      "Dominio de talent acquisition strategy",
+      "Habilidad para global team management",
+      "Conocimiento profundo de regulatory compliance",
+      "Capacidad de definir engineering culture",
+      "Expertise en strategic partnerships",
+      "Dominio de organizational transformation"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de venture building",
+      "Habilidad para thought leadership",
+      "Comprensión de ecosystem building"
+    ],
+    "indicators": [
+      "Define cultura de ingeniería corporativa",
+      "Lidera iniciativas transformacionales",
+      "Influencia industria"
+    ]
+  },
+  "EM-L7": {
+    "coreCompetencies": [
+      "Liderazgo de organizaciones de 100-200+ personas",
+      "Capacidad de alinear ingeniería con business strategy",
+      "Expertise en building engineering brands",
+      "Dominio de executive team dynamics",
+      "Capacidad de gestionar multi-site organizations",
+      "Conocimiento profundo de competitive analysis",
+      "Expertise en talent ecosystem building",
+      "Capacidad de definir technology vision"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de board management",
+      "Habilidad para fundraising",
+      "Conocimiento de exit strategies"
+    ],
+    "indicators": [
+      "Responsable de toda la ingeniería",
+      "Miembro del executive team",
+      "Define estrategia tecnológica"
+    ]
+  },
+  "EM-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de ingeniería global",
+      "Capacidad de liderar 200-500+ ingenieros",
+      "Expertise en corporate development",
+      "Dominio de investor management",
+      "Capacidad de M&A leadership",
+      "Conocimiento profundo de industry shaping",
+      "Expertise en building tech ecosystems",
+      "Capacidad de definir company culture"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar políticas",
+      "Habilidad para crear spin-offs",
+      "Conocimiento de private equity"
+    ],
+    "indicators": [
+      "Define estrategia corporativa técnica",
+      "Lidera transformaciones empresariales",
+      "Reconocido líder de industria"
+    ]
+  },
+  "EM-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo C-suite",
+      "Capacidad de definir visión tecnológica disruptiva",
+      "Expertise en transformación digital empresarial",
+      "Dominio de board governance",
+      "Capacidad de construir ventajas competitivas",
+      "Conocimiento profundo de risk management",
+      "Expertise en ecosystem orchestration",
+      "Capacidad de liderar innovación corporativa",
+      "Dominio de shareholder value creation"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar industria",
+      "Habilidad para crear unicornios",
+      "Conocimiento de IPO leadership"
+    ],
+    "indicators": [
+      "Máximo responsable de tecnología",
+      "Define futuro de la empresa",
+      "Líder reconocido globalmente"
+    ]
+  }
+}

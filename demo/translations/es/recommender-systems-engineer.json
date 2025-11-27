@@ -1,0 +1,200 @@
+{
+  "RSE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de recommender systems",
+      "Comprensión elemental de fundamentos",
+      "Habilidad para tareas simples",
+      "Conocimiento básico de herramientas",
+      "Capacidad de trabajo con supervisión",
+      "Comprensión de conceptos core",
+      "Documentación básica",
+      "Conocimiento elemental de best practices"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con frameworks básicos",
+      "Conocimiento de herramientas estándar",
+      "Comprensión elemental de cloud"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Ejecuta tareas básicas con guía",
+      "Está aprendiendo recommender systems"
+    ]
+  },
+  "RSE-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar soluciones básicas en recommender systems",
+      "Implementación de técnicas estándar",
+      "Conocimiento práctico de frameworks",
+      "Habilidad para resolver problemas típicos",
+      "Comprensión de pipelines",
+      "Capacidad de deployment básico",
+      "Conocimiento de testing",
+      "Habilidad para documentación"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de tecnologías emergentes",
+      "Habilidad para integración",
+      "Comprensión de automation"
+    ],
+    "indicators": [
+      "Desarrolla soluciones recommender systems con supervisión",
+      "Implementa features completas",
+      "Optimiza procesos básicos"
+    ]
+  },
+  "RSE-L3": {
+    "coreCompetencies": [
+      "Diseño de soluciones recommender systems end-to-end",
+      "Implementación de sistemas complejos",
+      "Dominio de stack tecnológico",
+      "Capacidad de optimization avanzada",
+      "Habilidad para arquitectura",
+      "Conocimiento profundo de best practices",
+      "Implementación de monitoring",
+      "Capacidad de mentoring"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de técnicas avanzadas",
+      "Habilidad para innovation",
+      "Comprensión de research"
+    ],
+    "indicators": [
+      "Lidera proyectos de recommender systems",
+      "Diseña arquitecturas completas",
+      "Mentoriza engineers junior"
+    ]
+  },
+  "RSE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de plataformas recommender systems escalables",
+      "Diseño de estrategias técnicas",
+      "Implementación de sistemas enterprise",
+      "Dominio de optimization a escala",
+      "Capacidad de leadership técnico",
+      "Conocimiento profundo de patterns avanzados",
+      "Habilidad para strategic planning",
+      "Liderazgo en transformación"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en sistemas distribuidos",
+      "Conocimiento de cutting-edge tech",
+      "Implementación de innovation"
+    ],
+    "indicators": [
+      "Define estrategia de recommender systems",
+      "Lidera equipos técnicos",
+      "Es referente en recommender systems"
+    ]
+  },
+  "RSE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en recommender systems",
+      "Diseño de product strategy",
+      "Gestión de equipos",
+      "Definición de standards",
+      "Capacidad de ROI analysis",
+      "Implementación de governance",
+      "Dominio de emerging tech",
+      "Evangelización de culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en consulting",
+      "Conocimiento de business models",
+      "Gestión de budgets"
+    ],
+    "indicators": [
+      "Gestiona equipos de recommender systems",
+      "Define visión de productos",
+      "Representa recommender systems ante stakeholders"
+    ]
+  },
+  "RSE-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia corporativa de recommender systems",
+      "Gestión de platforms a escala",
+      "Definición de architecture empresarial",
+      "Liderazgo en transformation",
+      "Gestión de partnerships estratégicos",
+      "Implementación de responsible practices",
+      "Innovación en solutions",
+      "Gestión de compliance"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en M&A",
+      "Conocimiento de investment",
+      "Liderazgo en industry community"
+    ],
+    "indicators": [
+      "Dirige departamento de recommender systems",
+      "Participa en estrategia ejecutiva",
+      "Define inversiones en recommender systems"
+    ]
+  },
+  "RSE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en recommender systems",
+      "Diseño de estrategias globales",
+      "Transformación organizacional",
+      "Gestión a escala Fortune 500",
+      "Creación de organizational culture",
+      "Definición de roadmap estratégico",
+      "Evangelización a nivel board",
+      "Influencia en industry"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de budgets multi-millonarios",
+      "Experiencia en unicorns",
+      "Liderazgo en standards"
+    ],
+    "indicators": [
+      "Reporta a CTO/CEO",
+      "Gestiona organización (50+ personas)",
+      "Define estrategia corporativa de recommender systems"
+    ]
+  },
+  "RSE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica empresarial de recommender systems",
+      "Liderazgo en transformation",
+      "Creación de competitive advantage",
+      "Gestión de ecosystems globales",
+      "Innovación disruptiva",
+      "Definición de future direction",
+      "Evangelización de paradigm shift",
+      "Influencia en policies"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como executive en tech giants",
+      "Advisory en startups",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define futuro de recommender systems",
+      "Es líder reconocido en recommender systems"
+    ]
+  },
+  "RSE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en recommender systems",
+      "Transformación de industrias",
+      "Creación de paradigmas",
+      "Definición de recommender systems como core business",
+      "Innovación en breakthrough applications",
+      "Evangelización de culture",
+      "Arquitecto de ecosystems globales",
+      "Influencia en regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando industrias con recommender systems",
+      "Reconocimiento como pioneer",
+      "Influencia en future"
+    ],
+    "indicators": [
+      "Es Chief Recommender Systems Engineer Officer",
+      "Define futuro de la industria de recommender systems",
+      "Es autoridad mundial en recommender systems"
+    ]
+  }
+}

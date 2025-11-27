@@ -1,0 +1,200 @@
+{
+  "DA-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of software development",
+      "Ability for simple technical communication",
+      "Elementary understanding of developer communities",
+      "Ability to create basic technical content",
+      "Knowledge of professional social networks",
+      "Ability for simple demos",
+      "Basic understanding of technical documentation",
+      "Ability to provide level 1 developer support"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of public speaking",
+      "Familiarity with content creation tools",
+      "Elementary understanding of technical marketing"
+    ],
+    "indicators": [
+      "Requires constant supervision and mentoring",
+      "Creates content with exhaustive review",
+      "Learning the developer ecosystem"
+    ]
+  },
+  "DA-L2": {
+    "coreCompetencies": [
+      "Ability to create complete technical tutorials",
+      "Ability to give technical talks at meetups",
+      "Practical knowledge of multiple technologies",
+      "Understanding of developer experience",
+      "Ability to moderate online communities",
+      "Ability to create interactive demos",
+      "Knowledge of engagement metrics",
+      "Ability for feedback collection and analysis"
+    ],
+    "complementaryCompetencies": [
+      "Basic management of technical events",
+      "Knowledge of technical video production",
+      "Ability for basic live coding"
+    ],
+    "indicators": [
+      "Creates technical content independently",
+      "Actively participates in communities",
+      "Represents the company at local events"
+    ]
+  },
+  "DA-L3": {
+    "coreCompetencies": [
+      "Design of developer relations programs",
+      "Ability to create advanced multimedia content",
+      "Ability for keynotes at regional conferences",
+      "Mastery of technical storytelling",
+      "Ability to build developer communities",
+      "Deep knowledge of developer journey",
+      "Ability to create SDKs and tools",
+      "Management of feedback loops with product"
+    ],
+    "complementaryCompetencies": [
+      "Creation of technical podcasts",
+      "Knowledge of streaming platforms",
+      "Ability for complex technical workshops"
+    ],
+    "indicators": [
+      "Leads developer engagement initiatives",
+      "Recognized in specific communities",
+      "Influences product roadmap"
+    ]
+  },
+  "DA-L4": {
+    "coreCompetencies": [
+      "Developer relations strategy at scale",
+      "Leadership of global advocacy programs",
+      "Ability to influence technology adoption",
+      "Mastery of ecosystem building",
+      "Ability for technical partnerships",
+      "Deep knowledge of competitive positioning",
+      "Ability for crisis management in communities",
+      "Design of developer certification programs"
+    ],
+    "complementaryCompetencies": [
+      "Management of significant DevRel budgets",
+      "Experience in open source governance",
+      "Knowledge of venture building"
+    ],
+    "indicators": [
+      "Defines DevRel departmental strategy",
+      "Keynote speaker at major conferences",
+      "Builds strategic relationships with influencers"
+    ]
+  },
+  "DA-L5": {
+    "coreCompetencies": [
+      "Leadership of developer advocacy teams",
+      "Design of technology adoption strategies",
+      "Management of global developer communities",
+      "Definition of DevRel success metrics",
+      "Ability for executive evangelization",
+      "Implementation of enterprise developer programs",
+      "Mastery of thought leadership",
+      "Influence in industry standards"
+    ],
+    "complementaryCompetencies": [
+      "Experience in technical product management",
+      "Knowledge of business development",
+      "Management of analyst relationships (Gartner, etc)"
+    ],
+    "indicators": [
+      "Manages advocacy team (5-10 people)",
+      "Defines the company's technical voice",
+      "Represents the company on executive panels"
+    ]
+  },
+  "DA-L6": {
+    "coreCompetencies": [
+      "Direction of organizational developer relations",
+      "Strategy of developer ecosystems",
+      "Management of million-dollar DevRel budgets",
+      "Definition of developer-first culture",
+      "Leadership in go-to-market transformation",
+      "Creation of technology movements",
+      "Management of external CTO relationships",
+      "Innovation in engagement models"
+    ],
+    "complementaryCompetencies": [
+      "Experience in product strategy",
+      "Knowledge of corporate development",
+      "Ability for community M&A"
+    ],
+    "indicators": [
+      "Directs DevRel department (20+ people)",
+      "Participates in executive product strategy",
+      "Defines technical market positioning"
+    ]
+  },
+  "DA-L7": {
+    "coreCompetencies": [
+      "Executive leadership in developer ecosystem",
+      "Design of platform economy strategies",
+      "Transformation of companies toward developer-centric models",
+      "Management of developer ecosystems with thousands of developers",
+      "Creation of competitive advantages through community",
+      "Definition of future of developer experience",
+      "Evangelization at board level",
+      "Influence in industry direction"
+    ],
+    "complementaryCompetencies": [
+      "Management of investment funds for developers",
+      "Experience in creation of developer-first unicorns",
+      "Leadership in technology consortiums"
+    ],
+    "indicators": [
+      "Reports directly to C-suite",
+      "Manages DevRel organizations (50+ people)",
+      "Is the public voice of technical strategy"
+    ]
+  },
+  "DA-L8": {
+    "coreCompetencies": [
+      "Strategic vision of developer economy",
+      "Leadership in industry transformation through developers",
+      "Creation of platforms that define markets",
+      "Management of ecosystems with millions of developers",
+      "Disruptive innovation in developer engagement",
+      "Definition of global DevX standards",
+      "Evangelization of new technology paradigms",
+      "Influence in government technology policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as CPO/CTO in developer-first companies",
+      "Advisory boards at multiple startups",
+      "Publication of influential books on DevRel"
+    ],
+    "indicators": [
+      "Part of executive committee",
+      "Defines corporate ecosystem strategy",
+      "Global thought leader in developer economy"
+    ]
+  },
+  "DA-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in future of software development",
+      "Transformation of entire industries through developers",
+      "Creation of global technology movements",
+      "Definition of next generation of computing",
+      "Revolutionary innovation in human-computer collaboration",
+      "Evangelization of post-code paradigms",
+      "Influence in evolution of developer profession",
+      "Architect of technological futures"
+    ],
+    "complementaryCompetencies": [
+      "Experience as CEO/CTO at companies that transformed industries",
+      "Recognition as founder/founder of technology movements",
+      "Influence on global university curricula"
+    ],
+    "indicators": [
+      "Chief Developer Officer or equivalent",
+      "Defines the future of how software is built",
+      "Icon of the technology industry"
+    ]
+  }
+}

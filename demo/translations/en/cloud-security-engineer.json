@@ -1,0 +1,200 @@
+{
+  "CSE-L1": {
+    "coreCompetencies": [
+      "Basic understanding of cloud computing",
+      "Elementary understanding of cloud security",
+      "Ability to configure basic security groups",
+      "Basic knowledge of IAM",
+      "Ability to review configurations with supervision",
+      "Understanding of encryption at rest/transit",
+      "Documentation of security findings",
+      "Elementary knowledge of compliance"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with AWS/Azure/GCP consoles",
+      "Basic knowledge of CloudTrail",
+      "Elementary understanding of network security"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Implements basic controls",
+      "Learning cloud security"
+    ]
+  },
+  "CSE-L2": {
+    "coreCompetencies": [
+      "Ability to implement security controls in cloud",
+      "Implementation of IAM policies",
+      "Practical knowledge of cloud compliance",
+      "Ability for security monitoring",
+      "Understanding of infrastructure as code security",
+      "Ability for vulnerability scanning",
+      "Knowledge of container security",
+      "Ability for basic incident response"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of CSPM tools",
+      "Ability for security automation",
+      "Understanding of multi-cloud"
+    ],
+    "indicators": [
+      "Implements security with supervision",
+      "Responds to alerts",
+      "Maintains compliance"
+    ]
+  },
+  "CSE-L3": {
+    "coreCompetencies": [
+      "Design of secure architectures in cloud",
+      "Implementation of zero-trust networks",
+      "Mastery of cloud security posture management",
+      "Ability for threat detection",
+      "Ability for security automation",
+      "Deep knowledge of shared responsibility model",
+      "Implementation of DLP",
+      "Ability for security training"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of SIEM/SOAR",
+      "Ability for forensics",
+      "Understanding of compliance frameworks"
+    ],
+    "indicators": [
+      "Leads security projects",
+      "Designs secure cloud solutions",
+      "Mentors in cloud security"
+    ]
+  },
+  "CSE-L4": {
+    "coreCompetencies": [
+      "Architecture of security programs in cloud",
+      "Design of multi-cloud security strategy",
+      "Implementation of security automation at scale",
+      "Mastery of advanced threat detection",
+      "Ability for cloud security architecture",
+      "Deep knowledge of regulatory compliance",
+      "Ability for security governance",
+      "Leadership in cloud hardening"
+    ],
+    "complementaryCompetencies": [
+      "Experience in cloud compliance (PCI-DSS, HIPAA)",
+      "Knowledge of CASB",
+      "Implementation of security orchestration"
+    ],
+    "indicators": [
+      "Defines cloud security strategy",
+      "Leads security transformation",
+      "Is reference in cloud security"
+    ]
+  },
+  "CSE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in cloud security",
+      "Design of enterprise cloud security",
+      "Management of security teams",
+      "Definition of cloud security standards",
+      "Ability for security risk management",
+      "Implementation of SIEM/SOAR platforms",
+      "Mastery of cloud security economics",
+      "Evangelization of security best practices"
+    ],
+    "complementaryCompetencies": [
+      "Experience in cloud migrations",
+      "Knowledge of security partnerships",
+      "Management of security budget"
+    ],
+    "indicators": [
+      "Manages cloud security team",
+      "Defines vision of cloud security",
+      "Represents security before executives"
+    ]
+  },
+  "CSE-L6": {
+    "coreCompetencies": [
+      "Direction of cloud security strategy",
+      "Management of security operations at scale",
+      "Definition of multi-cloud security architecture",
+      "Leadership in cloud security transformation",
+      "Management of major incidents",
+      "Implementation of security governance",
+      "Innovation in cloud security",
+      "Management of global compliance"
+    ],
+    "complementaryCompetencies": [
+      "Experience in M&A security",
+      "Knowledge of security investment",
+      "Leadership in cloud security industry"
+    ],
+    "indicators": [
+      "Directs cloud security department",
+      "Participates in executive strategy",
+      "Defines security investments"
+    ]
+  },
+  "CSE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in cloud security",
+      "Design of global security strategies",
+      "Organizational transformation via cloud security",
+      "Management at Fortune 500 scale",
+      "Creation of cloud security culture",
+      "Definition of security roadmap",
+      "Evangelization at board level",
+      "Influence in standards"
+    ],
+    "complementaryCompetencies": [
+      "Management of multi-million security budgets",
+      "Experience in cloud IPO",
+      "Leadership in consortiums"
+    ],
+    "indicators": [
+      "Reports to CISO",
+      "Manages organization (25+ people)",
+      "Defines cloud security strategy"
+    ]
+  },
+  "CSE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of cloud security",
+      "Leadership in security transformation",
+      "Creation of competitive advantage",
+      "Management of security ecosystems",
+      "Disruptive innovation",
+      "Definition of next-gen paradigms",
+      "Evangelization of cloud-native security",
+      "Influence in policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as CISO in unicorns",
+      "Advisory in startups",
+      "Thought leadership in cloud security"
+    ],
+    "indicators": [
+      "Part of executive committee",
+      "Defines strategy",
+      "Is recognized leader globally"
+    ]
+  },
+  "CSE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in cloud security",
+      "Transformation of industries",
+      "Creation of security paradigms",
+      "Definition of cloud-native security",
+      "Innovation in governance",
+      "Evangelization of security consciousness",
+      "Architect of ecosystems",
+      "Influence in regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming Fortune 100",
+      "Recognition as pioneer",
+      "Influence in cloud standards"
+    ],
+    "indicators": [
+      "Is Chief Cloud Security Officer",
+      "Defines future",
+      "Is world authority"
+    ]
+  }
+}

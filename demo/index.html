@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<!--
+ * Tech Roles Library - Interactive Browser Demo
+ * @author 686f6c61
+ * @license MIT
+ * @see https://github.com/686f6c61/npm-tech-roles-library
+ * @see https://www.npmjs.com/package/@sparring/tech-roles-library
+ -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="686f6c61">
+    <meta name="repository" content="https://github.com/686f6c61/npm-tech-roles-library">
+    <meta name="version" content="1.0.0">
+    <title>Tech Roles Library - Interactive Demo</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💼</text></svg>">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        header {
+            margin-bottom: 30px;
+            border-bottom: 3px solid #000;
+            padding-bottom: 20px;
+        }
+
+        h1 {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 16px;
+            color: #666;
+        }
+
+        h2 {
+            font-size: 22px;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #000;
+            padding-bottom: 5px;
+        }
+
+        h3 {
+            font-size: 18px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        .controls {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #f5f5f5;
+            border: 2px solid #000;
+        }
+
+        .control-row {
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        label {
+            font-weight: bold;
+            min-width: 100px;
+        }
+
+        select, input, textarea {
+            padding: 8px 12px;
+            border: 2px solid #000;
+            background-color: #fff;
+            font-size: 14px;
+            min-width: 200px;
+        }
+
+        textarea {
+            width: 100%;
+            font-family: monospace;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #000;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        button:hover {
+            background-color: #333;
+        }
+
+        button:active {
+            background-color: #555;
+        }
+
+        .output {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #fafafa;
+            border: 2px solid #000;
+            min-height: 200px;
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
+
+        .stat-card {
+            padding: 20px;
+            background-color: #fff;
+            border: 2px solid #000;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 36px;
+            font-weight: bold;
+            color: #000;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: #666;
+            margin-top: 5px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+
+        th, td {
+            border: 1px solid #000;
+            padding: 12px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #000;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        tbody tr {
+            cursor: pointer;
+        }
+
+        tbody tr:hover {
+            background-color: #e0e0e0;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 8px;
+            background-color: #000;
+            color: #fff;
+            font-size: 12px;
+            margin: 2px;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            font-size: 18px;
+            color: #666;
+        }
+
+        .error {
+            color: #cc0000;
+            background-color: #ffe6e6;
+            padding: 15px;
+            border: 2px solid #cc0000;
+            margin: 15px 0;
+        }
+
+        .info {
+            background-color: #e6f3ff;
+            padding: 15px;
+            border: 2px solid #0066cc;
+            margin: 15px 0;
+        }
+
+        .result-item {
+            padding: 15px;
+            margin: 10px 0;
+            border: 2px solid #000;
+            background-color: #fff;
+        }
+
+        .result-header {
+            font-weight: bold;
+            font-size: 16px;
+            margin-bottom: 5px;
+        }
+
+        .result-item ul {
+            margin: 10px 0;
+            padding-left: 25px;
+        }
+
+        .result-item li {
+            margin: 5px 0;
+            line-height: 1.4;
+        }
+
+        .suggestions-box {
+            position: absolute;
+            background: white;
+            border: 2px solid #000;
+            max-height: 300px;
+            overflow-y: auto;
+            z-index: 1000;
+            margin-top: 5px;
+        }
+
+        .suggestions-list {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .suggestions-list li {
+            padding: 12px;
+            cursor: pointer;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .suggestions-list li:hover {
+            background-color: #f0f0f0;
+        }
+
+        .category-badge {
+            font-size: 12px;
+            color: #666;
+            margin-left: 10px;
+            background-color: #e0e0e0;
+            padding: 2px 6px;
+        }
+
+        footer {
+            margin-top: 50px;
+            padding: 30px 20px;
+            border-top: 3px solid #000;
+            background-color: #f5f5f5;
+            text-align: center;
+        }
+
+        footer h3 {
+            margin-bottom: 15px;
+            font-size: 18px;
+        }
+
+        footer p {
+            margin: 8px 0;
+            font-size: 14px;
+            color: #333;
+        }
+
+        footer a {
+            color: #000;
+            text-decoration: none;
+            font-weight: bold;
+            border-bottom: 2px solid #000;
+            padding-bottom: 2px;
+        }
+
+        footer a:hover {
+            background-color: #000;
+            color: #fff;
+        }
+
+        .footer-links {
+            margin-top: 15px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .footer-version {
+            margin-top: 10px;
+            font-size: 12px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Tech Roles Library</h1>
+            <p class="subtitle">Interactive demo - 78 technical roles - 9 career levels = 702 definitions</p>
+            <p class="subtitle">NPM package @sparring/tech-roles-library | Bilingual (en/es)</p>
+        </header>
+
+        <h2>Summary and statistics</h2>
+        <div class="controls">
+            <div class="control-row">
+                <label>Language:</label>
+                <select id="language" onchange="changeLanguage()">
+                    <option value="en" selected>English</option>
+                    <option value="es">Spanish</option>
+                </select>
+            </div>
+        </div>
+        <div id="stats-output" class="output">
+            <div class="loading">Loading statistics...</div>
+        </div>
+
+        <h2>Browse and search roles</h2>
+        <div class="controls" style="position: relative;">
+            <div class="control-row">
+                <label>Search by name:</label>
+                <input type="text" id="role-search" placeholder="E.g.: fullstack, backend, devops..." oninput="searchRoles()">
+            </div>
+            <div id="role-suggestions" class="suggestions-box" style="display:none;"></div>
+
+            <div class="control-row" style="margin-top: 15px;">
+                <label>Filter by category:</label>
+                <select id="category-filter" onchange="filterByCategory()">
+                    <option value="">All categories</option>
+                </select>
+                <button onclick="showAllRoles()">Show all roles</button>
+            </div>
+
+            <div id="level-selector" style="display:none; margin-top: 20px;">
+                <div class="control-row">
+                    <label>Select level:</label>
+                    <select id="selected-level" onchange="showRoleDetails()">
+                        <option value="">-- Select level --</option>
+                        <option value="L1">L1</option>
+                        <option value="L2">L2</option>
+                        <option value="L3">L3</option>
+                        <option value="L4">L4</option>
+                        <option value="L5">L5</option>
+                        <option value="L6">L6</option>
+                        <option value="L7">L7</option>
+                        <option value="L8">L8</option>
+                        <option value="L9">L9</option>
+                    </select>
+                </div>
+                <div class="control-row">
+                    <label>Or by years:</label>
+                    <input type="number" id="years-experience" placeholder="E.g.: 5" oninput="selectByYears()" min="0" max="25">
+                </div>
+            </div>
+        </div>
+        <div id="roles-output" class="output">
+            <div class="info">Use search or category filter to find roles, or click "Show all roles"</div>
+        </div>
+
+        <h2>Career path</h2>
+        <div class="controls">
+            <div class="control-row">
+                <label>Role:</label>
+                <select id="role-career"></select>
+            </div>
+            <div class="control-row">
+                <label>Current level:</label>
+                <select id="level-career">
+                    <option value="L1">L1 - Trainee</option>
+                    <option value="L2">L2 - Junior I</option>
+                    <option value="L3">L3 - Junior II</option>
+                    <option value="L4">L4 - Mid-level I</option>
+                    <option value="L5" selected>L5 - Mid-level II</option>
+                    <option value="L6">L6 - Senior I</option>
+                    <option value="L7">L7 - Senior II</option>
+                    <option value="L8">L8 - Staff/Principal</option>
+                    <option value="L9">L9 - VP/CTO</option>
+                </select>
+            </div>
+            <div class="control-row">
+                <button onclick="showCareerPath()">Full path</button>
+                <button onclick="showNextLevel()">Next level</button>
+            </div>
+        </div>
+        <div id="career-output" class="output">
+            <div class="info">Select a role and level to view career path</div>
+        </div>
+
+        <footer>
+            <h3>@sparring/tech-roles-library</h3>
+            <p><strong>Author:</strong> 686f6c61</p>
+            <p><strong>License:</strong> MIT</p>
+            <div class="footer-links">
+                <a href="https://github.com/686f6c61/npm-tech-roles-library" target="_blank" rel="noopener">GitHub Repository</a>
+                <a href="https://www.npmjs.com/package/@sparring/tech-roles-library" target="_blank" rel="noopener">NPM Package</a>
+                <a href="https://www.686f6c61.dev" target="_blank" rel="noopener">Homepage</a>
+            </div>
+            <p class="footer-version">Version 1.0.0</p>
+        </footer>
+    </div>
+
+    <script src="library-bundle.js"></script>
+
+    <script>
+        let library = null;
+        let rolesData = null;
+
+        // Initialize on load
+        document.addEventListener('DOMContentLoaded', async function() {
+            await initializeLibrary();
+            await loadRolesData();
+            populateSelects();
+            loadStatistics(); // Auto-load statistics
+
+            // Event delegation for clickable table rows
+            document.getElementById('roles-output').addEventListener('click', function(e) {
+                const row = e.target.closest('tr.clickable-row');
+                if (row) {
+                    const roleName = row.getAttribute('data-role');
+                    if (roleName) {
+                        selectRoleFromTable(roleName);
+                    }
+                }
+            });
+        });
+
+        async function initializeLibrary() {
+            try {
+                library = new TechRolesLibrary('en');
+                await library.init();
+                console.log('Library initialized');
+            } catch (error) {
+                console.error('Error initializing library:', error);
+            }
+        }
+
+        async function loadRolesData() {
+            try {
+                const response = await fetch('roles-data.json');
+                rolesData = await response.json();
+                console.log('Data loaded:', rolesData.roles.length, 'roles');
+            } catch (error) {
+                console.error('Error loading data:', error);
+            }
+        }
+
+        async function changeLanguage() {
+            const lang = document.getElementById('language').value;
+            try {
+                library = new TechRolesLibrary(lang);
+                await library.init();
+                populateSelects();
+                loadStatistics();
+                console.log('Language changed to:', lang);
+            } catch (error) {
+                console.error('Error changing language:', error);
+            }
+        }
+
+        function populateSelects() {
+            const lang = document.getElementById('language').value;
+            const selects = ['role-career'];
+            selects.forEach(selectId => {
+                const select = document.getElementById(selectId);
+                select.innerHTML = '';
+                rolesData.roles.forEach(role => {
+                    const option = document.createElement('option');
+                    option.value = lang === 'en' ? role.en : role.es;
+                    option.textContent = lang === 'en' ? role.en : role.es;
+                    select.appendChild(option);
+                });
+            });
+
+            const catSelect = document.getElementById('category-filter');
+            catSelect.innerHTML = '<option value="">' + (lang === 'en' ? 'All categories' : 'Todas las categorías') + '</option>';
+            rolesData.categories.forEach(cat => {
+                const option = document.createElement('option');
+                option.value = cat;
+                option.textContent = cat;
+                catSelect.appendChild(option);
+            });
+        }
+
+        function loadStatistics() {
+            const lang = document.getElementById('language').value;
+            const output = document.getElementById('stats-output');
+
+            const stats = library.getStatistics();
+            console.log('Stats:', stats);
+
+            let html = '<div class="stats-grid">';
+            html += `
+                <div class="stat-card">
+                    <div class="stat-value">${stats.totalRoles}</div>
+                    <div class="stat-label">${lang === 'en' ? 'Technical roles' : 'Roles técnicos'}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${stats.totalEntries}</div>
+                    <div class="stat-label">${lang === 'en' ? 'Role definitions' : 'Definiciones'}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${stats.totalCategories}</div>
+                    <div class="stat-label">${lang === 'en' ? 'Categories' : 'Categorías'}</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">9</div>
+                    <div class="stat-label">${lang === 'en' ? 'Career levels' : 'Niveles'}</div>
+                </div>
+            `;
+            html += '</div>';
+
+            html += `<h3>${lang === 'en' ? 'By category' : 'Por categoría'}</h3>`;
+            html += `<table><thead><tr><th>${lang === 'en' ? 'Category' : 'Categoría'}</th><th>${lang === 'en' ? 'Roles' : 'Roles'}</th></tr></thead><tbody>`;
+            if (stats.byCategory) {
+                Object.entries(stats.byCategory).forEach(([cat, count]) => {
+                    html += `<tr><td>${cat}</td><td>${count / 9}</td></tr>`;
+                });
+            }
+            html += '</tbody></table>';
+
+            output.innerHTML = html;
+        }
+
+        function showAllRoles() {
+            const lang = document.getElementById('language').value;
+            const output = document.getElementById('roles-output');
+
+            // Clear search and category filter
+            document.getElementById('role-search').value = '';
+            document.getElementById('category-filter').value = '';
+            document.getElementById('role-suggestions').style.display = 'none';
+            document.getElementById('level-selector').style.display = 'none';
+
+            let filtered = rolesData.roles;
+
+            let html = `<h3>${filtered.length} roles</h3>`;
+            html += '<table><thead><tr>';
+            html += `<th>#</th><th>${lang === 'en' ? 'Role' : 'Rol'}</th><th>${lang === 'en' ? 'Category' : 'Categoría'}</th><th>${lang === 'en' ? 'Levels' : 'Niveles'}</th><th>${lang === 'en' ? 'Years' : 'Años'}</th>`;
+            html += '</tr></thead><tbody>';
+
+            filtered.forEach((role, i) => {
+                const name = lang === 'en' ? role.en : role.es;
+                const minYears = role.availableLevels[0].yearsRange.min;
+                const lastLevel = role.availableLevels[role.availableLevels.length - 1];
+                const maxYears = lastLevel.yearsRange.max ? lastLevel.yearsRange.max : '20+';
+                html += `<tr class="clickable-row" data-role="${name}">
+                    <td>${i + 1}</td>
+                    <td><strong>${name}</strong></td>
+                    <td><span class="badge">${role.category}</span></td>
+                    <td>${role.levelCount}</td>
+                    <td>${minYears}-${maxYears}</td>
+                </tr>`;
+            });
+
+            html += '</tbody></table>';
+            output.innerHTML = html;
+        }
+
+        function filterByCategory() {
+            const lang = document.getElementById('language').value;
+            const category = document.getElementById('category-filter').value;
+            const output = document.getElementById('roles-output');
+
+            // Clear search
+            document.getElementById('role-search').value = '';
+            document.getElementById('role-suggestions').style.display = 'none';
+            document.getElementById('level-selector').style.display = 'none';
+
+            if (!category) {
+                showAllRoles();
+                return;
+            }
+
+            let filtered = rolesData.roles.filter(r => r.category === category);
+
+            let html = `<h3>${filtered.length} roles ${lang === 'en' ? 'in' : 'en'} ${category}</h3>`;
+            html += '<table><thead><tr>';
+            html += `<th>#</th><th>${lang === 'en' ? 'Role' : 'Rol'}</th><th>${lang === 'en' ? 'Levels' : 'Niveles'}</th><th>${lang === 'en' ? 'Years' : 'Años'}</th>`;
+            html += '</tr></thead><tbody>';
+
+            filtered.forEach((role, i) => {
+                const name = lang === 'en' ? role.en : role.es;
+                const minYears = role.availableLevels[0].yearsRange.min;
+                const lastLevel = role.availableLevels[role.availableLevels.length - 1];
+                const maxYears = lastLevel.yearsRange.max ? lastLevel.yearsRange.max : '20+';
+                html += `<tr class="clickable-row" data-role="${name}">
+                    <td>${i + 1}</td>
+                    <td><strong>${name}</strong></td>
+                    <td>${role.levelCount}</td>
+                    <td>${minYears}-${maxYears}</td>
+                </tr>`;
+            });
+
+            html += '</tbody></table>';
+            output.innerHTML = html;
+        }
+
+        function showCareerPath() {
+            const lang = document.getElementById('language').value;
+            const roleName = document.getElementById('role-career').value;
+            const level = document.getElementById('level-career').value;
+            const output = document.getElementById('career-output');
+
+            try {
+                const careerPath = library.getCareerPathComplete(roleName, level);
+
+                let html = `<h3>${lang === 'en' ? 'Career path' : 'Ruta de carrera'}: ${roleName}</h3>`;
+
+                html += `<p><strong>${lang === 'en' ? 'Progress' : 'Progreso'}:</strong> ${careerPath.summary.progressPercentage}%</p>`;
+                html += `<p>${lang === 'en' ? 'Mastered' : 'Dominados'}: ${careerPath.masteredLevels.length} | ${lang === 'en' ? 'Current' : 'Actual'}: ${level} | ${lang === 'en' ? 'Growth' : 'Crecimiento'}: ${careerPath.growthPath.length}</p>`;
+
+                if (careerPath.masteredLevels.length > 0) {
+                    html += `<h3>${lang === 'en' ? 'Mastered levels' : 'Niveles dominados'}</h3>`;
+                    careerPath.masteredLevels.forEach(lvl => {
+                        html += `<div class="result-item">
+                            <div class="result-header">${lvl.code} - ${lvl.level}</div>
+                            <p><strong>${lang === 'en' ? 'Core competencies' : 'Competencias clave'} (${lvl.coreCompetencies.length}):</strong></p>
+                            <ul>${lvl.coreCompetencies.map(c => `<li>${c}</li>`).join('')}</ul>
+                            <p><strong>${lang === 'en' ? 'Complementary competencies' : 'Competencias complementarias'} (${lvl.complementaryCompetencies.length}):</strong></p>
+                            <ul>${lvl.complementaryCompetencies.map(c => `<li>${c}</li>`).join('')}</ul>
+                            <p><strong>${lang === 'en' ? 'Indicators' : 'Indicadores'} (${lvl.indicators.length}):</strong></p>
+                            <ul>${lvl.indicators.map(c => `<li>${c}</li>`).join('')}</ul>
+                        </div>`;
+                    });
+                }
+
+                html += `<h3>${lang === 'en' ? 'Current level' : 'Nivel actual'}</h3>`;
+                const current = careerPath.currentLevel;
+                const currentYears = current.yearsRange.max || '20+';
+                html += `<div class="result-item" style="border: 3px solid #000;">
+                    <div class="result-header">${current.code} - ${current.level}</div>
+                    <p><strong>${lang === 'en' ? 'Years of experience' : 'Años de experiencia'}:</strong> ${current.yearsRange.min}-${currentYears} ${lang === 'en' ? 'years' : 'años'}</p>
+                    <p><strong>${lang === 'en' ? 'Core competencies' : 'Competencias clave'} (${current.coreCompetencies.length}):</strong></p>
+                    <ul>${current.coreCompetencies.map(c => `<li>${c}</li>`).join('')}</ul>
+                    <p><strong>${lang === 'en' ? 'Complementary competencies' : 'Competencias complementarias'} (${current.complementaryCompetencies.length}):</strong></p>
+                    <ul>${current.complementaryCompetencies.map(c => `<li>${c}</li>`).join('')}</ul>
+                    <p><strong>${lang === 'en' ? 'Indicators' : 'Indicadores'} (${current.indicators.length}):</strong></p>
+                    <ul>${current.indicators.map(c => `<li>${c}</li>`).join('')}</ul>
+                </div>`;
+
+                if (careerPath.growthPath.length > 0) {
+                    html += `<h3>${lang === 'en' ? 'Growth path' : 'Ruta de crecimiento'}</h3>`;
+                    careerPath.growthPath.forEach(lvl => {
+                        const maxYears = lvl.yearsRange.max || '20+';
+                        html += `<div class="result-item">
+                            <div class="result-header">${lvl.code} - ${lvl.level}</div>
+                            <p><strong>${lang === 'en' ? 'Years required' : 'Años requeridos'}:</strong> ${lvl.yearsRange.min}-${maxYears} ${lang === 'en' ? 'years' : 'años'}</p>
+                            <p><strong>${lang === 'en' ? 'Core competencies' : 'Competencias clave'} (${lvl.coreCompetencies.length}):</strong></p>
+                            <ul>${lvl.coreCompetencies.map(c => `<li>${c}</li>`).join('')}</ul>
+                            <p><strong>${lang === 'en' ? 'Complementary competencies' : 'Competencias complementarias'} (${lvl.complementaryCompetencies.length}):</strong></p>
+                            <ul>${lvl.complementaryCompetencies.map(c => `<li>${c}</li>`).join('')}</ul>
+                            <p><strong>${lang === 'en' ? 'Indicators' : 'Indicadores'} (${lvl.indicators.length}):</strong></p>
+                            <ul>${lvl.indicators.map(c => `<li>${c}</li>`).join('')}</ul>
+                        </div>`;
+                    });
+                }
+
+                output.innerHTML = html;
+            } catch (error) {
+                output.innerHTML = `<div class="error">Error: ${error.message}</div>`;
+            }
+        }
+
+        function showNextLevel() {
+            const lang = document.getElementById('language').value;
+            const roleName = document.getElementById('role-career').value;
+            const level = document.getElementById('level-career').value;
+            const output = document.getElementById('career-output');
+
+            try {
+                const nextLevelData = library.getNextLevel(roleName, level);
+
+                if (!nextLevelData) {
+                    output.innerHTML = `<div class="info">${lang === 'en' ? 'You are already at the highest level' : 'Ya estás en el nivel más alto'}</div>`;
+                    return;
+                }
+
+                const maxYears = nextLevelData.next.yearsRange.max || '20+';
+                let html = `<h3>${lang === 'en' ? 'Next level' : 'Siguiente nivel'}: ${nextLevelData.next.code} - ${nextLevelData.next.level}</h3>`;
+                html += `<p><strong>${lang === 'en' ? 'Years of experience required' : 'Años de experiencia requeridos'}:</strong> ${nextLevelData.next.yearsRange.min}-${maxYears} ${lang === 'en' ? 'years' : 'años'}</p>`;
+
+                html += `<div class="result-item" style="border: 3px solid #000;">`;
+                html += `<p><strong>${lang === 'en' ? 'Core competencies' : 'Competencias clave'} (${nextLevelData.next.coreCompetencies.length}):</strong></p>`;
+                html += `<ul>${nextLevelData.next.coreCompetencies.map(c => `<li>${c}</li>`).join('')}</ul>`;
+                html += `<p><strong>${lang === 'en' ? 'Complementary competencies' : 'Competencias complementarias'} (${nextLevelData.next.complementaryCompetencies.length}):</strong></p>`;
+                html += `<ul>${nextLevelData.next.complementaryCompetencies.map(c => `<li>${c}</li>`).join('')}</ul>`;
+                html += `<p><strong>${lang === 'en' ? 'Indicators' : 'Indicadores'} (${nextLevelData.next.indicators.length}):</strong></p>`;
+                html += `<ul>${nextLevelData.next.indicators.map(c => `<li>${c}</li>`).join('')}</ul>`;
+                html += `</div>`;
+
+                html += `<h4>${lang === 'en' ? 'New competencies to learn' : 'Nuevas competencias a aprender'} (${nextLevelData.newCompetenciesCount})</h4>`;
+                html += '<ul>';
+                nextLevelData.newCompetencies.forEach(c => {
+                    html += `<li>${c}</li>`;
+                });
+                html += '</ul>';
+
+                output.innerHTML = html;
+            } catch (error) {
+                output.innerHTML = `<div class="error">Error: ${error.message}</div>`;
+            }
+        }
+
+        // ========================================
+        // BUSCAR CON AUTOCOMPLETAR
+        // ========================================
+        let selectedRole = null;
+
+        function searchRoles() {
+            const query = document.getElementById('role-search').value;
+            const suggestions = document.getElementById('role-suggestions');
+
+            // Clear category filter
+            document.getElementById('category-filter').value = '';
+
+            if (query.length < 2) {
+                suggestions.style.display = 'none';
+                document.getElementById('level-selector').style.display = 'none';
+                return;
+            }
+
+            const results = library.search(query, { limit: 10 });
+
+            if (results.length === 0) {
+                suggestions.style.display = 'none';
+                return;
+            }
+
+            let html = '<ul class="suggestions-list">';
+            results.forEach(result => {
+                html += `<li onclick="selectRole('${result.role.replace(/'/g, "\\'")}')">
+                    <strong>${result.role}</strong>
+                    <span class="category-badge">${result.category}</span>
+                </li>`;
+            });
+            html += '</ul>';
+
+            suggestions.innerHTML = html;
+            suggestions.style.display = 'block';
+        }
+
+        function selectRole(roleName) {
+            selectedRole = roleName;
+            document.getElementById('role-search').value = roleName;
+            document.getElementById('role-suggestions').style.display = 'none';
+            document.getElementById('level-selector').style.display = 'block';
+            document.getElementById('selected-level').value = '';
+            document.getElementById('years-experience').value = '';
+
+            // Clear category filter
+            document.getElementById('category-filter').value = '';
+        }
+
+        function selectRoleFromTable(roleName) {
+            const output = document.getElementById('roles-output');
+            const lang = document.getElementById('language').value;
+            selectedRole = roleName;
+            document.getElementById('role-search').value = roleName;
+            document.getElementById('role-suggestions').style.display = 'none';
+            document.getElementById('level-selector').style.display = 'none';
+            document.getElementById('category-filter').value = '';
+
+            console.log('Selected role from table:', roleName);
+
+            try {
+                // Get all levels for this role
+                const allLevels = library.getLevelsForRole(roleName);
+                console.log('All levels loaded:', allLevels.length);
+
+                let html = `<h3>${lang === 'en' ? 'Complete career path for' : 'Itinerario completo para'}: ${roleName}</h3>`;
+                html += `<p style="margin-bottom: 20px;"><strong>${lang === 'en' ? 'Total levels' : 'Niveles totales'}:</strong> ${allLevels.length}</p>`;
+
+                // Display all levels in order
+                allLevels.forEach((level, index) => {
+                    const maxYears = level.yearsRange.max || '20+';
+                    html += `<div class="result-item" style="margin-bottom: 30px;">
+                        <div class="result-header">${level.code} - ${level.level}</div>
+                        <p><strong>${lang === 'en' ? 'Years of experience' : 'Años de experiencia'}:</strong> ${level.yearsRange.min}-${maxYears} ${lang === 'en' ? 'years' : 'años'}</p>
+
+                        <p><strong>${lang === 'en' ? 'Core competencies' : 'Competencias clave'} (${level.coreCompetencies.length}):</strong></p>
+                        <ul>${level.coreCompetencies.map(c => `<li>${c}</li>`).join('')}</ul>
+
+                        <p><strong>${lang === 'en' ? 'Complementary competencies' : 'Competencias complementarias'} (${level.complementaryCompetencies.length}):</strong></p>
+                        <ul>${level.complementaryCompetencies.map(c => `<li>${c}</li>`).join('')}</ul>
+
+                        <p><strong>${lang === 'en' ? 'Indicators' : 'Indicadores'} (${level.indicators.length}):</strong></p>
+                        <ul>${level.indicators.map(i => `<li>${i}</li>`).join('')}</ul>
+                    </div>`;
+                });
+
+                output.innerHTML = html;
+            } catch (error) {
+                console.error('Failed to load role:', error);
+                output.innerHTML = `<div class="error">Error loading role "${roleName}": ${error.message}</div>`;
+            }
+        }
+
+        function showRoleDetails() {
+            const level = document.getElementById('selected-level').value;
+            if (!selectedRole || !level) return;
+
+            document.getElementById('years-experience').value = '';
+
+            try {
+                const roleData = library.getCompetencies(selectedRole, level);
+                displayRoleCompetencies(roleData);
+            } catch (error) {
+                const output = document.getElementById('roles-output');
+                output.innerHTML = `<div class="error">Error: ${error.message}</div>`;
+            }
+        }
+
+        function selectByYears() {
+            const years = parseInt(document.getElementById('years-experience').value);
+            if (!selectedRole || !years) return;
+
+            document.getElementById('selected-level').value = '';
+
+            try {
+                const roleData = library.getByExperience(selectedRole, years);
+                displayRoleCompetencies(roleData);
+            } catch (error) {
+                const output = document.getElementById('roles-output');
+                output.innerHTML = `<div class="error">Error: ${error.message}</div>`;
+            }
+        }
+
+        function displayRoleCompetencies(roleData) {
+            const lang = document.getElementById('language').value;
+            const output = document.getElementById('roles-output');
+
+            let html = `<h3>${roleData.role} - ${roleData.level}</h3>`;
+            html += `<p><strong>${lang === 'en' ? 'Code' : 'Código'}:</strong> ${roleData.code}</p>`;
+            const maxYears = roleData.yearsRange.max || '20+';
+            html += `<p><strong>${lang === 'en' ? 'Years of experience' : 'Años de experiencia'}:</strong> ${roleData.yearsRange.min}-${maxYears} ${lang === 'en' ? 'years' : 'años'}</p>`;
+
+            html += `<h4>${lang === 'en' ? 'Core competencies' : 'Competencias clave'} (${roleData.coreCompetencies.length})</h4>`;
+            html += '<ul>';
+            roleData.coreCompetencies.forEach(c => html += `<li>${c}</li>`);
+            html += '</ul>';
+
+            html += `<h4>${lang === 'en' ? 'Complementary competencies' : 'Competencias complementarias'} (${roleData.complementaryCompetencies.length})</h4>`;
+            html += '<ul>';
+            roleData.complementaryCompetencies.forEach(c => html += `<li>${c}</li>`);
+            html += '</ul>';
+
+            html += `<h4>${lang === 'en' ? 'Indicators' : 'Indicadores'} (${roleData.indicators.length})</h4>`;
+            html += '<ul>';
+            roleData.indicators.forEach(i => html += `<li>${i}</li>`);
+            html += '</ul>';
+
+            output.innerHTML = html;
+        }
+    </script>
+</body>
+</html>

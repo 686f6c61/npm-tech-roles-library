@@ -1,0 +1,200 @@
+{
+  "SOE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de security operations",
+      "Comprensión elemental de SIEM",
+      "Habilidad para monitorear alerts básicos",
+      "Conocimiento básico de incident handling",
+      "Capacidad de triaging con supervisión",
+      "Comprensión de security events",
+      "Documentación de incidents",
+      "Conocimiento elemental de forensics"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con security tools",
+      "Conocimiento básico de networking",
+      "Comprensión elemental de malware"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Monitorea alerts básicos",
+      "Está aprendiendo SecOps"
+    ]
+  },
+  "SOE-L2": {
+    "coreCompetencies": [
+      "Capacidad de responder a incidents",
+      "Implementación de security monitoring",
+      "Conocimiento práctico de SIEM/SOAR",
+      "Habilidad para threat hunting básico",
+      "Comprensión de log analysis",
+      "Capacidad de containment",
+      "Conocimiento de playbooks",
+      "Habilidad para escalation"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de EDR tools",
+      "Habilidad para scripting",
+      "Comprensión de threat intelligence"
+    ],
+    "indicators": [
+      "Responde a incidents con supervisión",
+      "Ejecuta playbooks",
+      "Contribuye a threat hunting"
+    ]
+  },
+  "SOE-L3": {
+    "coreCompetencies": [
+      "Diseño de security monitoring",
+      "Implementación de detection rules",
+      "Dominio de incident response",
+      "Capacidad de threat hunting",
+      "Habilidad para forensic analysis",
+      "Conocimiento profundo de attack patterns",
+      "Implementación de SOAR workflows",
+      "Capacidad de security metrics"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de malware analysis",
+      "Habilidad para threat intelligence",
+      "Comprensión de CTI"
+    ],
+    "indicators": [
+      "Lidera incident response",
+      "Diseña detection logic",
+      "Mentoriza SecOps junior"
+    ]
+  },
+  "SOE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de SOC operations",
+      "Diseño de incident response strategy",
+      "Implementación de threat hunting programs",
+      "Dominio de advanced forensics",
+      "Capacidad de security orchestration",
+      "Conocimiento profundo de APT tactics",
+      "Habilidad para crisis management",
+      "Liderazgo en security incidents"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en major breaches",
+      "Conocimiento de threat actors",
+      "Implementación de automation"
+    ],
+    "indicators": [
+      "Define estrategia SOC",
+      "Lidera major incidents",
+      "Es referente en SecOps"
+    ]
+  },
+  "SOE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en security operations",
+      "Diseño de SOC platforms",
+      "Gestión de SOC teams",
+      "Definición de incident response procedures",
+      "Capacidad de threat intelligence programs",
+      "Implementación de security automation",
+      "Dominio de metrics y KPIs",
+      "Evangelización de security awareness"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en 24/7 operations",
+      "Conocimiento de MSSP",
+      "Gestión de tools budget"
+    ],
+    "indicators": [
+      "Gestiona equipo SOC",
+      "Define visión SecOps",
+      "Representa SOC ante ejecutivos"
+    ]
+  },
+  "SOE-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia SOC",
+      "Gestión de security operations a escala",
+      "Definición de SOC architecture",
+      "Liderazgo en SOC transformation",
+      "Gestión de major security incidents",
+      "Implementación de global SOC",
+      "Innovación en detection",
+      "Gestión de threat intelligence"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en SOC design",
+      "Conocimiento de security investment",
+      "Liderazgo en SecOps community"
+    ],
+    "indicators": [
+      "Dirige departamento SOC",
+      "Participa en estrategia ejecutiva",
+      "Define inversiones en SOC"
+    ]
+  },
+  "SOE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en security operations",
+      "Diseño de estrategias SOC globales",
+      "Transformación de incident response",
+      "Gestión a escala Fortune 500",
+      "Creación de security operations culture",
+      "Definición de SOC roadmap",
+      "Evangelización a nivel board",
+      "Influencia en security operations"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de SOC budgets multi-millonarios",
+      "Experiencia en global SOCs",
+      "Liderazgo en security community"
+    ],
+    "indicators": [
+      "Reporta a CISO",
+      "Gestiona organización SOC (30+ personas)",
+      "Define estrategia SecOps"
+    ]
+  },
+  "SOE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de security operations",
+      "Liderazgo en SOC transformation",
+      "Creación de detection advantage",
+      "Gestión de SOC ecosystems",
+      "Innovación en threat hunting",
+      "Definición de next-gen SOC",
+      "Evangelización de proactive security",
+      "Influencia en security policies"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en security giants",
+      "Advisory en SecOps startups",
+      "Thought leadership en SOC"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia SOC",
+      "Es líder reconocido"
+    ]
+  },
+  "SOE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en security operations",
+      "Transformación de detection y response",
+      "Creación de paradigmas SOC",
+      "Definición de proactive security",
+      "Innovación en threat detection",
+      "Evangelización de security vigilance",
+      "Arquitecto de SOC ecosystems",
+      "Influencia en security operations"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando SOC en Fortune 100",
+      "Reconocimiento como SOC leader",
+      "Influencia en security standards"
+    ],
+    "indicators": [
+      "Es Chief Security Operations Officer",
+      "Define futuro de SOC",
+      "Es autoridad mundial"
+    ]
+  }
+}

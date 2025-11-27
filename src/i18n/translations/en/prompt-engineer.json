@@ -1,0 +1,258 @@
+{
+  "role": "Prompt Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "PE-L1": {
+      "level": "L1 - Prompt Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of LLMs and language models",
+        "Elementary understanding of prompt engineering",
+        "Ability to create simple prompts",
+        "Basic knowledge of ChatGPT/Claude/GPT-4",
+        "Prompt testing capability",
+        "Basic understanding of few-shot learning",
+        "Documentation of effective prompts",
+        "Elementary knowledge of LLM limitations"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with OpenAI APIs",
+        "Basic knowledge of embeddings",
+        "Elementary understanding of tokenization"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Creates effective basic prompts",
+        "Is learning prompt engineering"
+      ]
+    },
+    "PE-L2": {
+      "level": "L2 - Junior Prompt Engineer",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to design complex prompts",
+        "Implementation of chain-of-thought prompting",
+        "Practical knowledge of prompt optimization",
+        "Ability for few-shot and zero-shot learning",
+        "Understanding of temperature and sampling",
+        "Capability for prompt testing automation",
+        "Knowledge of RAG (Retrieval Augmented Generation)",
+        "Ability for output evaluation"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of LangChain",
+        "Ability for vector databases",
+        "Understanding of semantic search"
+      ],
+      "indicators": [
+        "Designs effective prompts with supervision",
+        "Optimizes LLM performance",
+        "Evaluates output quality"
+      ]
+    },
+    "PE-L3": {
+      "level": "L3 - Prompt Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of complex prompt systems",
+        "Implementation of multi-agent systems",
+        "Mastery of prompt chaining",
+        "Capability for fine-tuning guidance",
+        "Ability for prompt injection prevention",
+        "Deep knowledge of model limitations",
+        "Implementation of evaluation frameworks",
+        "Capability for prompt versioning"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of custom model training",
+        "Ability for embedding optimization",
+        "Understanding of cost optimization"
+      ],
+      "indicators": [
+        "Leads LLM projects",
+        "Designs prompt architectures",
+        "Mentors in prompt engineering"
+      ]
+    },
+    "PE-L4": {
+      "level": "L4 - Senior Prompt Engineer",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of enterprise LLM systems",
+        "Design of prompt strategies at scale",
+        "Implementation of LLM orchestration",
+        "Mastery of advanced prompting techniques",
+        "Capability for model selection",
+        "Deep knowledge of bias mitigation",
+        "Ability for safety and alignment",
+        "Leadership in LLM governance"
+      ],
+      "complementaryCompetencies": [
+        "Experience in custom model development",
+        "Knowledge of distributed LLM systems",
+        "Implementation of monitoring"
+      ],
+      "indicators": [
+        "Defines LLM strategy",
+        "Leads prompt engineering teams",
+        "Is LLM reference"
+      ]
+    },
+    "PE-L5": {
+      "level": "L5 - Lead Prompt Engineer",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in LLM platforms",
+        "Design of LLM ecosystems",
+        "Management of prompt engineering teams",
+        "Definition of LLM standards",
+        "Capability for LLM ROI optimization",
+        "Implementation of LLM governance",
+        "Mastery of multi-model strategies",
+        "Evangelization of responsible AI"
+      ],
+      "complementaryCompetencies": [
+        "Experience in LLM productization",
+        "Knowledge of LLM economics",
+        "Management of model providers"
+      ],
+      "indicators": [
+        "Manages LLM teams",
+        "Defines generative AI vision",
+        "Represents LLMs to stakeholders"
+      ]
+    },
+    "PE-L6": {
+      "level": "L6 - Principal LLM Architect",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of corporate LLM strategy",
+        "Management of AI platforms at scale",
+        "Definition of generative AI strategy",
+        "Leadership in AI transformation",
+        "Management of LLM partnerships",
+        "Implementation of AI governance",
+        "Innovation in LLM applications",
+        "Management of AI compliance"
+      ],
+      "complementaryCompetencies": [
+        "Experience in AI M&A",
+        "Knowledge of AI regulations",
+        "Leadership in AI ethics"
+      ],
+      "indicators": [
+        "Directs LLM/AI department",
+        "Participates in digital strategy",
+        "Defines AI investments"
+      ]
+    },
+    "PE-L7": {
+      "level": "L7 - Director Generative AI",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in generative AI",
+        "Design of global AI strategies",
+        "Organizational transformation via GenAI",
+        "Management of AI at enterprise scale",
+        "Creation of AI-first culture",
+        "Definition of AI roadmap",
+        "Evangelization of AI at board level",
+        "Influence in AI standards"
+      ],
+      "complementaryCompetencies": [
+        "Management of multi-million AI budgets",
+        "Experience in AI unicorns",
+        "Leadership in AI consortiums"
+      ],
+      "indicators": [
+        "Reports to CTO/CAI",
+        "Manages AI organization (30+ people)",
+        "Defines GenAI strategy"
+      ]
+    },
+    "PE-L8": {
+      "level": "L8 - VP Generative AI",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of generative AI",
+        "Leadership in GenAI revolution",
+        "Creation of competitive advantage via AI",
+        "Management of AI ecosystems",
+        "Disruptive innovation in LLMs",
+        "Definition of AGI readiness",
+        "Evangelization of responsible AI",
+        "Influence in AI policies"
+      ],
+      "complementaryCompetencies": [
+        "Experience as CAI in scale-ups",
+        "Advisory in AI startups",
+        "Thought leadership in GenAI"
+      ],
+      "indicators": [
+        "Is part of the executive committee",
+        "Defines AI strategy",
+        "Is recognized leader in GenAI"
+      ]
+    },
+    "PE-L9": {
+      "level": "L9 - Chief AI Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in artificial intelligence",
+        "Transformation of companies via AI",
+        "Creation of AI paradigms",
+        "Definition of AI-native organizations",
+        "Innovation in AI governance",
+        "Evangelization of AI consciousness",
+        "Architect of AI ecosystems",
+        "Influence in AI regulation"
+      ],
+      "complementaryCompetencies": [
+        "Experience transforming Fortune 500 with AI",
+        "Recognition as AI pioneer",
+        "Influence in AI policy"
+      ],
+      "indicators": [
+        "Is Chief AI Officer",
+        "Defines the future of AI in the industry",
+        "Is world authority in AI"
+      ]
+    }
+  }
+}

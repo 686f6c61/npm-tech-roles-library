@@ -1,0 +1,201 @@
+{
+  "MLO-L1": {
+    "coreCompetencies": [
+      "Basic understanding of ML lifecycle",
+      "Elementary knowledge of model versioning",
+      "Ability to deploy models simply",
+      "Basic understanding of data pipelines",
+      "Capability to monitor models basically",
+      "Elementary knowledge of containerization for ML",
+      "Basic understanding of reproducibility",
+      "Ability to document experiments"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of cloud ML services",
+      "Familiarity with notebooks and Git",
+      "Elementary understanding of CI/CD"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Can execute existing pipelines",
+      "Needs 6-12 months of MLOps mentoring"
+    ]
+  },
+  "MLO-L2": {
+    "coreCompetencies": [
+      "Ability to implement basic ML pipelines",
+      "Ability to automate training and deployment",
+      "Practical knowledge of experiment tracking",
+      "Understanding of model registry and governance",
+      "Ability to implement basic monitoring",
+      "Ability to handle data versioning",
+      "Knowledge of A/B testing for models",
+      "Understanding of basic model serving"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of Kubernetes for ML",
+      "Ability to work with basic feature stores",
+      "Understanding of data quality monitoring"
+    ],
+    "indicators": [
+      "Implements pipelines with supervision",
+      "Maintains models in production",
+      "Resolves common deployment issues"
+    ]
+  },
+  "MLO-L3": {
+    "coreCompetencies": [
+      "Mastery of ML pipeline orchestration",
+      "Ability to implement continuous training",
+      "Ability to detect drift and monitor",
+      "Deep knowledge of model optimization",
+      "Ability to implement feature engineering pipelines",
+      "Solid understanding of distributed training",
+      "Ability to implement rollback and versioning strategies",
+      "Knowledge of edge deployment"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of AutoML platforms",
+      "Ability to work with federated learning ops",
+      "Understanding of explainability pipelines"
+    ],
+    "indicators": [
+      "Designs complete MLOps pipelines",
+      "Optimizes inference performance",
+      "Implements MLOps best practices"
+    ]
+  },
+  "MLO-L4": {
+    "coreCompetencies": [
+      "Ability to architect MLOps platforms",
+      "Mastery of model governance and compliance",
+      "Ability to implement feature platforms",
+      "Deep knowledge of scalable serving",
+      "Ability to implement advanced monitoring",
+      "Mastery of cost optimization for ML",
+      "Ability to handle multi-model serving",
+      "Knowledge of ML security and privacy"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of real-time ML",
+      "Ability to work with multi-cloud MLOps",
+      "Understanding of green ML"
+    ],
+    "indicators": [
+      "Defines MLOps strategy for products",
+      "Leads adoption of MLOps practices",
+      "Mentors MLOps engineers"
+    ]
+  },
+  "MLO-L5": {
+    "coreCompetencies": [
+      "Expertise in enterprise MLOps platforms",
+      "Ability to design ML infrastructure at scale",
+      "Mastery of advanced experimentation platforms",
+      "Ability to implement ML observability",
+      "Deep knowledge of regulatory compliance for ML",
+      "Ability to implement MLOps automation",
+      "Expertise in distributed ML systems",
+      "Mastery of ML pipeline optimization"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of quantum ML ops",
+      "Ability to work with neuromorphic deployment",
+      "Understanding of MLOps economics"
+    ],
+    "indicators": [
+      "Architects MLOps for portfolios",
+      "Leads MLOps transformation",
+      "Defines corporate MLOps standards"
+    ]
+  },
+  "MLO-L6": {
+    "coreCompetencies": [
+      "Ability to define enterprise MLOps strategy",
+      "Expertise in ML platform engineering",
+      "Mastery of ML reliability engineering",
+      "Ability to design MLOps governance frameworks",
+      "Deep knowledge of ML economics",
+      "Ability to lead MLOps innovation",
+      "Expertise in ML vendor management",
+      "Mastery of MLOps risk management"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of AI ethics implementation",
+      "Ability to provide MLOps consulting",
+      "Understanding of ML ventures"
+    ],
+    "indicators": [
+      "Defines multi-year MLOps roadmap",
+      "Leads MLOps organizations",
+      "Influences MLOps industry"
+    ]
+  },
+  "MLO-L7": {
+    "coreCompetencies": [
+      "Leadership in global MLOps innovation",
+      "Ability to create MLOps competitive advantages",
+      "Expertise in MLOps business models",
+      "Mastery of ML platform economics",
+      "Ability to define MLOps philosophy",
+      "Deep knowledge of ML democratization",
+      "Expertise in MLOps partnerships",
+      "Ability to lead MLOps research"
+    ],
+    "complementaryCompetencies": [
+      "Ability to patent MLOps innovations",
+      "Ability to evangelize MLOps",
+      "Knowledge of MLOps investments"
+    ],
+    "indicators": [
+      "Defines corporate MLOps philosophy",
+      "Keynote speaker at MLOps conferences",
+      "Thought leader in MLOps"
+    ]
+  },
+  "MLO-L8": {
+    "coreCompetencies": [
+      "Strategic vision of MLOps future",
+      "Ability to transform enterprises through MLOps",
+      "Expertise in executive MLOps strategy",
+      "Mastery of ML infrastructure economics",
+      "Ability to define MLOps excellence",
+      "Deep knowledge of ML platform governance",
+      "Expertise in MLOps ecosystem building",
+      "Ability to lead MLOps standards"
+    ],
+    "complementaryCompetencies": [
+      "Ability to influence MLOps regulations",
+      "Ability to create MLOps ventures",
+      "Knowledge of MLOps M&A"
+    ],
+    "indicators": [
+      "Defines Fortune 500 MLOps strategy",
+      "Influences global MLOps platforms",
+      "Executive MLOps advisor"
+    ]
+  },
+  "MLO-L9": {
+    "coreCompetencies": [
+      "Executive leadership in ML infrastructure",
+      "Ability to use MLOps as differentiator",
+      "Expertise in ML platform transformation",
+      "Mastery of ML infrastructure budgets",
+      "Ability to build MLOps organizations",
+      "Deep knowledge of ML platform strategy",
+      "Expertise in executive ML partnerships",
+      "Ability to define ML platform culture",
+      "Mastery of ML value delivery"
+    ],
+    "complementaryCompetencies": [
+      "Ability to influence ML policy",
+      "Ability to create ML ecosystems",
+      "Knowledge of ML platform exits"
+    ],
+    "indicators": [
+      "Defines and executes enterprise MLOps vision",
+      "Responsible for all ML infrastructure",
+      "Recognized leader in global MLOps"
+    ]
+  }
+}

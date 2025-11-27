@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de IA Conversacional",
+  "category": "IA/AM",
+  "levels": {
+    "CAI-L1": {
+      "level": "L1 - Aprendiz de IA Conversacional",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de asistentes virtuales",
+        "Comprensión elemental de comprensión del lenguaje natural",
+        "Habilidad para crear conversaciones simples",
+        "Conocimiento básico de gestión de diálogos",
+        "Capacidad de entrenamiento básico",
+        "Comprensión de intenciones y entidades",
+        "Documentación de conversaciones",
+        "Conocimiento elemental de despliegue"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con Dialogflow y Rasa",
+        "Conocimiento básico de procesamiento del lenguaje natural",
+        "Comprensión elemental de inteligencia artificial de voz"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Crea flujos simples",
+        "Está aprendiendo inteligencia artificial conversacional"
+      ]
+    },
+    "CAI-L2": {
+      "level": "L2 - Ingeniero de IA Conversacional Junior",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar asistentes virtuales complejos",
+        "Implementación de conversaciones de múltiples turnos",
+        "Conocimiento práctico de comprensión y generación del lenguaje natural",
+        "Habilidad para gestión de contexto",
+        "Comprensión de políticas de diálogo",
+        "Capacidad de integración",
+        "Conocimiento de analítica",
+        "Habilidad para optimización"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de asistentes de voz",
+        "Habilidad para sistemas multilingües",
+        "Comprensión de análisis de sentimientos"
+      ],
+      "indicators": [
+        "Desarrolla asistentes virtuales con supervisión",
+        "Implementa conversaciones complejas",
+        "Optimiza rendimiento"
+      ]
+    },
+    "CAI-L3": {
+      "level": "L3 - Ingeniero de IA Conversacional",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de sistemas conversacionales",
+        "Implementación de comprensión del lenguaje natural avanzada",
+        "Dominio de gestión de diálogos",
+        "Capacidad de personalización",
+        "Habilidad para inteligencia artificial multimodal",
+        "Conocimiento profundo de diseño conversacional",
+        "Implementación de analítica",
+        "Capacidad de pruebas comparativas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de inteligencia artificial emocional",
+        "Habilidad para reconocimiento de voz",
+        "Comprensión de consciencia contextual"
+      ],
+      "indicators": [
+        "Lidera proyectos de inteligencia artificial conversacional",
+        "Diseña arquitecturas de diálogo",
+        "Tutoriza en inteligencia artificial conversacional"
+      ]
+    },
+    "CAI-L4": {
+      "level": "L4 - Ingeniero de IA Conversacional Senior",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas conversacionales",
+        "Diseño de estrategia de asistentes virtuales empresariales",
+        "Implementación de conversaciones omnicanal",
+        "Dominio de comprensión y generación del lenguaje natural avanzadas",
+        "Capacidad de analítica conversacional",
+        "Conocimiento profundo de experiencia del usuario",
+        "Habilidad para escalabilidad",
+        "Liderazgo en diseño conversacional"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en inteligencia artificial de voz",
+        "Conocimiento de inteligencia emocional",
+        "Implementación de personalización"
+      ],
+      "indicators": [
+        "Define estrategia de inteligencia artificial conversacional",
+        "Lidera equipos",
+        "Es referente en asistentes virtuales"
+      ]
+    },
+    "CAI-L5": {
+      "level": "L5 - Líder de Ingeniería de IA Conversacional",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en inteligencia artificial conversacional",
+        "Diseño de ecosistemas de asistentes de inteligencia artificial",
+        "Gestión de equipos conversacionales",
+        "Definición de estándares de diálogo",
+        "Capacidad de gestión de plataformas",
+        "Implementación de gobernanza conversacional",
+        "Dominio de inteligencia artificial multimodal",
+        "Evangelización de experiencias conversacionales"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en asistentes virtuales",
+        "Conocimiento de comercio conversacional",
+        "Gestión de proveedores"
+      ],
+      "indicators": [
+        "Gestiona equipo de inteligencia artificial conversacional",
+        "Define visión de asistentes virtuales",
+        "Representa lo conversacional ante partes interesadas"
+      ]
+    },
+    "CAI-L6": {
+      "level": "L6 - Arquitecto Principal de IA Conversacional",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia conversacional",
+        "Gestión de plataformas de asistentes de inteligencia artificial",
+        "Definición de arquitectura conversacional",
+        "Liderazgo en transformación",
+        "Gestión de alianzas",
+        "Implementación de gobernanza",
+        "Innovación en sistemas de diálogo",
+        "Gestión de experiencia del usuario"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en plataformas de voz",
+        "Conocimiento de inversión conversacional",
+        "Liderazgo en comunidad de inteligencia artificial"
+      ],
+      "indicators": [
+        "Dirige departamento de inteligencia artificial conversacional",
+        "Participa en estrategia digital",
+        "Define inversiones"
+      ]
+    },
+    "CAI-L7": {
+      "level": "L7 - Director de IA Conversacional",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en inteligencia artificial conversacional",
+        "Diseño de estrategias globales",
+        "Transformación mediante asistentes virtuales",
+        "Gestión a escala empresarial",
+        "Creación de cultura conversacional",
+        "Definición de hoja de ruta",
+        "Evangelización a nivel directivo",
+        "Influencia en estándares"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos conversacionales",
+        "Experiencia en asistentes de inteligencia artificial",
+        "Liderazgo en inteligencia artificial de voz"
+      ],
+      "indicators": [
+        "Reporta al Director de Inteligencia Artificial o Director de Tecnología",
+        "Gestiona organización (20+ personas)",
+        "Define estrategia conversacional"
+      ]
+    },
+    "CAI-L8": {
+      "level": "L8 - Vicepresidente de IA Conversacional",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de inteligencia artificial conversacional",
+        "Liderazgo en transformación",
+        "Creación de ventaja conversacional",
+        "Gestión de ecosistemas",
+        "Innovación en diálogo",
+        "Definición de asistentes de próxima generación",
+        "Evangelización de prioridad de voz",
+        "Influencia en políticas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en gigantes conversacionales",
+        "Asesoría en empresas emergentes",
+        "Liderazgo intelectual"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia",
+        "Es líder reconocido"
+      ]
+    },
+    "CAI-L9": {
+      "level": "L9 - Director de Conversación",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en inteligencia artificial conversacional",
+        "Transformación de interfaces",
+        "Creación de paradigmas",
+        "Definición de prioridad conversacional",
+        "Innovación en diálogo",
+        "Evangelización de interfaces naturales",
+        "Arquitecto de ecosistemas",
+        "Influencia en regulación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando interacción",
+        "Reconocimiento como pionero",
+        "Influencia en estándares"
+      ],
+      "indicators": [
+        "Es Director de Conversación",
+        "Define futuro",
+        "Es autoridad mundial"
+      ]
+    }
+  }
+}

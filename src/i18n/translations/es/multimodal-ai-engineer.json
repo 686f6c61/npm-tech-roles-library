@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Inteligencia Artificial Multimodal",
+  "category": "Inteligencia Artificial y Aprendizaje Automático",
+  "levels": {
+    "MMALE-L1": {
+      "level": "N1 - Aprendiz de Ingeniería de Inteligencia Artificial Multimodal",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de inteligencia artificial multimodal",
+        "Comprensión elemental de fundamentos",
+        "Habilidad para tareas simples",
+        "Conocimiento básico de herramientas",
+        "Capacidad de trabajo con supervisión",
+        "Comprensión de conceptos centrales",
+        "Documentación básica",
+        "Conocimiento elemental de mejores prácticas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con marcos de trabajo básicos",
+        "Conocimiento de herramientas estándar",
+        "Comprensión elemental de computación en la nube"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta tareas básicas con guía",
+        "Está aprendiendo inteligencia artificial multimodal"
+      ]
+    },
+    "MMALE-L2": {
+      "level": "N2 - Ingeniero Junior de Inteligencia Artificial Multimodal",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar soluciones básicas en inteligencia artificial multimodal",
+        "Implementación de técnicas estándar",
+        "Conocimiento práctico de marcos de trabajo",
+        "Habilidad para resolver problemas típicos",
+        "Comprensión de flujos de procesamiento",
+        "Capacidad de despliegue básico",
+        "Conocimiento de pruebas",
+        "Habilidad para documentación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de tecnologías emergentes",
+        "Habilidad para integración",
+        "Comprensión de automatización"
+      ],
+      "indicators": [
+        "Desarrolla soluciones de inteligencia artificial multimodal con supervisión",
+        "Implementa funcionalidades completas",
+        "Optimiza procesos básicos"
+      ]
+    },
+    "MMALE-L3": {
+      "level": "N3 - Ingeniero de Inteligencia Artificial Multimodal",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de soluciones de inteligencia artificial multimodal de extremo a extremo",
+        "Implementación de sistemas complejos",
+        "Dominio de pila tecnológica",
+        "Capacidad de optimización avanzada",
+        "Habilidad para arquitectura",
+        "Conocimiento profundo de mejores prácticas",
+        "Implementación de monitorización",
+        "Capacidad de mentoría"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de técnicas avanzadas",
+        "Habilidad para innovación",
+        "Comprensión de investigación"
+      ],
+      "indicators": [
+        "Lidera proyectos de inteligencia artificial multimodal",
+        "Diseña arquitecturas completas",
+        "Mentoriza ingenieros junior"
+      ]
+    },
+    "MMALE-L4": {
+      "level": "N4 - Ingeniero Senior de Inteligencia Artificial Multimodal",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de inteligencia artificial multimodal escalables",
+        "Diseño de estrategias técnicas",
+        "Implementación de sistemas empresariales",
+        "Dominio de optimización a escala",
+        "Capacidad de liderazgo técnico",
+        "Conocimiento profundo de patrones avanzados",
+        "Habilidad para planificación estratégica",
+        "Liderazgo en transformación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en sistemas distribuidos",
+        "Conocimiento de tecnología de vanguardia",
+        "Implementación de innovación"
+      ],
+      "indicators": [
+        "Define estrategia de inteligencia artificial multimodal",
+        "Lidera equipos técnicos",
+        "Es referente en inteligencia artificial multimodal"
+      ]
+    },
+    "MMALE-L5": {
+      "level": "N5 - Ingeniero Líder de Inteligencia Artificial Multimodal",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en inteligencia artificial multimodal",
+        "Diseño de estrategia de producto",
+        "Gestión de equipos",
+        "Definición de estándares",
+        "Capacidad de análisis de retorno de inversión",
+        "Implementación de gobernanza",
+        "Dominio de tecnología emergente",
+        "Evangelización de cultura"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en consultoría",
+        "Conocimiento de modelos de negocio",
+        "Gestión de presupuestos"
+      ],
+      "indicators": [
+        "Gestiona equipos de inteligencia artificial multimodal",
+        "Define visión de productos",
+        "Representa inteligencia artificial multimodal ante partes interesadas"
+      ]
+    },
+    "MMALE-L6": {
+      "level": "N6 - Ingeniero Principal de Inteligencia Artificial Multimodal",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia corporativa de inteligencia artificial multimodal",
+        "Gestión de plataformas a escala",
+        "Definición de arquitectura empresarial",
+        "Liderazgo en transformación",
+        "Gestión de asociaciones estratégicas",
+        "Implementación de prácticas responsables",
+        "Innovación en soluciones",
+        "Gestión de cumplimiento normativo"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fusiones y adquisiciones",
+        "Conocimiento de inversión",
+        "Liderazgo en comunidad de la industria"
+      ],
+      "indicators": [
+        "Dirige departamento de inteligencia artificial multimodal",
+        "Participa en estrategia ejecutiva",
+        "Define inversiones en inteligencia artificial multimodal"
+      ]
+    },
+    "MMALE-L7": {
+      "level": "N7 - Director de Ingeniería de Inteligencia Artificial Multimodal",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en inteligencia artificial multimodal",
+        "Diseño de estrategias globales",
+        "Transformación organizacional",
+        "Gestión a escala Fortune 500",
+        "Creación de cultura organizacional",
+        "Definición de hoja de ruta estratégica",
+        "Evangelización a nivel de junta directiva",
+        "Influencia en industria"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos multimillonarios",
+        "Experiencia en empresas unicornio",
+        "Liderazgo en estándares"
+      ],
+      "indicators": [
+        "Reporta a Director Técnico o Director Ejecutivo",
+        "Gestiona organización (50 o más personas)",
+        "Define estrategia corporativa de inteligencia artificial multimodal"
+      ]
+    },
+    "MMALE-L8": {
+      "level": "N8 - Vicepresidente de Ingeniería de Inteligencia Artificial Multimodal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica empresarial de inteligencia artificial multimodal",
+        "Liderazgo en transformación",
+        "Creación de ventaja competitiva",
+        "Gestión de ecosistemas globales",
+        "Innovación disruptiva",
+        "Definición de dirección futura",
+        "Evangelización de cambio de paradigma",
+        "Influencia en políticas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como ejecutivo en gigantes tecnológicos",
+        "Asesoría en empresas emergentes",
+        "Liderazgo de pensamiento"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define futuro de inteligencia artificial multimodal",
+        "Es líder reconocido en inteligencia artificial multimodal"
+      ]
+    },
+    "MMALE-L9": {
+      "level": "N9 - Director Principal de Ingeniería de Inteligencia Artificial Multimodal",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en inteligencia artificial multimodal",
+        "Transformación de industrias",
+        "Creación de paradigmas",
+        "Definición de inteligencia artificial multimodal como negocio central",
+        "Innovación en aplicaciones revolucionarias",
+        "Evangelización de cultura",
+        "Arquitecto de ecosistemas globales",
+        "Influencia en regulación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando industrias con inteligencia artificial multimodal",
+        "Reconocimiento como pionero",
+        "Influencia en futuro"
+      ],
+      "indicators": [
+        "Es Director Principal de Ingeniería de Inteligencia Artificial Multimodal",
+        "Define futuro de la industria de inteligencia artificial multimodal",
+        "Es autoridad mundial en inteligencia artificial multimodal"
+      ]
+    }
+  }
+}

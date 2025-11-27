@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Aprendizaje Automático Automatizado",
+  "category": "Inteligencia Artificial y Aprendizaje Automático",
+  "levels": {
+    "AMLE-L1": {
+      "level": "L1 - Aprendiz de Ingeniero de Aprendizaje Automático Automatizado",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de aprendizaje automático automatizado",
+        "Comprensión elemental de fundamentos",
+        "Habilidad para tareas simples",
+        "Conocimiento básico de herramientas",
+        "Capacidad de trabajo con supervisión",
+        "Comprensión de conceptos fundamentales",
+        "Documentación básica",
+        "Conocimiento elemental de mejores prácticas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con marcos básicos",
+        "Conocimiento de herramientas estándar",
+        "Comprensión elemental de computación en la nube"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta tareas básicas con guía",
+        "Está aprendiendo aprendizaje automático automatizado"
+      ]
+    },
+    "AMLE-L2": {
+      "level": "L2 - Ingeniero Junior de Aprendizaje Automático Automatizado",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar soluciones básicas de aprendizaje automático automatizado",
+        "Implementación de técnicas estándar",
+        "Conocimiento práctico de marcos",
+        "Habilidad para resolver problemas típicos",
+        "Comprensión de conductos de procesamiento",
+        "Capacidad de despliegue básico",
+        "Conocimiento de pruebas",
+        "Habilidad para documentación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de tecnologías emergentes",
+        "Habilidad para integración",
+        "Comprensión de automatización"
+      ],
+      "indicators": [
+        "Desarrolla soluciones de aprendizaje automático automatizado con supervisión",
+        "Implementa funcionalidades completas",
+        "Optimiza procesos básicos"
+      ]
+    },
+    "AMLE-L3": {
+      "level": "L3 - Ingeniero de Aprendizaje Automático Automatizado",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de soluciones de aprendizaje automático automatizado de extremo a extremo",
+        "Implementación de sistemas complejos",
+        "Dominio de conjunto tecnológico",
+        "Capacidad de optimización avanzada",
+        "Habilidad para arquitectura",
+        "Conocimiento profundo de mejores prácticas",
+        "Implementación de monitoreo",
+        "Capacidad de mentoría"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de técnicas avanzadas",
+        "Habilidad para innovación",
+        "Comprensión de investigación"
+      ],
+      "indicators": [
+        "Lidera proyectos de aprendizaje automático automatizado",
+        "Diseña arquitecturas completas",
+        "Mentoriza ingenieros junior"
+      ]
+    },
+    "AMLE-L4": {
+      "level": "L4 - Ingeniero Senior de Aprendizaje Automático Automatizado",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas escalables de aprendizaje automático automatizado",
+        "Diseño de estrategias técnicas",
+        "Implementación de sistemas empresariales",
+        "Dominio de optimización a escala",
+        "Capacidad de liderazgo técnico",
+        "Conocimiento profundo de patrones avanzados",
+        "Habilidad para planificación estratégica",
+        "Liderazgo en transformación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en sistemas distribuidos",
+        "Conocimiento de tecnología de vanguardia",
+        "Implementación de innovación"
+      ],
+      "indicators": [
+        "Define estrategia de aprendizaje automático automatizado",
+        "Lidera equipos técnicos",
+        "Es referente en aprendizaje automático automatizado"
+      ]
+    },
+    "AMLE-L5": {
+      "level": "L5 - Ingeniero Líder de Aprendizaje Automático Automatizado",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en aprendizaje automático automatizado",
+        "Diseño de estrategia de productos",
+        "Gestión de equipos",
+        "Definición de estándares",
+        "Capacidad de análisis de retorno de inversión",
+        "Implementación de gobernanza",
+        "Dominio de tecnologías emergentes",
+        "Evangelización de cultura"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en consultoría",
+        "Conocimiento de modelos de negocio",
+        "Gestión de presupuestos"
+      ],
+      "indicators": [
+        "Gestiona equipos de aprendizaje automático automatizado",
+        "Define visión de productos",
+        "Representa aprendizaje automático automatizado ante partes interesadas"
+      ]
+    },
+    "AMLE-L6": {
+      "level": "L6 - Ingeniero Principal de Aprendizaje Automático Automatizado",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia corporativa de aprendizaje automático automatizado",
+        "Gestión de plataformas a escala",
+        "Definición de arquitectura empresarial",
+        "Liderazgo en transformación",
+        "Gestión de alianzas estratégicas",
+        "Implementación de prácticas responsables",
+        "Innovación en soluciones",
+        "Gestión de cumplimiento normativo"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fusiones y adquisiciones",
+        "Conocimiento de inversión",
+        "Liderazgo en comunidad de la industria"
+      ],
+      "indicators": [
+        "Dirige departamento de aprendizaje automático automatizado",
+        "Participa en estrategia ejecutiva",
+        "Define inversiones en aprendizaje automático automatizado"
+      ]
+    },
+    "AMLE-L7": {
+      "level": "L7 - Director de Ingeniería de Aprendizaje Automático Automatizado",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en aprendizaje automático automatizado",
+        "Diseño de estrategias globales",
+        "Transformación organizacional",
+        "Gestión a escala de grandes corporaciones",
+        "Creación de cultura organizacional",
+        "Definición de hoja de ruta estratégica",
+        "Evangelización a nivel de junta directiva",
+        "Influencia en industria"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos multimillonarios",
+        "Experiencia en empresas unicornio",
+        "Liderazgo en estándares"
+      ],
+      "indicators": [
+        "Reporta a director de tecnología o general",
+        "Gestiona organización (50+ personas)",
+        "Define estrategia corporativa de aprendizaje automático automatizado"
+      ]
+    },
+    "AMLE-L8": {
+      "level": "L8 - Vicepresidente de Ingeniería de Aprendizaje Automático Automatizado",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica empresarial de aprendizaje automático automatizado",
+        "Liderazgo en transformación",
+        "Creación de ventaja competitiva",
+        "Gestión de ecosistemas globales",
+        "Innovación disruptiva",
+        "Definición de dirección futura",
+        "Evangelización de cambio de paradigma",
+        "Influencia en políticas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como ejecutivo en grandes corporaciones tecnológicas",
+        "Asesoría en empresas emergentes",
+        "Liderazgo de pensamiento"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define futuro de aprendizaje automático automatizado",
+        "Es líder reconocido en aprendizaje automático automatizado"
+      ]
+    },
+    "AMLE-L9": {
+      "level": "L9 - Director General de Ingeniería de Aprendizaje Automático Automatizado",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en aprendizaje automático automatizado",
+        "Transformación de industrias",
+        "Creación de paradigmas",
+        "Definición de aprendizaje automático automatizado como negocio principal",
+        "Innovación en aplicaciones revolucionarias",
+        "Evangelización de cultura",
+        "Arquitecto de ecosistemas globales",
+        "Influencia en regulación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando industrias con aprendizaje automático automatizado",
+        "Reconocimiento como pionero",
+        "Influencia en futuro"
+      ],
+      "indicators": [
+        "Es Director General de Ingeniería de Aprendizaje Automático Automatizado",
+        "Define futuro de la industria de aprendizaje automático automatizado",
+        "Es autoridad mundial en aprendizaje automático automatizado"
+      ]
+    }
+  }
+}

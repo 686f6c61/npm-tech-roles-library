@@ -1,0 +1,201 @@
+{
+  "NLP-L1": {
+    "coreCompetencies": [
+      "Basic understanding of natural language processing",
+      "Elementary knowledge of computational linguistics",
+      "Ability for basic tokenization",
+      "Basic understanding of embeddings",
+      "Ability to use NLP libraries",
+      "Elementary knowledge of sentiment analysis",
+      "Basic understanding of chatbots",
+      "Ability for text preprocessing"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of regex",
+      "Familiarity with corpus linguistics",
+      "Elementary understanding of languages"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Can implement basic NLP",
+      "Needs 6-12 months of mentoring"
+    ]
+  },
+  "NLP-L2": {
+    "coreCompetencies": [
+      "Ability to implement NLP models",
+      "Ability for fine-tuning",
+      "Practical knowledge of transformers",
+      "Understanding of Named Entity Recognition and Part-of-Speech tagging",
+      "Ability for text classification",
+      "Ability for topic modeling",
+      "Knowledge of basic machine translation",
+      "Understanding of speech-to-text"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of BERT/GPT",
+      "Ability for multilingual processing",
+      "Understanding of dialogue systems"
+    ],
+    "indicators": [
+      "Develops NLP solutions with supervision",
+      "Implements standard models",
+      "Optimizes basic pipelines"
+    ]
+  },
+  "NLP-L3": {
+    "coreCompetencies": [
+      "Mastery of transformer architectures",
+      "Ability to build custom models",
+      "Ability for large language models",
+      "Deep knowledge of attention mechanisms",
+      "Ability for multimodal NLP",
+      "Solid understanding of text generation",
+      "Ability for knowledge graphs",
+      "Knowledge of ethical NLP"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of neural machine translation",
+      "Ability for voice synthesis",
+      "Understanding of emotion AI"
+    ],
+    "indicators": [
+      "Designs complex NLP systems",
+      "Leads language projects",
+      "Innovates in text processing"
+    ]
+  },
+  "NLP-L4": {
+    "coreCompetencies": [
+      "Ability to architect NLP platforms",
+      "Mastery of scaling systems",
+      "Ability for production Large Language Models",
+      "Deep knowledge of efficiency optimization",
+      "Ability to lead teams",
+      "Mastery of multilingual systems",
+      "Ability for conversational AI",
+      "Knowledge of NLP strategy"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of AGI language capabilities",
+      "Ability for consciousness modeling",
+      "Understanding of semantic reality"
+    ],
+    "indicators": [
+      "Defines NLP strategy",
+      "Leads language transformation initiatives",
+      "Mentors NLP engineers"
+    ]
+  },
+  "NLP-L5": {
+    "coreCompetencies": [
+      "Expertise in enterprise platforms",
+      "Ability for NLP democratization",
+      "Mastery of self-service NLP",
+      "Ability for innovation labs",
+      "Deep knowledge of language understanding",
+      "Ability to define culture",
+      "Expertise in partnerships",
+      "Mastery of research"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of telepathic interfaces",
+      "Ability for universal translation",
+      "Understanding of thought encoding"
+    ],
+    "indicators": [
+      "Architects NLP ecosystems",
+      "Leads language organizations",
+      "Defines NLP roadmap"
+    ]
+  },
+  "NLP-L6": {
+    "coreCompetencies": [
+      "Ability to define NLP vision",
+      "Expertise in language innovation",
+      "Mastery of global strategy",
+      "Ability for ecosystem building",
+      "Deep knowledge of language futures",
+      "Ability for thought leadership",
+      "Expertise in communication revolution",
+      "Mastery of impact"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of alien languages",
+      "Ability for dimensional communication",
+      "Understanding of cosmic language"
+    ],
+    "indicators": [
+      "Defines corporate NLP vision",
+      "Leads linguistic transformation",
+      "Influences the industry"
+    ]
+  },
+  "NLP-L7": {
+    "coreCompetencies": [
+      "Leadership in language evolution",
+      "Ability for global management",
+      "Expertise in transformation",
+      "Mastery of governance",
+      "Ability to define philosophy",
+      "Deep knowledge of competitive advantage",
+      "Expertise in strategic NLP",
+      "Ability to lead revolution"
+    ],
+    "complementaryCompetencies": [
+      "Ability to create languages",
+      "Ability for NLP ventures",
+      "Knowledge of language economies"
+    ],
+    "indicators": [
+      "Defines executive strategy",
+      "Represents company in NLP",
+      "Thought leader in language"
+    ]
+  },
+  "NLP-L8": {
+    "coreCompetencies": [
+      "Strategic vision of NLP",
+      "Ability for language as core competency",
+      "Expertise in language-driven transformation",
+      "Mastery of executive management",
+      "Ability to build empires",
+      "Deep knowledge of language value",
+      "Expertise in global communication",
+      "Ability to define culture"
+    ],
+    "complementaryCompetencies": [
+      "Ability to influence global communication",
+      "Ability for language M&A",
+      "Knowledge of Babel resolution"
+    ],
+    "indicators": [
+      "Responsible for all NLP strategy",
+      "Defines the future of language",
+      "Recognized leader in NLP"
+    ]
+  },
+  "NLP-L9": {
+    "coreCompetencies": [
+      "Executive leadership in language",
+      "Ability for communication as definitive advantage",
+      "Expertise in humanity transformation",
+      "Mastery of language governance",
+      "Ability to create new modes of thought",
+      "Deep knowledge of consciousness interface",
+      "Expertise in reality description",
+      "Ability to define linguistic existence",
+      "Mastery of logos"
+    ],
+    "complementaryCompetencies": [
+      "Ability to create realities through language",
+      "Ability for omnilingual communion",
+      "Knowledge of post-verbal futures"
+    ],
+    "indicators": [
+      "Ultimate language authority",
+      "Defines the future of human communication",
+      "Global leader in NLP"
+    ]
+  }
+}

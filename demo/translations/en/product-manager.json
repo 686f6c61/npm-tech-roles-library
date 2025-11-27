@@ -1,0 +1,200 @@
+{
+  "PM-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of software product development",
+      "Elementary understanding of agile methodologies",
+      "Ability to write simple user stories",
+      "Basic knowledge of product metrics",
+      "Capability to perform basic competitive analysis",
+      "Understanding of software lifecycle",
+      "Documentation of basic requirements",
+      "Elementary knowledge of prioritization"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with management tools",
+      "Basic knowledge of UX/UI",
+      "Understanding of data analysis"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Supports product tasks",
+      "Learning product management"
+    ]
+  },
+  "PM-L2": {
+    "coreCompetencies": [
+      "Ability to manage product backlog",
+      "Implementation of departmental roadmaps",
+      "Practical knowledge of prioritization frameworks",
+      "Ability to conduct user research",
+      "Understanding of complete development lifecycle",
+      "Ability to define MVPs",
+      "Basic knowledge of go-to-market strategies",
+      "Ability for stakeholder management"
+    ],
+    "complementaryCompetencies": [
+      "Analysis of product-market fit",
+      "Knowledge of pricing strategies",
+      "Understanding of customer journey mapping"
+    ],
+    "indicators": [
+      "Manages features with supervision",
+      "Defines requirements independently",
+      "Collaborates effectively with development"
+    ]
+  },
+  "PM-L3": {
+    "coreCompetencies": [
+      "Design of complete product strategies",
+      "Implementation of OKRs and advanced metrics",
+      "Mastery of discovery techniques",
+      "Ability to define product vision",
+      "Ability for technical product decisions",
+      "Deep knowledge of monetization strategies",
+      "Implementation of experimentation frameworks",
+      "End-to-end product management"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of platform economics",
+      "Ability for growth hacking",
+      "Understanding of API product management"
+    ],
+    "indicators": [
+      "Leads complete products",
+      "Defines feature strategy",
+      "Mentors junior PMs"
+    ]
+  },
+  "PM-L4": {
+    "coreCompetencies": [
+      "Architecture of product portfolios",
+      "Design of platform strategies",
+      "Implementation of product-led growth",
+      "Mastery of cross-functional leadership",
+      "Ability for market expansion strategies",
+      "Deep knowledge of tech business models",
+      "Ability for M&A product integration",
+      "Leadership in product transformation"
+    ],
+    "complementaryCompetencies": [
+      "Experience in marketplace dynamics",
+      "Knowledge of AI product management",
+      "Management of enterprise B2B products"
+    ],
+    "indicators": [
+      "Defines multi-product strategy",
+      "Leads product squads",
+      "Influences business decisions"
+    ]
+  },
+  "PM-L5": {
+    "coreCompetencies": [
+      "Leadership of product management teams",
+      "Design of product organization",
+      "Management of complex product portfolios",
+      "Definition of product culture",
+      "Ability for innovation frameworks",
+      "Implementation of product operations",
+      "Mastery of strategic partnerships",
+      "Evangelization of product thinking"
+    ],
+    "complementaryCompetencies": [
+      "Experience in digital transformation",
+      "Knowledge of venture building",
+      "Management of global products"
+    ],
+    "indicators": [
+      "Manages multiple PMs",
+      "Defines enterprise product vision",
+      "Represents products to investors"
+    ]
+  },
+  "PM-L6": {
+    "coreCompetencies": [
+      "Leadership of product at organizational level",
+      "Product strategy for scale-ups",
+      "Management of large product budgets",
+      "Definition of product-market expansion",
+      "Leadership in pivot strategies",
+      "Implementation of innovation labs",
+      "Innovation in product development processes",
+      "Management of ecosystem products"
+    ],
+    "complementaryCompetencies": [
+      "Experience in disruptive products",
+      "Knowledge of regulatory product management",
+      "Leadership in product communities"
+    ],
+    "indicators": [
+      "Leads product department (20+ people)",
+      "Participates in corporate strategy",
+      "Defines product investments"
+    ]
+  },
+  "PM-L7": {
+    "coreCompetencies": [
+      "Executive leadership in tech product",
+      "Design of global product strategies",
+      "Transformation of companies through products",
+      "Management of product at unicorn scale",
+      "Creation of new product categories",
+      "Definition of future of software products",
+      "Evangelization of products at board level",
+      "Influence in tech product industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of products in IPO",
+      "Experience in product for Fortune 500",
+      "Leadership in product councils"
+    ],
+    "indicators": [
+      "Reports to CEO",
+      "Manages product organizations (50+ people)",
+      "Defines corporate product strategy"
+    ]
+  },
+  "PM-L8": {
+    "coreCompetencies": [
+      "Strategic vision of product as core business",
+      "Leadership in software product revolutions",
+      "Creation of product ecosystems",
+      "Management of billion-dollar portfolios",
+      "Disruptive innovation in product management",
+      "Definition of next-generation product paradigms",
+      "Evangelization of product-first companies",
+      "Influence in digital economy"
+    ],
+    "complementaryCompetencies": [
+      "Experience as CPO in tech giants",
+      "Advisory in product-led startups",
+      "Thought leadership in tech products"
+    ],
+    "indicators": [
+      "Part of C-suite",
+      "Defines global product strategy",
+      "Recognized leader in tech products"
+    ]
+  },
+  "PM-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in future of software",
+      "Transformation of industries through products",
+      "Creation of new digital product paradigms",
+      "Definition of products in post-digital era",
+      "Innovation in human-product symbiosis",
+      "Evangelization of product consciousness",
+      "Architect of digital economies",
+      "Influence in evolution of software"
+    ],
+    "complementaryCompetencies": [
+      "Creator of revolutionary product categories",
+      "Recognition as guru of tech products",
+      "Influence in global product education"
+    ],
+    "indicators": [
+      "Legendary CPO",
+      "Defines future of software products",
+      "World authority in product management"
+    ]
+  }
+}

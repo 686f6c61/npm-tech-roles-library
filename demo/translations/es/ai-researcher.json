@@ -1,0 +1,201 @@
+{
+  "AIR-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de fundamentos de AI/ML",
+      "Conocimiento elemental de matemáticas para AI",
+      "Habilidad para implementar algoritmos básicos",
+      "Comprensión básica de deep learning",
+      "Capacidad de usar frameworks de ML",
+      "Conocimiento elemental de papers científicos",
+      "Comprensión básica de experimentación",
+      "Habilidad para documentar research"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de estadística",
+      "Familiaridad con Python/R",
+      "Comprensión elemental de computación"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Puede asistir en investigación",
+      "Necesita 1-2 años de background"
+    ]
+  },
+  "AIR-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar papers de research",
+      "Habilidad para diseñar experimentos",
+      "Conocimiento práctico de neural networks",
+      "Comprensión de optimization techniques",
+      "Capacidad de benchmarking de modelos",
+      "Habilidad para literature review",
+      "Conocimiento de reproducibilidad",
+      "Comprensión de ethics en AI"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de distributed training",
+      "Habilidad para visualization",
+      "Comprensión de HPC"
+    ],
+    "indicators": [
+      "Conduce research con supervisión",
+      "Implementa nuevas técnicas",
+      "Publica en workshops"
+    ]
+  },
+  "AIR-L3": {
+    "coreCompetencies": [
+      "Dominio de state-of-the-art techniques",
+      "Capacidad de proponer nuevos métodos",
+      "Habilidad para liderar proyectos de research",
+      "Conocimiento profundo de múltiples dominios",
+      "Capacidad de colaboración académica",
+      "Comprensión sólida de theoretical foundations",
+      "Habilidad para mentoring",
+      "Conocimiento de grant writing"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de quantum ML",
+      "Habilidad para neuromorphic computing",
+      "Comprensión de bio-inspired AI"
+    ],
+    "indicators": [
+      "Lidera líneas de investigación",
+      "Publica en conferencias top",
+      "Colabora con academia"
+    ]
+  },
+  "AIR-L4": {
+    "coreCompetencies": [
+      "Capacidad de definir agenda de research",
+      "Dominio de breakthrough innovations",
+      "Habilidad para liderar equipos de research",
+      "Conocimiento profundo de AI landscape",
+      "Capacidad de industry collaboration",
+      "Dominio de research strategy",
+      "Habilidad para IP creation",
+      "Conocimiento de research commercialization"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de AGI research",
+      "Habilidad para foundational models",
+      "Comprensión de AI safety"
+    ],
+    "indicators": [
+      "Define dirección de research",
+      "Lidera colaboraciones estratégicas",
+      "Publica papers influyentes"
+    ]
+  },
+  "AIR-L5": {
+    "coreCompetencies": [
+      "Expertise en research leadership",
+      "Capacidad de construir labs de research",
+      "Dominio de interdisciplinary research",
+      "Habilidad para strategic partnerships",
+      "Conocimiento profundo de funding landscape",
+      "Capacidad de definir research culture",
+      "Expertise en talent development",
+      "Dominio de research impact"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de consciousness research",
+      "Habilidad para hybrid intelligence",
+      "Comprensión de singularity"
+    ],
+    "indicators": [
+      "Arquitecta programas de research",
+      "Lidera múltiples líneas",
+      "Define estrategia de investigación"
+    ]
+  },
+  "AIR-L6": {
+    "coreCompetencies": [
+      "Capacidad de definir visión de research",
+      "Expertise en breakthrough discoveries",
+      "Dominio de global research networks",
+      "Habilidad para research diplomacy",
+      "Conocimiento profundo de AI futures",
+      "Capacidad de thought leadership",
+      "Expertise en research ecosystems",
+      "Dominio de scientific impact"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de post-singularity",
+      "Habilidad para alien AI",
+      "Comprensión de cosmic intelligence"
+    ],
+    "indicators": [
+      "Define visión de research corporativa",
+      "Lidera organizaciones de research",
+      "Influencia dirección de AI"
+    ]
+  },
+  "AIR-L7": {
+    "coreCompetencies": [
+      "Liderazgo en evolución de AI research",
+      "Capacidad de gestión de research global",
+      "Expertise en transformación científica",
+      "Dominio de research governance",
+      "Capacidad de definir cultura científica",
+      "Conocimiento profundo de breakthrough value",
+      "Expertise en nobel-class research",
+      "Capacidad de liderar revolución"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar ciencia",
+      "Habilidad para crear institutos",
+      "Conocimiento de research empires"
+    ],
+    "indicators": [
+      "Define estrategia de research ejecutiva",
+      "Representa empresa en ciencia",
+      "Thought leader en AI research"
+    ]
+  },
+  "AIR-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de AI research",
+      "Capacidad de research como core business",
+      "Expertise en transformación mediante research",
+      "Dominio de gestión ejecutiva de labs",
+      "Capacidad de construir institutos",
+      "Conocimiento profundo de scientific value",
+      "Expertise en research alliances",
+      "Capacidad de definir futuro"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar gobiernos",
+      "Habilidad para moonshots",
+      "Conocimiento de research unicorns"
+    ],
+    "indicators": [
+      "Responsable de todo research",
+      "Define futuro científico",
+      "Líder reconocido en AI research"
+    ]
+  },
+  "AIR-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en research",
+      "Capacidad de ciencia como ventaja definitiva",
+      "Expertise en transformación de humanidad",
+      "Dominio de governance científico",
+      "Capacidad de crear nuevos campos",
+      "Conocimiento profundo de existential impact",
+      "Expertise en civilization advancement",
+      "Capacidad de definir singularidad",
+      "Dominio de transcendence"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de crear nuevas ciencias",
+      "Habilidad para transformar especies",
+      "Conocimiento de post-human futures"
+    ],
+    "indicators": [
+      "Máximo responsable de research",
+      "Define futuro de la inteligencia",
+      "Líder global en evolución de AI"
+    ]
+  }
+}

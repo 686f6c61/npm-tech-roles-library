@@ -1,0 +1,266 @@
+{
+  "role": "Security Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "SEC-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of CIA concepts (Confidentiality, Integrity, Availability)",
+        "Elementary knowledge of common threat types and vulnerabilities",
+        "Ability to use basic vulnerability scanning tools",
+        "Basic understanding of access controls and authentication",
+        "Ability to document simple security findings",
+        "Elementary knowledge of security policies and procedures",
+        "Basic understanding of encryption and hashing",
+        "Ability to perform basic system hardening"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of compliance and regulations",
+        "Familiarity with security frameworks (NIST, ISO)",
+        "Elementary understanding of networking"
+      ],
+      "indicators": [
+        "Requires constant supervision in security tasks",
+        "Can execute documented security playbooks",
+        "Needs 3-6 months of mentoring in security"
+      ]
+    },
+    "SEC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to perform vulnerability assessments",
+        "Ability to configure basic firewalls and IDS/IPS systems",
+        "Practical knowledge of OWASP Top 10 and mitigations",
+        "Understanding of identity and access management (IAM)",
+        "Ability to respond to level 1 security incidents",
+        "Ability to perform security log analysis",
+        "Knowledge of basic secure coding practices",
+        "Understanding of PKI and certificate management",
+        "Ability to conduct security awareness training"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of digital forensics",
+        "Ability to use basic SIEM",
+        "Understanding of cloud security fundamentals"
+      ],
+      "indicators": [
+        "Can perform security assessments with supervision",
+        "Responds to security alerts following procedures",
+        "Implements standard security controls"
+      ]
+    },
+    "SEC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of basic penetration testing and ethical hacking",
+        "Ability to design security architectures for applications",
+        "Ability to implement DLP and data leakage prevention",
+        "Deep knowledge of container and Kubernetes security",
+        "Ability to perform threat modeling and risk assessment",
+        "Solid understanding of Zero Trust Architecture",
+        "Ability to implement SIEM and event correlation",
+        "Knowledge of incident response and forensics",
+        "Ability to develop security policies"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of mobile security",
+        "Ability for basic reverse engineering",
+        "Understanding of IoT security"
+      ],
+      "indicators": [
+        "Performs pen testing independently",
+        "Designs security controls for projects",
+        "Leads response to minor incidents"
+      ]
+    },
+    "SEC-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to design enterprise security programs",
+        "Mastery of red team operations and adversary simulation",
+        "Ability to implement DevSecOps and security automation",
+        "Deep knowledge of cloud security and multi-cloud",
+        "Ability to perform advanced threat hunting",
+        "Mastery of malware analysis and reverse engineering",
+        "Ability to design SOC and security operations",
+        "Knowledge of supply chain security",
+        "Ability to implement applied cryptography"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of OT/ICS security",
+        "Ability for exploit development",
+        "Understanding of quantum-safe cryptography"
+      ],
+      "indicators": [
+        "Leads complex security projects",
+        "Defines security architecture for products",
+        "Mentors team on best practices"
+      ]
+    },
+    "SEC-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise Zero Trust architectures",
+        "Ability to design threat intelligence programs",
+        "Mastery of security orchestration and SOAR",
+        "Ability to implement deception technology",
+        "Deep knowledge of compliance automation (PCI, HIPAA, GDPR)",
+        "Ability to perform APT simulation and purple teaming",
+        "Expertise in blockchain security and smart contracts",
+        "Mastery of API security and microservices security",
+        "Ability to design disaster recovery for security"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AI/ML security",
+        "Ability for hardware security",
+        "Understanding of 5G security"
+      ],
+      "indicators": [
+        "Designs enterprise security strategies",
+        "Leads DevSecOps transformation",
+        "Defines multi-year security roadmap"
+      ]
+    },
+    "SEC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to architect security for Fortune 500 companies",
+        "Expertise in cyber resilience and business continuity",
+        "Mastery of nation-state threat defense",
+        "Ability to implement adaptive security architecture",
+        "Deep knowledge of privacy engineering",
+        "Ability to design security by design frameworks",
+        "Expertise in third-party risk management",
+        "Mastery of security metrics and KRIs",
+        "Ability to lead crisis management"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of space security",
+        "Ability for cyber warfare defense",
+        "Understanding of digital biosecurity"
+      ],
+      "indicators": [
+        "Architects security for complex ecosystems",
+        "Leads global security programs",
+        "Interfaces with C-suite and board"
+      ]
+    },
+    "SEC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in enterprise security transformation",
+        "Ability to design cyber defense for critical infrastructure",
+        "Expertise in geopolitical cyber risk management",
+        "Mastery of security innovation and R&D",
+        "Ability to implement predictive security analytics",
+        "Deep knowledge of global regulatory compliance",
+        "Expertise in M&A security due diligence",
+        "Ability to design security partnerships",
+        "Mastery of security culture transformation"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence national policies",
+        "Ability to create security startups",
+        "Knowledge of cyber insurance"
+      ],
+      "indicators": [
+        "Defines corporate security strategy",
+        "Recognized thought leader in cybersecurity",
+        "Advisor to governments and organizations"
+      ]
+    },
+    "SEC-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of cybersecurity",
+        "Ability to lead security in digital transformation",
+        "Expertise in cyber diplomacy and international cooperation",
+        "Mastery of security economics and ROI",
+        "Ability to define global security governance",
+        "Deep knowledge of emerging threats landscape",
+        "Expertise in building security centers of excellence",
+        "Ability to lead security research initiatives",
+        "Mastery of security vendor ecosystem"
+      ],
+      "complementaryCompetencies": [
+        "Ability to patent security innovations",
+        "Ability for venture building in security",
+        "Knowledge of security investment"
+      ],
+      "indicators": [
+        "Defines multi-year global security strategy",
+        "Influences international standards",
+        "Keynote speaker at global conferences"
+      ]
+    },
+    "SEC-L9": {
+      "level": "L9 - VP/CISO",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in security and risk management",
+        "Ability to align security with business strategy",
+        "Expertise in board reporting and risk communication",
+        "Mastery of multi-million dollar security budgets",
+        "Ability to build global security organizations",
+        "Deep knowledge of cyber insurance and risk transfer",
+        "Expertise in law enforcement and agency relations",
+        "Ability to define corporate security posture",
+        "Mastery of crisis leadership and communication"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence security legislation",
+        "Ability to create security ecosystems",
+        "Knowledge of security M&A"
+      ],
+      "indicators": [
+        "Defines and executes enterprise security vision",
+        "Responsible for corporate risk posture",
+        "Recognized global leader in cybersecurity"
+      ]
+    }
+  }
+}

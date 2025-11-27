@@ -1,0 +1,200 @@
+{
+  "IOT-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of embedded systems",
+      "Elementary understanding of IoT protocols",
+      "Ability to perform basic sensor programming",
+      "Basic knowledge of MQTT and CoAP",
+      "Ability to use cloud IoT platforms",
+      "Basic understanding of edge computing",
+      "Documentation of simple IoT architectures",
+      "Elementary knowledge of hardware"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with Arduino/Raspberry Pi",
+      "Basic knowledge of wireless protocols",
+      "Understanding of data collection"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Programs simple devices",
+      "Learning IoT development"
+    ]
+  },
+  "IOT-L2": {
+    "coreCompetencies": [
+      "Ability to develop firmware for devices",
+      "Implementation of IoT gateways",
+      "Practical knowledge of protocol stacks",
+      "Ability for edge processing",
+      "Understanding of power management",
+      "Ability to perform basic sensor fusion",
+      "Knowledge of IoT security",
+      "Ability for cloud integration"
+    ],
+    "complementaryCompetencies": [
+      "Development with basic RTOS",
+      "Knowledge of LoRaWAN/NB-IoT",
+      "Understanding of time-series data"
+    ],
+    "indicators": [
+      "Develops IoT solutions with supervision",
+      "Implements device connectivity",
+      "Optimizes power consumption"
+    ]
+  },
+  "IOT-L3": {
+    "coreCompetencies": [
+      "Design of end-to-end IoT architectures",
+      "Implementation of edge analytics",
+      "Mastery of industrial protocols",
+      "Ability for mesh networking",
+      "Ability for predictive maintenance",
+      "Deep knowledge of IoT security",
+      "Implementation of digital twins",
+      "Design of distributed IoT systems"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of 5G IoT",
+      "Ability for computer vision on edge",
+      "Understanding of blockchain IoT"
+    ],
+    "indicators": [
+      "Leads complex IoT projects",
+      "Designs device ecosystems",
+      "Mentors IoT developers"
+    ]
+  },
+  "IOT-L4": {
+    "coreCompetencies": [
+      "Architecture of enterprise IoT platforms",
+      "Design of smart city solutions",
+      "Implementation of industrial IoT",
+      "Mastery of real-time systems",
+      "Ability for massive IoT scaling",
+      "Deep knowledge of edge AI",
+      "Ability for IoT orchestration",
+      "Leadership in IoT standards"
+    ],
+    "complementaryCompetencies": [
+      "Experience in automotive IoT",
+      "Knowledge of satellite IoT",
+      "Implementation of swarm intelligence"
+    ],
+    "indicators": [
+      "Defines enterprise IoT strategy",
+      "Leads IoT teams",
+      "Expert in edge computing"
+    ]
+  },
+  "IOT-L5": {
+    "coreCompetencies": [
+      "Technical leadership in IoT platforms",
+      "Design of global IoT ecosystems",
+      "Management of IoT development teams",
+      "Definition of enterprise IoT strategy",
+      "Ability for IoT business models",
+      "Implementation of smart infrastructure",
+      "Mastery of IoT governance",
+      "Evangelization of connected world"
+    ],
+    "complementaryCompetencies": [
+      "Experience in IoT transformation",
+      "Knowledge of regulatory compliance for IoT",
+      "Management of IoT partnerships"
+    ],
+    "indicators": [
+      "Manages multiple IoT teams",
+      "Defines enterprise connectivity vision",
+      "Represents IoT to executives"
+    ]
+  },
+  "IOT-L6": {
+    "coreCompetencies": [
+      "Direction of IoT organizational initiatives",
+      "Strategy of connected transformation",
+      "Management of large IoT investments",
+      "Definition of ubiquitous computing strategy",
+      "Leadership in smart everything",
+      "Implementation of autonomous IoT",
+      "Innovation in edge intelligence",
+      "Management of global ecosystems"
+    ],
+    "complementaryCompetencies": [
+      "Experience in critical infrastructure IoT",
+      "Knowledge of IoT M&A",
+      "Leadership in IoT alliances"
+    ],
+    "indicators": [
+      "Leads IoT department (20+ people)",
+      "Participates in digital transformation",
+      "Defines connectivity investments"
+    ]
+  },
+  "IOT-L7": {
+    "coreCompetencies": [
+      "Executive leadership in Internet of Things",
+      "Design of global IoT strategies",
+      "Transformation of industries via IoT",
+      "Management of IoT at planetary scale",
+      "Creation of new connected paradigms",
+      "Definition of ambient computing future",
+      "Evangelization of IoT at board level",
+      "Influence in Industry 4.0"
+    ],
+    "complementaryCompetencies": [
+      "Management of smart nations projects",
+      "Experience in IoT unicorns",
+      "Leadership in global IoT standards"
+    ],
+    "indicators": [
+      "Reports to C-suite",
+      "Manages IoT organization (50+ people)",
+      "Defines corporate connectivity strategy"
+    ]
+  },
+  "IOT-L8": {
+    "coreCompetencies": [
+      "Strategic vision of hyperconnected world",
+      "Leadership in global IoT revolution",
+      "Creation of ambient intelligence paradigms",
+      "Management of trillions of devices",
+      "Disruptive innovation in sentient environments",
+      "Definition of IoT consciousness",
+      "Evangelization of intelligent planet",
+      "Influence in global IoT policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as IoT CTO in Fortune 500",
+      "Advisory in IoT funds",
+      "Thought leadership in connectivity"
+    ],
+    "indicators": [
+      "Part of executive committee",
+      "Defines global IoT strategy",
+      "Leading authority in Internet of Things"
+    ]
+  },
+  "IOT-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in future of connected reality",
+      "Transformation of civilization via IoT",
+      "Creation of paradigms of digital omnipresence",
+      "Definition of human-thing symbiosis",
+      "Innovation in consciousness networking",
+      "Evangelization of responsive reality",
+      "Architect of conscious planet",
+      "Influence in evolution of intelligent matter"
+    ],
+    "complementaryCompetencies": [
+      "Creator of IoT revolutions",
+      "Recognition as father of modern IoT",
+      "Influence in future of connectivity"
+    ],
+    "indicators": [
+      "Is legendary Chief IoT Officer",
+      "Defines future of connected world",
+      "Is world authority in Internet of Everything"
+    ]
+  }
+}

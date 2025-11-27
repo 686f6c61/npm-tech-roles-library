@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Sistemas de Recomendación",
+  "category": "IA/ML",
+  "levels": {
+    "RSE-L1": {
+      "level": "L1 - Ingeniero de Sistemas de Recomendación en Formación",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de sistemas de recomendación",
+        "Comprensión elemental de filtrado colaborativo",
+        "Habilidad para implementar recomendaciones simples basadas en contenido",
+        "Conocimiento básico de Python y bibliotecas de ciencia de datos",
+        "Capacidad de trabajo con conjuntos de datos de calificaciones",
+        "Comprensión de métricas básicas de evaluación (precisión, exhaustividad)",
+        "Documentación de modelos de recomendación simples",
+        "Conocimiento elemental de sistemas basados en reglas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con bibliotecas de recomendación básicas",
+        "Conocimiento de análisis exploratorio de datos",
+        "Comprensión elemental de bases de datos relacionales"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta tareas básicas de modelado con orientación",
+        "Está aprendiendo fundamentos de sistemas de recomendación"
+      ]
+    },
+    "RSE-L2": {
+      "level": "L2 - Ingeniero de Sistemas de Recomendación Junior",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar filtrado colaborativo basado en usuarios e ítems",
+        "Implementación de factorización matricial básica",
+        "Conocimiento práctico de métodos híbridos de recomendación",
+        "Habilidad para gestionar el problema de arranque en frío",
+        "Comprensión de similitud de coseno y distancia euclídea",
+        "Capacidad de evaluación con validación cruzada",
+        "Conocimiento de técnicas de regularización",
+        "Habilidad para preprocesamiento de datos de interacción"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de sistemas de recomendación basados en grafos",
+        "Habilidad para implementar recomendaciones contextuales",
+        "Comprensión de filtrado demográfico"
+      ],
+      "indicators": [
+        "Desarrolla modelos de recomendación con supervisión",
+        "Implementa funcionalidades completas de recomendación",
+        "Optimiza métricas básicas de rendimiento"
+      ]
+    },
+    "RSE-L3": {
+      "level": "L3 - Ingeniero de Sistemas de Recomendación",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de sistemas de recomendación de extremo a extremo",
+        "Implementación de factorización matricial avanzada (SVD, NMF)",
+        "Dominio de modelos de aprendizaje profundo para recomendaciones",
+        "Capacidad de optimización de hiperparámetros",
+        "Habilidad para diseñar arquitecturas de recomendación escalables",
+        "Conocimiento profundo de métricas de clasificación (NDCG, MAP, MRR)",
+        "Implementación de recomendaciones en tiempo real",
+        "Capacidad de mentoría técnica"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de redes neuronales recurrentes para secuencias",
+        "Habilidad para implementar bandidos multibrazo",
+        "Comprensión de aprendizaje por refuerzo para recomendaciones"
+      ],
+      "indicators": [
+        "Lidera proyectos completos de recomendación",
+        "Diseña arquitecturas de sistemas de recomendación",
+        "Mentoriza a ingenieros junior en técnicas avanzadas"
+      ]
+    },
+    "RSE-L4": {
+      "level": "L4 - Ingeniero de Sistemas de Recomendación Senior",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de recomendación escalables",
+        "Diseño de estrategias de recomendación multiobjetivo",
+        "Implementación de modelos de dos torres y transformadores",
+        "Dominio de optimización de diversidad y novedad",
+        "Capacidad de liderazgo técnico en equipos de recomendación",
+        "Conocimiento profundo de sesgo y equidad en recomendaciones",
+        "Habilidad para diseñar pruebas A/B y experimentación",
+        "Liderazgo en migración de sistemas heredados"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en sistemas de recomendación distribuidos",
+        "Conocimiento de modelos de lenguaje para recomendaciones",
+        "Implementación de explicabilidad en recomendaciones"
+      ],
+      "indicators": [
+        "Define estrategia técnica de sistemas de recomendación",
+        "Lidera equipos técnicos multidisciplinares",
+        "Es referente interno en sistemas de recomendación"
+      ]
+    },
+    "RSE-L5": {
+      "level": "L5 - Ingeniero de Sistemas de Recomendación Principal",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en plataformas de personalización",
+        "Diseño de estrategias de producto para recomendaciones",
+        "Gestión de equipos de ingeniería de recomendación",
+        "Definición de estándares de calidad y métricas de negocio",
+        "Capacidad de análisis de retorno de inversión",
+        "Implementación de gobernanza de datos de usuarios",
+        "Dominio de técnicas emergentes de aprendizaje profundo",
+        "Evangelización de cultura basada en datos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en consultoría de sistemas de recomendación",
+        "Conocimiento de modelos económicos de recomendación",
+        "Gestión de presupuestos de infraestructura"
+      ],
+      "indicators": [
+        "Gestiona equipos completos de recomendación",
+        "Define visión de productos de personalización",
+        "Representa sistemas de recomendación ante dirección"
+      ]
+    },
+    "RSE-L6": {
+      "level": "L6 - Ingeniero de Sistemas de Recomendación Distinguido",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia corporativa de personalización",
+        "Gestión de plataformas de recomendación a escala global",
+        "Definición de arquitectura empresarial de recomendaciones",
+        "Liderazgo en transformación de experiencia de usuario",
+        "Gestión de alianzas estratégicas con proveedores",
+        "Implementación de prácticas responsables de personalización",
+        "Innovación en soluciones de recomendación",
+        "Gestión de cumplimiento normativo de privacidad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fusiones y adquisiciones tecnológicas",
+        "Conocimiento de estrategias de inversión en personalización",
+        "Liderazgo en comunidades técnicas de la industria"
+      ],
+      "indicators": [
+        "Dirige departamento de personalización",
+        "Participa en estrategia ejecutiva de producto",
+        "Define inversiones en sistemas de recomendación"
+      ]
+    },
+    "RSE-L7": {
+      "level": "L7 - Director de Sistemas de Recomendación",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en personalización y descubrimiento",
+        "Diseño de estrategias globales de experiencia de usuario",
+        "Transformación organizacional mediante recomendaciones",
+        "Gestión a escala de grandes plataformas",
+        "Creación de cultura organizacional centrada en el usuario",
+        "Definición de hoja de ruta estratégica de personalización",
+        "Evangelización a nivel de junta directiva",
+        "Influencia en estándares de la industria"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos multimillonarios",
+        "Experiencia en empresas unicornio tecnológicas",
+        "Liderazgo en estándares de personalización"
+      ],
+      "indicators": [
+        "Reporta a director de tecnología o de producto",
+        "Gestiona organización de más de 50 personas",
+        "Define estrategia corporativa de personalización"
+      ]
+    },
+    "RSE-L8": {
+      "level": "L8 - Vicepresidente de Sistemas de Recomendación",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica empresarial de personalización",
+        "Liderazgo en transformación digital mediante recomendaciones",
+        "Creación de ventaja competitiva mediante personalización",
+        "Gestión de ecosistemas globales de recomendación",
+        "Innovación disruptiva en descubrimiento de contenido",
+        "Definición de dirección futura de personalización",
+        "Evangelización de cambio de paradigma en experiencia de usuario",
+        "Influencia en políticas de privacidad y personalización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como ejecutivo en grandes tecnológicas",
+        "Asesoría en empresas emergentes de personalización",
+        "Liderazgo de pensamiento en recomendaciones"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define el futuro de la personalización en la empresa",
+        "Es líder reconocido globalmente en sistemas de recomendación"
+      ]
+    },
+    "RSE-L9": {
+      "level": "L9 - Director Ejecutivo de Personalización",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en personalización y descubrimiento",
+        "Transformación de industrias mediante sistemas de recomendación",
+        "Creación de nuevos paradigmas de experiencia de usuario",
+        "Definición de personalización como negocio central",
+        "Innovación en aplicaciones revolucionarias de recomendación",
+        "Evangelización de cultura de personalización",
+        "Arquitecto de ecosistemas globales de recomendación",
+        "Influencia en regulación de privacidad y personalización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando industrias con personalización",
+        "Reconocimiento como pionero en sistemas de recomendación",
+        "Influencia en el futuro de la personalización"
+      ],
+      "indicators": [
+        "Es director ejecutivo de personalización",
+        "Define el futuro de la industria de recomendaciones",
+        "Es autoridad mundial en sistemas de recomendación"
+      ]
+    }
+  }
+}

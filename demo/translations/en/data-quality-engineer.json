@@ -1,0 +1,200 @@
+{
+  "DQE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of data quality",
+      "Elementary understanding of data profiling",
+      "Ability to execute simple validations",
+      "Basic knowledge of anomaly detection",
+      "Ability to document issues",
+      "Understanding of data quality dimensions",
+      "Manual quality testing",
+      "Elementary knowledge of data cleansing"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with basic SQL",
+      "Knowledge of data quality tools",
+      "Elementary understanding of statistics"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Identifies basic issues",
+      "Learning data quality fundamentals"
+    ]
+  },
+  "DQE-L2": {
+    "coreCompetencies": [
+      "Ability to implement data quality rules",
+      "Implementation of complete validations",
+      "Practical knowledge of DQ frameworks",
+      "Ability for automated testing",
+      "Understanding of data lineage",
+      "Ability for anomaly detection",
+      "Knowledge of monitoring",
+      "Ability for DQ reporting"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of Great Expectations",
+      "Ability for scripting",
+      "Understanding of data observability"
+    ],
+    "indicators": [
+      "Implements DQ rules with supervision",
+      "Detects anomalies",
+      "Maintains DQ metrics"
+    ]
+  },
+  "DQE-L3": {
+    "coreCompetencies": [
+      "Design of DQ frameworks",
+      "Implementation of automated DQ pipelines",
+      "Mastery of data profiling",
+      "Ability for root cause analysis",
+      "Ability for DQ governance",
+      "Deep knowledge of validation strategies",
+      "Implementation of alerting",
+      "Ability for stakeholder communication"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of data catalogs",
+      "Ability for metadata management",
+      "Understanding of data contracts"
+    ],
+    "indicators": [
+      "Leads DQ projects",
+      "Designs quality frameworks",
+      "Mentors in data quality"
+    ]
+  },
+  "DQE-L4": {
+    "coreCompetencies": [
+      "Architecture of DQ platforms",
+      "Design of enterprise DQ strategy",
+      "Implementation of DQ at scale",
+      "Mastery of ML-based DQ",
+      "Ability for cost-benefit analysis",
+      "Deep knowledge of regulatory DQ",
+      "Ability for DQ culture building",
+      "Leadership in DQ transformation"
+    ],
+    "complementaryCompetencies": [
+      "Experience in data observability platforms",
+      "Knowledge of DataOps",
+      "Implementation of self-service DQ"
+    ],
+    "indicators": [
+      "Defines DQ strategy",
+      "Leads DQ teams",
+      "Reference in data quality"
+    ]
+  },
+  "DQE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in data quality",
+      "Design of DQ ecosystems",
+      "Management of DQ teams",
+      "Definition of DQ standards",
+      "Ability for DQ ROI",
+      "Implementation of DQ governance",
+      "Mastery of cross-functional DQ",
+      "Evangelization of data quality"
+    ],
+    "complementaryCompetencies": [
+      "Experience in data mesh DQ",
+      "Knowledge of DQ economics",
+      "Management of DQ tools"
+    ],
+    "indicators": [
+      "Manages DQ team",
+      "Defines quality vision",
+      "Represents DQ to stakeholders"
+    ]
+  },
+  "DQE-L6": {
+    "coreCompetencies": [
+      "Direction of corporate DQ strategy",
+      "Management of DQ programs at scale",
+      "Definition of DQ architecture",
+      "Leadership in DQ transformation",
+      "Management of data quality incidents",
+      "Implementation of global DQ",
+      "Innovation in DQ technologies",
+      "Management of DQ compliance"
+    ],
+    "complementaryCompetencies": [
+      "Experience in DQ M&A",
+      "Knowledge of DQ investment",
+      "Leadership in DQ community"
+    ],
+    "indicators": [
+      "Leads DQ department",
+      "Participates in data strategy",
+      "Defines DQ investments"
+    ]
+  },
+  "DQE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in data quality",
+      "Design of global DQ strategies",
+      "Organizational transformation via DQ",
+      "Management at Fortune 500 scale",
+      "Creation of quality-first culture",
+      "Definition of DQ roadmap",
+      "Evangelization at board level",
+      "Influence in DQ standards"
+    ],
+    "complementaryCompetencies": [
+      "Management of DQ budgets",
+      "Experience in data-driven companies",
+      "Leadership in data consortiums"
+    ],
+    "indicators": [
+      "Reports to CDO",
+      "Manages DQ organization (20+ people)",
+      "Defines DQ strategy"
+    ]
+  },
+  "DQE-L8": {
+    "coreCompetencies": [
+      "Strategic vision for data quality",
+      "Leadership in DQ revolution",
+      "Creation of quality advantage",
+      "Management of DQ ecosystems",
+      "Disruptive innovation in DQ",
+      "Definition of autonomous DQ",
+      "Evangelization of quality-driven approach",
+      "Influence in data policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience in DQ giants",
+      "Advisory in DQ startups",
+      "Thought leadership in DQ"
+    ],
+    "indicators": [
+      "Part of executive committee",
+      "Defines DQ strategy",
+      "Recognized industry leader"
+    ]
+  },
+  "DQE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in data quality",
+      "Transformation of quality paradigms",
+      "Creation of trusted data",
+      "Definition of quality-native organizations",
+      "Innovation in DQ governance",
+      "Evangelization of data trust",
+      "Architect of DQ ecosystems",
+      "Influence in data regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experience transforming Fortune 500 companies",
+      "Recognition as DQ pioneer",
+      "Influence in standards"
+    ],
+    "indicators": [
+      "Chief Data Quality Officer",
+      "Defines future of data quality",
+      "Global data quality authority"
+    ]
+  }
+}

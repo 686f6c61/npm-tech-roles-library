@@ -1,0 +1,200 @@
+{
+  "RLE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de reinforcement learning",
+      "Comprensión elemental de fundamentos",
+      "Habilidad para tareas simples",
+      "Conocimiento básico de herramientas",
+      "Capacidad de trabajo con supervisión",
+      "Comprensión de conceptos core",
+      "Documentación básica",
+      "Conocimiento elemental de best practices"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con frameworks básicos",
+      "Conocimiento de herramientas estándar",
+      "Comprensión elemental de cloud"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Ejecuta tareas básicas con guía",
+      "Está aprendiendo reinforcement learning"
+    ]
+  },
+  "RLE-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar soluciones básicas en reinforcement learning",
+      "Implementación de técnicas estándar",
+      "Conocimiento práctico de frameworks",
+      "Habilidad para resolver problemas típicos",
+      "Comprensión de pipelines",
+      "Capacidad de deployment básico",
+      "Conocimiento de testing",
+      "Habilidad para documentación"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de tecnologías emergentes",
+      "Habilidad para integración",
+      "Comprensión de automation"
+    ],
+    "indicators": [
+      "Desarrolla soluciones reinforcement learning con supervisión",
+      "Implementa features completas",
+      "Optimiza procesos básicos"
+    ]
+  },
+  "RLE-L3": {
+    "coreCompetencies": [
+      "Diseño de soluciones reinforcement learning end-to-end",
+      "Implementación de sistemas complejos",
+      "Dominio de stack tecnológico",
+      "Capacidad de optimization avanzada",
+      "Habilidad para arquitectura",
+      "Conocimiento profundo de best practices",
+      "Implementación de monitoring",
+      "Capacidad de mentoring"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de técnicas avanzadas",
+      "Habilidad para innovation",
+      "Comprensión de research"
+    ],
+    "indicators": [
+      "Lidera proyectos de reinforcement learning",
+      "Diseña arquitecturas completas",
+      "Mentoriza engineers junior"
+    ]
+  },
+  "RLE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de plataformas reinforcement learning escalables",
+      "Diseño de estrategias técnicas",
+      "Implementación de sistemas enterprise",
+      "Dominio de optimization a escala",
+      "Capacidad de leadership técnico",
+      "Conocimiento profundo de patterns avanzados",
+      "Habilidad para strategic planning",
+      "Liderazgo en transformación"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en sistemas distribuidos",
+      "Conocimiento de cutting-edge tech",
+      "Implementación de innovation"
+    ],
+    "indicators": [
+      "Define estrategia de reinforcement learning",
+      "Lidera equipos técnicos",
+      "Es referente en reinforcement learning"
+    ]
+  },
+  "RLE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en reinforcement learning",
+      "Diseño de product strategy",
+      "Gestión de equipos",
+      "Definición de standards",
+      "Capacidad de ROI analysis",
+      "Implementación de governance",
+      "Dominio de emerging tech",
+      "Evangelización de culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en consulting",
+      "Conocimiento de business models",
+      "Gestión de budgets"
+    ],
+    "indicators": [
+      "Gestiona equipos de reinforcement learning",
+      "Define visión de productos",
+      "Representa reinforcement learning ante stakeholders"
+    ]
+  },
+  "RLE-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia corporativa de reinforcement learning",
+      "Gestión de platforms a escala",
+      "Definición de architecture empresarial",
+      "Liderazgo en transformation",
+      "Gestión de partnerships estratégicos",
+      "Implementación de responsible practices",
+      "Innovación en solutions",
+      "Gestión de compliance"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en M&A",
+      "Conocimiento de investment",
+      "Liderazgo en industry community"
+    ],
+    "indicators": [
+      "Dirige departamento de reinforcement learning",
+      "Participa en estrategia ejecutiva",
+      "Define inversiones en reinforcement learning"
+    ]
+  },
+  "RLE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en reinforcement learning",
+      "Diseño de estrategias globales",
+      "Transformación organizacional",
+      "Gestión a escala Fortune 500",
+      "Creación de organizational culture",
+      "Definición de roadmap estratégico",
+      "Evangelización a nivel board",
+      "Influencia en industry"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de budgets multi-millonarios",
+      "Experiencia en unicorns",
+      "Liderazgo en standards"
+    ],
+    "indicators": [
+      "Reporta a CTO/CEO",
+      "Gestiona organización (50+ personas)",
+      "Define estrategia corporativa de reinforcement learning"
+    ]
+  },
+  "RLE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica empresarial de reinforcement learning",
+      "Liderazgo en transformation",
+      "Creación de competitive advantage",
+      "Gestión de ecosystems globales",
+      "Innovación disruptiva",
+      "Definición de future direction",
+      "Evangelización de paradigm shift",
+      "Influencia en policies"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como executive en tech giants",
+      "Advisory en startups",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define futuro de reinforcement learning",
+      "Es líder reconocido en reinforcement learning"
+    ]
+  },
+  "RLE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en reinforcement learning",
+      "Transformación de industrias",
+      "Creación de paradigmas",
+      "Definición de reinforcement learning como core business",
+      "Innovación en breakthrough applications",
+      "Evangelización de culture",
+      "Arquitecto de ecosystems globales",
+      "Influencia en regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando industrias con reinforcement learning",
+      "Reconocimiento como pioneer",
+      "Influencia en future"
+    ],
+    "indicators": [
+      "Es Chief Reinforcement Learning Engineer Officer",
+      "Define futuro de la industria de reinforcement learning",
+      "Es autoridad mundial en reinforcement learning"
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "role": "Ingeniero de Seguridad",
+  "category": "Ingeniería de Software",
+  "levels": {
+    "SEC-L1": {
+      "level": "L1 - Aprendiz",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de conceptos de confidencialidad, integridad y disponibilidad",
+        "Conocimiento elemental de tipos de amenazas y vulnerabilidades comunes",
+        "Habilidad para usar herramientas de escaneo de vulnerabilidades básicas",
+        "Comprensión básica de controles de acceso y autenticación",
+        "Capacidad de documentar hallazgos de seguridad simples",
+        "Conocimiento elemental de políticas y procedimientos de seguridad",
+        "Comprensión básica de cifrado y resumen criptográfico",
+        "Habilidad para realizar reforzamiento básico de sistemas"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de cumplimiento normativo y regulaciones",
+        "Familiaridad con marcos de seguridad estándar",
+        "Comprensión elemental de redes"
+      ],
+      "indicators": [
+        "Requiere supervisión constante en tareas de seguridad",
+        "Puede ejecutar manuales de seguridad documentados",
+        "Necesita 3-6 meses de mentoría en seguridad"
+      ]
+    },
+    "SEC-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de realizar evaluaciones de vulnerabilidades",
+        "Habilidad para configurar cortafuegos y sistemas de detección y prevención de intrusiones básicos",
+        "Conocimiento práctico de las diez vulnerabilidades más críticas y mitigaciones",
+        "Comprensión de gestión de identidades y accesos",
+        "Capacidad de responder a incidentes de seguridad nivel 1",
+        "Habilidad para realizar análisis de registros de seguridad",
+        "Conocimiento de prácticas de codificación segura básicas",
+        "Comprensión de infraestructura de clave pública y gestión de certificados",
+        "Capacidad de realizar capacitación de concienciación en seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de análisis forense digital",
+        "Habilidad para usar gestión de eventos e información de seguridad básica",
+        "Comprensión de fundamentos de seguridad en la nube"
+      ],
+      "indicators": [
+        "Puede realizar evaluaciones de seguridad con supervisión",
+        "Responde a alertas de seguridad siguiendo procedimientos",
+        "Implementa controles de seguridad estándar"
+      ]
+    },
+    "SEC-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de pruebas de penetración y piratería ética básica",
+        "Capacidad de diseñar arquitecturas de seguridad para aplicaciones",
+        "Habilidad para implementar prevención de pérdida de datos",
+        "Conocimiento profundo de seguridad en contenedores y orquestadores",
+        "Capacidad de realizar modelado de amenazas y evaluación de riesgos",
+        "Comprensión sólida de arquitectura de confianza cero",
+        "Habilidad para implementar gestión de eventos e información de seguridad y correlación de eventos",
+        "Conocimiento de respuesta a incidentes y análisis forense",
+        "Capacidad de desarrollar políticas de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de seguridad móvil",
+        "Habilidad para ingeniería inversa básica",
+        "Comprensión de seguridad de internet de las cosas"
+      ],
+      "indicators": [
+        "Realiza pruebas de penetración de manera independiente",
+        "Diseña controles de seguridad para proyectos",
+        "Lidera respuesta a incidentes menores"
+      ]
+    },
+    "SEC-L4": {
+      "level": "L4 - Nivel Medio I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar programas de seguridad empresariales",
+        "Dominio de operaciones de equipo rojo y simulación de adversarios",
+        "Habilidad para implementar seguridad en desarrollo y automatización de seguridad",
+        "Conocimiento profundo de seguridad en la nube y múltiples nubes",
+        "Capacidad de realizar búsqueda avanzada de amenazas",
+        "Dominio de análisis de software malicioso e ingeniería inversa",
+        "Habilidad para diseñar centro de operaciones de seguridad",
+        "Conocimiento de seguridad de cadena de suministro",
+        "Capacidad de implementar criptografía aplicada"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de seguridad de tecnología operativa y sistemas de control industrial",
+        "Habilidad para desarrollo de exploits",
+        "Comprensión de criptografía resistente a computación cuántica"
+      ],
+      "indicators": [
+        "Lidera proyectos de seguridad complejos",
+        "Define arquitectura de seguridad para productos",
+        "Mentoriza al equipo en mejores prácticas"
+      ]
+    },
+    "SEC-L5": {
+      "level": "L5 - Nivel Medio II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en arquitecturas de confianza cero empresariales",
+        "Capacidad de diseñar programas de inteligencia de amenazas",
+        "Dominio de orquestación de seguridad y automatización",
+        "Habilidad para implementar tecnología de engaño",
+        "Conocimiento profundo de automatización de cumplimiento normativo",
+        "Capacidad de realizar simulación de amenazas persistentes avanzadas y equipos púrpura",
+        "Experiencia en seguridad de cadenas de bloques y contratos inteligentes",
+        "Dominio de seguridad de interfaces y microservicios",
+        "Capacidad de diseñar recuperación ante desastres para seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de seguridad de inteligencia artificial y aprendizaje automático",
+        "Habilidad para seguridad de hardware",
+        "Comprensión de seguridad de redes de quinta generación"
+      ],
+      "indicators": [
+        "Diseña estrategias de seguridad empresariales",
+        "Lidera transformación de seguridad en desarrollo",
+        "Define hoja de ruta de seguridad multi-año"
+      ]
+    },
+    "SEC-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de arquitectar seguridad para empresas Fortune 500",
+        "Experiencia en resiliencia cibernética y continuidad del negocio",
+        "Dominio de defensa contra amenazas de estados nacionales",
+        "Habilidad para implementar arquitectura de seguridad adaptativa",
+        "Conocimiento profundo de ingeniería de privacidad",
+        "Capacidad de diseñar marcos de seguridad desde el diseño",
+        "Experiencia en gestión de riesgos de terceros",
+        "Dominio de métricas de seguridad e indicadores clave de riesgo",
+        "Capacidad de liderar gestión de crisis"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de seguridad espacial",
+        "Habilidad para defensa contra guerra cibernética",
+        "Comprensión de bioseguridad digital"
+      ],
+      "indicators": [
+        "Arquitecta seguridad para ecosistemas complejos",
+        "Lidera programas de seguridad globales",
+        "Interactúa con alta dirección y junta directiva"
+      ]
+    },
+    "SEC-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en transformación de seguridad empresarial",
+        "Capacidad de diseñar ciberdefensa para infraestructura crítica",
+        "Experiencia en gestión de riesgo cibernético geopolítico",
+        "Dominio de innovación e investigación en seguridad",
+        "Capacidad de implementar análisis predictivo de seguridad",
+        "Conocimiento profundo de cumplimiento normativo global",
+        "Experiencia en debida diligencia de seguridad en fusiones y adquisiciones",
+        "Capacidad de diseñar alianzas de seguridad",
+        "Dominio de transformación de cultura de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influir en políticas nacionales",
+        "Habilidad para crear empresas emergentes de seguridad",
+        "Conocimiento de seguros cibernéticos"
+      ],
+      "indicators": [
+        "Define estrategia de seguridad corporativa",
+        "Reconocido líder de pensamiento en ciberseguridad",
+        "Asesor para gobiernos y organizaciones"
+      ]
+    },
+    "SEC-L8": {
+      "level": "L8 - Personal/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica para el futuro de ciberseguridad",
+        "Capacidad de liderar seguridad en transformación digital",
+        "Experiencia en diplomacia cibernética y cooperación internacional",
+        "Dominio de economía de seguridad y retorno de inversión",
+        "Capacidad de definir gobernanza de seguridad global",
+        "Conocimiento profundo de panorama de amenazas emergentes",
+        "Experiencia en construcción de centros de excelencia en seguridad",
+        "Capacidad de liderar iniciativas de investigación en seguridad",
+        "Dominio de ecosistema de proveedores de seguridad"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de patentar innovaciones de seguridad",
+        "Habilidad para construcción de empresas en seguridad",
+        "Conocimiento de inversión en seguridad"
+      ],
+      "indicators": [
+        "Define estrategia de seguridad multi-año global",
+        "Influye en estándares internacionales",
+        "Ponente principal en conferencias globales"
+      ]
+    },
+    "SEC-L9": {
+      "level": "L9 - Vicepresidente/Director de Seguridad de la Información",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en seguridad y gestión de riesgo",
+        "Capacidad de alinear seguridad con estrategia de negocio",
+        "Experiencia en informes a junta directiva y comunicación de riesgos",
+        "Dominio de presupuestos de seguridad multimillonarios",
+        "Capacidad de construir organizaciones de seguridad globales",
+        "Conocimiento profundo de seguros cibernéticos y transferencia de riesgos",
+        "Experiencia en relaciones con fuerzas del orden y agencias",
+        "Capacidad de definir postura de seguridad corporativa",
+        "Dominio de liderazgo en crisis y comunicación"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar legislación de seguridad",
+        "Habilidad para crear ecosistemas de seguridad",
+        "Conocimiento de fusiones y adquisiciones en seguridad"
+      ],
+      "indicators": [
+        "Define y ejecuta visión de seguridad empresarial",
+        "Responsable de postura de riesgo corporativo",
+        "Líder reconocido en ciberseguridad global"
+      ]
+    }
+  }
+}

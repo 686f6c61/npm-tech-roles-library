@@ -1,0 +1,314 @@
+{
+  "API Developer": {
+    "es": "Desarrollador de API",
+    "en": "API Developer"
+  },
+  "AI Engineer": {
+    "es": "Ingeniero de IA",
+    "en": "AI Engineer"
+  },
+  "AI Ethics & Governance Specialist": {
+    "es": "Especialista en Ética y Gobernanza de IA",
+    "en": "AI Ethics & Governance Specialist"
+  },
+  "AI Research Engineer": {
+    "es": "Ingeniero de Investigación en IA",
+    "en": "AI Research Engineer"
+  },
+  "AI Researcher": {
+    "es": "Investigador de IA",
+    "en": "AI Researcher"
+  },
+  "AI Safety Engineer": {
+    "es": "Ingeniero de Seguridad en IA",
+    "en": "AI Safety Engineer"
+  },
+  "Application Security Engineer": {
+    "es": "Ingeniero de Seguridad de Aplicaciones",
+    "en": "Application Security Engineer"
+  },
+  "Automation Engineer": {
+    "es": "Ingeniero de Automatización",
+    "en": "Automation Engineer"
+  },
+  "AutoML Engineer": {
+    "es": "Ingeniero de AutoML",
+    "en": "AutoML Engineer"
+  },
+  "Backend Developer": {
+    "es": "Desarrollador Backend",
+    "en": "Backend Developer"
+  },
+  "Big Data Engineer": {
+    "es": "Ingeniero de Big Data",
+    "en": "Big Data Engineer"
+  },
+  "Blockchain Developer": {
+    "es": "Desarrollador Blockchain",
+    "en": "Blockchain Developer"
+  },
+  "Business Intelligence Specialist": {
+    "es": "Especialista en Inteligencia de Negocio",
+    "en": "Business Intelligence Specialist"
+  },
+  "Cloud Engineer": {
+    "es": "Ingeniero Cloud",
+    "en": "Cloud Engineer"
+  },
+  "Cloud Security Engineer": {
+    "es": "Ingeniero de Seguridad Cloud",
+    "en": "Cloud Security Engineer"
+  },
+  "Compiler Engineer": {
+    "es": "Ingeniero de Compiladores",
+    "en": "Compiler Engineer"
+  },
+  "Computer Vision Engineer": {
+    "es": "Ingeniero de Visión por Computador",
+    "en": "Computer Vision Engineer"
+  },
+  "Conversational AI Engineer": {
+    "es": "Ingeniero de IA Conversacional",
+    "en": "Conversational AI Engineer"
+  },
+  "Data Analyst": {
+    "es": "Analista de Datos",
+    "en": "Data Analyst"
+  },
+  "Data Architect": {
+    "es": "Arquitecto de Datos",
+    "en": "Data Architect"
+  },
+  "Data Engineer": {
+    "es": "Ingeniero de Datos",
+    "en": "Data Engineer"
+  },
+  "Data Governance Specialist": {
+    "es": "Especialista en Gobernanza de Datos",
+    "en": "Data Governance Specialist"
+  },
+  "Data Platform Engineer": {
+    "es": "Ingeniero de Plataforma de Datos",
+    "en": "Data Platform Engineer"
+  },
+  "Data Quality Engineer": {
+    "es": "Ingeniero de Calidad de Datos",
+    "en": "Data Quality Engineer"
+  },
+  "Data Scientist": {
+    "es": "Científico de Datos",
+    "en": "Data Scientist"
+  },
+  "Data Visualization Specialist": {
+    "es": "Especialista en Visualización de Datos",
+    "en": "Data Visualization Specialist"
+  },
+  "Database Administrator": {
+    "es": "Administrador de Bases de Datos",
+    "en": "Database Administrator"
+  },
+  "DataOps Engineer": {
+    "es": "Ingeniero DataOps",
+    "en": "DataOps Engineer"
+  },
+  "Delivery Manager": {
+    "es": "Gerente de Entrega",
+    "en": "Delivery Manager"
+  },
+  "Developer Advocate": {
+    "es": "Defensor del Desarrollador",
+    "en": "Developer Advocate"
+  },
+  "DevOps Engineer": {
+    "es": "Ingeniero DevOps",
+    "en": "DevOps Engineer"
+  },
+  "Edge AI Engineer": {
+    "es": "Ingeniero de IA en el Borde",
+    "en": "Edge AI Engineer"
+  },
+  "Embedded Systems Engineer": {
+    "es": "Ingeniero de Sistemas Embebidos",
+    "en": "Embedded Systems Engineer"
+  },
+  "Engineering Manager": {
+    "es": "Gerente de Ingeniería",
+    "en": "Engineering Manager"
+  },
+  "FinOps Engineer": {
+    "es": "Ingeniero FinOps",
+    "en": "FinOps Engineer"
+  },
+  "Foundation Models Engineer": {
+    "es": "Ingeniero de Modelos Fundacionales",
+    "en": "Foundation Models Engineer"
+  },
+  "Frontend Developer": {
+    "es": "Desarrollador Frontend",
+    "en": "Frontend Developer"
+  },
+  "Full Stack Developer": {
+    "es": "Desarrollador Full Stack",
+    "en": "Full Stack Developer"
+  },
+  "Game Developer": {
+    "es": "Desarrollador de Videojuegos",
+    "en": "Game Developer"
+  },
+  "Generative AI Engineer": {
+    "es": "Ingeniero de IA Generativa",
+    "en": "Generative AI Engineer"
+  },
+  "Graphics Engineer": {
+    "es": "Ingeniero de Gráficos",
+    "en": "Graphics Engineer"
+  },
+  "Growth Product Manager": {
+    "es": "Gerente de Producto de Crecimiento",
+    "en": "Growth Product Manager"
+  },
+  "Infrastructure Engineer": {
+    "es": "Ingeniero de Infraestructura",
+    "en": "Infrastructure Engineer"
+  },
+  "Integration Engineer": {
+    "es": "Ingeniero de Integración",
+    "en": "Integration Engineer"
+  },
+  "IoT Developer": {
+    "es": "Desarrollador IoT",
+    "en": "IoT Developer"
+  },
+  "Kubernetes Engineer": {
+    "es": "Ingeniero Kubernetes",
+    "en": "Kubernetes Engineer"
+  },
+  "Machine Learning Engineer": {
+    "es": "Ingeniero de Machine Learning",
+    "en": "Machine Learning Engineer"
+  },
+  "MLOps Architect": {
+    "es": "Arquitecto MLOps",
+    "en": "MLOps Architect"
+  },
+  "MLOps Engineer": {
+    "es": "Ingeniero MLOps",
+    "en": "MLOps Engineer"
+  },
+  "MLOps Specialist": {
+    "es": "Especialista MLOps",
+    "en": "MLOps Specialist"
+  },
+  "Mobile Developer": {
+    "es": "Desarrollador Móvil",
+    "en": "Mobile Developer"
+  },
+  "Multimodal AI Engineer": {
+    "es": "Ingeniero de IA Multimodal",
+    "en": "Multimodal AI Engineer"
+  },
+  "Network Engineer": {
+    "es": "Ingeniero de Redes",
+    "en": "Network Engineer"
+  },
+  "NLP Engineer": {
+    "es": "Ingeniero de PLN",
+    "en": "NLP Engineer"
+  },
+  "Penetration Tester": {
+    "es": "Probador de Penetración",
+    "en": "Penetration Tester"
+  },
+  "Performance Engineer": {
+    "es": "Ingeniero de Rendimiento",
+    "en": "Performance Engineer"
+  },
+  "Platform Engineer": {
+    "es": "Ingeniero de Plataforma",
+    "en": "Platform Engineer"
+  },
+  "Product Analyst": {
+    "es": "Analista de Producto",
+    "en": "Product Analyst"
+  },
+  "Product Manager": {
+    "es": "Gerente de Producto",
+    "en": "Product Manager"
+  },
+  "Product Owner": {
+    "es": "Dueño de Producto",
+    "en": "Product Owner"
+  },
+  "Project Manager": {
+    "es": "Gerente de Proyecto",
+    "en": "Project Manager"
+  },
+  "Prompt Engineer": {
+    "es": "Ingeniero de Prompts",
+    "en": "Prompt Engineer"
+  },
+  "QA Engineer": {
+    "es": "Ingeniero de QA",
+    "en": "QA Engineer"
+  },
+  "Recommender Systems Engineer": {
+    "es": "Ingeniero de Sistemas de Recomendación",
+    "en": "Recommender Systems Engineer"
+  },
+  "Reinforcement Learning Engineer": {
+    "es": "Ingeniero de Aprendizaje por Refuerzo",
+    "en": "Reinforcement Learning Engineer"
+  },
+  "Reliability Engineer": {
+    "es": "Ingeniero de Confiabilidad",
+    "en": "Reliability Engineer"
+  },
+  "Robotics Engineer": {
+    "es": "Ingeniero de Robótica",
+    "en": "Robotics Engineer"
+  },
+  "Sales Development Representative": {
+    "es": "Representante de Desarrollo de Ventas",
+    "en": "Sales Development Representative"
+  },
+  "Security Engineer": {
+    "es": "Ingeniero de Seguridad",
+    "en": "Security Engineer"
+  },
+  "Security Operations Engineer": {
+    "es": "Ingeniero de Operaciones de Seguridad",
+    "en": "Security Operations Engineer"
+  },
+  "Site Reliability Engineer": {
+    "es": "Ingeniero de Confiabilidad del Sitio",
+    "en": "Site Reliability Engineer"
+  },
+  "Software Architect": {
+    "es": "Arquitecto de Software",
+    "en": "Software Architect"
+  },
+  "Software Engineer": {
+    "es": "Ingeniero de Software",
+    "en": "Software Engineer"
+  },
+  "Solutions Architect": {
+    "es": "Arquitecto de Soluciones",
+    "en": "Solutions Architect"
+  },
+  "Sysadmin": {
+    "es": "Administrador de Sistemas",
+    "en": "Sysadmin"
+  },
+  "Tech Lead": {
+    "es": "Líder Técnico",
+    "en": "Tech Lead"
+  },
+  "Technical Product Manager": {
+    "es": "Gerente de Producto Técnico",
+    "en": "Technical Product Manager"
+  },
+  "Test Automation Engineer": {
+    "es": "Ingeniero de Automatización de Pruebas",
+    "en": "Test Automation Engineer"
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "DGS-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de data governance",
+      "Comprensión elemental de data policies",
+      "Habilidad para documentar data assets",
+      "Conocimiento básico de metadata",
+      "Capacidad de clasificación básica",
+      "Comprensión de data privacy",
+      "Documentación de lineage",
+      "Conocimiento elemental de compliance"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con data catalogs",
+      "Conocimiento de GDPR básico",
+      "Comprensión elemental de data stewardship"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Documenta assets básicos",
+      "Está aprendiendo governance"
+    ]
+  },
+  "DGS-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar data policies",
+      "Implementación de data classification",
+      "Conocimiento práctico de metadata management",
+      "Habilidad para data stewardship",
+      "Comprensión de access control",
+      "Capacidad de lineage tracking",
+      "Conocimiento de compliance básico",
+      "Habilidad para governance reporting"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de Collibra/Alation",
+      "Habilidad para data privacy",
+      "Comprensión de regulatory requirements"
+    ],
+    "indicators": [
+      "Implementa policies con supervisión",
+      "Gestiona metadata",
+      "Contribuye a compliance"
+    ]
+  },
+  "DGS-L3": {
+    "coreCompetencies": [
+      "Diseño de governance frameworks",
+      "Implementación de data policies",
+      "Dominio de metadata management",
+      "Capacidad de data stewardship programs",
+      "Habilidad para compliance management",
+      "Conocimiento profundo de data privacy",
+      "Implementación de data cataloging",
+      "Capacidad de change management"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de data mesh governance",
+      "Habilidad para federated governance",
+      "Comprensión de domain ownership"
+    ],
+    "indicators": [
+      "Lidera governance initiatives",
+      "Diseña políticas de datos",
+      "Mentoriza en governance"
+    ]
+  },
+  "DGS-L4": {
+    "coreCompetencies": [
+      "Arquitectura de governance programs",
+      "Diseño de enterprise governance strategy",
+      "Implementación de data mesh governance",
+      "Dominio de regulatory compliance",
+      "Capacidad de data ethics",
+      "Conocimiento profundo de data sovereignty",
+      "Habilidad para governance automation",
+      "Liderazgo en data culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en multi-jurisdiction compliance",
+      "Conocimiento de data monetization",
+      "Implementación de data products"
+    ],
+    "indicators": [
+      "Define estrategia governance",
+      "Lidera compliance",
+      "Es referente en governance"
+    ]
+  },
+  "DGS-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en data governance",
+      "Diseño de governance ecosystems",
+      "Gestión de governance teams",
+      "Definición de governance standards",
+      "Capacidad de risk management",
+      "Implementación de federated governance",
+      "Dominio de data ethics programs",
+      "Evangelización de data culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en data mesh",
+      "Conocimiento de data contracts",
+      "Gestión de governance tools"
+    ],
+    "indicators": [
+      "Gestiona equipo governance",
+      "Define visión de gobernanza",
+      "Representa governance ante stakeholders"
+    ]
+  },
+  "DGS-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia de governance",
+      "Gestión de governance programs a escala",
+      "Definición de governance architecture",
+      "Liderazgo en transformation",
+      "Gestión de compliance global",
+      "Implementación de data sovereignty",
+      "Innovación en governance",
+      "Gestión de data ethics"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en governance M&A",
+      "Conocimiento de regulatory strategy",
+      "Liderazgo en data community"
+    ],
+    "indicators": [
+      "Dirige departamento governance",
+      "Participa en estrategia",
+      "Define inversiones governance"
+    ]
+  },
+  "DGS-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en governance",
+      "Diseño de estrategias globales",
+      "Transformación organizacional via governance",
+      "Gestión a escala empresarial",
+      "Creación de governance culture",
+      "Definición de governance roadmap",
+      "Evangelización a nivel board",
+      "Influencia en standards"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de governance budgets",
+      "Experiencia en regulated industries",
+      "Liderazgo en consortiums"
+    ],
+    "indicators": [
+      "Reporta a CDO",
+      "Gestiona organización (15+ personas)",
+      "Define estrategia governance"
+    ]
+  },
+  "DGS-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de governance",
+      "Liderazgo en governance transformation",
+      "Creación de trust advantage",
+      "Gestión de governance ecosystems",
+      "Innovación en governance",
+      "Definición de decentralized governance",
+      "Evangelización de data democracy",
+      "Influencia en policies"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en governance leadership",
+      "Advisory en governance",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define estrategia governance",
+      "Es líder reconocido"
+    ]
+  },
+  "DGS-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en governance",
+      "Transformación de data culture",
+      "Creación de paradigmas governance",
+      "Definición de governed organizations",
+      "Innovación en data ethics",
+      "Evangelización de data trust",
+      "Arquitecto de governance ecosystems",
+      "Influencia en regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando governance",
+      "Reconocimiento como pioneer",
+      "Influencia en standards"
+    ],
+    "indicators": [
+      "Es Chief Governance Officer",
+      "Define futuro governance",
+      "Es autoridad mundial"
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "role": "Conversational AI Engineer",
+  "category": "AI/ML",
+  "levels": {
+    "CAI-L1": {
+      "level": "L1 - Conversational AI Trainee",
+      "levelNumber": 1,
+      "yearsRange": {"min": 0, "max": 1},
+      "coreCompetencies": ["Basic knowledge of chatbots", "Elementary understanding of NLU", "Ability to create simple conversations", "Basic knowledge of dialogue management", "Capability for basic training", "Understanding of intents and entities", "Documentation of conversations", "Elementary knowledge of deployment"],
+      "complementaryCompetencies": ["Familiarity with Dialogflow/Rasa", "Basic knowledge of NLP", "Elementary understanding of voice AI"],
+      "indicators": ["Requires constant supervision", "Creates simple flows", "Is learning conversational AI"]
+    },
+    "CAI-L2": {
+      "level": "L2 - Junior Conversational AI Engineer",
+      "levelNumber": 2,
+      "yearsRange": {"min": 1, "max": 2},
+      "coreCompetencies": ["Capability to design complex chatbots", "Implementation of multi-turn conversations", "Practical knowledge of NLU/NLG", "Ability for context management", "Understanding of dialogue policies", "Capability for integration", "Knowledge of analytics", "Ability for optimization"],
+      "complementaryCompetencies": ["Knowledge of voice assistants", "Ability for multi-lingual", "Understanding of sentiment analysis"],
+      "indicators": ["Develops chatbots with supervision", "Implements complex conversations", "Optimizes performance"]
+    },
+    "CAI-L3": {
+      "level": "L3 - Conversational AI Engineer",
+      "levelNumber": 3,
+      "yearsRange": {"min": 2, "max": 3},
+      "coreCompetencies": ["Design of conversational systems", "Implementation of advanced NLU", "Mastery of dialogue management", "Capability for personalization", "Ability for multi-modal AI", "Deep knowledge of conversational design", "Implementation of analytics", "Capability for A/B testing"],
+      "complementaryCompetencies": ["Knowledge of emotional AI", "Ability for voice recognition", "Understanding of context awareness"],
+      "indicators": ["Leads conversational AI projects", "Designs dialogue architectures", "Mentors in conversational AI"]
+    },
+    "CAI-L4": {
+      "level": "L4 - Senior Conversational AI Engineer",
+      "levelNumber": 4,
+      "yearsRange": {"min": 3, "max": 5},
+      "coreCompetencies": ["Architecture of conversational platforms", "Design of enterprise chatbot strategy", "Implementation of omnichannel conversations", "Mastery of advanced NLU/NLG", "Capability for conversational analytics", "Deep knowledge of user experience", "Ability for scalability", "Leadership in conversational design"],
+      "complementaryCompetencies": ["Experience in voice AI", "Knowledge of emotional intelligence", "Implementation of personalization"],
+      "indicators": ["Defines conversational AI strategy", "Leads teams", "Is a reference in chatbots"]
+    },
+    "CAI-L5": {
+      "level": "L5 - Lead Conversational AI Engineer",
+      "levelNumber": 5,
+      "yearsRange": {"min": 5, "max": 7},
+      "coreCompetencies": ["Technical leadership in conversational AI", "Design of AI assistant ecosystems", "Management of conversational teams", "Definition of dialogue standards", "Capability for platform management", "Implementation of conversational governance", "Mastery of multi-modal AI", "Evangelization of conversational experiences"],
+      "complementaryCompetencies": ["Experience in virtual assistants", "Knowledge of conversational commerce", "Vendor management"],
+      "indicators": ["Manages conversational AI team", "Defines chatbot vision", "Represents conversational to stakeholders"]
+    },
+    "CAI-L6": {
+      "level": "L6 - Principal Conversational AI Architect",
+      "levelNumber": 6,
+      "yearsRange": {"min": 7, "max": 10},
+      "coreCompetencies": ["Direction of conversational strategy", "Management of AI assistant platforms", "Definition of conversational architecture", "Leadership in transformation", "Partnership management", "Implementation of governance", "Innovation in dialogue systems", "User experience management"],
+      "complementaryCompetencies": ["Experience in voice platforms", "Knowledge of conversational investment", "Leadership in AI community"],
+      "indicators": ["Directs conversational AI department", "Participates in digital strategy", "Defines investments"]
+    },
+    "CAI-L7": {
+      "level": "L7 - Director Conversational AI",
+      "levelNumber": 7,
+      "yearsRange": {"min": 10, "max": 12},
+      "coreCompetencies": ["Executive leadership in conversational AI", "Design of global strategies", "Transformation via chatbots", "Management at enterprise scale", "Creation of conversational culture", "Definition of roadmap", "Evangelization at board level", "Influence on standards"],
+      "complementaryCompetencies": ["Management of conversational budgets", "Experience in AI assistants", "Leadership in voice AI"],
+      "indicators": ["Reports to CAI/CTO", "Manages organization (20+ people)", "Defines conversational strategy"]
+    },
+    "CAI-L8": {
+      "level": "L8 - VP Conversational AI",
+      "levelNumber": 8,
+      "yearsRange": {"min": 12, "max": 15},
+      "coreCompetencies": ["Strategic vision of conversational AI", "Leadership in transformation", "Creation of conversational advantage", "Management of ecosystems", "Innovation in dialogue", "Definition of next-gen assistants", "Evangelization of voice-first", "Influence on policies"],
+      "complementaryCompetencies": ["Experience in conversational giants", "Advisory in startups", "Thought leadership"],
+      "indicators": ["Is part of executive committee", "Defines strategy", "Is recognized leader"]
+    },
+    "CAI-L9": {
+      "level": "L9 - Chief Conversational Officer",
+      "levelNumber": 9,
+      "yearsRange": {"min": 15, "max": null},
+      "coreCompetencies": ["Visionary leadership in conversational AI", "Transformation of interfaces", "Creation of paradigms", "Definition of conversational-first", "Innovation in dialogue", "Evangelization of natural interfaces", "Architect of ecosystems", "Influence on regulation"],
+      "complementaryCompetencies": ["Experience transforming interaction", "Recognition as pioneer", "Influence on standards"],
+      "indicators": ["Is Chief Conversational Officer", "Defines the future", "Is world authority"]
+    }
+  }
+}

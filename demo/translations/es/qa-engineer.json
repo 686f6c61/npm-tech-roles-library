@@ -1,0 +1,208 @@
+{
+  "QA-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de ciclo de vida del software y tipos de testing",
+      "Conocimiento elemental de casos de prueba y escenarios",
+      "Habilidad para ejecutar pruebas manuales siguiendo scripts",
+      "Comprensión básica de reporte de bugs y severidades",
+      "Capacidad de documentar resultados de pruebas",
+      "Conocimiento elemental de herramientas de gestión de defectos",
+      "Comprensión básica de ambientes de testing (dev, staging, prod)",
+      "Habilidad para realizar pruebas exploratorias simples"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de HTML y navegadores web",
+      "Familiaridad con metodologías ágiles",
+      "Comprensión elemental de bases de datos"
+    ],
+    "indicators": [
+      "Requiere supervisión constante en actividades de QA",
+      "Puede ejecutar test cases documentados con guía",
+      "Necesita 3-6 meses de mentoría en testing"
+    ]
+  },
+  "QA-L2": {
+    "coreCompetencies": [
+      "Capacidad de escribir casos de prueba detallados y comprehensivos",
+      "Habilidad para realizar pruebas funcionales completas",
+      "Conocimiento práctico de pruebas de regresión",
+      "Comprensión de pruebas de integración y sistema",
+      "Capacidad de usar herramientas de automatización básicas",
+      "Habilidad para realizar pruebas de API con herramientas",
+      "Conocimiento de pruebas cross-browser y cross-device",
+      "Comprensión de SQL para validación de datos",
+      "Capacidad de participar en sesiones de refinamiento"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de scripting",
+      "Habilidad para realizar pruebas de usabilidad",
+      "Comprensión de accesibilidad básica"
+    ],
+    "indicators": [
+      "Puede planificar y ejecutar pruebas con supervisión moderada",
+      "Identifica y reporta bugs de manera efectiva",
+      "Colabora activamente con desarrolladores"
+    ]
+  },
+  "QA-L3": {
+    "coreCompetencies": [
+      "Dominio de automatización de pruebas con frameworks populares",
+      "Capacidad de diseñar estrategias de testing para features",
+      "Habilidad para realizar pruebas de performance básicas",
+      "Conocimiento profundo de pruebas de seguridad básicas",
+      "Capacidad de implementar pruebas de API automatizadas",
+      "Comprensión sólida de CI/CD y testing en pipelines",
+      "Habilidad para realizar análisis de causa raíz",
+      "Conocimiento de pruebas de compatibilidad y localización",
+      "Capacidad de estimar esfuerzo de testing"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de pruebas móviles",
+      "Habilidad para usar herramientas de virtualización",
+      "Comprensión de pruebas de accesibilidad WCAG"
+    ],
+    "indicators": [
+      "Automatiza casos de prueba de manera independiente",
+      "Identifica riesgos de calidad proactivamente",
+      "Contribuye a mejoras del proceso de QA"
+    ]
+  },
+  "QA-L4": {
+    "coreCompetencies": [
+      "Capacidad de diseñar frameworks de automatización desde cero",
+      "Dominio de pruebas de performance y load testing",
+      "Habilidad para implementar pruebas E2E complejas",
+      "Conocimiento profundo de testing en arquitecturas distribuidas",
+      "Capacidad de implementar pruebas de contrato y CDC",
+      "Dominio de pruebas de seguridad (OWASP, penetration básico)",
+      "Habilidad para diseñar estrategias de testing para microservicios",
+      "Conocimiento de chaos testing y pruebas de resiliencia",
+      "Capacidad de implementar visual regression testing"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de pruebas de AI/ML",
+      "Habilidad para testing de IoT",
+      "Comprensión de pruebas de blockchain"
+    ],
+    "indicators": [
+      "Lidera estrategia de testing para proyectos medianos",
+      "Define estándares de automatización del equipo",
+      "Mentora a QA juniors efectivamente"
+    ]
+  },
+  "QA-L5": {
+    "coreCompetencies": [
+      "Expertise en arquitectura de pruebas para sistemas complejos",
+      "Capacidad de implementar testing as a service (TaaS)",
+      "Dominio de performance engineering y optimización",
+      "Habilidad para diseñar pruebas de disaster recovery",
+      "Conocimiento profundo de security testing avanzado",
+      "Capacidad de implementar synthetic monitoring",
+      "Expertise en test data management y generación",
+      "Dominio de accessibility testing comprehensivo",
+      "Capacidad de implementar ML-based testing"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de quantum computing testing",
+      "Habilidad para pruebas de realidad virtual",
+      "Comprensión de compliance testing"
+    ],
+    "indicators": [
+      "Diseña estrategias de QA para productos completos",
+      "Lidera iniciativas de mejora de calidad",
+      "Define métricas y KPIs de calidad"
+    ]
+  },
+  "QA-L6": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar estrategias de calidad empresariales",
+      "Expertise en continuous testing y shift-left testing",
+      "Dominio de risk-based testing y priorización",
+      "Habilidad para implementar quality gates automatizados",
+      "Conocimiento profundo de compliance y regulaciones",
+      "Capacidad de diseñar observability para testing",
+      "Expertise en production testing y canary analysis",
+      "Dominio de cost optimization en testing",
+      "Capacidad de implementar AIOps para quality"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de testing para autonomous systems",
+      "Habilidad para diseñar pruebas de ethical AI",
+      "Comprensión de sustainable testing"
+    ],
+    "indicators": [
+      "Arquitecta calidad para portfolios de productos",
+      "Lidera transformación de calidad organizacional",
+      "Define estrategia de testing a largo plazo"
+    ]
+  },
+  "QA-L7": {
+    "coreCompetencies": [
+      "Liderazgo en cultura de calidad organizacional",
+      "Capacidad de diseñar ecosistemas de calidad",
+      "Expertise en quality engineering vs quality assurance",
+      "Dominio de predictive quality analytics",
+      "Capacidad de implementar zero-defect strategies",
+      "Conocimiento profundo de customer-centric quality",
+      "Expertise en global testing strategies",
+      "Capacidad de diseñar quality for scale",
+      "Dominio de innovation en testing tools"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influir en estándares ISO/IEEE",
+      "Habilidad para crear frameworks open source",
+      "Conocimiento de quality venture building"
+    ],
+    "indicators": [
+      "Define filosofía de calidad empresarial",
+      "Lidera comunidades de testing globales",
+      "Reconocido thought leader en quality"
+    ]
+  },
+  "QA-L8": {
+    "coreCompetencies": [
+      "Visión estratégica para el futuro del testing",
+      "Capacidad de transformar calidad en ventaja competitiva",
+      "Expertise en quality due diligence para M&A",
+      "Dominio de building centros de excelencia QA",
+      "Capacidad de definir quality governance corporativo",
+      "Conocimiento profundo de ROI de calidad",
+      "Expertise en partnerships con vendors de testing",
+      "Capacidad de liderar innovación en automatización",
+      "Dominio de quality metrics para boards"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de patentar metodologías de testing",
+      "Habilidad para crear empresas de QA",
+      "Conocimiento de inversión en quality tech"
+    ],
+    "indicators": [
+      "Define estrategia de calidad multi-año",
+      "Representa la empresa en foros de calidad",
+      "Influye en dirección de la industria"
+    ]
+  },
+  "QA-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en calidad y excelencia operacional",
+      "Capacidad de alinear calidad con objetivos de negocio",
+      "Expertise en transformación de calidad empresarial",
+      "Dominio de presupuestos de calidad y ROI",
+      "Capacidad de construir organizaciones de QA globales",
+      "Conocimiento profundo de risk management mediante calidad",
+      "Expertise en customer satisfaction mediante calidad",
+      "Capacidad de definir cultura de calidad",
+      "Dominio de quality como diferenciador de mercado"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar regulaciones de calidad",
+      "Habilidad para crear ecosistemas de calidad",
+      "Conocimiento de quality investments"
+    ],
+    "indicators": [
+      "Define y ejecuta visión de calidad empresarial",
+      "Responsable de métricas de calidad corporativas",
+      "Líder reconocido en calidad de software global"
+    ]
+  }
+}

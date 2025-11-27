@@ -1,0 +1,200 @@
+{
+  "RBE-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of robotics",
+      "Elementary understanding of kinematics",
+      "Ability for simple robot programming",
+      "Basic knowledge of sensors and actuators",
+      "Capacity for basic control",
+      "Understanding of ROS fundamentals",
+      "Documentation of robotic systems",
+      "Elementary knowledge of mechatronics"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with Arduino robotics",
+      "Knowledge of basic simulators",
+      "Understanding of gripper control"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Programs simple robots",
+      "Is learning robotics engineering"
+    ]
+  },
+  "RBE-L2": {
+    "coreCompetencies": [
+      "Ability to implement control algorithms",
+      "Implementation of basic path planning",
+      "Practical knowledge of dynamics",
+      "Ability for sensor fusion",
+      "Understanding of localization",
+      "Capacity for basic manipulation",
+      "Knowledge of robot vision",
+      "Ability for collaborative robotics"
+    ],
+    "complementaryCompetencies": [
+      "Development of mobile robots",
+      "Knowledge of industrial robotics",
+      "Understanding of swarm basics"
+    ],
+    "indicators": [
+      "Develops robotic applications under supervision",
+      "Implements robot behaviors",
+      "Integrates sensors and actuators"
+    ]
+  },
+  "RBE-L3": {
+    "coreCompetencies": [
+      "Design of complete robotic systems",
+      "Implementation of advanced SLAM",
+      "Mastery of motion planning",
+      "Capacity for reinforcement learning for robots",
+      "Ability for human-robot interaction",
+      "Deep knowledge of control theory",
+      "Implementation of autonomous navigation",
+      "Design of multi-robot systems"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of soft robotics",
+      "Ability for prosthetics/exoskeletons",
+      "Understanding of drone autonomy"
+    ],
+    "indicators": [
+      "Leads robotics projects",
+      "Designs autonomous robots",
+      "Mentors robotics engineers"
+    ]
+  },
+  "RBE-L4": {
+    "coreCompetencies": [
+      "Architecture of robotic platforms",
+      "Design of swarm intelligence",
+      "Implementation of cognitive robotics",
+      "Mastery of bio-inspired robotics",
+      "Capacity for whole-body control",
+      "Deep knowledge of optimal control",
+      "Ability for learning from demonstration",
+      "Leadership in robotics research"
+    ],
+    "complementaryCompetencies": [
+      "Experience in surgical robotics",
+      "Knowledge of space robotics",
+      "Implementation of social robots"
+    ],
+    "indicators": [
+      "Defines robotics strategy",
+      "Leads robotics teams",
+      "Is reference in autonomous systems"
+    ]
+  },
+  "RBE-L5": {
+    "coreCompetencies": [
+      "Technical leadership in robotics",
+      "Design of enterprise robotics programs",
+      "Management of robotics engineering teams",
+      "Definition of automation strategy",
+      "Capacity for robotics productization",
+      "Implementation of robot fleets",
+      "Mastery of safety standards",
+      "Evangelization of intelligent automation"
+    ],
+    "complementaryCompetencies": [
+      "Experience in agricultural robotics",
+      "Knowledge of underwater robotics",
+      "Management of robotics partnerships"
+    ],
+    "indicators": [
+      "Manages robotics teams",
+      "Defines vision of physical automation",
+      "Represents robotics to executives"
+    ]
+  },
+  "RBE-L6": {
+    "coreCompetencies": [
+      "Direction of organizational robotics",
+      "Strategy of autonomous systems",
+      "Management of robotics R&D investments",
+      "Definition of physical AI strategy",
+      "Leadership in robotics transformation",
+      "Implementation of self-evolving robots",
+      "Innovation in robotics paradigms",
+      "Management of global robotics"
+    ],
+    "complementaryCompetencies": [
+      "Experience in military robotics",
+      "Knowledge of regulatory robotics",
+      "Leadership in robotics standards"
+    ],
+    "indicators": [
+      "Directs robotics department (20+ people)",
+      "Participates in automation strategy",
+      "Defines robotics investments"
+    ]
+  },
+  "RBE-L7": {
+    "coreCompetencies": [
+      "Executive leadership in intelligent robotics",
+      "Design of global robotics strategies",
+      "Transformation via autonomous systems",
+      "Management of robotics at Fortune 500 scale",
+      "Creation of new robotic paradigms",
+      "Definition of future of physical AI",
+      "Evangelization of robotics at board level",
+      "Influence on Industry 4.0"
+    ],
+    "complementaryCompetencies": [
+      "Management of robotics in manufacturing",
+      "Experience in robotics unicorns",
+      "Leadership in robotics alliances"
+    ],
+    "indicators": [
+      "Reports to CTO",
+      "Manages robotics organization (50+ people)",
+      "Defines physical automation strategy"
+    ]
+  },
+  "RBE-L8": {
+    "coreCompetencies": [
+      "Strategic vision of robot society",
+      "Leadership in robotic revolution",
+      "Creation of paradigms of conscious robots",
+      "Management of planetary robotics",
+      "Disruptive innovation in living machines",
+      "Definition of robot evolution",
+      "Evangelization of robotic singularity",
+      "Influence on future of physical work"
+    ],
+    "complementaryCompetencies": [
+      "Experience as Chief Robotics in tech giants",
+      "Advisory in robotics funds",
+      "Thought leadership in physical AI"
+    ],
+    "indicators": [
+      "Is part of executive committee",
+      "Defines future of robotics",
+      "Is world leader in autonomous systems"
+    ]
+  },
+  "RBE-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in future of physical intelligence",
+      "Transformation of world via robotics",
+      "Creation of artificial life paradigms",
+      "Definition of robot consciousness",
+      "Innovation in biological robotics",
+      "Evangelization of robot-human symbiosis",
+      "Architect of robotic civilization",
+      "Influence on embodied intelligence evolution"
+    ],
+    "complementaryCompetencies": [
+      "Creator of robotic revolutions",
+      "Recognition as pioneer of modern robotics",
+      "Influence on future of physical automation"
+    ],
+    "indicators": [
+      "Is legendary Chief Robotics Officer",
+      "Defines future of robots",
+      "Is world authority in physical intelligence"
+    ]
+  }
+}

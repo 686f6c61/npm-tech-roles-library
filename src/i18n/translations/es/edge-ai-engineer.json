@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de IA en el Borde",
+  "category": "IA/ML",
+  "levels": {
+    "EDGE-L1": {
+      "level": "L1 - Aprendiz de Ingeniero de IA en el Borde",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de IA en el borde",
+        "Comprensión elemental de fundamentos",
+        "Habilidad para tareas simples",
+        "Conocimiento básico de herramientas",
+        "Capacidad de trabajo con supervisión",
+        "Comprensión de conceptos centrales",
+        "Documentación básica",
+        "Conocimiento elemental de mejores prácticas"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con marcos de trabajo básicos",
+        "Conocimiento de herramientas estándar",
+        "Comprensión elemental de la nube"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta tareas básicas con guía",
+        "Está aprendiendo IA en el borde"
+      ]
+    },
+    "EDGE-L2": {
+      "level": "L2 - Ingeniero Junior de IA en el Borde",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar soluciones básicas en IA en el borde",
+        "Implementación de técnicas estándar",
+        "Conocimiento práctico de marcos de trabajo",
+        "Habilidad para resolver problemas típicos",
+        "Comprensión de flujos de procesamiento",
+        "Capacidad de despliegue básico",
+        "Conocimiento de pruebas",
+        "Habilidad para documentación"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de tecnologías emergentes",
+        "Habilidad para integración",
+        "Comprensión de automatización"
+      ],
+      "indicators": [
+        "Desarrolla soluciones de IA en el borde con supervisión",
+        "Implementa funcionalidades completas",
+        "Optimiza procesos básicos"
+      ]
+    },
+    "EDGE-L3": {
+      "level": "L3 - Ingeniero de IA en el Borde",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de soluciones de IA en el borde de extremo a extremo",
+        "Implementación de sistemas complejos",
+        "Dominio de pila tecnológica",
+        "Capacidad de optimización avanzada",
+        "Habilidad para arquitectura",
+        "Conocimiento profundo de mejores prácticas",
+        "Implementación de monitorización",
+        "Capacidad de mentoría"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de técnicas avanzadas",
+        "Habilidad para innovación",
+        "Comprensión de investigación"
+      ],
+      "indicators": [
+        "Lidera proyectos de IA en el borde",
+        "Diseña arquitecturas completas",
+        "Mentoriza a ingenieros junior"
+      ]
+    },
+    "EDGE-L4": {
+      "level": "L4 - Ingeniero Senior de IA en el Borde",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de IA en el borde escalables",
+        "Diseño de estrategias técnicas",
+        "Implementación de sistemas empresariales",
+        "Dominio de optimización a escala",
+        "Capacidad de liderazgo técnico",
+        "Conocimiento profundo de patrones avanzados",
+        "Habilidad para planificación estratégica",
+        "Liderazgo en transformación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en sistemas distribuidos",
+        "Conocimiento de tecnologías de vanguardia",
+        "Implementación de innovación"
+      ],
+      "indicators": [
+        "Define estrategia de IA en el borde",
+        "Lidera equipos técnicos",
+        "Es referente en IA en el borde"
+      ]
+    },
+    "EDGE-L5": {
+      "level": "L5 - Ingeniero Líder de IA en el Borde",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en IA en el borde",
+        "Diseño de estrategia de producto",
+        "Gestión de equipos",
+        "Definición de estándares",
+        "Capacidad de análisis de retorno de inversión",
+        "Implementación de gobernanza",
+        "Dominio de tecnologías emergentes",
+        "Evangelización de cultura"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en consultoría",
+        "Conocimiento de modelos de negocio",
+        "Gestión de presupuestos"
+      ],
+      "indicators": [
+        "Gestiona equipos de IA en el borde",
+        "Define visión de productos",
+        "Representa IA en el borde ante partes interesadas"
+      ]
+    },
+    "EDGE-L6": {
+      "level": "L6 - Ingeniero Principal de IA en el Borde",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia corporativa de IA en el borde",
+        "Gestión de plataformas a escala",
+        "Definición de arquitectura empresarial",
+        "Liderazgo en transformación",
+        "Gestión de alianzas estratégicas",
+        "Implementación de prácticas responsables",
+        "Innovación en soluciones",
+        "Gestión de cumplimiento"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fusiones y adquisiciones",
+        "Conocimiento de inversión",
+        "Liderazgo en comunidad industrial"
+      ],
+      "indicators": [
+        "Dirige departamento de IA en el borde",
+        "Participa en estrategia ejecutiva",
+        "Define inversiones en IA en el borde"
+      ]
+    },
+    "EDGE-L7": {
+      "level": "L7 - Director de Ingeniería de IA en el Borde",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en IA en el borde",
+        "Diseño de estrategias globales",
+        "Transformación organizacional",
+        "Gestión a escala Fortune 500",
+        "Creación de cultura organizacional",
+        "Definición de hoja de ruta estratégica",
+        "Evangelización a nivel de junta directiva",
+        "Influencia en industria"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos multimillonarios",
+        "Experiencia en unicornios",
+        "Liderazgo en estándares"
+      ],
+      "indicators": [
+        "Reporta a CTO/CEO",
+        "Gestiona organización (50+ personas)",
+        "Define estrategia corporativa de IA en el borde"
+      ]
+    },
+    "EDGE-L8": {
+      "level": "L8 - Vicepresidente de Ingeniería de IA en el Borde",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica empresarial de IA en el borde",
+        "Liderazgo en transformación",
+        "Creación de ventaja competitiva",
+        "Gestión de ecosistemas globales",
+        "Innovación disruptiva",
+        "Definición de dirección futura",
+        "Evangelización de cambio de paradigma",
+        "Influencia en políticas"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como ejecutivo en gigantes tecnológicos",
+        "Asesoría en empresas emergentes",
+        "Liderazgo de pensamiento"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define futuro de IA en el borde",
+        "Es líder reconocido en IA en el borde"
+      ]
+    },
+    "EDGE-L9": {
+      "level": "L9 - Director de IA en el Borde",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en IA en el borde",
+        "Transformación de industrias",
+        "Creación de paradigmas",
+        "Definición de IA en el borde como núcleo del negocio",
+        "Innovación en aplicaciones revolucionarias",
+        "Evangelización de cultura",
+        "Arquitecto de ecosistemas globales",
+        "Influencia en regulación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando industrias con IA en el borde",
+        "Reconocimiento como pionero",
+        "Influencia en el futuro"
+      ],
+      "indicators": [
+        "Es Director de IA en el Borde",
+        "Define futuro de la industria de IA en el borde",
+        "Es autoridad mundial en IA en el borde"
+      ]
+    }
+  }
+}

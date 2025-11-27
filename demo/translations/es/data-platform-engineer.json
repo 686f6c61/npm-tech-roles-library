@@ -1,0 +1,200 @@
+{
+  "DPE-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de data infrastructure",
+      "Comprensión elemental de data pipelines",
+      "Habilidad para ETL básico",
+      "Conocimiento básico de data warehousing",
+      "Capacidad de usar herramientas de data básicas",
+      "Comprensión de data modeling simple",
+      "Documentación de data flows",
+      "Conocimiento elemental de data governance"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con SQL y NoSQL",
+      "Conocimiento de cloud storage básico",
+      "Comprensión de batch processing"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Implementa pipelines de datos simples",
+      "Está aprendiendo data engineering"
+    ]
+  },
+  "DPE-L2": {
+    "coreCompetencies": [
+      "Capacidad de construir data pipelines robustos",
+      "Implementación de data lakes",
+      "Conocimiento práctico de streaming data",
+      "Habilidad para data quality frameworks",
+      "Comprensión de data catalog",
+      "Capacidad de orchestration tools",
+      "Conocimiento de data security",
+      "Habilidad para performance tuning"
+    ],
+    "complementaryCompetencies": [
+      "Desarrollo de real-time pipelines",
+      "Conocimiento de data mesh basics",
+      "Comprensión de data lineage"
+    ],
+    "indicators": [
+      "Desarrolla infraestructura de datos con supervisión",
+      "Implementa ETL/ELT processes",
+      "Mantiene data platforms"
+    ]
+  },
+  "DPE-L3": {
+    "coreCompetencies": [
+      "Diseño de arquitecturas de datos empresariales",
+      "Implementación de modern data stack",
+      "Dominio de distributed data processing",
+      "Capacidad de multi-cloud data platforms",
+      "Habilidad para data virtualization",
+      "Conocimiento profundo de data governance",
+      "Implementación de self-service data",
+      "Diseño de data democratization"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de data fabric",
+      "Habilidad para DataOps",
+      "Comprensión de data products"
+    ],
+    "indicators": [
+      "Lidera proyectos de data platform",
+      "Diseña ecosistemas de datos",
+      "Mentoriza data engineers"
+    ]
+  },
+  "DPE-L4": {
+    "coreCompetencies": [
+      "Arquitectura de plataformas de datos globales",
+      "Diseño de data strategies empresariales",
+      "Implementación de lakehouse architectures",
+      "Dominio de data mesh principles",
+      "Capacidad de federated data platforms",
+      "Conocimiento profundo de data economics",
+      "Habilidad para data platform governance",
+      "Liderazgo en data innovation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en petabyte-scale platforms",
+      "Conocimiento de quantum data processing",
+      "Implementación de autonomous data platforms"
+    ],
+    "indicators": [
+      "Define estrategia de data platform",
+      "Lidera equipos de data infrastructure",
+      "Es referente en arquitectura de datos"
+    ]
+  },
+  "DPE-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en data platforms",
+      "Diseño de data transformation programs",
+      "Gestión de equipos de data engineering",
+      "Definición de data platform strategy",
+      "Capacidad de data platform monetization",
+      "Implementación de data marketplaces",
+      "Dominio de data ecosystem building",
+      "Evangelización de data culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en data platform consulting",
+      "Conocimiento de industry data standards",
+      "Gestión de data platform vendors"
+    ],
+    "indicators": [
+      "Gestiona organización de data platform",
+      "Define visión de infraestructura de datos",
+      "Representa data platform ante ejecutivos"
+    ]
+  },
+  "DPE-L6": {
+    "coreCompetencies": [
+      "Dirección de data platform organizacional",
+      "Estrategia de datos empresarial",
+      "Gestión de inversiones en data infrastructure",
+      "Definición de data strategy corporativa",
+      "Liderazgo en data transformation",
+      "Implementación de intelligent data platforms",
+      "Innovación en data paradigms",
+      "Gestión de global data architecture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en data sovereignty",
+      "Conocimiento de data regulations globales",
+      "Liderazgo en data alliances"
+    ],
+    "indicators": [
+      "Dirige departamento de data platform (20+ personas)",
+      "Participa en estrategia digital",
+      "Define inversiones en datos"
+    ]
+  },
+  "DPE-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en data infrastructure",
+      "Diseño de estrategias de datos globales",
+      "Transformación empresarial via data platforms",
+      "Gestión de data a escala Fortune 500",
+      "Creación de nuevos paradigmas de datos",
+      "Definición de futuro de data infrastructure",
+      "Evangelización data a nivel board",
+      "Influencia en data economy"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de data platforms globales",
+      "Experiencia en data unicorns",
+      "Liderazgo en data standards bodies"
+    ],
+    "indicators": [
+      "Reporta a CDO/CTO",
+      "Gestiona organización de data (50+ personas)",
+      "Define estrategia de datos corporativa"
+    ]
+  },
+  "DPE-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de data omnipresence",
+      "Liderazgo en revolución de datos",
+      "Creación de paradigmas de infinite data",
+      "Gestión de data planetaria",
+      "Innovación disruptiva en data consciousness",
+      "Definición de sentient data platforms",
+      "Evangelización de data singularity",
+      "Influencia en economía de datos global"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como Chief Data Platform en giants",
+      "Advisory en data infrastructure funds",
+      "Thought leadership en data platforms"
+    ],
+    "indicators": [
+      "Es parte del data leadership",
+      "Define futuro de data infrastructure",
+      "Es líder mundial en plataformas de datos"
+    ]
+  },
+  "DPE-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de datos universales",
+      "Transformación de realidad via data",
+      "Creación de paradigmas de omniscient data",
+      "Definición de data consciousness",
+      "Innovación en biological data systems",
+      "Evangelización de data omnipotence",
+      "Arquitecto de realidad basada en datos",
+      "Influencia en evolución de información universal"
+    ],
+    "complementaryCompetencies": [
+      "Creador de revoluciones en data platforms",
+      "Reconocimiento como arquitecto de datos legendario",
+      "Influencia en futuro de información"
+    ],
+    "indicators": [
+      "Es Chief Data Platform Officer legendario",
+      "Define futuro de infraestructura de datos",
+      "Es autoridad mundial en data platforms"
+    ]
+  }
+}

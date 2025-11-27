@@ -1,0 +1,201 @@
+{
+  "TL-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de liderazgo técnico y responsabilidades",
+      "Conocimiento elemental de gestión de tareas técnicas",
+      "Habilidad para coordinar trabajo técnico simple con supervisión",
+      "Comprensión básica de mentoring y coaching",
+      "Capacidad de facilitar reuniones técnicas básicas",
+      "Conocimiento elemental de estimación y planificación",
+      "Comprensión básica de gestión de deuda técnica",
+      "Habilidad para comunicar decisiones técnicas simples"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de metodologías ágiles",
+      "Familiaridad con herramientas de gestión",
+      "Comprensión elemental de people management"
+    ],
+    "indicators": [
+      "Lidera equipos pequeños (2-3 personas) con supervisión",
+      "Necesita apoyo en decisiones técnicas críticas",
+      "3-5 años de experiencia técnica previa requerida"
+    ]
+  },
+  "TL-L2": {
+    "coreCompetencies": [
+      "Capacidad de liderar equipos técnicos de 3-5 personas",
+      "Habilidad para priorizar trabajo técnico y gestionar backlog",
+      "Conocimiento práctico de facilitación de decisiones técnicas",
+      "Comprensión de balance entre deuda técnica y entrega",
+      "Capacidad de realizar code reviews efectivos",
+      "Habilidad para identificar y resolver blockers técnicos",
+      "Conocimiento de delegación efectiva de tareas",
+      "Comprensión de comunicación con stakeholders no técnicos"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de gestión de conflictos básica",
+      "Habilidad para recruitment técnico básico",
+      "Comprensión de presupuestos técnicos"
+    ],
+    "indicators": [
+      "Lidera equipos con autonomía moderada",
+      "Resuelve conflictos técnicos del equipo",
+      "Mantiene velocity estable del equipo"
+    ]
+  },
+  "TL-L3": {
+    "coreCompetencies": [
+      "Dominio de liderazgo de equipos de 5-8 personas",
+      "Capacidad de definir estándares técnicos y mejores prácticas",
+      "Habilidad para balancear múltiples prioridades técnicas",
+      "Conocimiento profundo de desarrollo de carrera técnica",
+      "Capacidad de gestionar stakeholders técnicos y no técnicos",
+      "Comprensión sólida de arquitectura y su impacto",
+      "Habilidad para liderar iniciativas de mejora técnica",
+      "Conocimiento de gestión de riesgos técnicos"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de budgeting y resource planning",
+      "Habilidad para cross-team collaboration",
+      "Comprensión de vendor management"
+    ],
+    "indicators": [
+      "Lidera equipos complejos independientemente",
+      "Define procesos técnicos del equipo",
+      "Mejora consistentemente métricas del equipo"
+    ]
+  },
+  "TL-L4": {
+    "coreCompetencies": [
+      "Capacidad de liderar múltiples equipos o equipos grandes (8-15)",
+      "Dominio de strategic technical planning",
+      "Habilidad para driving architectural decisions",
+      "Conocimiento profundo de team building y culture",
+      "Capacidad de gestionar technical roadmaps",
+      "Expertise en conflict resolution y negotiation",
+      "Dominio de performance management técnico",
+      "Capacidad de influenciar sin autoridad formal"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de organizational design",
+      "Habilidad para technical evangelism",
+      "Comprensión de business strategy"
+    ],
+    "indicators": [
+      "Lidera iniciativas cross-team exitosamente",
+      "Desarrolla otros tech leads",
+      "Impacta métricas organizacionales"
+    ]
+  },
+  "TL-L5": {
+    "coreCompetencies": [
+      "Expertise en liderazgo de equipos distribuidos/remotos",
+      "Capacidad de definir estrategia técnica departamental",
+      "Dominio de change management técnico",
+      "Habilidad para construir high-performing teams",
+      "Conocimiento profundo de scaling engineering teams",
+      "Capacidad de gestionar crisis técnicas complejas",
+      "Expertise en technical culture transformation",
+      "Dominio de executive communication"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de M&A integration técnica",
+      "Habilidad para public speaking técnico",
+      "Comprensión de industry trends"
+    ],
+    "indicators": [
+      "Lidera transformaciones técnicas departamentales",
+      "Reconocido como líder técnico organizacional",
+      "Mentor de múltiples tech leads"
+    ]
+  },
+  "TL-L6": {
+    "coreCompetencies": [
+      "Capacidad de liderar organizaciones técnicas (30-50 personas)",
+      "Expertise en definición de engineering excellence",
+      "Dominio de talent development estratégico",
+      "Habilidad para diseñar procesos de ingeniería escalables",
+      "Conocimiento profundo de engineering metrics y KPIs",
+      "Capacidad de liderar innovation initiatives",
+      "Expertise en building engineering brands",
+      "Dominio de strategic partnerships técnicos"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar política técnica",
+      "Habilidad para technical thought leadership",
+      "Conocimiento de venture building"
+    ],
+    "indicators": [
+      "Define cultura técnica organizacional",
+      "Lidera iniciativas de innovación mayores",
+      "Speaker en conferencias sobre liderazgo técnico"
+    ]
+  },
+  "TL-L7": {
+    "coreCompetencies": [
+      "Liderazgo de organizaciones técnicas grandes (50-100+)",
+      "Capacidad de transformación organizacional técnica",
+      "Expertise en engineering operations excellence",
+      "Dominio de global team leadership",
+      "Capacidad de definir engineering philosophy",
+      "Conocimiento profundo de industry best practices",
+      "Expertise en technical diversity e inclusion",
+      "Capacidad de liderar open source initiatives"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de advisory para startups",
+      "Habilidad para escribir sobre liderazgo técnico",
+      "Conocimiento de engineering economics"
+    ],
+    "indicators": [
+      "Transforma organizaciones técnicas completas",
+      "Influye en prácticas de la industria",
+      "Reconocido thought leader en engineering leadership"
+    ]
+  },
+  "TL-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de liderazgo técnico organizacional",
+      "Capacidad de construir y escalar organizaciones globales",
+      "Expertise en engineering strategy y execution",
+      "Dominio de budget management multimillonario",
+      "Capacidad de definir engineering governance",
+      "Conocimiento profundo de regulatory compliance técnico",
+      "Expertise en vendor y partnership management",
+      "Capacidad de representación ejecutiva"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de board reporting",
+      "Habilidad para M&A technical due diligence",
+      "Conocimiento de IPO readiness técnica"
+    ],
+    "indicators": [
+      "Responsable de múltiples departamentos técnicos",
+      "Define estrategia de ingeniería corporativa",
+      "Impacta P&L significativamente"
+    ]
+  },
+  "TL-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo de toda la organización técnica",
+      "Capacidad de alinear ingeniería con estrategia de negocio",
+      "Expertise en transformación digital empresarial",
+      "Dominio de gestión de portfolios técnicos complejos",
+      "Capacidad de construir ventajas competitivas técnicas",
+      "Conocimiento profundo de risk management técnico",
+      "Expertise en investor relations técnicas",
+      "Capacidad de definir visión tecnológica corporativa",
+      "Dominio de organizational transformation"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar industria",
+      "Habilidad para crear spin-offs técnicos",
+      "Conocimiento de private equity y exits"
+    ],
+    "indicators": [
+      "Define y ejecuta estrategia técnica empresarial",
+      "Responsable de toda la organización de ingeniería",
+      "Líder reconocido en la industria tecnológica"
+    ]
+  }
+}

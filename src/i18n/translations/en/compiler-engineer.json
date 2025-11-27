@@ -1,0 +1,258 @@
+{
+  "role": "Compiler Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "CE-L1": {
+      "level": "L1 - Compiler Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of compiler theory",
+        "Elementary understanding of parsing and lexing",
+        "Ability to write simple grammars",
+        "Basic knowledge of AST",
+        "Capability to use parsing tools",
+        "Understanding of basic code generation",
+        "Documentation of language specifications",
+        "Elementary knowledge of optimizations"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with basic LLVM",
+        "Knowledge of regular expressions",
+        "Understanding of basic type systems"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Implements simple parsers",
+        "Is learning compiler design"
+      ]
+    },
+    "CE-L2": {
+      "level": "L2 - Junior Compiler Engineer",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to implement complete front-ends",
+        "Implementation of semantic analysis",
+        "Practical knowledge of code generation",
+        "Ability for basic optimizations",
+        "Understanding of register allocation",
+        "Capability for advanced error handling",
+        "Knowledge of intermediate representations",
+        "Ability for compiler debugging"
+      ],
+      "complementaryCompetencies": [
+        "Development with ANTLR/Yacc",
+        "Basic knowledge of JIT compilation",
+        "Understanding of linking and loading"
+      ],
+      "indicators": [
+        "Develops compiler components",
+        "Implements basic optimizations",
+        "Maintains toolchains"
+      ]
+    },
+    "CE-L3": {
+      "level": "L3 - Compiler Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of complete compilers",
+        "Implementation of advanced optimizations",
+        "Mastery of static analysis",
+        "Capability for vectorization",
+        "Ability for garbage collection design",
+        "Deep knowledge of type inference",
+        "Implementation of language extensions",
+        "Design of domain-specific languages"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of program synthesis",
+        "Ability for profile-guided optimization",
+        "Understanding of parallel compilation"
+      ],
+      "indicators": [
+        "Leads compiler development",
+        "Designs new languages",
+        "Mentors compiler engineers"
+      ]
+    },
+    "CE-L4": {
+      "level": "L4 - Senior Compiler Engineer",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of complete toolchains",
+        "Design of compiler infrastructures",
+        "Implementation of cross-compilation",
+        "Mastery of whole-program optimization",
+        "Capability for formal verification",
+        "Deep knowledge of runtime systems",
+        "Ability for language interoperability",
+        "Leadership in language design"
+      ],
+      "complementaryCompetencies": [
+        "Experience in compiler security",
+        "Knowledge of quantum compilation",
+        "Implementation of GPU compilers"
+      ],
+      "indicators": [
+        "Defines compiler architecture",
+        "Leads toolchain teams",
+        "Is a reference in language implementation"
+      ]
+    },
+    "CE-L5": {
+      "level": "L5 - Lead Compiler Engineer",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in compiler technology",
+        "Design of compiler ecosystems",
+        "Management of compiler development teams",
+        "Definition of toolchain strategy",
+        "Capability for language economics",
+        "Implementation of compiler services",
+        "Mastery of developer experience",
+        "Evangelization of new languages"
+      ],
+      "complementaryCompetencies": [
+        "Experience in compiler frameworks",
+        "Knowledge of WebAssembly toolchains",
+        "Management of language communities"
+      ],
+      "indicators": [
+        "Manages compiler teams",
+        "Defines enterprise toolchain vision",
+        "Represents compilers to developers"
+      ]
+    },
+    "CE-L6": {
+      "level": "L6 - Principal Compiler Engineer",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Direction of organizational compiler technology",
+        "Strategy for languages and tools",
+        "Management of toolchain investments",
+        "Definition of developer productivity strategy",
+        "Leadership in language evolution",
+        "Implementation of AI-assisted compilation",
+        "Innovation in compilation paradigms",
+        "Management of language ecosystems"
+      ],
+      "complementaryCompetencies": [
+        "Experience in language standardization",
+        "Knowledge of compiler monetization",
+        "Leadership in language committees"
+      ],
+      "indicators": [
+        "Directs compiler department (20+ people)",
+        "Participates in developer strategy",
+        "Defines tooling investments"
+      ]
+    },
+    "CE-L7": {
+      "level": "L7 - Director Compiler Engineering",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in compiler technology",
+        "Design of global toolchain strategies",
+        "Transformation of development via compilers",
+        "Management of compilers at tech giant scale",
+        "Creation of new compilation paradigms",
+        "Definition of the future of programming languages",
+        "Evangelization of toolchains at board level",
+        "Influence on language industry"
+      ],
+      "complementaryCompetencies": [
+        "Management of language ecosystems",
+        "Experience in compiler companies",
+        "Leadership in programming standards"
+      ],
+      "indicators": [
+        "Reports to CTO",
+        "Manages compiler organization (50+ people)",
+        "Defines developer tools strategy"
+      ]
+    },
+    "CE-L8": {
+      "level": "L8 - VP Compiler Technology",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of programming",
+        "Leadership in compiler revolution",
+        "Creation of meta-compilation paradigms",
+        "Management of planetary toolchains",
+        "Disruptive innovation in program synthesis",
+        "Definition of self-optimizing compilers",
+        "Evangelization of conscious compilation",
+        "Influence on language evolution"
+      ],
+      "complementaryCompetencies": [
+        "Experience as architect in compiler giants",
+        "Advisory in toolchain startups",
+        "Thought leadership in languages"
+      ],
+      "indicators": [
+        "Is part of technical committee",
+        "Defines future of compilation",
+        "Is world leader in compiler technology"
+      ]
+    },
+    "CE-L9": {
+      "level": "L9 - Chief Compiler Architect",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in the future of software creation",
+        "Transformation of programming via compilers",
+        "Creation of thought compilation paradigms",
+        "Definition of intention-based programming",
+        "Innovation in biological compilers",
+        "Evangelization of reality programming",
+        "Architect of compilable universe",
+        "Influence on evolution of computational expression"
+      ],
+      "complementaryCompetencies": [
+        "Creator of compilation revolutions",
+        "Recognition as father of modern languages",
+        "Influence on the future of programming"
+      ],
+      "indicators": [
+        "Is legendary Chief Compiler Officer",
+        "Defines the future of programming",
+        "Is world authority on languages and compilers"
+      ]
+    }
+  }
+}

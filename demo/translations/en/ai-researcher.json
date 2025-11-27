@@ -1,0 +1,201 @@
+{
+  "AIR-L1": {
+    "coreCompetencies": [
+      "Basic understanding of AI/ML fundamentals",
+      "Elementary knowledge of mathematics for AI",
+      "Ability to implement basic algorithms",
+      "Basic understanding of deep learning",
+      "Capacity to use ML frameworks",
+      "Elementary knowledge of scientific papers",
+      "Basic understanding of experimentation",
+      "Ability to document research"
+    ],
+    "complementaryCompetencies": [
+      "Basic knowledge of statistics",
+      "Familiarity with Python/R",
+      "Elementary understanding of computing"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Can assist in research",
+      "Has 1-2 years of background"
+    ]
+  },
+  "AIR-L2": {
+    "coreCompetencies": [
+      "Ability to implement research papers",
+      "Skill in designing experiments",
+      "Practical knowledge of neural networks",
+      "Understanding of optimization techniques",
+      "Capacity for model benchmarking",
+      "Skill in literature review",
+      "Knowledge of reproducibility",
+      "Understanding of ethics in AI"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of distributed training",
+      "Skill for visualization",
+      "Understanding of HPC"
+    ],
+    "indicators": [
+      "Conducts research with supervision",
+      "Implements new techniques",
+      "Publishes in workshops"
+    ]
+  },
+  "AIR-L3": {
+    "coreCompetencies": [
+      "Mastery of state-of-the-art techniques",
+      "Capacity to propose new methods",
+      "Skill in leading research projects",
+      "Deep knowledge of multiple domains",
+      "Capacity for academic collaboration",
+      "Solid understanding of theoretical foundations",
+      "Skill in mentoring",
+      "Knowledge of grant writing"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of quantum ML",
+      "Skill for neuromorphic computing",
+      "Understanding of bio-inspired AI"
+    ],
+    "indicators": [
+      "Leads research lines",
+      "Publishes in top conferences",
+      "Collaborates with academia"
+    ]
+  },
+  "AIR-L4": {
+    "coreCompetencies": [
+      "Capacity to define research agenda",
+      "Mastery of breakthrough innovations",
+      "Skill in leading research teams",
+      "Deep knowledge of AI landscape",
+      "Capacity for industry collaboration",
+      "Mastery of research strategy",
+      "Skill in IP creation",
+      "Knowledge of research commercialization"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of AGI research",
+      "Skill in foundational models",
+      "Understanding of AI safety"
+    ],
+    "indicators": [
+      "Defines research direction",
+      "Leads strategic collaborations",
+      "Publishes influential papers"
+    ]
+  },
+  "AIR-L5": {
+    "coreCompetencies": [
+      "Expertise in research leadership",
+      "Capacity to build research labs",
+      "Mastery of interdisciplinary research",
+      "Skill in strategic partnerships",
+      "Deep knowledge of funding landscape",
+      "Capacity to define research culture",
+      "Expertise in talent development",
+      "Mastery of research impact"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of consciousness research",
+      "Skill in hybrid intelligence",
+      "Understanding of singularity"
+    ],
+    "indicators": [
+      "Architects research programs",
+      "Leads multiple research lines",
+      "Defines research strategy"
+    ]
+  },
+  "AIR-L6": {
+    "coreCompetencies": [
+      "Capacity to define research vision",
+      "Expertise in breakthrough discoveries",
+      "Mastery of global research networks",
+      "Skill in research diplomacy",
+      "Deep knowledge of AI futures",
+      "Capacity for thought leadership",
+      "Expertise in research ecosystems",
+      "Mastery of scientific impact"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of post-singularity",
+      "Skill in alien AI",
+      "Understanding of cosmic intelligence"
+    ],
+    "indicators": [
+      "Defines corporate research vision",
+      "Leads research organizations",
+      "Influences direction of AI"
+    ]
+  },
+  "AIR-L7": {
+    "coreCompetencies": [
+      "Leadership in evolution of AI research",
+      "Capacity for global research management",
+      "Expertise in scientific transformation",
+      "Mastery of research governance",
+      "Capacity to define scientific culture",
+      "Deep knowledge of breakthrough value",
+      "Expertise in nobel-class research",
+      "Capacity to lead revolution"
+    ],
+    "complementaryCompetencies": [
+      "Capacity to influence science",
+      "Skill to create institutes",
+      "Knowledge of research empires"
+    ],
+    "indicators": [
+      "Defines executive research strategy",
+      "Represents company in science",
+      "Thought leader in AI research"
+    ]
+  },
+  "AIR-L8": {
+    "coreCompetencies": [
+      "Strategic vision of AI research",
+      "Capacity for research as core business",
+      "Expertise in transformation through research",
+      "Mastery of executive lab management",
+      "Capacity to build institutes",
+      "Deep knowledge of scientific value",
+      "Expertise in research alliances",
+      "Capacity to define future"
+    ],
+    "complementaryCompetencies": [
+      "Capacity to influence governments",
+      "Skill for moonshots",
+      "Knowledge of research unicorns"
+    ],
+    "indicators": [
+      "Responsible for all research",
+      "Defines scientific future",
+      "Recognized leader in AI research"
+    ]
+  },
+  "AIR-L9": {
+    "coreCompetencies": [
+      "Executive leadership in research",
+      "Capacity for science as definitive advantage",
+      "Expertise in transformation of humanity",
+      "Mastery of scientific governance",
+      "Capacity to create new fields",
+      "Deep knowledge of existential impact",
+      "Expertise in civilization advancement",
+      "Capacity to define singularity",
+      "Mastery of transcendence"
+    ],
+    "complementaryCompetencies": [
+      "Capacity to create new sciences",
+      "Skill to transform species",
+      "Knowledge of post-human futures"
+    ],
+    "indicators": [
+      "Chief responsible for research",
+      "Defines future of intelligence",
+      "Global leader in evolution of AI"
+    ]
+  }
+}

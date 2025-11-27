@@ -1,0 +1,208 @@
+{
+  "FS-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de arquitectura cliente-servidor y protocolo HTTP",
+      "Conocimiento elemental de HTML, CSS y estructuras de datos básicas",
+      "Capacidad de crear formularios simples con validación básica",
+      "Comprensión básica de bases de datos relacionales y consultas simples",
+      "Habilidad para crear páginas web estáticas con interactividad básica",
+      "Conocimiento elemental de versionado de código y trabajo en equipo",
+      "Comprensión básica del flujo completo de una aplicación web",
+      "Capacidad de configurar entornos de desarrollo locales simples"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de línea de comandos",
+      "Familiaridad con herramientas de desarrollo web",
+      "Comprensión elemental de debugging básico"
+    ],
+    "indicators": [
+      "Requiere supervisión constante en todas las tareas",
+      "Puede completar tareas end-to-end muy simples con guía detallada",
+      "Necesita 3-6 meses de mentoría intensiva"
+    ]
+  },
+  "FS-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar funcionalidades CRUD completas con supervisión",
+      "Habilidad para crear interfaces responsivas básicas conectadas a APIs",
+      "Conocimiento práctico de autenticación y autorización básica",
+      "Comprensión de patrones MVC o arquitecturas similares",
+      "Capacidad de trabajar con APIs RESTful tanto del lado cliente como servidor",
+      "Habilidad para manejar estado básico en aplicaciones web",
+      "Conocimiento de validación de datos en frontend y backend",
+      "Comprensión de seguridad web básica (CORS, XSS, SQL Injection)",
+      "Capacidad de realizar debugging en cliente y servidor"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de optimización de consultas",
+      "Habilidad para crear tests unitarios simples",
+      "Comprensión básica de CI/CD"
+    ],
+    "indicators": [
+      "Puede completar features simples end-to-end con supervisión moderada",
+      "Resuelve problemas básicos de integración entre frontend y backend",
+      "Necesita revisión de código frecuente"
+    ]
+  },
+  "FS-L3": {
+    "coreCompetencies": [
+      "Dominio de flujos completos de autenticación y gestión de sesiones",
+      "Capacidad de implementar APIs RESTful completas con documentación",
+      "Habilidad para optimizar rendimiento básico en frontend y backend",
+      "Conocimiento práctico de caché en múltiples capas (browser, servidor, BD)",
+      "Capacidad de manejar uploads de archivos y procesamiento asíncrono",
+      "Comprensión sólida de patrones de diseño full-stack",
+      "Habilidad para implementar validación compleja y manejo de errores robusto",
+      "Conocimiento de websockets y comunicación en tiempo real",
+      "Capacidad de trabajar con múltiples bases de datos simultáneamente"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de GraphQL y alternativas a REST",
+      "Habilidad para implementar PWAs básicas",
+      "Comprensión de microservicios básicos"
+    ],
+    "indicators": [
+      "Completa features medianas end-to-end con mínima supervisión",
+      "Puede debuggear problemas complejos de integración",
+      "Contribuye activamente a decisiones técnicas del stack"
+    ]
+  },
+  "FS-L4": {
+    "coreCompetencies": [
+      "Capacidad de diseñar arquitecturas full-stack escalables para aplicaciones medianas",
+      "Dominio de optimización de rendimiento en todas las capas del stack",
+      "Habilidad para implementar sistemas de mensajería y colas de trabajo",
+      "Conocimiento profundo de seguridad en aplicaciones web completas",
+      "Capacidad de implementar SSR, CSR y estrategias híbridas de renderizado",
+      "Dominio de gestión de estado complejo en aplicaciones grandes",
+      "Habilidad para diseñar e implementar APIs GraphQL complejas",
+      "Conocimiento práctico de containerización y orquestación básica",
+      "Capacidad de implementar pipelines CI/CD completos"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de arquitecturas serverless",
+      "Habilidad para trabajar con servicios cloud",
+      "Comprensión de monitorización y observabilidad"
+    ],
+    "indicators": [
+      "Lidera desarrollo de features complejas end-to-end",
+      "Toma decisiones arquitecturales para componentes medianos",
+      "Mentora a desarrolladores junior en full-stack"
+    ]
+  },
+  "FS-L5": {
+    "coreCompetencies": [
+      "Expertise en arquitecturas de microservicios y su implementación completa",
+      "Capacidad de diseñar sistemas distribuidos con alta disponibilidad",
+      "Dominio de patrones de integración empresarial y sistemas legacy",
+      "Habilidad para implementar arquitecturas event-driven completas",
+      "Conocimiento profundo de optimización de bases de datos y sharding",
+      "Capacidad de implementar sistemas de caché distribuido y CDNs",
+      "Expertise en implementación de aplicaciones multi-tenant",
+      "Dominio de estrategias de deployment y rollback seguros",
+      "Capacidad de diseñar APIs públicas escalables y versionadas"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de blockchain y tecnologías descentralizadas",
+      "Habilidad para trabajar con IoT y edge computing",
+      "Comprensión de ML/AI integration en aplicaciones"
+    ],
+    "indicators": [
+      "Diseña soluciones técnicas para problemas de negocio complejos",
+      "Lidera migración de arquitecturas monolíticas a distribuidas",
+      "Define estándares técnicos para equipos full-stack"
+    ]
+  },
+  "FS-L6": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar plataformas completas desde cero",
+      "Expertise en diseño de sistemas resilientes y fault-tolerant",
+      "Dominio de estrategias de escalabilidad horizontal y vertical",
+      "Habilidad para implementar observabilidad completa y distributed tracing",
+      "Conocimiento profundo de compliance y regulaciones (GDPR, PCI-DSS)",
+      "Capacidad de diseñar arquitecturas multi-cloud y cloud-agnostic",
+      "Expertise en optimización de costos de infraestructura",
+      "Dominio de patterns de migración de datos y sistemas",
+      "Capacidad de implementar disaster recovery y business continuity"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de quantum computing readiness",
+      "Habilidad para diseñar sistemas de AR/VR",
+      "Comprensión de edge computing avanzado"
+    ],
+    "indicators": [
+      "Arquitecta soluciones para productos completos",
+      "Lidera equipos técnicos multidisciplinarios",
+      "Define roadmap técnico a largo plazo"
+    ]
+  },
+  "FS-L7": {
+    "coreCompetencies": [
+      "Liderazgo técnico en transformaciones digitales completas",
+      "Capacidad de diseñar arquitecturas para ecosistemas de productos",
+      "Expertise en integración de sistemas heterogéneos a gran escala",
+      "Dominio de arquitecturas para procesamiento de big data en tiempo real",
+      "Capacidad de diseñar plataformas de desarrollo internas (Platform Engineering)",
+      "Conocimiento profundo de modelos de consistencia en sistemas distribuidos",
+      "Expertise en diseño de APIs federation y schema stitching",
+      "Capacidad de implementar arquitecturas zero-trust security",
+      "Dominio de optimización de recursos a escala global"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de evaluar y adoptar tecnologías emergentes",
+      "Habilidad para diseñar arquitecturas para metaverso",
+      "Conocimiento de computación cuántica aplicada"
+    ],
+    "indicators": [
+      "Define arquitectura técnica para múltiples productos",
+      "Lidera comunidades técnicas y define mejores prácticas",
+      "Influencia decisiones técnicas a nivel organizacional"
+    ]
+  },
+  "FS-L8": {
+    "coreCompetencies": [
+      "Visión estratégica para evolución tecnológica de la empresa",
+      "Capacidad de diseñar arquitecturas para empresas Fortune 500",
+      "Expertise en due diligence técnico y evaluación de acquisiciones",
+      "Dominio de estrategias de modernización de legacy a escala masiva",
+      "Capacidad de definir governance técnico y arquitecturas de referencia",
+      "Conocimiento profundo de optimización de P&L técnico",
+      "Expertise en building y scaling de equipos de ingeniería globales",
+      "Capacidad de diseñar ecosistemas de APIs y marketplaces",
+      "Dominio de estrategias de open source y community building"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de representar la empresa en conferencias técnicas",
+      "Habilidad para patentar innovaciones técnicas",
+      "Conocimiento de venture building técnico"
+    ],
+    "indicators": [
+      "Define estrategia técnica multi-año para la organización",
+      "Representa la empresa como thought leader",
+      "Impacta industria con innovaciones técnicas"
+    ]
+  },
+  "FS-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en tecnología y transformación digital",
+      "Capacidad de alinear estrategia técnica con objetivos de negocio",
+      "Expertise en M&A técnico y post-merger integration",
+      "Dominio de gestión de presupuestos tecnológicos multi-millonarios",
+      "Capacidad de construir y escalar organizaciones de ingeniería",
+      "Conocimiento profundo de compliance y risk management tecnológico",
+      "Expertise en relaciones con investors y board management",
+      "Capacidad de definir cultura de ingeniería y valores técnicos",
+      "Dominio de innovation management y R&D estratégico"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar políticas de industria",
+      "Habilidad para crear spin-offs tecnológicos",
+      "Conocimiento de inversión en startups técnicas"
+    ],
+    "indicators": [
+      "Define y ejecuta visión técnica de la empresa",
+      "Responsable de P&L de tecnología completo",
+      "Reconocido como líder en la industria tecnológica"
+    ]
+  }
+}

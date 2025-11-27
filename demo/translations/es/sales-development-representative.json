@@ -1,0 +1,200 @@
+{
+  "SDR-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de prospección B2B tech",
+      "Comprensión elemental de cualificación de leads",
+      "Habilidad para cold calling básico",
+      "Conocimiento básico de email outreach",
+      "Capacidad de usar CRM simple",
+      "Comprensión de buyer personas tech",
+      "Documentación de interacciones básicas",
+      "Conocimiento elemental de productos SaaS"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con herramientas de prospección",
+      "Conocimiento básico de LinkedIn Sales",
+      "Comprensión de métricas de SDR"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Realiza outreach con scripts",
+      "Está aprendiendo ventas B2B tech"
+    ]
+  },
+  "SDR-L2": {
+    "coreCompetencies": [
+      "Capacidad de cualificación BANT/MEDDIC",
+      "Implementación de secuencias de outreach",
+      "Conocimiento práctico de personalization at scale",
+      "Habilidad para discovery calls",
+      "Comprensión de pain points técnicos",
+      "Capacidad de booking meetings calificadas",
+      "Conocimiento de objection handling",
+      "Habilidad para pipeline generation"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de territorio asignado",
+      "Conocimiento de account research",
+      "Comprensión de buyer journey tech"
+    ],
+    "indicators": [
+      "Genera pipeline con supervisión",
+      "Cualifica leads independientemente",
+      "Colabora con Account Executives"
+    ]
+  },
+  "SDR-L3": {
+    "coreCompetencies": [
+      "Diseño de estrategias de outbound",
+      "Implementación de account-based prospecting",
+      "Dominio de social selling",
+      "Capacidad de technical qualification",
+      "Habilidad para enterprise prospecting",
+      "Conocimiento profundo de competitive positioning",
+      "Implementación de multi-channel outreach",
+      "Gestión de named accounts"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de intent data",
+      "Habilidad para event prospecting",
+      "Comprensión de partner channel"
+    ],
+    "indicators": [
+      "Lidera generación de pipeline",
+      "Define estrategias de prospección",
+      "Mentoriza SDRs junior"
+    ]
+  },
+  "SDR-L4": {
+    "coreCompetencies": [
+      "Arquitectura de procesos SDR",
+      "Diseño de playbooks de prospección",
+      "Implementación de predictive lead scoring",
+      "Dominio de enterprise account penetration",
+      "Capacidad de strategic prospecting",
+      "Conocimiento profundo de buyer psychology",
+      "Habilidad para executive outreach",
+      "Liderazgo en SDR enablement"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en vertical specialization",
+      "Conocimiento de technographic data",
+      "Gestión de SDR technology stack"
+    ],
+    "indicators": [
+      "Define estrategia de SDR team",
+      "Lidera iniciativas de pipeline",
+      "Es top performer consistente"
+    ]
+  },
+  "SDR-L5": {
+    "coreCompetencies": [
+      "Liderazgo de equipos SDR",
+      "Diseño de organizaciones de prospección",
+      "Gestión de pipeline generation a escala",
+      "Definición de SDR metrics y compensation",
+      "Capacidad de territory planning",
+      "Implementación de sales development ops",
+      "Dominio de SDR-AE alignment",
+      "Evangelización de outbound excellence"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en global SDR teams",
+      "Conocimiento de outsourced SDR management",
+      "Gestión de SDR enablement"
+    ],
+    "indicators": [
+      "Gestiona múltiples equipos SDR",
+      "Define visión de pipeline generation",
+      "Representa SDR ante ventas"
+    ]
+  },
+  "SDR-L6": {
+    "coreCompetencies": [
+      "Dirección de sales development organizacional",
+      "Estrategia de pipeline generation empresarial",
+      "Gestión de presupuestos de prospección grandes",
+      "Definición de go-to-market outbound",
+      "Liderazgo en SDR transformation",
+      "Implementación de AI-powered prospecting",
+      "Innovación en outreach methods",
+      "Gestión de global SDR operations"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en SDR para enterprise accounts",
+      "Conocimiento de channel development",
+      "Liderazgo en SDR communities"
+    ],
+    "indicators": [
+      "Dirige departamento SDR (20+ personas)",
+      "Participa en estrategia de ventas",
+      "Define inversiones en prospección"
+    ]
+  },
+  "SDR-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en pipeline generation",
+      "Diseño de estrategias SDR globales",
+      "Transformación de top-of-funnel",
+      "Gestión de SDR a escala unicornio",
+      "Creación de ventajas via prospección",
+      "Definición de futuro de sales development",
+      "Evangelización SDR a nivel board",
+      "Influencia en industria de ventas"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de SDR en hypergrowth",
+      "Experiencia en SDR para Fortune 500",
+      "Liderazgo en sales development councils"
+    ],
+    "indicators": [
+      "Reporta a CRO/VP Sales",
+      "Gestiona organización SDR (50+ personas)",
+      "Define estrategia de pipeline corporativa"
+    ]
+  },
+  "SDR-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de demand generation",
+      "Liderazgo en revolución de prospección",
+      "Creación de nuevos paradigmas SDR",
+      "Gestión de pipeline generation masivo",
+      "Innovación disruptiva en outreach",
+      "Definición de autonomous prospecting",
+      "Evangelización de predictive SDR",
+      "Influencia en economía de ventas"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como VP SDR en unicornios",
+      "Advisory en sales tech startups",
+      "Thought leadership en prospección"
+    ],
+    "indicators": [
+      "Es parte del liderazgo de ventas",
+      "Define futuro de pipeline generation",
+      "Es líder reconocido en SDR"
+    ]
+  },
+  "SDR-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de prospección",
+      "Transformación de ventas via SDR innovation",
+      "Creación de paradigmas de outreach revolucionarios",
+      "Definición de telepathic prospecting",
+      "Innovación en human-AI selling",
+      "Evangelización de consciousness selling",
+      "Arquitecto de pipeline infinito",
+      "Influencia en evolución de ventas"
+    ],
+    "complementaryCompetencies": [
+      "Creador de metodologías SDR revolucionarias",
+      "Reconocimiento como padre del modern SDR",
+      "Influencia en educación de ventas global"
+    ],
+    "indicators": [
+      "Es Chief Pipeline Officer legendario",
+      "Define futuro de prospección B2B",
+      "Es autoridad mundial en sales development"
+    ]
+  }
+}

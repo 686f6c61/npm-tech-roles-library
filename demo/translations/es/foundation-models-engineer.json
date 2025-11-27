@@ -1,0 +1,200 @@
+{
+  "FME-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de foundation models",
+      "Comprensión elemental de fundamentos",
+      "Habilidad para tareas simples",
+      "Conocimiento básico de herramientas",
+      "Capacidad de trabajo con supervisión",
+      "Comprensión de conceptos core",
+      "Documentación básica",
+      "Conocimiento elemental de best practices"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con frameworks básicos",
+      "Conocimiento de herramientas estándar",
+      "Comprensión elemental de cloud"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Ejecuta tareas básicas con guía",
+      "Está aprendiendo foundation models"
+    ]
+  },
+  "FME-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar soluciones básicas en foundation models",
+      "Implementación de técnicas estándar",
+      "Conocimiento práctico de frameworks",
+      "Habilidad para resolver problemas típicos",
+      "Comprensión de pipelines",
+      "Capacidad de deployment básico",
+      "Conocimiento de testing",
+      "Habilidad para documentación"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de tecnologías emergentes",
+      "Habilidad para integración",
+      "Comprensión de automation"
+    ],
+    "indicators": [
+      "Desarrolla soluciones foundation models con supervisión",
+      "Implementa features completas",
+      "Optimiza procesos básicos"
+    ]
+  },
+  "FME-L3": {
+    "coreCompetencies": [
+      "Diseño de soluciones foundation models end-to-end",
+      "Implementación de sistemas complejos",
+      "Dominio de stack tecnológico",
+      "Capacidad de optimization avanzada",
+      "Habilidad para arquitectura",
+      "Conocimiento profundo de best practices",
+      "Implementación de monitoring",
+      "Capacidad de mentoring"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de técnicas avanzadas",
+      "Habilidad para innovation",
+      "Comprensión de research"
+    ],
+    "indicators": [
+      "Lidera proyectos de foundation models",
+      "Diseña arquitecturas completas",
+      "Mentoriza engineers junior"
+    ]
+  },
+  "FME-L4": {
+    "coreCompetencies": [
+      "Arquitectura de plataformas foundation models escalables",
+      "Diseño de estrategias técnicas",
+      "Implementación de sistemas enterprise",
+      "Dominio de optimization a escala",
+      "Capacidad de leadership técnico",
+      "Conocimiento profundo de patterns avanzados",
+      "Habilidad para strategic planning",
+      "Liderazgo en transformación"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en sistemas distribuidos",
+      "Conocimiento de cutting-edge tech",
+      "Implementación de innovation"
+    ],
+    "indicators": [
+      "Define estrategia de foundation models",
+      "Lidera equipos técnicos",
+      "Es referente en foundation models"
+    ]
+  },
+  "FME-L5": {
+    "coreCompetencies": [
+      "Liderazgo técnico en foundation models",
+      "Diseño de product strategy",
+      "Gestión de equipos",
+      "Definición de standards",
+      "Capacidad de ROI analysis",
+      "Implementación de governance",
+      "Dominio de emerging tech",
+      "Evangelización de culture"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en consulting",
+      "Conocimiento de business models",
+      "Gestión de budgets"
+    ],
+    "indicators": [
+      "Gestiona equipos de foundation models",
+      "Define visión de productos",
+      "Representa foundation models ante stakeholders"
+    ]
+  },
+  "FME-L6": {
+    "coreCompetencies": [
+      "Dirección de estrategia corporativa de foundation models",
+      "Gestión de platforms a escala",
+      "Definición de architecture empresarial",
+      "Liderazgo en transformation",
+      "Gestión de partnerships estratégicos",
+      "Implementación de responsible practices",
+      "Innovación en solutions",
+      "Gestión de compliance"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en M&A",
+      "Conocimiento de investment",
+      "Liderazgo en industry community"
+    ],
+    "indicators": [
+      "Dirige departamento de foundation models",
+      "Participa en estrategia ejecutiva",
+      "Define inversiones en foundation models"
+    ]
+  },
+  "FME-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en foundation models",
+      "Diseño de estrategias globales",
+      "Transformación organizacional",
+      "Gestión a escala Fortune 500",
+      "Creación de organizational culture",
+      "Definición de roadmap estratégico",
+      "Evangelización a nivel board",
+      "Influencia en industry"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de budgets multi-millonarios",
+      "Experiencia en unicorns",
+      "Liderazgo en standards"
+    ],
+    "indicators": [
+      "Reporta a CTO/CEO",
+      "Gestiona organización (50+ personas)",
+      "Define estrategia corporativa de foundation models"
+    ]
+  },
+  "FME-L8": {
+    "coreCompetencies": [
+      "Visión estratégica empresarial de foundation models",
+      "Liderazgo en transformation",
+      "Creación de competitive advantage",
+      "Gestión de ecosystems globales",
+      "Innovación disruptiva",
+      "Definición de future direction",
+      "Evangelización de paradigm shift",
+      "Influencia en policies"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como executive en tech giants",
+      "Advisory en startups",
+      "Thought leadership"
+    ],
+    "indicators": [
+      "Es parte del comité ejecutivo",
+      "Define futuro de foundation models",
+      "Es líder reconocido en foundation models"
+    ]
+  },
+  "FME-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en foundation models",
+      "Transformación de industrias",
+      "Creación de paradigmas",
+      "Definición de foundation models como core business",
+      "Innovación en breakthrough applications",
+      "Evangelización de culture",
+      "Arquitecto de ecosystems globales",
+      "Influencia en regulation"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia transformando industrias con foundation models",
+      "Reconocimiento como pioneer",
+      "Influencia en future"
+    ],
+    "indicators": [
+      "Es Chief Foundation Models Engineer Officer",
+      "Define futuro de la industria de foundation models",
+      "Es autoridad mundial en foundation models"
+    ]
+  }
+}

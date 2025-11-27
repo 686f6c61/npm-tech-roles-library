@@ -1,0 +1,258 @@
+{
+  "role": "Ingeniero de Aprendizaje por Refuerzo",
+  "category": "IA/ML",
+  "levels": {
+    "RLE-L1": {
+      "level": "L1 - Ingeniero de Aprendizaje por Refuerzo en Formación",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de aprendizaje por refuerzo",
+        "Comprensión elemental de procesos de decisión de Markov",
+        "Habilidad para implementar algoritmos simples de bandidos",
+        "Conocimiento básico de Python y bibliotecas de aprendizaje automático",
+        "Capacidad de trabajo con entornos de simulación",
+        "Comprensión de conceptos de agente, estado, acción y recompensa",
+        "Documentación de experimentos básicos",
+        "Conocimiento elemental de métodos de Montecarlo"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con bibliotecas de aprendizaje por refuerzo",
+        "Conocimiento de entornos OpenAI Gym",
+        "Comprensión elemental de redes neuronales"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta tareas básicas de entrenamiento con orientación",
+        "Está aprendiendo fundamentos de aprendizaje por refuerzo"
+      ]
+    },
+    "RLE-L2": {
+      "level": "L2 - Ingeniero de Aprendizaje por Refuerzo Junior",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de implementar Q-learning y SARSA",
+        "Implementación de métodos de diferencia temporal",
+        "Conocimiento práctico de aproximación de funciones de valor",
+        "Habilidad para diseñar funciones de recompensa",
+        "Comprensión de exploración versus explotación",
+        "Capacidad de evaluación con métricas de retorno acumulado",
+        "Conocimiento de gradientes de política básicos",
+        "Habilidad para entrenar agentes en entornos simulados"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de redes neuronales profundas",
+        "Habilidad para implementar repetición de experiencias",
+        "Comprensión de métodos actor-crítico básicos"
+      ],
+      "indicators": [
+        "Desarrolla agentes de aprendizaje por refuerzo con supervisión",
+        "Implementa algoritmos completos de entrenamiento",
+        "Optimiza políticas en entornos simples"
+      ]
+    },
+    "RLE-L3": {
+      "level": "L3 - Ingeniero de Aprendizaje por Refuerzo",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de sistemas de aprendizaje por refuerzo de extremo a extremo",
+        "Implementación de algoritmos avanzados (DQN, A3C, PPO)",
+        "Dominio de aprendizaje por refuerzo profundo",
+        "Capacidad de optimización de hiperparámetros",
+        "Habilidad para diseñar arquitecturas de redes de políticas",
+        "Conocimiento profundo de métodos de gradiente de política",
+        "Implementación de agentes en entornos continuos",
+        "Capacidad de mentoría técnica"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de aprendizaje por refuerzo inverso",
+        "Habilidad para implementar aprendizaje por imitación",
+        "Comprensión de aprendizaje multiagente"
+      ],
+      "indicators": [
+        "Lidera proyectos completos de aprendizaje por refuerzo",
+        "Diseña arquitecturas de sistemas de agentes",
+        "Mentoriza a ingenieros junior en técnicas avanzadas"
+      ]
+    },
+    "RLE-L4": {
+      "level": "L4 - Ingeniero de Aprendizaje por Refuerzo Senior",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de plataformas de aprendizaje por refuerzo escalables",
+        "Diseño de estrategias de entrenamiento distribuido",
+        "Implementación de algoritmos de última generación (SAC, TD3, DDPG)",
+        "Dominio de aprendizaje por refuerzo jerárquico",
+        "Capacidad de liderazgo técnico en equipos de investigación aplicada",
+        "Conocimiento profundo de aprendizaje por refuerzo fuera de política",
+        "Habilidad para diseñar experimentos de aprendizaje del mundo real",
+        "Liderazgo en transferencia de simulación a realidad"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en aprendizaje por refuerzo en robótica",
+        "Conocimiento de optimización de hiperparámetros automatizada",
+        "Implementación de aprendizaje meta-refuerzo"
+      ],
+      "indicators": [
+        "Define estrategia técnica de aprendizaje por refuerzo",
+        "Lidera equipos técnicos multidisciplinares",
+        "Es referente interno en aprendizaje por refuerzo"
+      ]
+    },
+    "RLE-L5": {
+      "level": "L5 - Ingeniero de Aprendizaje por Refuerzo Principal",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo técnico en plataformas de agentes autónomos",
+        "Diseño de estrategias de producto para sistemas de decisión",
+        "Gestión de equipos de investigación de aprendizaje por refuerzo",
+        "Definición de estándares de calidad y seguridad de agentes",
+        "Capacidad de análisis de retorno de inversión",
+        "Implementación de gobernanza de sistemas autónomos",
+        "Dominio de técnicas emergentes de aprendizaje profundo",
+        "Evangelización de cultura de experimentación"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en consultoría de sistemas de decisión",
+        "Conocimiento de modelos económicos de automatización",
+        "Gestión de presupuestos de infraestructura de entrenamiento"
+      ],
+      "indicators": [
+        "Gestiona equipos completos de aprendizaje por refuerzo",
+        "Define visión de productos de sistemas autónomos",
+        "Representa aprendizaje por refuerzo ante dirección"
+      ]
+    },
+    "RLE-L6": {
+      "level": "L6 - Ingeniero de Aprendizaje por Refuerzo Distinguido",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia corporativa de sistemas autónomos",
+        "Gestión de plataformas de aprendizaje por refuerzo a escala",
+        "Definición de arquitectura empresarial de agentes inteligentes",
+        "Liderazgo en transformación de procesos mediante automatización",
+        "Gestión de alianzas estratégicas con centros de investigación",
+        "Implementación de prácticas responsables de autonomía",
+        "Innovación en soluciones de toma de decisiones",
+        "Gestión de cumplimiento normativo de sistemas autónomos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fusiones y adquisiciones tecnológicas",
+        "Conocimiento de estrategias de inversión en autonomía",
+        "Liderazgo en comunidades de investigación"
+      ],
+      "indicators": [
+        "Dirige departamento de sistemas autónomos",
+        "Participa en estrategia ejecutiva de producto",
+        "Define inversiones en aprendizaje por refuerzo"
+      ]
+    },
+    "RLE-L7": {
+      "level": "L7 - Director de Aprendizaje por Refuerzo",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en sistemas de decisión autónomos",
+        "Diseño de estrategias globales de automatización inteligente",
+        "Transformación organizacional mediante agentes autónomos",
+        "Gestión a escala de plataformas de decisión",
+        "Creación de cultura organizacional de experimentación",
+        "Definición de hoja de ruta estratégica de autonomía",
+        "Evangelización a nivel de junta directiva",
+        "Influencia en estándares de sistemas autónomos"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos multimillonarios de investigación",
+        "Experiencia en empresas unicornio de inteligencia artificial",
+        "Liderazgo en estándares de seguridad de agentes"
+      ],
+      "indicators": [
+        "Reporta a director de tecnología o de inteligencia artificial",
+        "Gestiona organización de más de 50 personas",
+        "Define estrategia corporativa de sistemas autónomos"
+      ]
+    },
+    "RLE-L8": {
+      "level": "L8 - Vicepresidente de Aprendizaje por Refuerzo",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica empresarial de autonomía",
+        "Liderazgo en transformación digital mediante agentes inteligentes",
+        "Creación de ventaja competitiva mediante automatización",
+        "Gestión de ecosistemas globales de sistemas de decisión",
+        "Innovación disruptiva en toma de decisiones autónoma",
+        "Definición de dirección futura de agentes autónomos",
+        "Evangelización de cambio de paradigma en automatización",
+        "Influencia en políticas de seguridad y autonomía"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia como ejecutivo en grandes tecnológicas",
+        "Asesoría en empresas emergentes de autonomía",
+        "Liderazgo de pensamiento en aprendizaje por refuerzo"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define el futuro de la autonomía en la empresa",
+        "Es líder reconocido globalmente en aprendizaje por refuerzo"
+      ]
+    },
+    "RLE-L9": {
+      "level": "L9 - Director Ejecutivo de Sistemas Autónomos",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en autonomía y toma de decisiones",
+        "Transformación de industrias mediante aprendizaje por refuerzo",
+        "Creación de nuevos paradigmas de sistemas inteligentes",
+        "Definición de autonomía como negocio central",
+        "Innovación en aplicaciones revolucionarias de agentes",
+        "Evangelización de cultura de autonomía responsable",
+        "Arquitecto de ecosistemas globales de decisión autónoma",
+        "Influencia en regulación de sistemas autónomos"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando industrias con autonomía",
+        "Reconocimiento como pionero en aprendizaje por refuerzo",
+        "Influencia en el futuro de la inteligencia artificial autónoma"
+      ],
+      "indicators": [
+        "Es director ejecutivo de sistemas autónomos",
+        "Define el futuro de la industria de agentes inteligentes",
+        "Es autoridad mundial en aprendizaje por refuerzo"
+      ]
+    }
+  }
+}

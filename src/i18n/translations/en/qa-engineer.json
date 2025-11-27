@@ -1,0 +1,266 @@
+{
+  "role": "QA Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "QA-L1": {
+      "level": "L1 - Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of software lifecycle and testing types",
+        "Elementary knowledge of test cases and scenarios",
+        "Ability to execute manual tests following scripts",
+        "Basic understanding of bug reporting and severities",
+        "Capability to document test results",
+        "Elementary knowledge of defect management tools",
+        "Basic understanding of testing environments (dev, staging, prod)",
+        "Ability to perform simple exploratory testing"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of HTML and web browsers",
+        "Familiarity with agile methodologies",
+        "Elementary understanding of databases"
+      ],
+      "indicators": [
+        "Requires constant supervision in QA activities",
+        "Can execute documented test cases with guidance",
+        "Needs 3-6 months of testing mentoring"
+      ]
+    },
+    "QA-L2": {
+      "level": "L2 - Junior I",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capability to write detailed and comprehensive test cases",
+        "Ability to perform complete functional tests",
+        "Practical knowledge of regression testing",
+        "Understanding of integration and system testing",
+        "Capability to use basic automation tools",
+        "Ability to perform API testing with tools",
+        "Knowledge of cross-browser and cross-device testing",
+        "Understanding of SQL for data validation",
+        "Capability to participate in refinement sessions"
+      ],
+      "complementaryCompetencies": [
+        "Basic knowledge of scripting",
+        "Ability to perform usability testing",
+        "Understanding of basic accessibility"
+      ],
+      "indicators": [
+        "Can plan and execute tests with moderate supervision",
+        "Identifies and reports bugs effectively",
+        "Actively collaborates with developers"
+      ]
+    },
+    "QA-L3": {
+      "level": "L3 - Junior II",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of test automation with popular frameworks",
+        "Capability to design testing strategies for features",
+        "Ability to perform basic performance testing",
+        "Deep knowledge of basic security testing",
+        "Capability to implement automated API tests",
+        "Solid understanding of CI/CD and testing in pipelines",
+        "Ability to perform root cause analysis",
+        "Knowledge of compatibility and localization testing",
+        "Capability to estimate testing effort"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of mobile testing",
+        "Ability to use virtualization tools",
+        "Understanding of WCAG accessibility testing"
+      ],
+      "indicators": [
+        "Automates test cases independently",
+        "Identifies quality risks proactively",
+        "Contributes to QA process improvements"
+      ]
+    },
+    "QA-L4": {
+      "level": "L4 - Mid-Level I",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capability to design automation frameworks from scratch",
+        "Mastery of performance and load testing",
+        "Ability to implement complex E2E tests",
+        "Deep knowledge of testing in distributed architectures",
+        "Capability to implement contract testing and CDC",
+        "Mastery of security testing (OWASP, basic penetration)",
+        "Ability to design testing strategies for microservices",
+        "Knowledge of chaos testing and resilience testing",
+        "Capability to implement visual regression testing"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AI/ML testing",
+        "Ability for IoT testing",
+        "Understanding of blockchain testing"
+      ],
+      "indicators": [
+        "Leads testing strategy for medium-sized projects",
+        "Defines team automation standards",
+        "Mentors junior QA effectively"
+      ]
+    },
+    "QA-L5": {
+      "level": "L5 - Mid-Level II",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in test architecture for complex systems",
+        "Capability to implement testing as a service (TaaS)",
+        "Mastery of performance engineering and optimization",
+        "Ability to design disaster recovery tests",
+        "Deep knowledge of advanced security testing",
+        "Capability to implement synthetic monitoring",
+        "Expertise in test data management and generation",
+        "Mastery of comprehensive accessibility testing",
+        "Capability to implement ML-based testing"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of quantum computing testing",
+        "Ability for virtual reality testing",
+        "Understanding of compliance testing"
+      ],
+      "indicators": [
+        "Designs QA strategies for complete products",
+        "Leads quality improvement initiatives",
+        "Defines quality metrics and KPIs"
+      ]
+    },
+    "QA-L6": {
+      "level": "L6 - Senior I",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capability to architect enterprise quality strategies",
+        "Expertise in continuous testing and shift-left testing",
+        "Mastery of risk-based testing and prioritization",
+        "Ability to implement automated quality gates",
+        "Deep knowledge of compliance and regulations",
+        "Capability to design observability for testing",
+        "Expertise in production testing and canary analysis",
+        "Mastery of cost optimization in testing",
+        "Capability to implement AIOps for quality"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of testing for autonomous systems",
+        "Ability to design ethical AI tests",
+        "Understanding of sustainable testing"
+      ],
+      "indicators": [
+        "Architects quality for product portfolios",
+        "Leads organizational quality transformation",
+        "Defines long-term testing strategy"
+      ]
+    },
+    "QA-L7": {
+      "level": "L7 - Senior II",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in organizational quality culture",
+        "Capability to design quality ecosystems",
+        "Expertise in quality engineering vs quality assurance",
+        "Mastery of predictive quality analytics",
+        "Capability to implement zero-defect strategies",
+        "Deep knowledge of customer-centric quality",
+        "Expertise in global testing strategies",
+        "Capability to design quality for scale",
+        "Mastery of innovation in testing tools"
+      ],
+      "complementaryCompetencies": [
+        "Capability to influence ISO/IEEE standards",
+        "Ability to create open source frameworks",
+        "Knowledge of quality venture building"
+      ],
+      "indicators": [
+        "Defines enterprise quality philosophy",
+        "Leads global testing communities",
+        "Recognized thought leader in quality"
+      ]
+    },
+    "QA-L8": {
+      "level": "L8 - Staff/Principal",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision for the future of testing",
+        "Capability to transform quality into competitive advantage",
+        "Expertise in quality due diligence for M&A",
+        "Mastery of building QA centers of excellence",
+        "Capability to define corporate quality governance",
+        "Deep knowledge of quality ROI",
+        "Expertise in partnerships with testing vendors",
+        "Capability to lead automation innovation",
+        "Mastery of quality metrics for boards"
+      ],
+      "complementaryCompetencies": [
+        "Capability to patent testing methodologies",
+        "Ability to create QA companies",
+        "Knowledge of investment in quality tech"
+      ],
+      "indicators": [
+        "Defines multi-year quality strategy",
+        "Represents the company in quality forums",
+        "Influences industry direction"
+      ]
+    },
+    "QA-L9": {
+      "level": "L9 - VP/Head of Quality",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in quality and operational excellence",
+        "Capability to align quality with business objectives",
+        "Expertise in enterprise quality transformation",
+        "Mastery of quality budgets and ROI",
+        "Capability to build global QA organizations",
+        "Deep knowledge of risk management through quality",
+        "Expertise in customer satisfaction through quality",
+        "Capability to define quality culture",
+        "Mastery of quality as market differentiator"
+      ],
+      "complementaryCompetencies": [
+        "Capability to influence quality regulations",
+        "Ability to create quality ecosystems",
+        "Knowledge of quality investments"
+      ],
+      "indicators": [
+        "Defines and executes enterprise quality vision",
+        "Responsible for corporate quality metrics",
+        "Recognized leader in global software quality"
+      ]
+    }
+  }
+}

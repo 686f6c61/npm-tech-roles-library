@@ -1,0 +1,258 @@
+{
+  "role": "Gerente de Producto de Crecimiento",
+  "category": "Producto",
+  "levels": {
+    "GPM-L1": {
+      "level": "L1 - Asociado de Crecimiento",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Conocimientos básicos de crecimiento",
+        "Comprensión elemental de métricas",
+        "Habilidad para análisis básico",
+        "Conocimiento de análisis de embudo",
+        "Capacidad de pruebas A/B con guía",
+        "Comprensión de adquisición de usuarios",
+        "Documentación de experimentos",
+        "Conocimiento elemental de retención"
+      ],
+      "complementaryCompetencies": [
+        "Familiaridad con herramientas de análisis",
+        "Conocimiento de SQL básico",
+        "Comprensión elemental de viralidad"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Ejecuta experimentos simples",
+        "Está aprendiendo crecimiento"
+      ]
+    },
+    "GPM-L2": {
+      "level": "L2 - Gerente de Crecimiento Junior",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar experimentos de crecimiento",
+        "Implementación de pruebas A/B",
+        "Conocimiento práctico de análisis",
+        "Habilidad para optimización de embudo",
+        "Comprensión de activación",
+        "Capacidad de estrategias de retención",
+        "Conocimiento de programas de referidos",
+        "Habilidad para pruebas de hipótesis"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de herramientas de crecimiento",
+        "Habilidad para investigación de usuarios",
+        "Comprensión de mecánicas virales"
+      ],
+      "indicators": [
+        "Ejecuta iniciativas de crecimiento con supervisión",
+        "Analiza métricas",
+        "Optimiza embudos"
+      ]
+    },
+    "GPM-L3": {
+      "level": "L3 - Gerente de Producto de Crecimiento",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Diseño de estrategias de crecimiento",
+        "Implementación de bucles de crecimiento",
+        "Dominio de experimentación",
+        "Capacidad de pruebas multivariadas",
+        "Habilidad para modelado de crecimiento",
+        "Conocimiento profundo de canales de adquisición",
+        "Implementación de motores de referidos",
+        "Capacidad de liderazgo multifuncional"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de crecimiento liderado por producto",
+        "Habilidad para monetización",
+        "Comprensión de expansión de mercado"
+      ],
+      "indicators": [
+        "Lidera iniciativas de crecimiento",
+        "Diseña experimentos complejos",
+        "Mentoriza en crecimiento"
+      ]
+    },
+    "GPM-L4": {
+      "level": "L4 - Gerente de Crecimiento Senior",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Arquitectura de programas de crecimiento",
+        "Diseño de estrategia liderada por producto",
+        "Implementación de crecimiento a escala",
+        "Dominio de métricas estrella polar",
+        "Capacidad de expansión de mercado",
+        "Conocimiento profundo de monetización",
+        "Habilidad para crecimiento internacional",
+        "Liderazgo en cultura de crecimiento"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en crecimiento viral",
+        "Conocimiento de efectos de red",
+        "Implementación de infraestructura de crecimiento"
+      ],
+      "indicators": [
+        "Define estrategia de crecimiento",
+        "Lidera equipos de crecimiento",
+        "Es referente en crecimiento liderado por producto"
+      ]
+    },
+    "GPM-L5": {
+      "level": "L5 - Gerente de Crecimiento Líder",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Liderazgo en producto de crecimiento",
+        "Diseño de ecosistemas de crecimiento",
+        "Gestión de equipos de crecimiento",
+        "Definición de métricas de crecimiento",
+        "Capacidad de plataformas de experimentación",
+        "Implementación de operaciones de crecimiento",
+        "Dominio de estrategias de escalado",
+        "Evangelización de mentalidad de crecimiento"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en hipercrecimiento",
+        "Conocimiento de economía del crecimiento",
+        "Gestión de presupuesto de crecimiento"
+      ],
+      "indicators": [
+        "Gestiona equipo de crecimiento",
+        "Define visión de crecimiento liderado por producto",
+        "Representa crecimiento ante ejecutivos"
+      ]
+    },
+    "GPM-L6": {
+      "level": "L6 - Gerente de Crecimiento Principal",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Dirección de estrategia de crecimiento",
+        "Gestión de programas de crecimiento",
+        "Definición de arquitectura liderada por producto",
+        "Liderazgo en transformación",
+        "Gestión de expansión internacional",
+        "Implementación de crecimiento global",
+        "Innovación en mecánicas de crecimiento",
+        "Gestión de monetización"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en fusiones y adquisiciones de crecimiento",
+        "Conocimiento de estrategia de mercado",
+        "Liderazgo en comunidad de crecimiento"
+      ],
+      "indicators": [
+        "Dirige departamento de crecimiento",
+        "Participa en estrategia",
+        "Define inversiones en crecimiento"
+      ]
+    },
+    "GPM-L7": {
+      "level": "L7 - Director de Crecimiento",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en crecimiento",
+        "Diseño de estrategias globales",
+        "Transformación mediante crecimiento liderado por producto",
+        "Gestión a escala unicornio",
+        "Creación de cultura de crecimiento",
+        "Definición de hoja de ruta de expansión",
+        "Evangelización a nivel directivo",
+        "Influencia en industria de crecimiento"
+      ],
+      "complementaryCompetencies": [
+        "Gestión de presupuestos millonarios de crecimiento",
+        "Experiencia en unicornios",
+        "Liderazgo en crecimiento liderado por producto"
+      ],
+      "indicators": [
+        "Reporta a director de producto o director general",
+        "Gestiona organización de crecimiento (30+ personas)",
+        "Define estrategia de crecimiento"
+      ]
+    },
+    "GPM-L8": {
+      "level": "L8 - Vicepresidente de Crecimiento",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de crecimiento",
+        "Liderazgo en revolución de crecimiento liderado por producto",
+        "Creación de ventaja viral",
+        "Gestión de ecosistemas de crecimiento",
+        "Innovación en bucles de crecimiento",
+        "Definición de crecimiento compuesto",
+        "Evangelización de liderado por producto",
+        "Influencia en estrategia de mercado"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia en empresas de hipercrecimiento",
+        "Asesoría en crecimiento",
+        "Liderazgo de pensamiento"
+      ],
+      "indicators": [
+        "Es parte del comité ejecutivo",
+        "Define estrategia de crecimiento",
+        "Es líder reconocido"
+      ]
+    },
+    "GPM-L9": {
+      "level": "L9 - Director de Crecimiento",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo visionario en crecimiento",
+        "Transformación de adquisición",
+        "Creación de paradigmas de crecimiento liderado por producto",
+        "Definición de organizaciones nativas de crecimiento",
+        "Innovación en mecánicas virales",
+        "Evangelización de crecimiento compuesto",
+        "Arquitecto de ecosistemas de crecimiento",
+        "Influencia en estrategia de crecimiento"
+      ],
+      "complementaryCompetencies": [
+        "Experiencia transformando crecimiento",
+        "Reconocimiento como pionero de crecimiento",
+        "Influencia en crecimiento liderado por producto"
+      ],
+      "indicators": [
+        "Es director de crecimiento",
+        "Define futuro del crecimiento",
+        "Es autoridad mundial"
+      ]
+    }
+  }
+}

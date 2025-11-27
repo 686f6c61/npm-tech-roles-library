@@ -1,0 +1,200 @@
+{
+  "MLOA-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of MLOps principles",
+      "Elementary understanding of ML pipelines",
+      "Ability for basic model versioning",
+      "Basic knowledge of ML containerization",
+      "Capacity for simple deployment",
+      "Elementary understanding of monitoring",
+      "Documentation of ML workflows",
+      "Elementary knowledge of reproducibility"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with basic MLflow",
+      "Knowledge of Git for ML",
+      "Elementary understanding of Docker for ML"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Implements simple ML pipelines",
+      "Is learning MLOps architecture"
+    ]
+  },
+  "MLOA-L2": {
+    "coreCompetencies": [
+      "Ability to design end-to-end pipelines",
+      "Implementation of CI/CD for ML",
+      "Practical knowledge of orchestration",
+      "Ability for feature stores",
+      "Understanding of model registry",
+      "Capacity for ML A/B testing",
+      "Knowledge of drift detection",
+      "Ability for automated retraining"
+    ],
+    "complementaryCompetencies": [
+      "Development of model serving APIs",
+      "Knowledge of Kubernetes for ML",
+      "Understanding of data versioning"
+    ],
+    "indicators": [
+      "Designs MLOps pipelines under supervision",
+      "Implements ML automation",
+      "Maintains ML infrastructure"
+    ]
+  },
+  "MLOA-L3": {
+    "coreCompetencies": [
+      "Design of enterprise MLOps architectures",
+      "Implementation of ML platforms",
+      "Mastery of distributed training infrastructure",
+      "Capacity for multi-cloud MLOps",
+      "Ability for governance frameworks",
+      "Deep knowledge of observability",
+      "Implementation of edge ML deployment",
+      "Design of experimentation platforms"
+    ],
+    "complementaryCompetencies": [
+      "Knowledge of federated learning ops",
+      "Ability for ML cost optimization",
+      "Understanding of compliance MLOps"
+    ],
+    "indicators": [
+      "Leads MLOps initiatives",
+      "Designs scalable ML platforms",
+      "Mentors MLOps engineers"
+    ]
+  },
+  "MLOA-L4": {
+    "coreCompetencies": [
+      "Architecture of MLOps ecosystems",
+      "Design of global ML infrastructure",
+      "Implementation of AutoML platforms",
+      "Mastery of ML reliability engineering",
+      "Capacity for ML platform engineering",
+      "Deep knowledge of ML economics",
+      "Ability for MLOps standards",
+      "Leadership in MLOps innovation"
+    ],
+    "complementaryCompetencies": [
+      "Experience in real-time ML systems",
+      "Knowledge of quantum ML ops",
+      "Implementation of green ML"
+    ],
+    "indicators": [
+      "Defines enterprise MLOps strategy",
+      "Leads ML platform teams",
+      "Is reference in ML infrastructure"
+    ]
+  },
+  "MLOA-L5": {
+    "coreCompetencies": [
+      "Technical leadership in MLOps",
+      "Design of MLOps transformation programs",
+      "Management of ML platform teams",
+      "Definition of ML infrastructure strategy",
+      "Capacity for MLOps center of excellence",
+      "Implementation of self-service ML",
+      "Mastery of ML democratization",
+      "Evangelization of MLOps culture"
+    ],
+    "complementaryCompetencies": [
+      "Experience in MLOps consulting",
+      "Knowledge of industry MLOps standards",
+      "Management of MLOps vendors"
+    ],
+    "indicators": [
+      "Manages MLOps organization",
+      "Defines enterprise ML platform vision",
+      "Represents MLOps to executives"
+    ]
+  },
+  "MLOA-L6": {
+    "coreCompetencies": [
+      "Direction of organizational MLOps",
+      "Strategy of global ML infrastructure",
+      "Management of ML platform investments",
+      "Definition of AI operations strategy",
+      "Leadership in MLOps transformation",
+      "Implementation of autonomous ML ops",
+      "Innovation in MLOps paradigms",
+      "Management of global ML infrastructure"
+    ],
+    "complementaryCompetencies": [
+      "Experience in MLOps for critical products",
+      "Knowledge of regulatory MLOps",
+      "Leadership in MLOps communities"
+    ],
+    "indicators": [
+      "Directs MLOps department (20+ people)",
+      "Participates in AI strategy",
+      "Defines ML infrastructure investments"
+    ]
+  },
+  "MLOA-L7": {
+    "coreCompetencies": [
+      "Executive leadership in ML operations",
+      "Design of global MLOps strategies",
+      "Enterprise transformation via MLOps",
+      "Management of MLOps at Fortune 500 scale",
+      "Creation of new operational paradigms",
+      "Definition of future of ML infrastructure",
+      "Evangelization of MLOps at board level",
+      "Influence on ML industry"
+    ],
+    "complementaryCompetencies": [
+      "Management of hyperscale MLOps",
+      "Experience in MLOps unicorns",
+      "Leadership in MLOps standards bodies"
+    ],
+    "indicators": [
+      "Reports to CTO/CDO",
+      "Manages MLOps organization (50+ people)",
+      "Defines corporate ML operations strategy"
+    ]
+  },
+  "MLOA-L8": {
+    "coreCompetencies": [
+      "Strategic vision of autonomous ML operations",
+      "Leadership in MLOps revolution",
+      "Creation of self-managing ML paradigms",
+      "Management of planetary-scale MLOps",
+      "Disruptive innovation in ML automation",
+      "Definition of sentient MLOps",
+      "Evangelization of ML singularity ops",
+      "Influence on future of AI operations"
+    ],
+    "complementaryCompetencies": [
+      "Experience as VP MLOps in tech giants",
+      "Advisory in MLOps platforms",
+      "Thought leadership in ML infrastructure"
+    ],
+    "indicators": [
+      "Is part of AI leadership",
+      "Defines future of MLOps",
+      "Is world leader in ML operations"
+    ]
+  },
+  "MLOA-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in future of ML operations",
+      "Transformation of AI via perfect ops",
+      "Creation of eternal ML systems paradigms",
+      "Definition of conscious ML infrastructure",
+      "Innovation in biological MLOps",
+      "Evangelization of ML omnipresence",
+      "Architect of ML reality",
+      "Influence on evolution of operational intelligence"
+    ],
+    "complementaryCompetencies": [
+      "Creation of MLOps revolutions",
+      "Recognition as father of modern MLOps",
+      "Influence on future of AI operations"
+    ],
+    "indicators": [
+      "Is legendary Chief MLOps Officer",
+      "Defines future of ML operations",
+      "Is world authority in MLOps"
+    ]
+  }
+}

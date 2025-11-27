@@ -1,0 +1,258 @@
+{
+  "role": "Test Automation Engineer",
+  "category": "Software Engineering",
+  "levels": {
+    "TAE-L1": {
+      "level": "L1 - Test Auto Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic knowledge of manual testing",
+        "Understanding of testing lifecycle",
+        "Ability to write simple test cases",
+        "Elementary knowledge of automation tools",
+        "Capacity to execute existing test suites",
+        "Basic understanding of test debugging",
+        "Basic defect documentation",
+        "Fundamental knowledge of testing types"
+      ],
+      "complementaryCompetencies": [
+        "Familiarity with version control",
+        "Basic knowledge of CI/CD",
+        "Elementary understanding of REST APIs"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Executes predefined test plans",
+        "Is learning automation fundamentals"
+      ]
+    },
+    "TAE-L2": {
+      "level": "L2 - Junior Test Auto",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacity to create basic automation scripts",
+        "Implementation of test cases for simple functionality",
+        "Practical knowledge of testing frameworks",
+        "Ability to maintain existing test suites",
+        "Understanding of data-driven testing",
+        "Capacity to integrate tests into CI/CD pipelines",
+        "Knowledge of page object models",
+        "Ability for basic API testing"
+      ],
+      "complementaryCompetencies": [
+        "Responsive web interface testing",
+        "Knowledge of database testing",
+        "Understanding of basic performance testing"
+      ],
+      "indicators": [
+        "Automates test cases with supervision",
+        "Maintains existing testing suites",
+        "Identifies and reports bugs effectively"
+      ]
+    },
+    "TAE-L3": {
+      "level": "L3 - Test Auto Engineer",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Design of robust automation frameworks",
+        "Implementation of complex end-to-end testing",
+        "Capacity to create custom test harnesses",
+        "Mastery of BDD and TDD methodologies",
+        "Ability for microservices testing",
+        "Deep knowledge of mocking and stubbing",
+        "Capacity for advanced performance testing",
+        "Implementation of visual regression testing"
+      ],
+      "complementaryCompetencies": [
+        "Native mobile application testing",
+        "Knowledge of security testing",
+        "Ability for chaos testing"
+      ],
+      "indicators": [
+        "Designs complete automation strategies",
+        "Leads quality initiatives",
+        "Mentors junior testers"
+      ]
+    },
+    "TAE-L4": {
+      "level": "L4 - Senior Test Auto",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Architecture of enterprise testing platforms",
+        "Design of multi-layer testing strategies",
+        "Implementation of continuous testing",
+        "Capacity for testing in distributed architectures",
+        "Mastery of contract testing",
+        "Ability for synthetic monitoring",
+        "Deep knowledge of test optimization",
+        "Leadership in shift-left testing"
+      ],
+      "complementaryCompetencies": [
+        "Implementation of AI in testing",
+        "Advanced accessibility testing knowledge",
+        "Compliance testing experience"
+      ],
+      "indicators": [
+        "Defines organizational testing strategies",
+        "Leads automation teams",
+        "Is quality evangelist"
+      ]
+    },
+    "TAE-L5": {
+      "level": "L5 - Lead Test Auto",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Technical leadership in quality engineering",
+        "Design of quality strategies at scale",
+        "Automation team management",
+        "Definition of quality metrics and KPIs",
+        "Implementation of enterprise quality gates",
+        "Capacity for test strategy in digital transformations",
+        "Mastery of risk-based testing",
+        "Evangelization of quality culture"
+      ],
+      "complementaryCompetencies": [
+        "Experience in IoT and edge computing testing",
+        "Knowledge of testing for ML/AI systems",
+        "Outsourced testing management"
+      ],
+      "indicators": [
+        "Manages multiple QA teams",
+        "Defines enterprise quality roadmap",
+        "Represents quality to executives"
+      ]
+    },
+    "TAE-L6": {
+      "level": "L6 - Principal Test Auto",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Organization-level quality direction",
+        "Testing strategy for complex products",
+        "Significant quality budget management",
+        "Corporate quality policy definition",
+        "Leadership in QA to QE transformation",
+        "Implementation of predictive quality models",
+        "Vendor relationship management for testing",
+        "Innovation in quality methodologies"
+      ],
+      "complementaryCompetencies": [
+        "Testing in regulated contexts (FDA, ISO)",
+        "Experience in quality audits",
+        "Knowledge of testing maturity models"
+      ],
+      "indicators": [
+        "Directs quality department (20+ people)",
+        "Participates in strategic product decisions",
+        "Defines tool and technology investments"
+      ]
+    },
+    "TAE-L7": {
+      "level": "L7 - Director Test Auto",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Executive leadership in software quality",
+        "Design of global quality strategies",
+        "Organizational transformation toward continuous quality",
+        "Quality management in multi-product contexts",
+        "Industry standards definition",
+        "Quality alignment with business objectives",
+        "Creation of testing excellence centers",
+        "Influence in product roadmap from quality"
+      ],
+      "complementaryCompetencies": [
+        "Quality management in tech M&A",
+        "Experience in quality due diligence",
+        "Leadership in testing communities"
+      ],
+      "indicators": [
+        "Reports to VP Engineering/CTO",
+        "Manages quality organizations (50+ people)",
+        "Defines enterprise quality vision"
+      ]
+    },
+    "TAE-L8": {
+      "level": "L8 - VP Quality",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of quality as differentiator",
+        "Leadership in quality for Fortune 500 companies",
+        "Disruptive innovation in testing methodologies",
+        "Global-scale quality management",
+        "Creation of marketable testing products",
+        "Definition of future of quality engineering",
+        "Executive evangelization of quality",
+        "Influence on international standards"
+      ],
+      "complementaryCompetencies": [
+        "Participation in standards committees (ISO, IEEE)",
+        "Experience as advisor in testing startups",
+        "Publication of quality research"
+      ],
+      "indicators": [
+        "Part of executive committee",
+        "Defines corporate quality strategy",
+        "Recognized thought leader in testing"
+      ]
+    },
+    "TAE-L9": {
+      "level": "L9 - CTO Quality",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Visionary leadership in software quality",
+        "Definition of future of testing and QA",
+        "Transformation of quality into competitive advantage",
+        "Creation of quality ecosystems",
+        "Revolutionary innovation in quality engineering",
+        "Global influence on testing practices",
+        "Board-level quality evangelization",
+        "Redefinition of quality paradigms"
+      ],
+      "complementaryCompetencies": [
+        "Experience as CQO/CTO in multiple companies",
+        "World recognition in quality engineering",
+        "Participation in tech company boards"
+      ],
+      "indicators": [
+        "Is Chief Quality Officer or equivalent",
+        "Defines organizational quality philosophy",
+        "Is global authority in testing and quality"
+      ]
+    }
+  }
+}

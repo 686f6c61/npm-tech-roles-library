@@ -1,0 +1,200 @@
+{
+  "GD-L1": {
+    "coreCompetencies": [
+      "Basic knowledge of game loops and mechanics",
+      "Elementary understanding of game physics",
+      "Ability for simple gameplay scripting",
+      "Basic knowledge of 2D/3D graphics",
+      "Capacity to use basic game engines",
+      "Understanding of input handling",
+      "Elementary knowledge of game states",
+      "Ability for basic game debugging"
+    ],
+    "complementaryCompetencies": [
+      "Familiarity with assets and sprites",
+      "Basic knowledge of level design",
+      "Elementary understanding of game AI"
+    ],
+    "indicators": [
+      "Requires constant supervision",
+      "Implements simple mechanics with guidance",
+      "Learning game development"
+    ]
+  },
+  "GD-L2": {
+    "coreCompetencies": [
+      "Ability to implement complete gameplay systems",
+      "Character controller development",
+      "Practical knowledge of collision detection",
+      "Skills for game UI/UX",
+      "Implementation of save/load systems",
+      "Understanding of pathfinding algorithms",
+      "Capacity for audio integration",
+      "Knowledge of particle systems"
+    ],
+    "complementaryCompetencies": [
+      "Basic mobile development",
+      "Knowledge of simple shader programming",
+      "Ability for local multiplayer"
+    ],
+    "indicators": [
+      "Develops game features with supervision",
+      "Implements standard mechanics",
+      "Basic performance optimization"
+    ]
+  },
+  "GD-L3": {
+    "coreCompetencies": [
+      "Design of complex game architectures",
+      "Implementation of advanced AI behaviors",
+      "Mastery of graphics programming",
+      "Capacity for multiplayer networking",
+      "Ability for procedural generation",
+      "Deep knowledge of optimization techniques",
+      "Implementation of monetization systems",
+      "Design of custom tools and editors"
+    ],
+    "complementaryCompetencies": [
+      "VR/AR game development",
+      "Knowledge of game backend services",
+      "Ability for cross-platform development"
+    ],
+    "indicators": [
+      "Designs complete game systems",
+      "Leads complex feature development",
+      "Mentors in best practices"
+    ]
+  },
+  "GD-L4": {
+    "coreCompetencies": [
+      "Architecture of proprietary game engines",
+      "Design of MMO infrastructure",
+      "Implementation of advanced rendering techniques",
+      "Mastery of real-time optimization",
+      "Capacity for technical leadership",
+      "Deep knowledge of platform-specific optimization",
+      "Ability for live-ops architecture",
+      "Leadership in technical game design"
+    ],
+    "complementaryCompetencies": [
+      "Console development experience",
+      "Knowledge of cloud gaming",
+      "Implementation of anti-cheat systems"
+    ],
+    "indicators": [
+      "Defines technical architecture for AAA projects",
+      "Leads game technical teams",
+      "Reference for game technology"
+    ]
+  },
+  "GD-L5": {
+    "coreCompetencies": [
+      "Technical leadership in game production",
+      "Design of complete development pipelines",
+      "Management of multidisciplinary teams",
+      "Definition of technical roadmaps",
+      "Capacity for R&D in new technologies",
+      "Implementation of agile methodologies for games",
+      "Mastery of post-launch strategies",
+      "Evangelization of technical innovation"
+    ],
+    "complementaryCompetencies": [
+      "Game porting experience",
+      "Knowledge of blockchain gaming",
+      "Management of external development"
+    ],
+    "indicators": [
+      "Manages multiple development teams",
+      "Defines technical vision for the studio",
+      "Represents technology to publishers"
+    ]
+  },
+  "GD-L6": {
+    "coreCompetencies": [
+      "Technical direction of game studios",
+      "Multi-project technology strategy",
+      "Management of large technical budgets",
+      "Definition of studio tech stack",
+      "Leadership in next-gen development",
+      "Management of technology partnerships",
+      "Innovation in game development processes",
+      "Definition of quality standards"
+    ],
+    "complementaryCompetencies": [
+      "Game franchise experience",
+      "Knowledge of esports infrastructure",
+      "Leadership in game industry initiatives"
+    ],
+    "indicators": [
+      "Directs technical department (20+ people)",
+      "Participates in strategic studio decisions",
+      "Defines technology for multiple titles"
+    ]
+  },
+  "GD-L7": {
+    "coreCompetencies": [
+      "Executive leadership in game technology",
+      "Design of multi-studio technology strategies",
+      "Transformation of production processes",
+      "Management of innovation at industry scale",
+      "Creation of proprietary technology",
+      "Definition of future game development",
+      "Evangelization to investors and boards",
+      "Influence on industry direction"
+    ],
+    "complementaryCompetencies": [
+      "Management of game technology licensing",
+      "Metaverse development experience",
+      "Leadership in technology consortiums"
+    ],
+    "indicators": [
+      "Reports to CEO/Board",
+      "Manages technical organizations (50+ people)",
+      "Defines corporate technology strategy"
+    ]
+  },
+  "GD-L8": {
+    "coreCompetencies": [
+      "Strategic vision for the future of gaming",
+      "Leadership in digital entertainment transformation",
+      "Creation of new game paradigms",
+      "Management of massive technology portfolios",
+      "Disruptive innovation in interactive experiences",
+      "Definition of industry standards",
+      "Evangelization of new platforms",
+      "Influence on global gaming policies"
+    ],
+    "complementaryCompetencies": [
+      "Experience as CTO in AAA publishers",
+      "Advisory across multiple game studios",
+      "Creation of commercial game engines"
+    ],
+    "indicators": [
+      "Part of executive committee",
+      "Defines technology strategy for publisher",
+      "Thought leader in game technology"
+    ]
+  },
+  "GD-L9": {
+    "coreCompetencies": [
+      "Visionary leadership in the future of interactive entertainment",
+      "Transformation of how humanity plays",
+      "Creation of new mediums of expression",
+      "Definition of massive virtual realities",
+      "Innovation in human-game symbiosis",
+      "Evangelization of gaming as culture",
+      "Architect of metaverses and virtual worlds",
+      "Influence on digital leisure evolution"
+    ],
+    "complementaryCompetencies": [
+      "Creator of revolutionary game genres",
+      "Recognition as gaming industry legend",
+      "Influence on generations of developers"
+    ],
+    "indicators": [
+      "Legendary CTO/Creative Director",
+      "Defines the future of digital entertainment",
+      "Icon of the gaming industry"
+    ]
+  }
+}

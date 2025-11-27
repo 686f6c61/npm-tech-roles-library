@@ -1,0 +1,208 @@
+{
+  "MOB-L1": {
+    "coreCompetencies": [
+      "Comprensión básica de desarrollo móvil nativo vs híbrido vs web",
+      "Conocimiento elemental de ciclo de vida de aplicaciones móviles",
+      "Habilidad para crear interfaces simples con componentes estándar",
+      "Comprensión básica de layouts y navegación en aplicaciones móviles",
+      "Capacidad de trabajar con emuladores y dispositivos físicos",
+      "Conocimiento elemental de gestión de permisos básicos",
+      "Comprensión básica de almacenamiento local en dispositivos",
+      "Habilidad para implementar funcionalidad offline básica"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de guidelines de diseño móvil",
+      "Familiaridad con app stores y proceso de publicación",
+      "Comprensión elemental de responsive design móvil"
+    ],
+    "indicators": [
+      "Requiere supervisión constante en desarrollo móvil",
+      "Puede completar pantallas simples con guía detallada",
+      "Necesita 3-6 meses de mentoría en desarrollo móvil"
+    ]
+  },
+  "MOB-L2": {
+    "coreCompetencies": [
+      "Capacidad de implementar navegación compleja entre pantallas",
+      "Habilidad para integrar APIs REST en aplicaciones móviles",
+      "Conocimiento práctico de manejo de estado en aplicaciones",
+      "Comprensión de ciclo de vida de componentes y memoria",
+      "Capacidad de implementar notificaciones push básicas",
+      "Habilidad para manejar diferentes tamaños de pantalla y orientaciones",
+      "Conocimiento de persistencia de datos y bases de datos móviles",
+      "Comprensión de threading básico y operaciones asíncronas",
+      "Capacidad de implementar autenticación y manejo de tokens"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento básico de animaciones y transiciones",
+      "Habilidad para usar librerías de terceros comunes",
+      "Comprensión de analytics móvil básico"
+    ],
+    "indicators": [
+      "Puede desarrollar features simples con supervisión moderada",
+      "Resuelve bugs comunes de UI y navegación",
+      "Necesita revisión frecuente de código y arquitectura"
+    ]
+  },
+  "MOB-L3": {
+    "coreCompetencies": [
+      "Dominio de patrones de arquitectura móvil (MVC, MVP, MVVM)",
+      "Capacidad de implementar sincronización offline/online robusta",
+      "Habilidad para optimizar rendimiento y consumo de batería",
+      "Conocimiento profundo de gestión de memoria y prevención de leaks",
+      "Capacidad de implementar features nativas (cámara, GPS, sensores)",
+      "Comprensión sólida de seguridad móvil y encriptación local",
+      "Habilidad para implementar deep linking y app indexing",
+      "Conocimiento de testing unitario y de integración en móvil",
+      "Capacidad de manejar actualizaciones de app y migración de datos"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de desarrollo cross-platform",
+      "Habilidad para implementar AR básico",
+      "Comprensión de monetización móvil"
+    ],
+    "indicators": [
+      "Completa features medianas con mínima supervisión",
+      "Puede debuggear problemas complejos de rendimiento",
+      "Contribuye a decisiones de arquitectura móvil"
+    ]
+  },
+  "MOB-L4": {
+    "coreCompetencies": [
+      "Capacidad de diseñar arquitecturas móviles escalables y mantenibles",
+      "Dominio de optimización avanzada (startup time, frame rate, memory)",
+      "Habilidad para implementar sistemas de caché multinivel",
+      "Conocimiento profundo de accesibilidad y localización",
+      "Capacidad de implementar features complejas de hardware",
+      "Dominio de continuous delivery para aplicaciones móviles",
+      "Habilidad para diseñar SDKs y librerías reutilizables",
+      "Conocimiento de modularización y feature flags",
+      "Capacidad de implementar A/B testing y experimentación"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de desarrollo de widgets y extensions",
+      "Habilidad para trabajar con wearables y IoT",
+      "Comprensión de machine learning en dispositivo"
+    ],
+    "indicators": [
+      "Lidera desarrollo de features complejas",
+      "Define arquitectura para componentes principales",
+      "Mentora a developers junior en mejores prácticas"
+    ]
+  },
+  "MOB-L5": {
+    "coreCompetencies": [
+      "Expertise en arquitecturas multi-módulo y micro-frontends móviles",
+      "Capacidad de diseñar sistemas de sincronización distribuida",
+      "Dominio de optimización para mercados emergentes (lite apps)",
+      "Habilidad para implementar DRM y protección de contenido",
+      "Conocimiento profundo de CI/CD y automatización de releases",
+      "Capacidad de implementar frameworks de testing E2E",
+      "Expertise en crash reporting y diagnóstico remoto",
+      "Dominio de estrategias de rollout y feature toggling",
+      "Capacidad de diseñar sistemas de plugins y extensibilidad"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de desarrollo de juegos móviles",
+      "Habilidad para trabajar con realidad aumentada avanzada",
+      "Comprensión de blockchain en móvil"
+    ],
+    "indicators": [
+      "Diseña soluciones técnicas para productos completos",
+      "Lidera adopción de nuevas tecnologías móviles",
+      "Define estándares de calidad y procesos"
+    ]
+  },
+  "MOB-L6": {
+    "coreCompetencies": [
+      "Capacidad de arquitectar ecosistemas de apps empresariales",
+      "Expertise en estrategias de monetización y growth hacking técnico",
+      "Dominio de optimización de ASO técnico y metadata",
+      "Habilidad para diseñar arquitecturas offline-first complejas",
+      "Conocimiento profundo de compliance móvil (COPPA, GDPR)",
+      "Capacidad de implementar SDKs empresariales y white-label",
+      "Expertise en super apps y mini-programs",
+      "Dominio de estrategias de migración entre plataformas",
+      "Capacidad de implementar seguridad de nivel bancario"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de desarrollo para automotive",
+      "Habilidad para diseñar experiencias de realidad mixta",
+      "Comprensión de 5G y edge computing móvil"
+    ],
+    "indicators": [
+      "Arquitecta portfolios de aplicaciones móviles",
+      "Lidera equipos móviles multidisciplinarios",
+      "Define estrategia móvil a largo plazo"
+    ]
+  },
+  "MOB-L7": {
+    "coreCompetencies": [
+      "Liderazgo en transformación móvil empresarial",
+      "Capacidad de diseñar plataformas móviles B2B2C",
+      "Expertise en ecosistemas de apps y marketplaces móviles",
+      "Dominio de arquitecturas para millones de usuarios concurrentes",
+      "Capacidad de diseñar frameworks propietarios de desarrollo",
+      "Conocimiento profundo de optimización de costos de infraestructura móvil",
+      "Expertise en estrategias de internacionalización técnica",
+      "Capacidad de implementar plataformas de desarrollo low-code móvil",
+      "Dominio de innovación en interfaces (voz, gestos, AR)"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influir en estándares de industria",
+      "Habilidad para patentar innovaciones móviles",
+      "Conocimiento de hardware personalizado"
+    ],
+    "indicators": [
+      "Define arquitectura móvil para múltiples productos",
+      "Lidera comunidades de desarrollo móvil",
+      "Reconocido como experto en la industria"
+    ]
+  },
+  "MOB-L8": {
+    "coreCompetencies": [
+      "Visión estratégica para el futuro del desarrollo móvil",
+      "Capacidad de diseñar arquitecturas para empresas globales",
+      "Expertise en due diligence de tecnología móvil",
+      "Dominio de platform engineering para equipos móviles",
+      "Capacidad de definir governance y mejores prácticas corporativas",
+      "Conocimiento profundo de partnerships técnicos con OS vendors",
+      "Expertise en building plataformas de desarrollo internas",
+      "Capacidad de liderar open source projects móviles",
+      "Dominio de estrategias de adquisición y retención técnica"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de representar en conferencias globales",
+      "Habilidad para crear startups móviles",
+      "Conocimiento de inversión en tecnología móvil"
+    ],
+    "indicators": [
+      "Define estrategia móvil multi-año",
+      "Influye en dirección de plataformas móviles",
+      "Considerado thought leader en móvil"
+    ]
+  },
+  "MOB-L9": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en estrategia móvil corporativa",
+      "Capacidad de alinear iniciativas móviles con objetivos de negocio",
+      "Expertise en M&A de compañías móviles",
+      "Dominio de gestión de portfolios de productos móviles",
+      "Capacidad de construir organizaciones de desarrollo móvil",
+      "Conocimiento profundo de relaciones con Apple/Google",
+      "Expertise en estrategias de plataforma vs producto",
+      "Capacidad de definir cultura de innovación móvil",
+      "Dominio de venture building en ecosistema móvil"
+    ],
+    "complementaryCompetencies": [
+      "Capacidad de influenciar políticas de app stores",
+      "Habilidad para crear ecosistemas móviles",
+      "Conocimiento de inversión en startups móviles"
+    ],
+    "indicators": [
+      "Define y ejecuta visión móvil empresarial",
+      "Responsable de P&L de productos móviles",
+      "Líder reconocido en industria móvil global"
+    ]
+  }
+}

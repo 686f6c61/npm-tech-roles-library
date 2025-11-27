@@ -1,0 +1,259 @@
+{
+  "role": "Data Visualization Specialist",
+  "category": "Data",
+  "levels": {
+    "DVS-L1": {
+      "level": "L1 - Data Viz Trainee",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Basic understanding of visualization principles",
+        "Elementary knowledge of viz tools",
+        "Ability to create basic charts",
+        "Basic understanding of color theory",
+        "Ability to use templates",
+        "Elementary knowledge of visual storytelling",
+        "Basic understanding of dashboards",
+        "Ability to document visualizations"
+      ],
+      "complementaryCompetencies": [
+        "Basic design knowledge",
+        "Familiarity with data",
+        "Elementary understanding of UX"
+      ],
+      "indicators": [
+        "Requires constant supervision",
+        "Can create simple visualizations",
+        "Needs 6-12 months of mentoring"
+      ]
+    },
+    "DVS-L2": {
+      "level": "L2 - Junior Data Viz",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Ability to create interactive dashboards",
+        "Ability to choose appropriate charts",
+        "Practical knowledge of professional tools",
+        "Understanding of best practices",
+        "Ability for data preparation for viz",
+        "Ability for responsive design",
+        "Knowledge of accessibility",
+        "Understanding of performance optimization"
+      ],
+      "complementaryCompetencies": [
+        "Basic D3.js knowledge",
+        "Ability for infographics",
+        "Understanding of motion graphics"
+      ],
+      "indicators": [
+        "Creates visualizations with supervision",
+        "Maintains corporate dashboards",
+        "Applies best practices"
+      ]
+    },
+    "DVS-L3": {
+      "level": "L3 - Data Viz Specialist",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Mastery of multiple viz tools",
+        "Ability for complex visualizations",
+        "Ability for custom visualizations",
+        "Deep knowledge of visual perception",
+        "Ability for real-time visualizations",
+        "Solid understanding of data art",
+        "Ability for geospatial viz",
+        "Knowledge of AR/VR viz"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of creative coding",
+        "Ability for data journalism",
+        "Understanding of scientific viz"
+      ],
+      "indicators": [
+        "Designs visualization systems",
+        "Leads viz projects",
+        "Innovates in visual representation"
+      ]
+    },
+    "DVS-L4": {
+      "level": "L4 - Senior Data Viz",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Ability to define viz strategy",
+        "Mastery of enterprise visualization",
+        "Ability for viz platforms",
+        "Deep knowledge of cognitive load",
+        "Ability to lead viz teams",
+        "Mastery of viz governance",
+        "Ability for viz consulting",
+        "Knowledge of viz economics"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of AI-powered viz",
+        "Ability for immersive viz",
+        "Understanding of haptic viz"
+      ],
+      "indicators": [
+        "Defines visualization standards",
+        "Leads visual transformation",
+        "Mentors specialists"
+      ]
+    },
+    "DVS-L5": {
+      "level": "L5 - Lead Data Viz",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Expertise in enterprise viz platforms",
+        "Ability for visual democratization",
+        "Mastery of self-service viz",
+        "Ability for viz innovation labs",
+        "Deep knowledge of human-data interaction",
+        "Ability to define visual culture",
+        "Expertise in viz partnerships",
+        "Mastery of viz research"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of brain-computer viz",
+        "Ability for holographic viz",
+        "Understanding of quantum viz"
+      ],
+      "indicators": [
+        "Architects viz ecosystems",
+        "Leads viz organizations",
+        "Defines visual roadmap"
+      ]
+    },
+    "DVS-L6": {
+      "level": "L6 - Principal Viz Architect",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Ability to define viz vision",
+        "Expertise in viz innovation",
+        "Mastery of global viz strategy",
+        "Ability for viz ecosystem building",
+        "Deep knowledge of viz futures",
+        "Ability for thought leadership",
+        "Expertise in viz value creation",
+        "Mastery of viz impact"
+      ],
+      "complementaryCompetencies": [
+        "Knowledge of neural viz",
+        "Ability for telepathic viz",
+        "Understanding of dimensional viz"
+      ],
+      "indicators": [
+        "Defines corporate viz vision",
+        "Leads global visual transformation",
+        "Influences viz industry"
+      ]
+    },
+    "DVS-L7": {
+      "level": "L7 - Director Visualization",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Leadership in viz evolution",
+        "Ability for global viz management",
+        "Expertise in viz transformation",
+        "Mastery of viz governance",
+        "Ability to define data-visual culture",
+        "Deep knowledge of competitive viz",
+        "Expertise in strategic visualization",
+        "Ability to lead innovation"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence perception",
+        "Ability for viz ventures",
+        "Knowledge of viz investments"
+      ],
+      "indicators": [
+        "Defines executive viz strategy",
+        "Represents company in viz",
+        "Thought leader in visualization"
+      ]
+    },
+    "DVS-L8": {
+      "level": "L8 - VP Visualization",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Strategic vision of enterprise viz",
+        "Ability for viz as differentiator",
+        "Expertise in transformation through viz",
+        "Mastery of executive management",
+        "Ability to build organizations",
+        "Deep knowledge of perception value",
+        "Expertise in viz alliances",
+        "Ability to define culture"
+      ],
+      "complementaryCompetencies": [
+        "Ability to influence industry",
+        "Ability for viz M&A",
+        "Knowledge of viz platforms"
+      ],
+      "indicators": [
+        "Responsible for all visualization",
+        "Defines corporate visual future",
+        "Recognized leader in viz"
+      ]
+    },
+    "DVS-L9": {
+      "level": "L9 - Chief Visualization Officer",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Executive leadership in visualization",
+        "Ability for viz as competitive advantage",
+        "Expertise in perceptual transformation",
+        "Mastery of visual governance",
+        "Ability to create new paradigms",
+        "Deep knowledge of human cognition",
+        "Expertise in reality augmentation",
+        "Ability to define perception",
+        "Mastery of consciousness interface"
+      ],
+      "complementaryCompetencies": [
+        "Ability to create new realities",
+        "Ability to transform perception",
+        "Knowledge of post-visual futures"
+      ],
+      "indicators": [
+        "Maximum responsible for visualization",
+        "Defines future of data perception",
+        "Global leader in data visualization"
+      ]
+    }
+  }
+}

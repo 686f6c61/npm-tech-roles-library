@@ -1,0 +1,259 @@
+{
+  "role": "Arquitecto de Datos",
+  "category": "Datos",
+  "levels": {
+    "DAR-L1": {
+      "level": "L1 - Aprendiz de Arquitecto de Datos",
+      "levelNumber": 1,
+      "yearsRange": {
+        "min": 0,
+        "max": 1
+      },
+      "coreCompetencies": [
+        "Comprensión básica de modelado de datos",
+        "Conocimiento elemental de arquitecturas de datos",
+        "Habilidad para diagramas básicos",
+        "Comprensión básica de integración",
+        "Capacidad de documentar modelos",
+        "Conocimiento elemental de gobernanza",
+        "Comprensión básica de metadatos",
+        "Habilidad para análisis de requisitos"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento básico de herramientas",
+        "Familiaridad con estándares",
+        "Comprensión elemental de procesos"
+      ],
+      "indicators": [
+        "Requiere supervisión constante",
+        "Puede asistir en diseño",
+        "Necesita 1-2 años de experiencia"
+      ]
+    },
+    "DAR-L2": {
+      "level": "L2 - Arquitecto de Datos Junior",
+      "levelNumber": 2,
+      "yearsRange": {
+        "min": 1,
+        "max": 2
+      },
+      "coreCompetencies": [
+        "Capacidad de diseñar modelos de datos",
+        "Habilidad para integración básica",
+        "Conocimiento práctico de gestión de datos maestros",
+        "Comprensión de calidad de datos",
+        "Capacidad de definir esquemas",
+        "Habilidad para linaje básico",
+        "Conocimiento de seguridad",
+        "Comprensión de cumplimiento"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas en la nube",
+        "Habilidad para interfaces de programación de aplicaciones",
+        "Comprensión de microservicios"
+      ],
+      "indicators": [
+        "Diseña con supervisión",
+        "Implementa modelos básicos",
+        "Mantiene documentación"
+      ]
+    },
+    "DAR-L3": {
+      "level": "L3 - Arquitecto de Datos",
+      "levelNumber": 3,
+      "yearsRange": {
+        "min": 2,
+        "max": 3
+      },
+      "coreCompetencies": [
+        "Dominio de arquitecturas empresariales",
+        "Capacidad de diseñar ecosistemas",
+        "Habilidad para modernización",
+        "Conocimiento profundo de patrones",
+        "Capacidad de marcos de gobernanza",
+        "Comprensión sólida de regulaciones",
+        "Habilidad para malla de datos",
+        "Conocimiento de economía"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas de inteligencia artificial y aprendizaje automático",
+        "Habilidad para tiempo real",
+        "Comprensión de Internet de las Cosas"
+      ],
+      "indicators": [
+        "Diseña arquitecturas complejas",
+        "Lidera proyectos de arquitectura",
+        "Define estándares"
+      ]
+    },
+    "DAR-L4": {
+      "level": "L4 - Arquitecto de Datos Senior",
+      "levelNumber": 4,
+      "yearsRange": {
+        "min": 3,
+        "max": 5
+      },
+      "coreCompetencies": [
+        "Capacidad de estrategia de arquitectura",
+        "Dominio de transformación",
+        "Habilidad para arquitecturas globales",
+        "Conocimiento profundo de tecnologías emergentes",
+        "Capacidad de liderar equipos",
+        "Dominio de innovación",
+        "Habilidad para alianzas",
+        "Conocimiento de creación de valor"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas cuánticas",
+        "Habilidad para cadena de bloques",
+        "Comprensión de borde"
+      ],
+      "indicators": [
+        "Define estrategia arquitectural",
+        "Lidera transformaciones",
+        "Tutoriza arquitectos"
+      ]
+    },
+    "DAR-L5": {
+      "level": "L5 - Líder de Arquitectura de Datos",
+      "levelNumber": 5,
+      "yearsRange": {
+        "min": 5,
+        "max": 7
+      },
+      "coreCompetencies": [
+        "Experiencia en arquitecturas globales",
+        "Capacidad de pensamiento de plataforma",
+        "Dominio de democratización",
+        "Habilidad para centros de excelencia",
+        "Conocimiento profundo de valor de negocio",
+        "Capacidad de definir cultura",
+        "Experiencia en alianzas",
+        "Dominio de liderazgo intelectual"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de arquitecturas futuras",
+        "Habilidad para disrupción",
+        "Comprensión de cambios de paradigma"
+      ],
+      "indicators": [
+        "Arquitecta plataformas empresariales",
+        "Lidera organizaciones",
+        "Define hoja de ruta arquitectural"
+      ]
+    },
+    "DAR-L6": {
+      "level": "L6 - Arquitecto de Datos Principal",
+      "levelNumber": 6,
+      "yearsRange": {
+        "min": 7,
+        "max": 10
+      },
+      "coreCompetencies": [
+        "Capacidad de definir visión arquitectural",
+        "Experiencia en innovación",
+        "Dominio de estrategia global",
+        "Habilidad para diseño de ecosistemas",
+        "Conocimiento profundo de tendencias",
+        "Capacidad de influencia industrial",
+        "Experiencia en cadenas de valor",
+        "Dominio de impacto"
+      ],
+      "complementaryCompetencies": [
+        "Conocimiento de escala civilizacional",
+        "Habilidad para arquitecturas cósmicas",
+        "Comprensión de realidad cuántica"
+      ],
+      "indicators": [
+        "Define visión corporativa",
+        "Lidera transformación global",
+        "Influencia industria"
+      ]
+    },
+    "DAR-L7": {
+      "level": "L7 - Director de Arquitectura",
+      "levelNumber": 7,
+      "yearsRange": {
+        "min": 10,
+        "max": 12
+      },
+      "coreCompetencies": [
+        "Liderazgo en evolución arquitectural",
+        "Capacidad de gestión global",
+        "Experiencia en transformación",
+        "Dominio de gobernanza",
+        "Capacidad de definir filosofía",
+        "Conocimiento profundo de ventaja competitiva",
+        "Experiencia en arquitectura estratégica",
+        "Capacidad de liderar revolución"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de crear estándares",
+        "Habilidad para proyectos de arquitectura",
+        "Conocimiento de inversiones"
+      ],
+      "indicators": [
+        "Define estrategia ejecutiva",
+        "Representa empresa",
+        "Líder intelectual global"
+      ]
+    },
+    "DAR-L8": {
+      "level": "L8 - Vicepresidente de Arquitectura de Datos",
+      "levelNumber": 8,
+      "yearsRange": {
+        "min": 12,
+        "max": 15
+      },
+      "coreCompetencies": [
+        "Visión estratégica de arquitectura",
+        "Capacidad de arquitectura como núcleo",
+        "Experiencia en transformación total",
+        "Dominio de gestión de alta dirección",
+        "Capacidad de construcción de imperio",
+        "Conocimiento profundo de valor arquitectural",
+        "Experiencia en alianzas globales",
+        "Capacidad de moldear industria"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de influenciar gobiernos",
+        "Habilidad para fusiones y adquisiciones arquitecturales",
+        "Conocimiento de dominio"
+      ],
+      "indicators": [
+        "Responsable de toda arquitectura de datos",
+        "Define futuro arquitectural",
+        "Líder reconocido"
+      ]
+    },
+    "DAR-L9": {
+      "level": "L9 - Director de Arquitectura",
+      "levelNumber": 9,
+      "yearsRange": {
+        "min": 15,
+        "max": null
+      },
+      "coreCompetencies": [
+        "Liderazgo ejecutivo en arquitectura",
+        "Capacidad de arquitectura como ventaja definitiva",
+        "Experiencia en transformación de industrias",
+        "Dominio de gobernanza arquitectural",
+        "Capacidad de crear nuevos paradigmas",
+        "Conocimiento profundo de impacto civilizacional",
+        "Experiencia en arquitectura de realidad",
+        "Capacidad de definir existencia digital",
+        "Dominio de trascendencia"
+      ],
+      "complementaryCompetencies": [
+        "Capacidad de arquitectar realidades",
+        "Habilidad para diseño dimensional",
+        "Conocimiento de arquitectura possingularidad"
+      ],
+      "indicators": [
+        "Máximo responsable arquitectural",
+        "Define futuro de arquitectura de datos",
+        "Líder global en arquitectura de datos"
+      ]
+    }
+  }
+}

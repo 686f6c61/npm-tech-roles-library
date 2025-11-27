@@ -1,0 +1,200 @@
+{
+  "PJM-L1": {
+    "coreCompetencies": [
+      "Conocimientos básicos de gestión de proyectos software",
+      "Comprensión elemental de PMBOK/Prince2",
+      "Habilidad para crear cronogramas simples",
+      "Conocimiento básico de gestión de recursos",
+      "Capacidad de tracking de tareas",
+      "Comprensión de risk management básico",
+      "Documentación de project charters",
+      "Conocimiento elemental de stakeholder management"
+    ],
+    "complementaryCompetencies": [
+      "Familiaridad con MS Project/Monday",
+      "Conocimiento básico de budgeting",
+      "Comprensión de communication plans"
+    ],
+    "indicators": [
+      "Requiere supervisión constante",
+      "Gestiona proyectos pequeños",
+      "Está aprendiendo project management"
+    ]
+  },
+  "PJM-L2": {
+    "coreCompetencies": [
+      "Capacidad de gestionar proyectos medianos",
+      "Implementación de project plans completos",
+      "Conocimiento práctico de resource allocation",
+      "Habilidad para risk mitigation",
+      "Comprensión de earned value management",
+      "Capacidad de vendor management",
+      "Conocimiento de quality assurance",
+      "Habilidad para status reporting"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de proyectos ágiles",
+      "Conocimiento de change management",
+      "Comprensión de procurement processes"
+    ],
+    "indicators": [
+      "Gestiona proyectos con supervisión",
+      "Coordina equipos pequeños",
+      "Mantiene documentación actualizada"
+    ]
+  },
+  "PJM-L3": {
+    "coreCompetencies": [
+      "Diseño de project management frameworks",
+      "Implementación de PMO standards",
+      "Dominio de portfolio management",
+      "Capacidad de complex stakeholder management",
+      "Habilidad para crisis management",
+      "Conocimiento profundo de governance",
+      "Implementación de continuous improvement",
+      "Gestión de proyectos críticos"
+    ],
+    "complementaryCompetencies": [
+      "Conocimiento de program management",
+      "Habilidad para benefits realization",
+      "Comprensión de strategic alignment"
+    ],
+    "indicators": [
+      "Lidera proyectos estratégicos",
+      "Define metodologías PM",
+      "Mentoriza project managers"
+    ]
+  },
+  "PJM-L4": {
+    "coreCompetencies": [
+      "Arquitectura de PMO empresarial",
+      "Diseño de portfolio optimization",
+      "Implementación de enterprise project management",
+      "Dominio de transformation programs",
+      "Capacidad de strategic planning",
+      "Conocimiento profundo de value delivery",
+      "Habilidad para organizational change",
+      "Liderazgo en methodology adoption"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en merger integration",
+      "Conocimiento de regulatory compliance",
+      "Gestión de global programs"
+    ],
+    "indicators": [
+      "Define estrategia de PMO",
+      "Lidera programas transformacionales",
+      "Influencia decisiones ejecutivas"
+    ]
+  },
+  "PJM-L5": {
+    "coreCompetencies": [
+      "Liderazgo de PMO organizacional",
+      "Diseño de delivery excellence frameworks",
+      "Gestión de portfolios empresariales",
+      "Definición de project governance",
+      "Capacidad de strategic execution",
+      "Implementación de innovation programs",
+      "Dominio de benefits management",
+      "Evangelización de project excellence"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en digital transformation",
+      "Conocimiento de agile-waterfall hybrid",
+      "Gestión de delivery partners"
+    ],
+    "indicators": [
+      "Gestiona PMO completo",
+      "Define framework de delivery",
+      "Representa PMO ante ejecutivos"
+    ]
+  },
+  "PJM-L6": {
+    "coreCompetencies": [
+      "Dirección de delivery organizacional",
+      "Estrategia de execution excellence",
+      "Gestión de transformation budgets",
+      "Definición de delivery operating models",
+      "Liderazgo en organizational capability",
+      "Implementación de portfolio optimization",
+      "Innovación en delivery methods",
+      "Gestión de strategic initiatives"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia en turnaround programs",
+      "Conocimiento de value management",
+      "Liderazgo en PM communities"
+    ],
+    "indicators": [
+      "Dirige departamento de delivery",
+      "Participa en strategic planning",
+      "Define inversiones en capabilities"
+    ]
+  },
+  "PJM-L7": {
+    "coreCompetencies": [
+      "Liderazgo ejecutivo en execution excellence",
+      "Diseño de estrategias de delivery globales",
+      "Transformación de execution capabilities",
+      "Gestión de portfolios billonarios",
+      "Creación de ventajas via execution",
+      "Definición de futuro de project management",
+      "Evangelización de excellence a nivel board",
+      "Influencia en industria PM"
+    ],
+    "complementaryCompetencies": [
+      "Gestión de mega-programs",
+      "Experiencia en infrastructure projects",
+      "Liderazgo en PM standards bodies"
+    ],
+    "indicators": [
+      "Reporta a COO/CEO",
+      "Gestiona delivery organization (50+ personas)",
+      "Define estrategia de ejecución"
+    ]
+  },
+  "PJM-L8": {
+    "coreCompetencies": [
+      "Visión estratégica de execution mastery",
+      "Liderazgo en revolución de delivery",
+      "Creación de nuevos paradigmas de ejecución",
+      "Gestión de transformación continental",
+      "Innovación disruptiva en program management",
+      "Definición de autonomous delivery",
+      "Evangelización de perfect execution",
+      "Influencia en economía de proyectos"
+    ],
+    "complementaryCompetencies": [
+      "Experiencia como COO en enterprises",
+      "Advisory en execution excellence",
+      "Thought leadership en delivery"
+    ],
+    "indicators": [
+      "Es parte del C-suite",
+      "Define estrategia de ejecución global",
+      "Es líder mundial en delivery"
+    ]
+  },
+  "PJM-L9": {
+    "coreCompetencies": [
+      "Liderazgo visionario en futuro de ejecución",
+      "Transformación de industrias mediante delivery excellence",
+      "Creación de paradigmas de ejecución perfecta",
+      "Definición de zero-friction delivery",
+      "Innovación en quantum project management",
+      "Evangelización de telepathic coordination",
+      "Arquitecto de ejecución sin límites",
+      "Influencia en evolución de trabajo"
+    ],
+    "complementaryCompetencies": [
+      "Creador de metodologías revolucionarias",
+      "Reconocimiento como maestro de ejecución",
+      "Influencia en educación PM global"
+    ],
+    "indicators": [
+      "Es Chief Delivery Officer legendario",
+      "Define futuro de ejecución",
+      "Es autoridad mundial en project management"
+    ]
+  }
+}
