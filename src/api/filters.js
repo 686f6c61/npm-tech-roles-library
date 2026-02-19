@@ -43,7 +43,7 @@ class FilterAPI {
           role: entry.role,
           category: entry.category,
           matchScore: score,
-          matchedIn: matchedIn
+          matchedIn
         });
       }
     });
@@ -74,7 +74,7 @@ class FilterAPI {
       if (matches.length > 0) {
         results.push({
           entry: this.cloneEntry(entry),
-          matches: matches,
+          matches,
           matchCount: matches.length
         });
       }

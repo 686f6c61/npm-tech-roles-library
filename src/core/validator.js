@@ -93,16 +93,17 @@ class Validator {
     if (typeof name !== 'string') {
       throw new InvalidQueryError('Role name must be a string');
     }
-    if (name.length === 0) {
+    const trimmed = name.trim();
+    if (trimmed.length === 0) {
       throw new InvalidQueryError('Role name cannot be empty');
     }
-    if (name.length > 100) {
+    if (trimmed.length > 100) {
       throw new InvalidQueryError('Role name too long');
     }
-    if (/[<>{}]/.test(name)) {
+    if (/[<>{}]/.test(trimmed)) {
       throw new InvalidQueryError('Invalid characters in role name');
     }
-    return name.trim();
+    return trimmed;
   }
 
   /**
@@ -114,13 +115,22 @@ class Validator {
    * @static
    */
   static validateLevel(level) {
-    if (typeof level !== 'string') {
-      throw new InvalidQueryError('Level must be a string');
+    if (typeof level === 'number') {
+      if (!Number.isInteger(level) || level < 1 || level > 9) {
+        throw new InvalidQueryError('Invalid level format. Expected L1-L9 or 1-9');
+      }
+      return String(level);
     }
-    if (!/^L[1-9]/.test(level) && !/^[1-9]$/.test(level)) {
+
+    if (typeof level !== 'string') {
+      throw new InvalidQueryError('Level must be a string or number');
+    }
+
+    const trimmed = level.trim().toUpperCase();
+    if (!/^(L[1-9](\s*-\s*.+)?|[1-9])$/.test(trimmed)) {
       throw new InvalidQueryError('Invalid level format. Expected L1-L9 or 1-9');
     }
-    return level;
+    return trimmed;
   }
 
   /**
@@ -135,13 +145,14 @@ class Validator {
     if (typeof query !== 'string') {
       throw new InvalidQueryError('Query must be a string');
     }
-    if (query.length === 0) {
+    const trimmed = query.trim();
+    if (trimmed.length === 0) {
       throw new InvalidQueryError('Query cannot be empty');
     }
-    if (query.length > 500) {
+    if (trimmed.length > 500) {
       throw new InvalidQueryError('Query too long');
     }
-    return query.trim();
+    return trimmed;
   }
 
   /**
@@ -152,10 +163,19 @@ class Validator {
    * @static
    */
   static normalizeLevel(level) {
-    if (/^[1-9]$/.test(level)) {
+    if (typeof level === 'number') {
       return `L${level}`;
     }
-    return level;
+
+    const normalized = String(level).trim().toUpperCase();
+    if (/^[1-9]$/.test(normalized)) {
+      return `L${normalized}`;
+    }
+    const levelMatch = normalized.match(/^L([1-9])(\s*-\s*.+)?$/);
+    if (levelMatch) {
+      return `L${levelMatch[1]}`;
+    }
+    return normalized;
   }
 }
 

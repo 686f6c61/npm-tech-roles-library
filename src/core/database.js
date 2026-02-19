@@ -84,7 +84,7 @@ class CompetencyDatabase {
     });
 
     // Sort role entries by level number
-    this.indexes.byRole.forEach((entries, role) => {
+    this.indexes.byRole.forEach(entries => {
       entries.sort((a, b) => (a.levelNumber || 0) - (b.levelNumber || 0));
     });
   }
@@ -154,11 +154,22 @@ class CompetencyDatabase {
    * @returns {Object} Statistics object with counts and averages
    */
   getStatistics() {
+    const allRoles = this.getAllRoles();
+    const allCategories = this.getAllCategories();
+    const byCategory = {};
+
+    allCategories.forEach(category => {
+      byCategory[category] = this.getByCategory(category).length;
+    });
+
     return {
-      totalRoles: this.getAllRoles().length,
-      totalCategories: this.getAllCategories().length,
+      totalRoles: allRoles.length,
+      totalCategories: allCategories.length,
       totalEntries: this.entries.length,
-      averageEntriesPerRole: Math.round(this.entries.length / this.getAllRoles().length)
+      averageEntriesPerRole: allRoles.length > 0
+        ? Math.round(this.entries.length / allRoles.length)
+        : 0,
+      byCategory
     };
   }
 }

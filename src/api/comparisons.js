@@ -48,9 +48,9 @@ class ComparisonAPI {
         level: entry2.level,
         code: entry2.code
       },
-      common: common,
-      unique1: unique1,
-      unique2: unique2,
+      common,
+      unique1,
+      unique2,
       similarity: Math.round(similarity * 1000) / 1000,
       statistics: {
         totalCompetencies1: comp1Set.size,
@@ -91,9 +91,9 @@ class ComparisonAPI {
         code: to.code,
         yearsRange: to.yearsRange
       },
-      maintained: maintained,
+      maintained,
       new: newCompetencies,
-      deprecated: deprecated,
+      deprecated,
       statistics: {
         maintainedCount: maintained.length,
         newCount: newCompetencies.length,
@@ -139,7 +139,7 @@ class ComparisonAPI {
       if (similarity >= threshold) {
         const commonCompetencies = Array.from(intersection);
         similarities.push({
-          role: role,
+          role,
           category: roleLevels[0].category,
           similarity: Math.round(similarity * 1000) / 1000,
           commonCompetencies: commonCompetencies.slice(0, 10),

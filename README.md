@@ -1,7 +1,7 @@
 # @sparring/tech-roles-library
 
 [![npm version](https://img.shields.io/npm/v/@sparring/tech-roles-library.svg)](https://www.npmjs.com/package/@sparring/tech-roles-library)
-[![Tests](https://img.shields.io/badge/tests-99%20passing-brightgreen.svg)](https://github.com/686f6c61/npm-tech-roles-library)
+[![CI](https://github.com/686f6c61/npm-tech-roles-library/actions/workflows/ci.yml/badge.svg)](https://github.com/686f6c61/npm-tech-roles-library/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A comprehensive library of 78 technical roles with 9 career levels each, including detailed competencies, career progression paths, and role comparisons with full bilingual support (EN/ES).
@@ -24,6 +24,7 @@ A comprehensive library of 78 technical roles with 9 career levels each, includi
 - [Career Levels](#career-levels)
 - [Data Structure](#data-structure)
 - [Bilingual Support](#bilingual-support)
+- [Release and Publishing](#release-and-publishing)
 - [Links](#links)
 - [Contributing](#contributing)
 - [License](#license)
@@ -42,7 +43,7 @@ A comprehensive library of 78 technical roles with 9 career levels each, includi
 - **Career-focused**: Complete progression paths with accumulated competencies
 - **Search**: Find roles by name or category
 - **Zero dependencies**: No external runtime dependencies
-- **Production ready**: Fully tested with 99 passing tests and comprehensive validation
+- **Production ready**: Fully tested with 101 passing tests and comprehensive validation
 
 ## Features
 
@@ -53,7 +54,7 @@ A comprehensive library of 78 technical roles with 9 career levels each, includi
 - **Metadata rich**: Years experience, level names, category information
 - **Bilingual**: Complete Spanish and English support with automatic translation
 - **Statistics**: Catalog analytics and insights
-- **Fully tested**: 99 tests with 100% pass rate including comprehensive pre-publication validation
+- **Fully tested**: 101 tests with 100% pass rate including comprehensive pre-publication validation
 
 ## Quality Assurance
 
@@ -61,7 +62,7 @@ This library has undergone comprehensive validation before publication:
 
 ### Test Coverage
 
-- **Total tests**: 99 tests with 100% pass rate
+- **Total tests**: 101 tests with 100% pass rate
 - **Unit tests**: Complete coverage of core functionality, database operations, and translation system
 - **Integration tests**: Full validation of translation files, API methods, and data integrity
 - **Pre-publication validation**: Extensive testing including:
@@ -88,6 +89,13 @@ Every release is validated against:
 - API functionality across all methods
 - Code consistency and years range validation
 - Level number matching and code pattern compliance
+
+### CI/CD Automation
+
+- **CI workflow**: Runs on every push/PR with Node 18, 20, and 22 (`lint` + `test`)
+- **Publish workflow**: Runs when a GitHub Release is published
+- **Version guard**: Release tag must match `package.json` version (`v1.1.0` or `1.1.0`)
+- **Publish guard**: Workflow fails if the same version already exists on npm
 
 ## Installation
 
@@ -197,7 +205,9 @@ console.log(role.indicators); // Array of level indicators
 **Parameters:**
 - `code` (string): Role code (e.g., 'BE-L3', 'FE-L5')
 
-**Returns:** `RoleEntry | null`
+**Returns:** `RoleEntry`
+
+**Throws:** `RoleNotFoundError` when the code does not exist.
 
 ---
 
@@ -692,12 +702,29 @@ The library provides complete Spanish/English support with lazy-loaded translati
 | L5 - Mid-level II | L5 - Mid-level II |
 | L9 - VP/CTO | L9 - VP/CTO |
 
+## Release and Publishing
+
+This repository is configured to publish automatically to npm when a GitHub Release is published.
+
+### Release checklist
+
+1. Update `package.json` version (example: `1.1.0`)
+2. Update `CHANGELOG.md` for the new version
+3. Run local validation:
+   - `npm run lint:check`
+   - `npm test`
+4. Push changes to GitHub
+5. Create a GitHub Release with tag `vX.Y.Z` (recommended) or `X.Y.Z`
+
+If all checks pass, GitHub Actions publishes the package to npm using `NPM_SECRET`.
+
 ## Links
 
 - **Homepage**: https://www.686f6c61.dev
 - **Repository**: https://github.com/686f6c61/npm-tech-roles-library
 - **Issues**: https://github.com/686f6c61/npm-tech-roles-library/issues
 - **NPM Package**: https://www.npmjs.com/package/@sparring/tech-roles-library
+- **Changelog**: https://github.com/686f6c61/npm-tech-roles-library/blob/main/CHANGELOG.md
 - **Live Demo**: https://686f6c61.github.io/npm-tech-roles-library/demo/
 
 ## Contributing

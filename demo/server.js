@@ -22,6 +22,7 @@ const fs = require('fs');
 const path = require('path');
 
 const PORT = 3000;
+const BASE_DIR = __dirname;
 
 const MIME_TYPES = {
   '.html': 'text/html',
@@ -35,27 +36,50 @@ const MIME_TYPES = {
 };
 
 const server = http.createServer((req, res) => {
-  let filePath = '.' + req.url;
-  if (filePath === './') {
-    filePath = './index.html';
+  let pathname;
+  try {
+    const requestUrl = new URL(req.url || '/', 'http://localhost');
+    pathname = decodeURIComponent(requestUrl.pathname);
+  } catch (error) {
+    res.writeHead(400, { 'Content-Type': 'text/plain; charset=utf-8' });
+    res.end('Bad request');
+    return;
   }
 
-  const extname = String(path.extname(filePath)).toLowerCase();
+  if (pathname === '/') {
+    pathname = '/index.html';
+  }
+
+  const resolvedPath = path.resolve(BASE_DIR, `.${pathname}`);
+  const basePathPrefix = `${BASE_DIR}${path.sep}`;
+
+  if (!resolvedPath.startsWith(basePathPrefix) && resolvedPath !== BASE_DIR) {
+    res.writeHead(403, { 'Content-Type': 'text/plain; charset=utf-8' });
+    res.end('Forbidden');
+    return;
+  }
+
+  const extname = String(path.extname(resolvedPath)).toLowerCase();
   const contentType = MIME_TYPES[extname] || 'application/octet-stream';
 
-  fs.readFile(filePath, (error, content) => {
+  fs.readFile(resolvedPath, (error, content) => {
     if (error) {
       if (error.code === 'ENOENT') {
-        res.writeHead(404, { 'Content-Type': 'text/html' });
-        res.end('<h1>404 - File not found</h1>', 'utf-8');
-      } else {
-        res.writeHead(500);
-        res.end(`Server error: ${error.code}`, 'utf-8');
+        res.writeHead(404, { 'Content-Type': 'text/html; charset=utf-8' });
+        res.end('<h1>404 - File not found</h1>');
+        return;
       }
-    } else {
-      res.writeHead(200, { 'Content-Type': contentType });
-      res.end(content, 'utf-8');
+
+      res.writeHead(500, { 'Content-Type': 'text/plain; charset=utf-8' });
+      res.end(`Server error: ${error.code}`);
+      return;
     }
+
+    res.writeHead(200, {
+      'Content-Type': contentType,
+      'X-Content-Type-Options': 'nosniff'
+    });
+    res.end(content);
   });
 });
 

@@ -7,7 +7,7 @@
  * @module tech-roles-library
  * @author 686f6c61
  * @license MIT
- * @version 1.0.0
+ * @version 1.1.0
  * @see {@link https://github.com/686f6c61/npm-tech-roles-library}
  */
 
@@ -157,16 +157,21 @@ class TechRolesLibrary {
    *
    * @param {string} roleName - Role name
    * @param {string|number} level - Level identifier
+   * @param {Object} [options={}] - Query options for this call
+   * @param {boolean} [options.includeComplementary] - Override complementary competencies inclusion
+   * @param {boolean} [options.includeIndicators] - Override indicators inclusion
    * @returns {Object} Competencies object with core, complementary, and indicators
    * @example
    * const competencies = library.getCompetencies('Backend Developer', 'L3');
    * // { role: '...', level: '...', core: [...], complementary: [...], indicators: [...] }
    */
-  getCompetencies(roleName, level) {
+  getCompetencies(roleName, level, options = {}) {
     this.ensureLoaded();
+    const includeComplementary = options.includeComplementary ?? this.options.includeComplementary;
+    const includeIndicators = options.includeIndicators ?? this.options.includeIndicators;
     return this.queryAPI.getCompetencies(roleName, level, {
-      includeComplementary: this.options.includeComplementary,
-      includeIndicators: this.options.includeIndicators
+      includeComplementary,
+      includeIndicators
     });
   }
 
@@ -314,7 +319,7 @@ class TechRolesLibrary {
   /**
    * Filter entries by level number.
    *
-   * @param {number} levelNumber - Level number (1-9)
+   * @param {string|number} levelNumber - Level number (L1-L9 or 1-9)
    * @returns {Object[]} Array of entries at this level
    * @throws {Error} If level number is not between 1 and 9
    * @example

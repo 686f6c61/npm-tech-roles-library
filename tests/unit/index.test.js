@@ -66,6 +66,17 @@ describe('TechRolesLibrary', () => {
       expect(Array.isArray(comp.core)).toBe(true);
     });
 
+    test('should allow per-call competency options override', () => {
+      const comp = library.getCompetencies('Backend Developer', 'L3', {
+        includeComplementary: false,
+        includeIndicators: false
+      });
+
+      expect(comp).toHaveProperty('core');
+      expect(comp).not.toHaveProperty('complementary');
+      expect(comp).not.toHaveProperty('indicators');
+    });
+
     test('should get core competencies only', () => {
       const core = library.getCoreCompetencies('Backend Developer', 'L3');
       expect(Array.isArray(core)).toBe(true);
@@ -120,6 +131,14 @@ describe('TechRolesLibrary', () => {
         expect(entry.levelNumber).toBe(3);
       });
     });
+
+    test('should filter by level with L-prefixed string', () => {
+      const results = library.filterByLevel('L3');
+      expect(Array.isArray(results)).toBe(true);
+      results.forEach(entry => {
+        expect(entry.levelNumber).toBe(3);
+      });
+    });
   });
 
   describe('Career Progression', () => {
@@ -149,6 +168,7 @@ describe('TechRolesLibrary', () => {
       expect(stats).toHaveProperty('totalRoles');
       expect(stats).toHaveProperty('totalCategories');
       expect(stats).toHaveProperty('totalEntries');
+      expect(stats).toHaveProperty('byCategory');
       expect(stats.totalRoles).toBeGreaterThan(0);
     });
 

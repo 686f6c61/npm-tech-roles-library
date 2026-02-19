@@ -217,16 +217,16 @@ class QueryAPI {
         complementaryCompetencies: [...currentLevelData.complementaryCompetencies],
         indicators: [...currentLevelData.indicators]
       },
-      masteredLevels: masteredLevels,
-      growthPath: growthPath,
+      masteredLevels,
+      growthPath,
       summary: {
         totalMasteredCompetencies: totalMastered,
         currentLevelCompetencies: totalCurrent,
         remainingToLearn: totalRemaining,
         progressPercentage: totalAll > 0 ? Math.round((totalMastered + totalCurrent) / totalAll * 100) : 0,
-        masteredStats: masteredStats,
-        currentStats: currentStats,
-        growthStats: growthStats
+        masteredStats,
+        currentStats,
+        growthStats
       }
     };
   }
@@ -236,11 +236,10 @@ class QueryAPI {
     return entries.map(e => this.cloneEntry(e));
   }
 
-  filterByLevel(levelNumber) {
-    if (typeof levelNumber !== 'number' || levelNumber < 1 || levelNumber > 9) {
-      throw new Error('Level number must be between 1 and 9');
-    }
-
+  filterByLevel(level) {
+    Validator.validateLevel(level);
+    const normalizedLevel = Validator.normalizeLevel(level);
+    const levelNumber = Number.parseInt(normalizedLevel.replace('L', ''), 10);
     const entries = this.db.indexes.byLevelNumber.get(levelNumber) || [];
     return entries.map(e => this.cloneEntry(e));
   }
@@ -298,16 +297,16 @@ class QueryAPI {
         role: translatedRoleName,
         originalRole: roleName, // Keep original for queries
         category: firstLevel.category,
-        availableLevels: availableLevels,
+        availableLevels,
         levelCount: levels.length,
         yearsRange: {
           min: minYears,
           max: maxYears === 99 ? null : maxYears
         },
         statistics: {
-          totalCoreCompetencies: totalCoreCompetencies,
-          totalComplementaryCompetencies: totalComplementaryCompetencies,
-          totalIndicators: totalIndicators,
+          totalCoreCompetencies,
+          totalComplementaryCompetencies,
+          totalIndicators,
           totalCompetencies: totalCoreCompetencies + totalComplementaryCompetencies + totalIndicators,
           avgCompetenciesPerLevel: Math.round((totalCoreCompetencies + totalComplementaryCompetencies) / levels.length)
         }
@@ -322,11 +321,11 @@ class QueryAPI {
 
     return {
       roles: rolesWithMetadata.sort((a, b) => a.originalRole.localeCompare(b.originalRole)),
-      byCategory: byCategory,
+      byCategory,
       summary: {
         totalRoles: rolesWithMetadata.length,
         totalCategories: categories.length,
-        categories: categories,
+        categories,
         totalLevels: rolesWithMetadata.reduce((sum, role) => sum + role.levelCount, 0)
       }
     };

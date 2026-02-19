@@ -53,10 +53,10 @@ class JSONParser {
         // Process each level
         Object.entries(fileData.levels).forEach(([code, levelData]) => {
           entries.push({
-            category: category,
-            role: role,
+            category,
+            role,
             level: levelData.level,
-            code: code,
+            code,
             levelNumber: levelData.levelNumber,
             yearsRange: levelData.yearsRange,
             coreCompetencies: levelData.coreCompetencies || [],
