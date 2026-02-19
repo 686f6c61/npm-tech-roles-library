@@ -143,7 +143,7 @@ Explore the library with our interactive browser demo:
 
 ![Browse Roles - Interactive Demo](https://raw.githubusercontent.com/686f6c61/npm-tech-roles-library/main/assets/02%20npm-tech-role-library.png)
 
-Try the live demo at: https://686f6c61.github.io/npm-tech-roles-library/demo/
+Try the live demo at: https://npm-tech-catalog.onrender.com/
 
 ## API Reference
 
@@ -725,7 +725,7 @@ If all checks pass, GitHub Actions publishes the package to npm using `NPM_SECRE
 - **Issues**: https://github.com/686f6c61/npm-tech-roles-library/issues
 - **NPM Package**: https://www.npmjs.com/package/@sparring/tech-roles-library
 - **Changelog**: https://github.com/686f6c61/npm-tech-roles-library/blob/main/CHANGELOG.md
-- **Live Demo**: https://686f6c61.github.io/npm-tech-roles-library/demo/
+- **Live Demo**: https://npm-tech-catalog.onrender.com/
 
 ## Contributing
 
