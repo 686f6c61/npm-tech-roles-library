@@ -7,7 +7,7 @@
  * @module tech-roles-library
  * @author 686f6c61
  * @license MIT
- * @version 1.1.0
+ * @version 1.1.1
  * @see {@link https://github.com/686f6c61/npm-tech-roles-library}
  */
 

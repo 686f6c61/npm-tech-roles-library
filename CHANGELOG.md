@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2026-02-19
+
+### Changed
+- Updated package `homepage` metadata to `https://npm-tech-catalog.onrender.com/` so npmjs points to the live demo.
+- Documentation adjusted to reference version `1.1.1` and the current homepage/demo URL.
+
 ## [1.1.0] - 2026-02-19
 
 ### Added

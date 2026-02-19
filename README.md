@@ -94,7 +94,7 @@ Every release is validated against:
 
 - **CI workflow**: Runs on every push/PR with Node 18, 20, and 22 (`lint` + `test`)
 - **Publish workflow**: Runs when a GitHub Release is published
-- **Version guard**: Release tag must match `package.json` version (`v1.1.0` or `1.1.0`)
+- **Version guard**: Release tag must match `package.json` version (`vX.Y.Z` or `X.Y.Z`)
 - **Publish guard**: Workflow fails if the same version already exists on npm
 
 ## Installation
@@ -708,7 +708,7 @@ This repository is configured to publish automatically to npm when a GitHub Rele
 
 ### Release checklist
 
-1. Update `package.json` version (example: `1.1.0`)
+1. Update `package.json` version (example: `1.1.1`)
 2. Update `CHANGELOG.md` for the new version
 3. Run local validation:
    - `npm run lint:check`
@@ -720,7 +720,7 @@ If all checks pass, GitHub Actions publishes the package to npm using `NPM_SECRE
 
 ## Links
 
-- **Homepage**: https://www.686f6c61.dev
+- **Homepage**: https://npm-tech-catalog.onrender.com/
 - **Repository**: https://github.com/686f6c61/npm-tech-roles-library
 - **Issues**: https://github.com/686f6c61/npm-tech-roles-library/issues
 - **NPM Package**: https://www.npmjs.com/package/@sparring/tech-roles-library

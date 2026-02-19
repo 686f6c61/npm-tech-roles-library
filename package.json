@@ -1,6 +1,6 @@
 {
   "name": "@sparring/tech-roles-library",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Comprehensive tech roles and competencies library for 78 technical roles with 9 career levels each. Includes detailed competencies and career progression paths with complete bilingual support (EN/ES).",
   "main": "src/index.js",
   "scripts": {
@@ -53,7 +53,7 @@
   "bugs": {
     "url": "https://github.com/686f6c61/npm-tech-roles-library/issues"
   },
-  "homepage": "https://github.com/686f6c61/npm-tech-roles-library#readme",
+  "homepage": "https://npm-tech-catalog.onrender.com/",
   "files": [
     "src/",
     "assets/",
